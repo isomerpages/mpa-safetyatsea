@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Sample page
+    url: /sample page/
+  - title: Folder 1
+    collection: folder-1
+  - title: Folder 2
+    collection: folder-2
+  - title: Sample Resource
+    resource_room: true
