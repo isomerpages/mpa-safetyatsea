@@ -22,8 +22,7 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: INTERNATIONAL SAFETY @ SEA WEEK 2021
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
