@@ -24,6 +24,6 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
+      description: <div>Test</div>
       button: Button Text
 ---
