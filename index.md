@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: contact us
 title: 1 Isomer Site
 description: 1 Brief site description here
 image: /images/isomer-logo.svg
@@ -23,6 +23,10 @@ sections:
           url: ""
   - infobar:
       title: Infobar Title
-      description: <div class="col"><img src="/images/abc.png" /></div><div
-        class="col"><img src="/images/def.png" /></div>
+      description: <div class="row"><div class="col"><img src="/images/abc.png" /></div><div
+        class="col"><img src="/images/def.png" /></div></div>
 ---
+<div class="row"><div class="col"><img src="/images/abc.png" /></div><div
+        class="col"><img src="/images/def.png" /></div></div>
+<div id="test">test</div>
+<style>#test {color: red; }</style>
