@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: FAQ
+    url: /faq
   - title: Sample page
     url: /sample page/
   - title: Folder 1
@@ -10,5 +12,3 @@ links:
     collection: folder-2
   - title: Sample Resource
     resource_room: true
-  - title: FAQ
-    url: /faq
