@@ -1,5 +1,5 @@
 ---
-layout: contact us
+layout: contact_us
 title: 1 Isomer Site
 description: 1 Brief site description here
 image: /images/isomer-logo.svg
