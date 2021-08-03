@@ -24,6 +24,7 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <div class="col"><img src="/images/abc.png" /></div><div class="col"><img src="/images/def.png" /></div>
+      description: <div class="col"><img src="/images/abc.png" /></div><div
+        class="col"><img src="/images/def.png" /></div>
       button: Button Text
 ---
