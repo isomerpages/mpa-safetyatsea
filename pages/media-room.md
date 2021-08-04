@@ -25,10 +25,10 @@ permalink: /media-room
     </p>
     <div class="row px-3">
       <div class="col is-6 mb-4">
-        <img src="https://i.levelupp.com/safetyatseaweek/Photo01.jpg" class="img-fluid">
+        <img src="https://i.levelupp.com/safetyatseaweek/Photo01.jpg" loading="lazy">
       </div>
       <div class="col is-6 mb-4">
-        <img src="https://i.levelupp.com/safetyatseaweek/Photo02.jpg" class="img-fluid">
+        <img src="https://i.levelupp.com/safetyatseaweek/Photo02.jpg" loading="lazy">
       </div>
     </div>
     <div class="row gallery-row gallery3 mx-0">
