@@ -4,7 +4,7 @@ permalink: /mr-nick-chubb
 ---
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Nick Chubb.png">
+              <img src="images/speakers/Nick-Chubb.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr. Nick Chubb</h4>
