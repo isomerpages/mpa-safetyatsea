@@ -1,5 +1,5 @@
 collections:
-  folder-1:
+  speakers:
     output: true
     order:
       - page/.keep
