@@ -301,6 +301,8 @@ permalink: /media-room
         <h4 class="text-info">MPA Next-Generation Patrol Craft</h4>
         <p>The Maritime and Port Authority of Singapore (MPA) has launched six next-generation patrol craft to enhance its frontline capabilities to ensure navigational safety, and enhance the protection of the marine environment in the Port of Singapore.</p>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-6 mb-4">
         <div class="embed-responsive embed-responsive-16by9 mb-4">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3oQ1xwG73ts" allowfullscreen="allowfullscreen"></iframe>
@@ -315,6 +317,8 @@ permalink: /media-room
         <h4 class="text-info">MPA International Safety@Sea Awards 2020</h4>
         <p>Full Recording</p>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-6 mb-4">
         <div class="embed-responsive embed-responsive-16by9 mb-4">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5XUlhsuDDZQ" allowfullscreen="allowfullscreen"></iframe>
@@ -329,6 +333,8 @@ permalink: /media-room
         <h4 class="text-info">Plenary 2: Ship Safety – Reflecting on Incidents, Causality and the Way Forward</h4>
         <p>Full Recording</p>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-6 mb-4">
         <div class="embed-responsive embed-responsive-16by9 mb-4">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2FkfhHQhrHg" allowfullscreen="allowfullscreen"></iframe>
