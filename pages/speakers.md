@@ -6,7 +6,7 @@ permalink: /speakers
   <div class="bp-container is-fluid has-text-centered"> 
     <div class="row">
       <div class="col is-4">
-        <a href="/speakers/mr-chee-hong-tat">
+        <a href="/mr-chee-hong-tat">
           <div class="speaker-image-wrapper">
             <img src="https://i.levelupp.com/safetyatseaweek/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image img-fluid mb-3">
           </div>
