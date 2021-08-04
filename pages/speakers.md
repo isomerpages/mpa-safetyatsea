@@ -6,13 +6,13 @@ permalink: /speakers
   <div class="bp-container is-fluid has-text-centered"> 
     <div class="row">
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/mr-chee-hong-tat">
           <div class="speaker-image-wrapper">
             <img src="https://i.levelupp.com/safetyatseaweek/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Chee Hong Tat</h4>
           <div class="speaker-position text-ellipsis">Senior Minister of State</div>
-          <div class="speaker-company text-ellipsis">Ministry of Foreign Affairs &amp;  <br>Ministry of Transport, Singapore</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore</div>
         </a>
       </div>
       <div class="col is-4">
