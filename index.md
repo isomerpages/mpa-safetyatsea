@@ -27,10 +27,6 @@ sections:
       title: Human and Technology Crossroads for Maritime Safety
       description: "Join us at this year’s annual gathering of members of the
         international maritime community and top practitioners. "
-  - infobar:
-      description: <div class="row"><div class="col"><img src="/images/Opening
-        Session.JPG" /></div><div class="col"><img src="/images/Opening Session
-        Speakers.JPG" /></div></div>
   - infopic:
       description: "[16:00 - 18:00 (GMT+08)] Join us for the opening address by
         Minister Chee Hong Tat and learn more about the winners of the
