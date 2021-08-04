@@ -3,7 +3,7 @@ title: " IS@S Opening Session"
 permalink: /programme/opening-session-for-the-iss-week
 ---
 <div>
-  <b>16:00 - 18:00</b>&nbsp;<b>GMT+8</b>&nbsp;(2 Hr)
+  <b>30 Aug | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
 </div>
 <section>
