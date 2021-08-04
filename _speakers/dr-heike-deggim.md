@@ -4,7 +4,7 @@ permalink: /speakers/dr-heike-deggim
 ---
 <div class="row">
             <div class="col is-3">
-              <img src="Heike-Deggim.png">
+              <img src="images/Heike-Deggim.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Dr. Heike Deggim</h4><br>
