@@ -21,7 +21,7 @@ permalink: /programme/opening-session-for-the-iss-week
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
-                    <div class="col is-8 prog-speaker">
+                    <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
                           <img src="images/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image mb-4">
@@ -82,7 +82,7 @@ permalink: /programme/opening-session-for-the-iss-week
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
-                    <div class="col is-8 prog-speaker">
+                    <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
                           <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
@@ -125,7 +125,7 @@ permalink: /programme/opening-session-for-the-iss-week
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
-                    <div class="col is-8 prog-speaker">
+                    <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
                           <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
@@ -192,31 +192,28 @@ permalink: /programme/opening-session-for-the-iss-week
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
+                          <img src="images/speakers/Nick Chubb.png" alt="Mr. Nick Chubb" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
+                            <a href="speakers/Mr-Nick-Chubb" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Nick Chubb</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Hon. President</div>
-                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
-                          <div class="speaker-role text-ellipsis text-muted">
-                            <small>Moderator</small>
-                          </div>
+                          <div class="text-ellipsis speaker-position">Managing Director</div>
+                          <div class="text-ellipsis speaker-company">Thetius</div>
                         </div>
                       </div>
                     </div>
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image mb-4">
+                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Øyvind Hellan" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers#Dr-Heike-Deggim-1" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Heike Deggim</b></a>
+                            <a href="speakers#mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Øyvind Hellan</b></a>
                           </div>
-                          <div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
-                          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
+                          <div class="speaker-position text-ellipsis">Vice President (Research)</div>
+                          <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
                         </div>
                       </div>
                     </div>
@@ -225,16 +222,17 @@ permalink: /programme/opening-session-for-the-iss-week
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
+                          <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
+                            <a href="speakers/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Hon. President</div>
-                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
-                          <div class="speaker-role text-ellipsis text-muted">
-                            <small>Moderator</small>
+                          <div class="text-ellipsis speaker-position">
+                            Chief Executive Officer                   
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            RightShip 
                           </div>
                         </div>
                       </div>
@@ -242,14 +240,17 @@ permalink: /programme/opening-session-for-the-iss-week
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image mb-4">
+                          <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers#Dr-Heike-Deggim-1" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Heike Deggim</b></a>
+                            <a href="speakers/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
                           </div>
-                          <div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
-                          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
+                          <div class="text-ellipsis speaker-position">
+                            Managing Director
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            INTERTANKO</div>
                         </div>
                       </div>
                     </div>
