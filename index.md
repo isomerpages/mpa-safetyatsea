@@ -34,7 +34,7 @@ sections:
       image: /images/Opening%20Session%20Speakers.jpg
       alt: Image alt text
       title: Opening Session
-      subtitle: 30 Aug 2021
+      subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
       button: View Programme
       url: /programme/opening-session-for-the-iss-week
   - infopic:
