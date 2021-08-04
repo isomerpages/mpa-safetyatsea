@@ -24,7 +24,7 @@ sections:
       title: International Safety@Sea Week 2021
       subtitle: 30 August - 1 September 2021
   - infobar:
-      title: Human and Technology Crossroads for Maritime Safety
+      title: The Human and Technology Crossroads for Maritime Safety
       description: "Join us at this year’s annual gathering of members of the
         international maritime community and top practitioners. "
   - infopic:
