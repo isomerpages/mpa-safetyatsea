@@ -163,7 +163,8 @@ permalink: /media-room
     <h4 class="mb-4 text-dark">
       <br>2019
     </h4>
-    <p class="mt-4">MPA held the sixth edition of the annual International Safety@Sea Week in August 2019 to raise safety awareness and instill a safety-first culture at sea. As part of MPA’s flagship event on maritime safety, the fourth International Safety@Sea Conference centered on the theme of ‘Maritime Safety in a Digital Age’. Attended by nearly 300 international maritime professionals from 29 countries, the event facilitated a dynamic exchange of ideas and best practices on enhancing maritime safety.</p> ` <div class="row gallery-row gallery3 mx-0">
+    <p class="mt-4">MPA held the sixth edition of the annual International Safety@Sea Week in August 2019 to raise safety awareness and instill a safety-first culture at sea. As part of MPA’s flagship event on maritime safety, the fourth International Safety@Sea Conference centered on the theme of ‘Maritime Safety in a Digital Age’. Attended by nearly 300 international maritime professionals from 29 countries, the event facilitated a dynamic exchange of ideas and best practices on enhancing maritime safety.</p>
+    <div class="row gallery-row gallery3 mx-0">
       <div class="col is-4 mb-4">
           <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-01.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
