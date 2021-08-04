@@ -8,7 +8,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-chee-hong-tat">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Chee Hong Tat</h4>
           <div class="speaker-position text-ellipsis">Senior Minister of State</div>
@@ -16,55 +16,55 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/mr-steen-lund">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Steen Lund.png" alt="Mr. Steen Lund" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr. Heike Deggim</h4>
-          <div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
-          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
+          <h4 class="speaker-name text-ellipsis">Mr. Steen Lund</h4>
+          <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
+          <div class="speaker-company text-ellipsis">RightShip</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/ms-katharina-stanzel">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/Ishak-Ismail.png" alt="Mr. Ishak Ismail" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Katharina-Stanzel2.png" alt="Ms. Katharina Stanzel" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Ishak Ismail</h4>
-          <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council, Singapore</div>
+          <h4 class="speaker-name text-ellipsis">Ms. Katharina Stanzel</h4>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">INTERTANKO</div>
         </a>
       </div>
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/capt-yves-vandenborn">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/CaoDesheng.png" alt="Dr. Cao Desheng" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr. Cao Desheng</h4>
-          <div class="speaker-position text-ellipsis">Director General</div>
-          <div class="speaker-company text-ellipsis">China Maritime Safety Administration</div>
+          <h4 class="speaker-name text-ellipsis">Capt. Yves Vandenborn</h4>
+          <div class="speaker-position text-ellipsis">Hon. President</div>
+          <div class="speaker-company text-ellipsis">The Nautical Institute (Singapore)</div>
         </a>
       </div> 
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/mr-nick-chubb">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/YangXinZhai.png" alt="Mr. Yang Xinzhai" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Nick Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Yang Xinzhai</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director General</div>
-          <div class="speaker-company text-ellipsis">China Maritime Safety Administration</div>
+          <h4 class="speaker-name text-ellipsis">Mr. Nick Chubb</h4>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Thetius</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/dr-heike-deggim">
+        <a href="/speakers/mr-oyvind-hellan">
           <div class="speaker-image-wrapper">
-            <img src="https://i.levelupp.com/safetyatseaweek/speakers/Esben-Poulsson.png" alt="Mr. Esben Poulsson" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Øyvind Hellan" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Esben Poulsson</h4>
-          <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">The International Chamber of Shipping</div>
+          <h4 class="speaker-name text-ellipsis">Mr. Øyvind Hellan</h4>
+          <div class="speaker-position text-ellipsis">Vice President (Research)</div>
+          <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
         </a>
       </div>
     </div>
