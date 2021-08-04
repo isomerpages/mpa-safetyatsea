@@ -84,7 +84,7 @@ permalink: /programme/opening-session-for-the-iss-week
                     <div class="col is-8 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/SteenLund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
+                          <img src="images/speakers/Steen Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
