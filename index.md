@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Register
           description: ""
-          url: https://google.com
+          url: /register
         - title: About Us
           description: ""
-          url: https://gmail.com
+          url: /about-us
         - title: Programme
           description: ""
-          url: /privacy/
+          url: /programme
         - title: Speakers
           description: ""
-          url: ""
+          url: /speakers
   - infobar:
       title: INTERNATIONAL SAFETY@SEA WEEK 2021
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
