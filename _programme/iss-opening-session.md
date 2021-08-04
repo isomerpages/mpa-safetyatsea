@@ -14,7 +14,7 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+8</b>&nbsp;(5 Mins)</div>
+                <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+08</b>&nbsp;(5 Mins)</div>
                 <h4 class="programme-title">Opening Address</h4>
                 <div class="programme-description readmore">
                 </div>
@@ -75,8 +75,8 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:15 - 16:30</b>&nbsp;<b>GMT+8</b>&nbsp;(15 Mins)</div>
-                <h4 class="programme-title">Keynote Presentation: Digital Platforms Deliver Safety, Sustainability and Social Responsibility</h4>
+                <div class="programme-time"><b>16:15 - 16:30</b>&nbsp;<b>GMT+08</b>&nbsp;(15 Mins)</div>
+                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br>Keynote Presentation for IS@S Conference</h4>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -118,7 +118,7 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:30 - 16:45</b>&nbsp;<b>GMT+8</b>&nbsp;(15 Mins)</div>
+                <div class="programme-time"><b>16:30 - 16:45</b>&nbsp;<b>GMT+08</b>&nbsp;(15 Mins)</div>
                 <h4 class="programme-title">Keynote Presentation 2</h4>
                 <div class="programme-description readmore">
                 </div>
