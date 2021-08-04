@@ -2,5 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: Register
     url: /register
+  - title: About Us
+    url: /about-us
+  - title: Programme
+    url: /programme
+  - title: Speakers
+    url: /speakers
+  - title: Media Room
+    url: /media-room
   - title: Contact Us
     url: /contact-us/
