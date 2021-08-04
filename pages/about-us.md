@@ -13,7 +13,6 @@ permalink: /about-us
 <li>Safer Carriage of Goods – What More Must Be Done?</li>
 <li>Rethinking Crew Training in a VUCA World <br>*(VUCA: Volatility, Uncertainty, Complexity and Ambiguity)*</li>
 </ol>
-<div>ICOPCE will take place on 1 September 2021. </div>
 </div>
 </div>
 	<hr class="my-5">
