@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/hero.jpg
       key_highlights:
         - title: Register
           description: ""
@@ -22,8 +22,8 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar Title
-      description: <div class="row"><div class="col"><img src="/images/abc.png"
-        /></div><div class="col"><img src="/images/def.png" /></div></div><div
-        id="test">test</div>
+      title: INTERNATIONAL SAFETY@SEA WEEK 2021
+      description: <div class="row"><div class="col"><img src="/images/Opening
+        Session.JPG" /></div><div class="col"><img src="/images/Opening Session
+        Speakers.JPG" /></div></div>
 ---
