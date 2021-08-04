@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: 1 Isomer Site
+title: International Safety @ Sea Week 2021
 description: 1 Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -23,7 +23,7 @@ sections:
           url: ""
   - infobar:
       title: Infobar Title
-      description: <div class="row"><div class="col"><img src="/images/abc.png" /></div><div
-        class="col"><img src="/images/def.png" /></div></div><div id="test">test</div>
+      description: <div class="row"><div class="col"><img src="/images/abc.png"
+        /></div><div class="col"><img src="/images/def.png" /></div></div><div
+        id="test">test</div>
 ---
-<style>#test {color: red; }</style>
