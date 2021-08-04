@@ -14,7 +14,7 @@ sections:
           url: /register
         - title: About Us
           description: ""
-          url: /about-us
+          url: /programme/at-a-glance
         - title: Programme
           description: ""
           url: /programme
