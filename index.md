@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/hero.jpg
+      background: /images/ISAS-Banner-Web.jpg
       key_highlights:
         - title: Register
           description: ""
@@ -21,11 +21,12 @@ sections:
         - title: Speakers
           description: ""
           url: /speakers
+      title: International Safety@Sea Week 2021
+      subtitle: 30 August - 1 September 2021
   - infobar:
-      title: INTERNATIONAL SAFETY@SEA WEEK 2021
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis.
+      title: Human and Technology Crossroads for Maritime Safety
+      description: "Join us at this year’s annual gathering of members of the
+        international maritime community and top practitioners. "
   - infobar:
       description: <div class="row"><div class="col"><img src="/images/Opening
         Session.JPG" /></div><div class="col"><img src="/images/Opening Session
