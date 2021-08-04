@@ -25,21 +25,21 @@ permalink: /media-room
     </p>
     <div class="row px-3">
       <div class="col is-6 mb-4">
-        <img src="https://i.levelupp.com/safetyatseaweek/Photo01.jpg" loading="lazy">
+        <img src="https://i.levelupp.com/safetyatseaweek/Photo01.jpg" >
       </div>
       <div class="col is-6 mb-4">
-        <img src="https://i.levelupp.com/safetyatseaweek/Photo02.jpg" loading="lazy">
+        <img src="https://i.levelupp.com/safetyatseaweek/Photo02.jpg">
       </div>
     </div>
     <div class="row gallery-row gallery3 mx-0">
       <div class="col is-4 mb-4">
-				![Alt text for image on Isomer site](/images/media/2020/1_Group_photo_OC.jpg)
+          <div class="media-height" style="background-image: url(/images/media/2020/1_Group_photo_OC.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        ![Alt text for image on Isomer site](/images/media/2020/2_SMS_Chee_Hong_Tat_MOT.jpg)
+          <div class="media-height" style="background-image: url('/images/media/2020/2_SMS_Chee_Hong_Tat_MOT.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-       ![Alt text for image on Isomer site](/images/media/2020/3_Heike_Deggim_IMO.jpg)
+          <div class="media-height" style="background-image: url('/images/media/2020/3_Heike_Deggim_IMO.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/4_DSC03418_resized.jpg" data-lightbox="gallery2020">
@@ -345,4 +345,3 @@ permalink: /media-room
     height: 25vh;
 }
 </style>
-<script>alert('hi');</script>
