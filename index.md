@@ -28,9 +28,8 @@ sections:
       description: "Join us at this year’s annual gathering of members of the
         international maritime community and top practitioners. "
   - infopic:
-      description: "[16:00 - 18:00 (GMT+08)] Join us for the opening address by
-        Minister Chee Hong Tat and learn more about the winners of the
-        International Safety@Sea Awards. "
+      description: "Join us for the opening address by Minister Chee Hong Tat and
+        learn more about the winners of the International Safety@Sea Awards. "
       image: /images/Opening%20Session%20Speakers.jpg
       alt: Image alt text
       title: Opening Session
