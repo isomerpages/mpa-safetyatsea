@@ -281,7 +281,7 @@ permalink: /media-room
     <h4 class="mb-4 text-dark">VIDEO GALLERY</h4>
     <div class="row">
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6kPSPpQ2hwE" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">Maritime Singapore United</h4>
