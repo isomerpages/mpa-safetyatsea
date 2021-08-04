@@ -18,7 +18,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-steen-lund">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Steen Lund.png" alt="Mr. Steen Lund" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Steen Lund</h4>
           <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
