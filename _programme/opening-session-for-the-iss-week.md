@@ -281,4 +281,5 @@ permalink: /programme/opening-session-for-the-iss-week
       padding: 1.5rem!important;
     }
   .content a {text-decoration:none;}
+	.content h3 { margin-top: 1rem;}
 </style>
