@@ -43,5 +43,5 @@ permalink: /about-us
 </div>
 </div>
 <style>
-	ol li { font-size: 14px; }
+	ol li { font-size: 1rem; }
 </style>
