@@ -9,5 +9,5 @@ permalink: /media-partners
 </div>
 </div>
 <style>
-	.img-fluid {float:left;}
+	.content a {display:inline-block;}
 </style>
