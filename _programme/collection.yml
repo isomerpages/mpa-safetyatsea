@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - at-a-glance.md
+      - opening-session-for-the-iss-week.md
