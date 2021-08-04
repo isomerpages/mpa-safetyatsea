@@ -41,4 +41,22 @@ sections:
       subtitle: 30 Aug 2021
       button: View Programme
       url: /programme/opening-session-for-the-iss-week
+  - infopic:
+      title: IS@S Plenary 1
+      subtitle: 30 Aug 2021
+      description: "[14:30 - 16:00 (GMT+08)] Join our esteemed panel of speakers as
+        they share more about issues relating to the safe carriage of goods."
+      button: VIEW PROGRAMME
+      url: /programme/iss-conference-plenary-1
+      image: /images/Opening%20Session%20Speakers.jpg
+      alt: Image alt text
+  - infopic:
+      title: IS@S Plenary 2
+      subtitle: 30 Aug 2021
+      description: "[17:00 - 18:30 (GMT+08)] Join our esteemed panel of speakers as
+        they share more about issues relating to the safe carriage of goods."
+      button: VIEW PROGRAMME
+      url: /programme/iss-conference-plenary-2
+      image: /images/Opening%20Session%20Speakers.jpg
+      alt: Image alt text
 ---
