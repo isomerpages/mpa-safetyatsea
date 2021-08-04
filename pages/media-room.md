@@ -33,19 +33,13 @@ permalink: /media-room
     </div>
     <div class="row gallery-row gallery3 mx-0">
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/1_Group_photo_OC.jpg" data-lightbox="gallery2020">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/1_Group_photo_OC.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+				![Alt text for image on Isomer site](/images/media/2020/1_Group_photo_OC.jpg)
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/2_SMS_Chee_Hong_Tat_MOT.jpg" data-lightbox="gallery2020">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/2_SMS_Chee_Hong_Tat_MOT.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+        ![Alt text for image on Isomer site](/images/media/2020/2_SMS_Chee_Hong_Tat_MOT.jpg)
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/3_Heike_Deggim_IMO.jpg" data-lightbox="gallery2020">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/3_Heike_Deggim_IMO.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+       ![Alt text for image on Isomer site](/images/media/2020/3_Heike_Deggim_IMO.jpg)
       </div>
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/4_DSC03418_resized.jpg" data-lightbox="gallery2020">
