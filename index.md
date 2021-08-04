@@ -23,7 +23,15 @@ sections:
           url: ""
   - infobar:
       title: INTERNATIONAL SAFETY@SEA WEEK 2021
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis.
+  - infobar:
       description: <div class="row"><div class="col"><img src="/images/Opening
         Session.JPG" /></div><div class="col"><img src="/images/Opening Session
         Speakers.JPG" /></div></div>
+  - infopic:
+      description: <img src="/images/Opening Session.JPG" />
+      image: /images/Opening%20Session%20Speakers.jpg
+      alt: Image alt text
 ---
