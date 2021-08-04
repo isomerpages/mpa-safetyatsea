@@ -4,7 +4,6 @@ permalink: /about-us
 ---
 <div class="row mx-0">
 <div class="col is-12 mx-auto text-center">
-<h1 class="my-5">ABOUT US</h1>
 <div class="row">
 <div class="col is-3 mb-4"><img src="images/logos/Safety-Sea_Singapore_Logo.png" width="60%" class="img-fluid"></div>
 <div class="col is-9 text-justify">
