@@ -68,7 +68,6 @@ permalink: /speakers
         </a>
       </div>
     </div>
-
     <div class="row">
       <div class="col is-4">
         <a href="/speakers/dr-heike-deggim"> 
@@ -101,7 +100,6 @@ permalink: /speakers
         </a>
       </div>
     </div>
-
     <div class="row">
       <div class="col is-4">
         <a href="/speakers/dr-heike-deggim">
@@ -134,7 +132,6 @@ permalink: /speakers
         </a>
       </div>
     </div>
-
     <div class="row">
       <div class="col is-4">
         <a href="/speakers/dr-heike-deggim">
@@ -167,7 +164,6 @@ permalink: /speakers
         </a>
       </div>
     </div>
-
     <div class="row">
       <div class="col is-4">
         <a href="/speakers/dr-heike-deggim">
@@ -200,7 +196,6 @@ permalink: /speakers
         </a>
       </div>
     </div>
-
     <div class="row">
       <div class="col is-4">
         <a href="/speakers/dr-heike-deggim">
