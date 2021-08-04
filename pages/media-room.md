@@ -340,4 +340,9 @@ permalink: /media-room
     </div>
   </div>
 </div>
+<style>
+	.media-height {
+    height: 25vh;
+}
+</style>
 <script>alert('hi');</script>
