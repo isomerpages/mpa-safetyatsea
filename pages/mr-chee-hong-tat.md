@@ -7,7 +7,7 @@ permalink: /mr-chee-hong-tat
               <img src="images/speakers/CheeHongTat.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>**Mr. Chee Hong Tat**</h4>
+              <h4>Mr. Chee Hong Tat</h4>
 <p>Senior Minister of State<br>
 Ministry of Transport, Singapore</p><br>
 <p>Mr Chee Hong Tat was appointed Senior Minister of State for Foreign Affairs and Transport on 27 July 2020. He was re-elected as a Member of Parliament for the Bishan-Toa Payoh Group Representation Constituency (GRC) in the 2020 General Elections. During his first term in politics, he had served as Senior Minister of State in Health, Communications & Information, Education and Trade & Industry.</p>
