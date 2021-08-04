@@ -165,82 +165,53 @@ permalink: /media-room
     </h4>
     <p class="mt-4">MPA held the sixth edition of the annual International Safety@Sea Week in August 2019 to raise safety awareness and instill a safety-first culture at sea. As part of MPA’s flagship event on maritime safety, the fourth International Safety@Sea Conference centered on the theme of ‘Maritime Safety in a Digital Age’. Attended by nearly 300 international maritime professionals from 29 countries, the event facilitated a dynamic exchange of ideas and best practices on enhancing maritime safety.</p> ` <div class="row gallery-row gallery3 mx-0">
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-01.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-01.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-01.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-02.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-02.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-02.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-04.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-04.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-04.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
     <div class="row">
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-05.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-05.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-05.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-06.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-06.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-06.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-03.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-03.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-03.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
     <div class="row">
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-07.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-07.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-07.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-08.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-08.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-08.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-09.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-09.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-09.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-11.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
     <div class="row">
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-11.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-11.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-10.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
-      </div>
-      <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-12.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-13.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
-      </div>
-      <div class="col is-4 mb-4">
-        <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-14.jpg" data-lightbox="media">
-          <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-14.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-        </a>
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-14.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
     <hr class="my-5">
