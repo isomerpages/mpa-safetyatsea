@@ -2,9 +2,10 @@
 title: Opening Session for the IS@S Week
 permalink: /programme/opening-session-for-the-iss-week
 ---
-<div><b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
-                <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3><br>
-      </div>
+<div>
+  <b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
+  <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
+</div>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -176,19 +177,36 @@ permalink: /programme/opening-session-for-the-iss-week
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Hon. President                
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            The Nautical Institute (Singapore)
-                          </div>
+                          <div class="text-ellipsis speaker-position">Hon. President</div>
+                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
                           <div class="speaker-role text-ellipsis text-muted">
                             <small>Moderator</small>
                           </div>
                         </div>
                       </div>
                     </div>
-										                    <div class="col is-6 prog-speaker">
+                    <div class="col is-6 prog-speaker">
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Hon. President</div>
+                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
+                          <div class="speaker-role text-ellipsis text-muted">
+                            <small>Moderator</small>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
                           <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image mb-4">
@@ -197,11 +215,41 @@ permalink: /programme/opening-session-for-the-iss-week
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers#Dr-Heike-Deggim-1" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Heike Deggim</b></a>
                           </div>
-                          <div class="speaker-position text-ellipsis">
-                          Director, Maritime Safety Division                      </div>
-                          <div class="speaker-company text-ellipsis">
-                          International Maritime Organization                     </div>
+                          <div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
+                          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
                           </div>
+                          <div class="text-ellipsis speaker-position">Hon. President</div>
+                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
+                          <div class="speaker-role text-ellipsis text-muted">
+                            <small>Moderator</small>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers#Dr-Heike-Deggim-1" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Heike Deggim</b></a>
+                          </div>
+                          <div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
+                          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
                         </div>
                       </div>
                     </div>
@@ -220,7 +268,7 @@ permalink: /programme/opening-session-for-the-iss-week
     .is-left{
       text-align: left;
     }
-    h4{
+    .content h4{
       font-weight: 500; 
       color: #337B9A !important;
       margin-top: 1rem;
