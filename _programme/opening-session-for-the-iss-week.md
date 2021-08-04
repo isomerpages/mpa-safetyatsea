@@ -225,7 +225,7 @@ permalink: /programme/opening-session-for-the-iss-week
     }
     .bg-light {
       background-color: #fff !important;
-      box-shadow: 5px 0 6px -4px rgb(195 195 195 / 80%), -5px 0 6px -4px rgb(195 195 195 / 80%);
+      box-shadow: 5px 5px 5px 5px rgb(215 215 215), -5px 0 6px -4px rgb(215 215 215);
     }
     .p-4 {
       padding: 1.5rem!important;
