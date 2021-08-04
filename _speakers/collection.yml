@@ -2,7 +2,4 @@ collections:
   speakers:
     output: true
     order:
-      - page/.keep
-      - page/sub-page-1.md
-      - page/sub-page-2.md
       - dr-heike-deggim.md
