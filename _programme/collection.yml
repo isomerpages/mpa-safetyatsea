@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - at-a-glance.md
-      - opening-session-for-the-iss-week.md
+      - iss-opening-session.md
       - iss-conference-plenary-1.md
       - iss-conference-plenary-2.md
       - icopce-plenary-1.md
