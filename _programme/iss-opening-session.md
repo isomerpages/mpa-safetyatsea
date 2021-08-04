@@ -3,7 +3,7 @@ title: " IS@S Opening Session"
 permalink: /programme/opening-session-for-the-iss-week
 ---
 <div>
-  <b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
+  <b>16:00 - 18:00</b>&nbsp;<b>GMT+8</b>&nbsp;(2 Hr)
   <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
 </div>
 <section>
@@ -14,7 +14,7 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+08</b>&nbsp;(5 Mins)</div>
+                <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
                 <div class="programme-description readmore">
                 </div>
@@ -57,7 +57,7 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:10 - 16:15</b>&nbsp;<b>GMT+08</b>&nbsp;(5 Mins)</div>
+                <div class="programme-time"><b>16:10 - 16:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
               </div>
             </div>
@@ -75,8 +75,8 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:15 - 16:30</b>&nbsp;<b>GMT+08</b>&nbsp;(15 Mins)</div>
-                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br>Keynote Presentation for IS@S Conference</h4>
+                <div class="programme-time"><b>16:15 - 16:30</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -118,8 +118,8 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:30 - 16:45</b>&nbsp;<b>GMT+08</b>&nbsp;(15 Mins)</div>
-                <h4 class="programme-title">Keynote Presentation 2</h4>
+                <div class="programme-time"><b>16:30 - 16:45</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Keynote Presentation for ICOPCE Conference</h4>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -161,7 +161,7 @@ permalink: /programme/opening-session-for-the-iss-week
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:45 - 17:55</b>&nbsp;<b>GMT+8</b>&nbsp;(1 Hr & 10 Mins)</div>
+                <div class="programme-time"><b>16:45 - 17:55</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion: "The Human and Technology Crossroads for Maritime Safety"</h4>
                 <div class="programme-description readmore">
                 </div>
