@@ -33,7 +33,7 @@ permalink: /media-room
     </div>
     <div class="row gallery-row gallery3 mx-0">
       <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url(/images/media/2020/1_Group_photo_OC.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+          <div class="media-height" style="background-image: url('/images/media/2020/1_Group_photo_OC.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
           <div class="media-height" style="background-image: url('/images/media/2020/2_SMS_Chee_Hong_Tat_MOT.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -41,6 +41,8 @@ permalink: /media-room
       <div class="col is-4 mb-4">
           <div class="media-height" style="background-image: url('/images/media/2020/3_Heike_Deggim_IMO.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/4_DSC03418_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/4_DSC03418_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -56,6 +58,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/6_3434_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/7_Dr_Cao_Desheng_CHINA_MSA.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/7_Dr_Cao_Desheng_CHINA_MSA.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -71,6 +75,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/9_OpeningSessionPanellists.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/10_07959_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/10_07959_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -86,6 +92,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/12_Jillian_Carson-Jackson_NI.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/13_3126_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/13_3126_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -101,6 +109,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/15_3137_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/16_03500_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/16_03500_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -116,6 +126,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/18_3228_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/19_3123_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/19_3123_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -131,6 +143,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/21_3257_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/22_3311_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/22_3311_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -146,6 +160,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/24_2380_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/25_2330_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/25_2330_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -161,6 +177,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/27_2415_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/28_2292_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/28_2292_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -176,6 +194,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/30_Koichi_Fujiwara_IACS.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/31_2670_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/31_2670_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -191,6 +211,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/33_2583_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/34_2511_resized.jpg" data-lightbox="gallery2020">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/34_2511_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -221,6 +243,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-04.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-05.jpg" data-lightbox="media">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-05.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -236,6 +260,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-03.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-07.jpg" data-lightbox="media">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-07.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -251,6 +277,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-09.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-11.jpg" data-lightbox="media">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-11.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
@@ -266,6 +294,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
         </a>
       </div>
+		</div>
+		<div class="row">
       <div class="col is-4 mb-4">
         <a href="https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-13.jpg" data-lightbox="media">
           <div class="media-height" style="background-image: url('https://i.levelupp.com/safetyatseaweek/MPA-ISAS2019-13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
