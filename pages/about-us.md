@@ -3,7 +3,7 @@ title: About Us
 permalink: /about-us
 ---
 <div class="row mx-0">
-<div class="col is-12 mx-auto text-center">
+<div class="col is-12 mx-auto">
 <div class="row">
 <div class="col is-3 mb-4"><img src="images/logos/Safety-Sea_Singapore_Logo.png" style="width:60%" class="img-fluid"></div>
 <div class="col is-9 text-justify">
@@ -42,3 +42,6 @@ permalink: /about-us
 </div>
 </div>
 </div>
+<style>
+	ol li { font-size: 14px; }
+</style>
