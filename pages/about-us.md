@@ -18,7 +18,7 @@ permalink: /about-us
 </div>
 	<hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/ICOPCE Logo.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/logos/ICOPCE Logo.png" style="width:70%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">International Chemical and Oil Pollution Conference and Exhibition (ICOPCE)</h5>
 <div>Organised by the MPA, the biennial ICOPCE is a premier international maritime event for the world's energy and energy transportation industries, emergency response companies and government authorities.
