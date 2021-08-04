@@ -167,7 +167,7 @@ permalink: /programme/opening-session-for-the-iss-week
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
-                    <div class="col is-8 prog-speaker">
+                    <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
                           <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
@@ -184,6 +184,23 @@ permalink: /programme/opening-session-for-the-iss-week
                           </div>
                           <div class="speaker-role text-ellipsis text-muted">
                             <small>Moderator</small>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+										                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="https://i.levelupp.com/safetyatseaweek/speakers/Heike-Deggim.png" alt="Dr. Heike Deggim" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers#Dr-Heike-Deggim-1" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Heike Deggim</b></a>
+                          </div>
+                          <div class="speaker-position text-ellipsis">
+                          Director, Maritime Safety Division                      </div>
+                          <div class="speaker-company text-ellipsis">
+                          International Maritime Organization                     </div>
                           </div>
                         </div>
                       </div>
