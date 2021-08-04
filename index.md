@@ -32,7 +32,13 @@ sections:
         Session.JPG" /></div><div class="col"><img src="/images/Opening Session
         Speakers.JPG" /></div></div>
   - infopic:
-      description: <img src="/images/Opening Session.JPG" />
+      description: "[16:00 - 18:00 (GMT+08)] Join us for the opening address by
+        Minister Chee Hong Tat and learn more about the winners of the
+        International Safety@Sea Awards. "
       image: /images/Opening%20Session%20Speakers.jpg
       alt: Image alt text
+      title: Opening Session
+      subtitle: 30 Aug 2021
+      button: View Programme
+      url: /programme/opening-session-for-the-iss-week
 ---
