@@ -125,7 +125,42 @@ permalink: /programme/opening-session-for-the-iss-week
                           </div>
   </div>
 </section>
-											
+
+<section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>16:45 - 17:55</b>&nbsp;<b>GMT+8</b>&nbsp;(1 Hr & 10 Mins)</div>
+                <h4 class="programme-title">Panel Discussion: "The Human and Technology Crossroads for Maritime Safety"</h4>
+                <div class="programme-description readmore">
+                </div>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-8 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Hon. President                
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            The Nautical Institute (Singapore)                 
+                          </div>
+													                          <div class="speaker-role text-ellipsis text-muted"><small>
+                            Moderator</small>
+                          </div>
+  </div>
+</section>
 											
 <style type="text/css"> 
     .is-left{
