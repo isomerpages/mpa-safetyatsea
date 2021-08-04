@@ -12,6 +12,12 @@ permalink: /programme/opening-session-for-the-iss-week
               <div class="p-4">
                 <div class="programme-time"><b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)</div>
                 <h4 class="programme-title">Opening Session: The Human and Technology Crossroads for Maritime Safety<br></h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <section>
@@ -39,14 +45,24 @@ permalink: /programme/opening-session-for-the-iss-week
                             <a href="speakers/Mr-Chee-Hong-Tat" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Chee Hong Tat</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Senior Minister of State                    
+                            Senior Minister of State
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Ministry of Transport, Singapore                    
+                            Ministry of Transport, Singapore
                           </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -57,9 +73,14 @@ permalink: /programme/opening-session-for-the-iss-week
               <div class="p-4">
                 <div class="programme-time"><b>16:10 - 16:15</b>&nbsp;<b>GMT+08</b>&nbsp;(5 Mins)</div>
                 <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-						
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -90,9 +111,19 @@ permalink: /programme/opening-session-for-the-iss-week
                           <div class="text-ellipsis speaker-company">
                             RightShip                 
                           </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -118,14 +149,24 @@ permalink: /programme/opening-session-for-the-iss-week
                             <a href="speakers/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Managing Director                   
+                            Managing Director
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            INTERTANKO                 
+                            INTERTANKO
                           </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -154,14 +195,25 @@ permalink: /programme/opening-session-for-the-iss-week
                             Hon. President                
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            The Nautical Institute (Singapore)                 
+                            The Nautical Institute (Singapore)
                           </div>
-													                          <div class="speaker-role text-ellipsis text-muted"><small>
-                            Moderator</small>
+                          <div class="speaker-role text-ellipsis text-muted">
+                            <small>Moderator</small>
                           </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
-											
+
 <style type="text/css"> 
     .is-left{
       text-align: left;
@@ -169,7 +221,7 @@ permalink: /programme/opening-session-for-the-iss-week
     h4{
       font-weight: 500; 
       color: #337B9A !important;
-    	margin-top: 1rem;
+      margin-top: 1rem;
     }
     .bg-light {
       background-color: #fff !important;
@@ -178,5 +230,5 @@ permalink: /programme/opening-session-for-the-iss-week
     .p-4 {
       padding: 1.5rem!important;
     }
-	.content a {text-decoration:none;}
+  .content a {text-decoration:none;}
 </style>
