@@ -27,7 +27,7 @@ Through the organisation of major international port and maritime-related confer
 <ol>
 <li>Future Proofing Marine Environment Protection in a Changing Landscape</li>
 <li>Navigating the Increased Complexity of Incident Management</li>
-</ol></div>
+</ol>
 </div>
 </div>
 <hr class="my-5">
