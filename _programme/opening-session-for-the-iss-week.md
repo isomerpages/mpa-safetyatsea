@@ -2,9 +2,9 @@
 title: Opening Session for the IS@S Week
 permalink: /programme/opening-session-for-the-iss-week
 ---
-<b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
+<div><b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
                 <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
-      
+      </div>
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
