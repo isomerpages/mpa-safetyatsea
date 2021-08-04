@@ -4,7 +4,7 @@ permalink: /mr-steen-lund
 ---
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Steen Lund.png">
+              <img src="images/speakers/Steen-Lund.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr. Steen Lund</h4>
