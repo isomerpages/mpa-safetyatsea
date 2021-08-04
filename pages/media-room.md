@@ -4,7 +4,6 @@ permalink: /media-room
 ---
 <div class="row mx-0">
   <div class="col is-12 mx-auto text-center">
-    <h1 class="my-5">MEDIA ROOM</h1>
     <h4 class="mb-4 text-dark">PRESS RELEASE</h4>
     <p class="mt-4">
       <span style="text-decoration: underline;">
