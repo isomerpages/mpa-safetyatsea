@@ -16,7 +16,7 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/mr-steen-lund">
+        <a href="/mr-steen-lund">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Steen Lund.png" alt="Mr. Steen Lund" class="speaker-image img-fluid mb-3">
           </div>
@@ -26,7 +26,7 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/ms-katharina-stanzel">
+        <a href="/ms-katharina-stanzel">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Katharina-Stanzel2.png" alt="Ms. Katharina Stanzel" class="speaker-image img-fluid mb-3">
           </div>
@@ -38,7 +38,7 @@ permalink: /speakers
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/speakers/capt-yves-vandenborn">
+        <a href="/capt-yves-vandenborn">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image img-fluid mb-3">
           </div>
@@ -48,7 +48,7 @@ permalink: /speakers
         </a>
       </div> 
       <div class="col is-4">
-        <a href="/speakers/mr-nick-chubb">
+        <a href="/mr-nick-chubb">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Nick Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
           </div>
@@ -58,7 +58,7 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/speakers/mr-oyvind-hellan">
+        <a href="/mr-oyvind-hellan">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Øyvind Hellan" class="speaker-image img-fluid mb-3">
           </div>
