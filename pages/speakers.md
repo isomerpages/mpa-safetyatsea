@@ -261,4 +261,5 @@ permalink: /speakers
     font-weight: 500; 
     color: #337B9A !important;
   }
+	.content a { text-decoration: none; }
 </style>
