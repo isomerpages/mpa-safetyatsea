@@ -50,7 +50,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-nick-chubb">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Nick Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Nick-Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Nick Chubb</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
