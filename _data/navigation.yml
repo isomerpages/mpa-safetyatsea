@@ -12,3 +12,5 @@ links:
     collection: folder-2
   - title: Sample Resource
     resource_room: true
+  - title: Register
+    url: /register
