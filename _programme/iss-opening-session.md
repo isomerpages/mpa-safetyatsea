@@ -2,7 +2,6 @@
 title: " IS@S Opening Session"
 permalink: /programme/opening-session-for-the-iss-week
 ---
-
 <div>
   <b>16:00 - 18:00</b>&nbsp;<b>GMT+08</b>&nbsp;(2 Hr)
   <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
@@ -86,7 +85,7 @@ permalink: /programme/opening-session-for-the-iss-week
                     <div class="col is-8 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Steen Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
+                          <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
