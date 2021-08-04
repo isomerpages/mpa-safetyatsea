@@ -8,11 +8,26 @@ permalink: /about-us
 <div class="col is-3 mb-4"><img src="images/logos/Safety-Sea_Singapore_Logo.png" style="width:60%" class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Webinar Series</h5>
-<div>The Maritime and Port Authority of Singapore (MPA) is organising the 8th run of the International Safety@Sea Week from 30 August to 1 September 2021.<br><br>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA’s commitment to promoting safety at sea, registration for this event is free.<br><br>The International Safety@Sea Week 2021 will take place over three sessions.<br><br>The opening session webinar on 30 August 2021 will focus on this year’s theme on <b>“The Human and Technology Crossroads for Maritime Safety”</b>.<br><br>The two live webcast plenary sessions on 31 August 2021 will discuss:</div>
+<div>The Maritime and Port Authority of Singapore (MPA) is organising the 8th run of the International Safety@Sea Week from 30 August to 1 September 2021.<br><br>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA’s commitment to promoting safety at sea, registration for this event is free.<br><br>This year, the International Safety@Sea Week 2021 will take place over three days.<br><br>The opening session webinar on 30 August 2021 will focus on this year’s theme on <b>“The Human and Technology Crossroads for Maritime Safety”</b>.<br><br>The two live webcast plenary sessions on 31 August 2021 will discuss:</div>
 <ol>
 <li>Safer Carriage of Goods – What More Must Be Done?</li>
 <li>Rethinking Crew Training in a VUCA World <br>*(VUCA: Volatility, Uncertainty, Complexity and Ambiguity)*</li>
 </ol>
+<div>ICOPCE will take place on 1 September 2021. </div>
+</div>
+</div>
+	<hr class="my-5">
+<div class="row">
+<div class="col is-3 mb-4"><img src="images/logos/ICOPCE Logo.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-9 mb-4 text-justify">
+<h5 class="abt-title">International Chemical and Oil Pollution Conference and Exhibition (ICOPCE)</h5>
+<div>Organised by the MPA, the biennial ICOPCE is a premier international maritime event for the world's energy and energy transportation industries, emergency response companies and government authorities.
+<br><br>
+Through the organisation of major international port and maritime-related conferences such as ICOPCE, the MPA aims to further raise Singapore's profile as a centre for expertise and knowledge in the prevention and response to oil and chemical spills, and as a world-class port and leading international maritime centre.<br><br>This year’s theme is <b>“Embracing a New Era in Marine Environment Protection”</b>.<br><br>ICOPCE will take place on 1 September 2021 and the two live webcast plenary sessions will discuss:</div>
+<ol>
+<li>Future Proofing Marine Environment Protection in a Changing Landscape</li>
+<li>Navigating the Increased Complexity of Incident Management</li>
+</ol></div>
 </div>
 </div>
 <hr class="my-5">
