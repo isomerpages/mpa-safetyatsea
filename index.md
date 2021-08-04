@@ -38,36 +38,32 @@ sections:
       url: /programme/opening-session-for-the-iss-week
   - infopic:
       title: IS@S Plenary 1
-      subtitle: 31 Aug 2021
-      description: "[14:30 - 16:00 (GMT+08)] Join our esteemed panel of speakers as
-        they share more about issues relating to the safe carriage of goods."
+      subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
+      description: Safer Carriage of Goods – What More Must Be Done?
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
       image: /images/Opening%20Session%20Speakers.jpg
       alt: Image alt text
   - infopic:
       title: IS@S Plenary 2
-      subtitle: 31 Aug 2021
-      description: "[17:00 - 18:30 (GMT+08)] Rethinking Crew Training in a VUCA World
-        (VUCA: Volatility, Uncertainty, Complexity and Ambiguity)."
+      subtitle: 31 Aug | 17:00 - 18:30 (GMT+8)
+      description: Rethinking Crew Training in a VUCA World
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
       image: /images/Opening%20Session%20Speakers.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 1
-      subtitle: 1 Sep 2021
-      description: "[14:30 - 16:00 (GMT+08)]  Future Proofing Marine Environment
-        Protection in a Changing Landscape"
+      subtitle: 1 Sep | 14:30 - 16:00 (GMT+8)
+      description: Future Proofing Marine Environment Protection in a Changing Landscape
       button: View Programme
       url: /programme/icopce-plenary-1
       image: /images/ISAS-Banner-Web.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 2
-      subtitle: 1 Sep 2021
-      description: "[17:00 - 18:30 (GMT+08)]  Navigating the Increased Complexity of
-        Incident Management"
+      subtitle: 1 Sep  | 17:00 - 18:30 (GMT+8)
+      description: Navigating the Increased Complexity of Incident Management
       button: View Programme
       url: /programme/icopce-plenary-2
       image: /images/hero-banner.png
