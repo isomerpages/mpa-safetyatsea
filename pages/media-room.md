@@ -288,7 +288,7 @@ permalink: /media-room
         <p>A tribute to our MaritimeSG workers. <br>A salute from MPA, Singapore Maritime Foundation, Singapore Shipping Association and Singapore Maritime Officers’ Union to all working tirelessly to keep the Port of Singapore running, the goods moving and the economy going. </p>
       </div>
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4CVp07MvNUs" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">MPA Next-Generation Patrol Craft</h4>
@@ -297,14 +297,14 @@ permalink: /media-room
     </div>
     <div class="row">
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3oQ1xwG73ts" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">Opening Session: Maritime Safety: New Normal, New Paradigms</h4>
         <p>Full Recording</p>
       </div>
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LycGtmXulUQ" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">MPA International Safety@Sea Awards 2020</h4>
@@ -313,14 +313,14 @@ permalink: /media-room
     </div>
     <div class="row">
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5XUlhsuDDZQ" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">Plenary 1: Mental Health and Wellness – Helping Seafarers Cope Better during a Pandemic</h4>
         <p>Full Recording</p>
       </div>
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gupLed09X_M" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">Plenary 2: Ship Safety – Reflecting on Incidents, Causality and the Way Forward</h4>
@@ -329,35 +329,14 @@ permalink: /media-room
     </div>
     <div class="row">
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2FkfhHQhrHg" allowfullscreen="allowfullscreen"></iframe>
         </div>
         <h4 class="text-info">Plenary 3: Ship Management – Lessons Learnt for Safety and Standards in the New Normal</h4>
         <p>Full Recording</p>
       </div>
       <div class="col is-6 mb-4">
-        <div class="embed-responsive embed-responsive-16by9 mb-4">
-          <p></p>
-        </div>
       </div>
     </div>
   </div>
 </div>
-<style>
-	.embed-responsive {
-    position: relative;
-    display: block;
-    width: 100%;
-    padding: 0;
-    overflow: hidden;
-}
-	.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-</style>
