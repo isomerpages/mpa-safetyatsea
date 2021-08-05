@@ -30,12 +30,8 @@ permalink: /programme/icopce-plenary-1
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Binoy-Dubey" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Binoy Dubey</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Admiralty Manager                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Incisive Law LLC                
-                          </div>
+                          <div class="text-ellipsis speaker-position">Admiralty Manager</div>
+                          <div class="text-ellipsis speaker-company">Incisive Law LLC</div>
                         </div>
                       </div>
                     </div>
@@ -73,82 +69,81 @@ permalink: /programme/icopce-plenary-1
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Binoy-Dubey" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Binoy Dubey</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Admiralty Manager                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Incisive Law LLC </div>
+                          <div class="text-ellipsis speaker-position">Admiralty Manager</div>
+                          <div class="text-ellipsis speaker-company">Incisive Law LLC</div>
                           <div class="speaker-role text-ellipsis text-muted">
                             <small>Moderator</small>
                           </div>
                         </div>
                       </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Darren Waterman" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Darren-Waterman" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Darren Waterman</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Regional Director (APAC)</div>
-                          <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
-                        </div>
+                      <div class="col is-6 prog-speaker">
                       </div>
                     </div>
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Capt. Raymond Peter" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Raymond Peter</b></a>
+                    <div class="row">
+                      <div class="col is-6 prog-speaker">
+                        <div class="row">
+                          <div class="col is-4">
+                            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Darren Waterman" class="speaker-image mb-4">
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Managing Director                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            BSM Singapore</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Bas Weibe</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            General Manager                 
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           Resolve Salvage & Fire (Asia) Pte Ltd
+                          <div class="col is-8">
+                            <div class="speaker-name text-ellipsis">
+                              <a href="speakers/Mr-Darren-Waterman" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Darren Waterman</b></a>
+                            </div>
+                            <div class="text-ellipsis speaker-position">Regional Director (APAC)</div>
+                            <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
                           </div>
                         </div>
                       </div>
+                      <div class="col is-6 prog-speaker">
+                        <div class="row">
+                          <div class="col is-4">
+                            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Capt. Raymond Peter" class="speaker-image mb-4">
+                          </div>
+                          <div class="col is-8">
+                            <div class="speaker-name text-ellipsis">
+                              <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Raymond Peter</b></a>
+                            </div>
+                            <div class="text-ellipsis speaker-position">
+                              Managing Director                   
+                            </div>
+                            <div class="text-ellipsis speaker-company">
+                              BSM Singapore
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col is-6 prog-speaker">
+                          <div class="row">
+                            <div class="col is-4">
+                              <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image mb-4">
+                            </div>
+                            <div class="col is-8">
+                              <div class="speaker-name text-ellipsis">
+                                <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Bas Weibe</b></a>
+                              </div>
+                              <div class="text-ellipsis speaker-position">
+                                General Manager                 
+                              </div>
+                              <div class="text-ellipsis speaker-company">
+                               Resolve Salvage & Fire (Asia) Pte Ltd
+                             </div>
+                           </div>
+                         </div>
+                       </div>
+                       <div class="col is-6 prog-speaker">
+                       </div>
+                      </div>
                     </div>
-                    <div class="col is-6 prog-speaker">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+ </div>
 </section>
 
 <style type="text/css"> 
@@ -168,5 +163,5 @@ permalink: /programme/icopce-plenary-1
       padding: 1.5rem!important;
     }
   .content a {text-decoration:none;}
-	.content h3 { margin-top: 1rem;}
+  .content h3 { margin-top: 1rem;}
 </style>
