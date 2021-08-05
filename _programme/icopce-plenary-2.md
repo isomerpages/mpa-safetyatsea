@@ -111,11 +111,8 @@ permalink: /programme/icopce-plenary-2
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Mr-Ahmad-Nazri" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Ahmad Nazri</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Response Team Manager                 
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Oil Spill Response Ltd</div>
+                          <div class="text-ellipsis speaker-position">Response Team Manager</div>
+                          <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
                         </div>
                       </div>
                     </div>
@@ -130,16 +127,12 @@ permalink: /programme/icopce-plenary-2
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Jan Eege Klop</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Senior Commercial Manager                 
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           SMIT Salvage
-                          </div>
+                          <div class="text-ellipsis speaker-position">Senior Commercial Manager</div>
+                          <div class="text-ellipsis speaker-company">SMIT Salvage</div>
                         </div>
                       </div>
                     </div>
-                    <div class="col is-6 prog-speaker">
+                    <div class="col is-6 prog-speaker"></div>
                   </div>
                 </div>
               </div>
@@ -168,5 +161,5 @@ permalink: /programme/icopce-plenary-2
       padding: 1.5rem!important;
     }
   .content a {text-decoration:none;}
-	.content h3 { margin-top: 1rem;}
+  .content h3 { margin-top: 1rem;}
 </style>
