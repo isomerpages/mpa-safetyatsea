@@ -28,7 +28,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson</b></a>
+                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chairman                   
@@ -77,7 +77,7 @@ permalink: /programme/iss-conference-plenary-2
                             Managing Director, Group QHSE and Training
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           Anglo-Eastern Ship Management Ltd
+                           Anglo Eastern Ship Management Ltd
                           </div>
                         </div>
                       </div>
@@ -141,7 +141,7 @@ permalink: /programme/iss-conference-plenary-2
                             Managing Director, Group QHSE and Training
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           Anglo-Eastern Ship Management Ltd</div>
+                           Anglo Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
@@ -152,7 +152,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson</b></a>
+                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chairman                   
@@ -177,7 +177,7 @@ permalink: /programme/iss-conference-plenary-2
                             Regional Head - Business Relations and MediSea            
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           The Shipowners' Club
+                           The Shipowners’ Mutual Protection and Indemnity Association
                           </div>
                         </div>
                       </div>
