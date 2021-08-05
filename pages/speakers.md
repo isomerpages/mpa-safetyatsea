@@ -96,7 +96,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. David Townsend</h4>
           <div class="speaker-position text-ellipsis">Principal Fire Investigator</div>
-          <div class="speaker-company text-ellipsis">Andrew Moore & Associates Ltd</div>
+          <div class="speaker-company text-ellipsis">Andrew Moore & Associates (Singapore) Pte Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -118,7 +118,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Lee Chee Seong</h4>
           <div class="speaker-position text-ellipsis">Fleet Director</div>
-          <div class="speaker-company text-ellipsis">PCL Group</div>
+          <div class="speaker-company text-ellipsis">Pacific Carriers Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -143,9 +143,9 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/dr-grahaeme-henderson">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson OBE" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dr. Grahaeme Henderson</h4>
+          <h4 class="speaker-name text-ellipsis">Dr. Grahaeme Henderson OBE</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">Together in Safety</div>
         </a>
@@ -157,7 +157,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Pradeep Chawla</h4>
           <div class="speaker-position text-ellipsis">Managing Director, Group QHSE and Training</div>
-          <div class="speaker-company text-ellipsis">Anglo-Eastern Ship Management Ltd</div>
+          <div class="speaker-company text-ellipsis">Anglo Eastern Ship Management Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -167,7 +167,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Hari Subramaniam</h4>
           <div class="speaker-position text-ellipsis">Regional Head - Business Relations and MediSea</div>
-          <div class="speaker-company text-ellipsis">The Shipowners' Club</div>
+          <div class="speaker-company text-ellipsis">The Shipowners’ Mutual Protection and Indemnity Association</div>
         </a>
       </div>
     </div>
