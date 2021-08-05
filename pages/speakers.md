@@ -73,6 +73,68 @@ permalink: /speakers
     </div>
   </div>
 </section>
+<div>
+  <h3>IS@S Plenary 1 Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered"> 
+    <div class="row">
+      <div class="col is-4">
+        <a href="/capt-vibhas-garg">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Vibhas-Garg.png" alt="Capt. Vibhas Garg" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Vibhas Garg</h4>
+          <div class="speaker-position text-ellipsis">Director, Global Head of Safety & Quality</div>
+          <div class="speaker-company text-ellipsis">Wallem Group</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-david-townsend">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/David-Townsend.png" alt="Mr. David Townsend" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. David Townsend</h4>
+          <div class="speaker-position text-ellipsis">Principal Fire Investigator</div>
+          <div class="speaker-company text-ellipsis">Andrew Moore & Associates Ltd</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-cheah-aun-aun">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Cheah-Aun-Aun.png" alt="Mr. Cheah Aun Aun" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Cheah Aun Aun</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/capt-lee-chee-seong">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Lee-Chee-Seong.png" alt="Capt. Lee Chee Seong" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Lee Chee Seong</h4>
+          <div class="speaker-position text-ellipsis">Fleet Director</div>
+          <div class="speaker-company text-ellipsis">PCL Group</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/capt-kunal-nakra">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Kunal-Nakra.png" alt="Capt. Kunal Nakra" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Kunal Nakra</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director, Transport Safety Investigation Bureau</div>
+          <div class="speaker-company text-ellipsis">MOT Singapore</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
 <style type="text/css"> 
   .is-left{
     text-align: left;
