@@ -2,6 +2,9 @@
 title: Speakers
 permalink: /speakers
 ---
+<div>
+  <h3>IS@S Opening Session Speakers</h3>
+</div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered"> 
     <div class="row">
@@ -38,16 +41,6 @@ permalink: /speakers
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/capt-yves-vandenborn">
-          <div class="speaker-image-wrapper">
-            <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Capt. Yves Vandenborn</h4>
-          <div class="speaker-position text-ellipsis">Hon. President</div>
-          <div class="speaker-company text-ellipsis">The Nautical Institute (Singapore)</div>
-        </a>
-      </div> 
-      <div class="col is-4">
         <a href="/mr-nick-chubb">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Nick-Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
@@ -67,6 +60,16 @@ permalink: /speakers
           <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
         </a>
       </div>
+      <div class="col is-4">
+        <a href="/capt-yves-vandenborn">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Yves Vandenborn</h4>
+          <div class="speaker-position text-ellipsis">Hon. President</div>
+          <div class="speaker-company text-ellipsis">The Nautical Institute (Singapore)</div>
+        </a>
+      </div> 
     </div>
   </div>
 </section>
