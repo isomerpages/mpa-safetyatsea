@@ -102,38 +102,34 @@ permalink: /programme/icopce-plenary-1
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Raymond Peter</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">
-                            Managing Director                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            BSM Singapore
-                          </div>
+                          <div class="text-ellipsis speaker-position">Managing Director</div>
+                          <div class="text-ellipsis speaker-company">BSM Singapore</div>
                         </div>
                       </div>
                     </div>
-                    <div class="row">
-                      <div class="col is-6 prog-speaker">
-                        <div class="row">
-                          <div class="col is-4">
-                            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image mb-4">
+                  </div>
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Bas Weibe</b></a>
                           </div>
-                          <div class="col is-8">
-                            <div class="speaker-name text-ellipsis">
-                              <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Bas Weibe</b></a>
-                            </div>
-                            <div class="text-ellipsis speaker-position">
-                              General Manager                 
-                            </div>
-                            <div class="text-ellipsis speaker-company">
-                             Resolve Salvage & Fire (Asia) Pte Ltd
-                           </div>
+                          <div class="text-ellipsis speaker-position">
+                            General Manager                 
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                           Resolve Salvage & Fire (Asia) Pte Ltd
                          </div>
                        </div>
                      </div>
-                     <div class="col is-6 prog-speaker">
-                     </div>
-                    </div>
-                  </div>
+                   </div>
+                   <div class="col is-6 prog-speaker">
+                   </div>
+                 </div>
                </div>
              </div>
            </div>
