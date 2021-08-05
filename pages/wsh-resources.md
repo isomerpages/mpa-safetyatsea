@@ -13,33 +13,33 @@ permalink: /wsh-resources
           <div class="speaker-image-wrapper">
             <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Safe Boarding of Vessels</h4>
+          <h4 class="speaker-name text-ellipsis">Download Safe Boarding of Vessels here</h4>
         </a>
       </div>
       <div class="col is-6">
-        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
+        <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3">
+            <img src="images/WSH-Guide.jpg" alt=" " class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Safe Boarding of Vessels</h4>
+          <h4 class="speaker-name text-ellipsis">Download the Guide to WSH for Service Providers on Safe Working on Ships at Anchorage here</h4>
         </a>
       </div>
       <div class="col is-6">
-        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
+        <a href="https://www.tal.sg/wshc/Programmes/bizSAFE/About-bizSAFE">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3">
+            <img src="images/bizSAFE.jpg" alt=" " class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Safe Boarding of Vessels</h4>
+          <h4 class="speaker-name text-ellipsis">Find out more about bizSAFE programme here</h4>
         </a>
       </div>
     </div>
     <div class="row">
       <div class="col is-6">
-        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
+        <a href="https://www.iworkhealth.gov.sg/Pages/default.html">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3">
+            <img src="images/iWorkhealth.jpg" alt=" " class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Safe Boarding of Vessels</h4>
+          <h4 class="speaker-name text-ellipsis">Find out more about iWorkHealth tool here</h4>
         </a>
       </div>
     </div>
