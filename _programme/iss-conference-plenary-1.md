@@ -77,7 +77,7 @@ permalink: /programme/iss-conference-plenary-1
                             Principal Fire Investigator
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           Andrew Moore & Associates Ltd
+                           Andrew Moore & Associates (Singapore) Pte Ltd 
                           </div>
                         </div>
                       </div>
@@ -174,7 +174,7 @@ permalink: /programme/iss-conference-plenary-1
                             Fleet Director                 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           PCL Group
+                           Pacific Carriers Ltd
                           </div>
                         </div>
                       </div>
@@ -192,7 +192,7 @@ permalink: /programme/iss-conference-plenary-1
                             Principal Fire Investigator
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           Andrew Moore & Associates Ltd</div>
+                           Andrew Moore & Associates (Singapore) Pte Ltd </div>
                         </div>
                       </div>
                     </div>
