@@ -196,6 +196,57 @@ permalink: /speakers
   </div>
 </section>
 
+<div>
+  <h3>ICOPCE Plenary 1 Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered"> 
+    <div class="row">
+      <div class="col is-4">
+        <a href="/capt-binoy-dubey">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Binoy-Dubey.png" alt="Capt. Binoy Dubey" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Binoy Dubey</h4>
+          <div class="speaker-position text-ellipsis">Admiralty Manager</div>
+          <div class="speaker-company text-ellipsis">Incisive Law LLC</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-darren-waterman">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Darren Waterman" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Darren Waterman</h4>
+          <div class="speaker-position text-ellipsis">Regional Director (APAC)</div>
+          <div class="speaker-company text-ellipsis">Oil Spill Response Limited</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/capt-raymond-peter">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Capt. Raymond Peter" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Raymond Peter</h4>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">BSM Singapore</div>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-bas-weibe">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Bas Weibe</h4>
+          <div class="speaker-position text-ellipsis">General Manager</div>
+          <div class="speaker-company text-ellipsis">Resolve Salvage & Fire (Asia) Pte Ltd</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 <style type="text/css"> 
   .is-left{
