@@ -195,7 +195,7 @@ permalink: /programme/iss-conference-plenary-2
                             Centre Director
                           </div>
                           <div class="text-ellipsis speaker-company">
-                           Centre of Excellence in Maritime Safety (CEMS), Singapore</div>
+                           Centre of Excellence in Maritime Safety (CEMS), Singapore Polytechnic</div>
                         </div>
                       </div>
                     </div>
