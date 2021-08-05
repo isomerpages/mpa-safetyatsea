@@ -23,8 +23,9 @@ permalink: /wsh-resources
           </div>
           <h4 class="speaker-name text-ellipsis">Download the Guide to WSH for Service Providers on Safe Working on Ships at Anchorage here</h4>
         </a>
-      </div>
-      <div class="col is-5">
+      </div>    </div>
+    <div class="row">
+			      <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Programmes/bizSAFE/About-bizSAFE">
           <div class="speaker-image-wrapper">
             <img src="images/bizSAFE.jpg" alt=" " class="speaker-image img-fluid mb-3">
@@ -32,8 +33,6 @@ permalink: /wsh-resources
           <h4 class="speaker-name text-ellipsis">Find out more about bizSAFE programme here</h4>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-5">
         <a href="https://www.iworkhealth.gov.sg/Pages/default.html">
           <div class="speaker-image-wrapper">
