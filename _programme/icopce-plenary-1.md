@@ -140,7 +140,6 @@ permalink: /programme/icopce-plenary-1
                       </div>
                     </div>
                     <div class="col is-6 prog-speaker">
-                      </div>
                     </div>
                   </div>
                 </div>
