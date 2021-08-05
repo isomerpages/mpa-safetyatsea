@@ -16,8 +16,7 @@ permalink: /programme/icopce-plenary-1
               <div class="p-4">
                 <div class="programme-time"><b>14:35 - 15:05</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Future Proofing Marine Environment Protection in a Changing Landscape"</h4> 
-                <div class="programme-description readmore">
-                </div>
+                <div class="programme-description readmore"></div>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
