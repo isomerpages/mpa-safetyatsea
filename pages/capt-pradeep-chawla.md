@@ -2,6 +2,7 @@
 title: Capt. Pradeep Chawla
 permalink: /capt-pradeep-chawla
 ---
+
 <div class="row">
             <div class="col is-3">
               <img src="images/speakers/Pradeep-Chawla.png">
