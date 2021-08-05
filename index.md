@@ -30,7 +30,7 @@ sections:
   - infopic:
       description: "Join us for the opening address by Minister Chee Hong Tat and
         learn more about the winners of the International Safety@Sea Awards. "
-      image: /images/Opening%20Session%20Speakers.jpg
+      image: /images/OpeningSession1.jpg
       alt: Image alt text
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
@@ -42,7 +42,7 @@ sections:
       description: Safer Carriage of Goods – What More Must Be Done?
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
-      image: /images/Opening%20Session%20Speakers.jpg
+      image: /images/ISASPlenary1.jpg
       alt: Image alt text
   - infopic:
       title: IS@S Plenary 2
@@ -50,7 +50,7 @@ sections:
       description: Rethinking Crew Training in a VUCA World
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/Opening%20Session%20Speakers.jpg
+      image: /images/ISASPlenary2.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 1
@@ -58,7 +58,7 @@ sections:
       description: Future Proofing Marine Environment Protection in a Changing Landscape
       button: View Programme
       url: /programme/icopce-plenary-1
-      image: /images/ISAS-Banner-Web.jpg
+      image: /images/ICOPCEPlenary1.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 2
@@ -66,6 +66,6 @@ sections:
       description: Navigating the Increased Complexity of Incident Management
       button: View Programme
       url: /programme/icopce-plenary-2
-      image: /images/hero-banner.png
+      image: /images/ICOPCEPlenary2.jpg
       alt: Image alt text
 ---
