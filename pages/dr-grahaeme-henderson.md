@@ -7,7 +7,7 @@ permalink: /dr-grahaeme-henderson
               <img src="images/speakers/Grahaeme-Henderson.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>Dr. Grahaeme Henderson, OBE</h4>
+              <h4>Dr. Grahaeme Henderson OBE</h4>
 <p>Chairman<br>
 Together in Safety</p><br>
 <p>
