@@ -134,6 +134,68 @@ permalink: /speakers
     </div>
   </div>
 </section>
+<div>
+  <h3>IS@S Plenary 2 Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered"> 
+    <div class="row">
+      <div class="col is-4">
+        <a href="/dr-grahaeme-henderson">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Dr. Grahaeme Henderson</h4>
+          <div class="speaker-position text-ellipsis">Chairman</div>
+          <div class="speaker-company text-ellipsis">Together in Safety</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/capt-pradeep-chawla">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Pradeep-Chawla.png" alt="Capt. Pradeep Chawla" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Pradeep Chawla</h4>
+          <div class="speaker-position text-ellipsis">Managing Director, Group QHSE and Training</div>
+          <div class="speaker-company text-ellipsis">Anglo-Eastern Ship Management Ltd</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/capt-hari-subramaniam">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Hari-Subramaniam.png" alt="Capt. Hari Subramaniam" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt. Hari Subramaniam</h4>
+          <div class="speaker-position text-ellipsis">Regional Head - Business Relations and MediSea</div>
+          <div class="speaker-company text-ellipsis">The Shipowners' Club</div>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-daniel-zhang">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Daniel-Zhang.png" alt="Mr. Daniel Zhang" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Daniel Zhang</h4>
+          <div class="speaker-position text-ellipsis">Centre Director</div>
+          <div class="speaker-company text-ellipsis">Centre of Excellence in Maritime Safety (CEMS), Singapore Polytechnic</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-michael-phoon">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Michael-Phoon.png" alt="Mr. Michael Phoon" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Michael Phoon</h4>
+          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <style type="text/css"> 
   .is-left{
