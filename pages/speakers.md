@@ -219,7 +219,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Darren Waterman</h4>
           <div class="speaker-position text-ellipsis">Regional Director (APAC)</div>
-          <div class="speaker-company text-ellipsis">Oil Spill Response Limited</div>
+          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -242,6 +242,58 @@ permalink: /speakers
           <h4 class="speaker-name text-ellipsis">Mr. Bas Weibe</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
           <div class="speaker-company text-ellipsis">Resolve Salvage & Fire (Asia) Pte Ltd</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div>
+  <h3>ICOPCE Plenary 2 Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered"> 
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-edward-ion">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Edward Ion" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Edward Ion</h4>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Navigate Response Asia</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-dughall-aitken">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr Dughall Aitken" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Dughall Aitken</h4>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
+          <div class="speaker-company text-ellipsis">Spica Services Group</div>
+        </a>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-ahmad-nazri">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Ahmad Nazri" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Ahmad Nazri</h4>
+          <div class="speaker-position text-ellipsis">Response Team Manager</div>
+          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div>
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-jan-eege-klop">
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan Eege Klop" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr. Jan Eege Klop</h4>
+          <div class="speaker-position text-ellipsis">Senior Commercial Manager</div>
+          <div class="speaker-company text-ellipsis">SMIT Salvage</div>
         </a>
       </div>
     </div>
