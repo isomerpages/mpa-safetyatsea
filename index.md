@@ -4,7 +4,7 @@ title: International Safety @ Sea Week 2021
 description: 1 Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Open for Registration Now!
 sections:
   - hero:
       background: /images/MainBanner.jpg
@@ -24,7 +24,7 @@ sections:
       title: International Safety@Sea Week 2021
       subtitle: 30 August - 1 September 2021
   - infobar:
-      title: The Human and Technology Crossroads for Maritime Safety
+      title: Spotlight on Maritime Safety, Technology & the Environment
       description: "Join us at this year’s annual gathering of members of the
         international maritime community and top practitioners. "
   - infopic:
