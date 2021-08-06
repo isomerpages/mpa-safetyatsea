@@ -7,7 +7,7 @@ permalink: /
 notification: Open for Registration Now!
 sections:
   - hero:
-      background: /images/MainBanner.jpg
+      background: /images/MainBanner2.jpg
       key_highlights:
         - title: Register
           description: ""
@@ -32,7 +32,7 @@ sections:
       description: Joint opening for International Safety@Sea (IS@S) and International
         Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
         to be announced.
-      image: /images/OpeningSession1.jpg
+      image: /images/OpeningSession1a.jpg
       alt: Image alt text
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
