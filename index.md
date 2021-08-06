@@ -17,7 +17,7 @@ sections:
           url: /programme/at-a-glance
         - title: Programme
           description: ""
-          url: /programme
+          url: /programme/overview
         - title: Speakers
           description: ""
           url: /speakers
