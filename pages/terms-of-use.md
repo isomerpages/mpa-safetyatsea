@@ -62,7 +62,7 @@ Ms Regina Lim, Senior Manager (Safety Analysis & Promotion), Regina_LIM@mpa.gov.
 #### **Privacy Policy**
 21. Click [here](/privacy/) to view this website’s Privacy Statement.
 
-#### **Governing law and Jurisdiction**
+#### **Governing Law and Jurisdiction**
 22. These Terms of Use are governed by and shall be interpreted in accordance with the laws of the Republic of Singapore regardless of any choice of law provisions.
 
 23. You hereby consent to submit to the exclusive jurisdiction of the courts of the Republic of Singapore regarding any and all disputes relating to the Terms of Use of this Website.
