@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - at-a-glance.md
+      - overview.md
       - iss-opening-session.md
       - iss-conference-plenary-1.md
       - iss-conference-plenary-2.md
