@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/ISAS-Banner-Web.jpg
+      background: /images/MainBanner.jpg
       key_highlights:
         - title: Register
           description: ""
