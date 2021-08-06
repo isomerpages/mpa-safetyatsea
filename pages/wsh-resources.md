@@ -3,7 +3,7 @@ title: WSH Resources
 permalink: /wsh-resources
 ---
 <div>
-  <h3>Event attendees can download these resources or find out more about bizSAFE and iWorkHealth tool from the respective websites.</h3>
+  <h3>Download and access resources pertaining to workplace safety and health here</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered"> 
