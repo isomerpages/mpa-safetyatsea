@@ -4,7 +4,7 @@ permalink: /media-room
 ---
 <div class="row mx-0">
   <div class="col is-12 mx-auto text-center">
-    <h4 class="mb-4 text-dark">PRESS RELEASE</h4>
+   <!-- <h4 class="mb-4 text-dark">PRESS RELEASE</h4>
     <p class="mt-4">
       <span style="text-decoration: underline;">
         <span style="color: #5c1d5e;">
@@ -19,7 +19,7 @@ permalink: /media-room
         </span>
       </span>
     </p>
-    <hr class="my-5">
+    <hr class="my-5">-->
     <h4 class="mb-4 text-dark">PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.safetyatseaweek.com/events/programs.html" style="color: #993366; text-decoration: underline;">here.</a>
     </p>
