@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### *Terms of Use**
+### **Terms of Use**
 
 #### **General**
 1. Thank you for visiting this website (“Website”) which is owned and operated by the Maritime and Port Authority of Singapore (“MPA”). By accessing this Website, you agree to be bound by these Terms of Use. If you do not agree to any of these Terms of Use, please discontinue your access immediately.
