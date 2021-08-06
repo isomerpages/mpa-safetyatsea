@@ -25,11 +25,13 @@ sections:
       subtitle: 30 August - 1 September 2021
   - infobar:
       title: Spotlight on Maritime Safety, Technology & the Environment
-      description: "Join us at this year’s annual gathering of members of the
-        international maritime community and top practitioners. "
+      description: Join us at this annual gathering of the international maritime
+        community as we discuss maritime safety, technology and environmental
+        protection over 5 sessions.
   - infopic:
-      description: "Join us for the opening address by Minister Chee Hong Tat and
-        learn more about the winners of the International Safety@Sea Awards. "
+      description: Joint opening for International Safety@Sea (IS@S) and International
+        Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
+        to be announced.
       image: /images/OpeningSession1.jpg
       alt: Image alt text
       title: Opening Session
