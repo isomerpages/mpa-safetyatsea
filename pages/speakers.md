@@ -105,7 +105,7 @@ permalink: /speakers
             <img src="images/speakers/Cheah-Aun-Aun.png" alt="Mr. Cheah Aun Aun" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Cheah Aun Aun</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director</div>
+          <div class="speaker-position text-ellipsis">Director (Shipping)</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
