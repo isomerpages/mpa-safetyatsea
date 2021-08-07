@@ -6,7 +6,7 @@ agency_name: Safety At Sea Week
 contacts:
   - content:
       - phone: +65 6270 0303
-      - email: enquiries@safetyatseasg.com
+      - email: ""
       - other: ""
     title: General Enquiries & Feedback
 ---
