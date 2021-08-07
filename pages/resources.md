@@ -16,6 +16,21 @@ permalink: /resources
           <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster - <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
       </div>
       <div class="col is-5">
+        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Wear-Your-Life-Jacket">
+          <div class="speaker-image-wrapper">
+            <img src="images/Wear-LifeJacket.jpg" alt=" " class="speaker-image img-fluid mb-3">
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">“Wear Your Life Jacket” Poster - <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Wear-Your-Life-Jacket">Download</a></h4>
+      </div>    </div>
+    <div class="row">
+      <div class="col is-5">
+        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
+          <div class="speaker-image-wrapper">
+            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3"> 
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster - <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
+      </div>
+      <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
           <div class="speaker-image-wrapper">
             <img src="images/WSH-Guide.jpg" alt=" " class="speaker-image img-fluid mb-3">
