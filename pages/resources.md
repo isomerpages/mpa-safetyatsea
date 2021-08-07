@@ -2,7 +2,6 @@
 title: Resources
 permalink: /resources
 ---
-
 <div>
   <h3>Download and access resources pertaining to workplace safety and health here</h3>
 </div>
@@ -12,10 +11,9 @@ permalink: /resources
       <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3">
+            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3"> </a>
           </div>
-          <h4 class="speaker-name text-ellipsis">Download Safe Boarding of Vessels here</h4>
-        </a>
+          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
       </div>
       <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
