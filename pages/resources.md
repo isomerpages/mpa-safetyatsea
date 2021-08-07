@@ -24,11 +24,11 @@ permalink: /resources
       </div>    </div>
     <div class="row">
       <div class="col is-5">
-        <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
+        <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3"> 
+            <img src="images/SMM-Board-Ships.jpg" alt=" " class="speaker-image img-fluid mb-3"> 
           </div></a>
-          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster - <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
+          <h4 class="speaker-name text-ellipsis">“Safe Boarding of Vessels” Poster - <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community">Download</a></h4>
       </div>
       <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
