@@ -211,7 +211,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers#mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Øyvind Hellan</b></a>
+                            <a href="speakers#mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Øyvind Hellan</b>
                           </div>
                           <div class="speaker-position text-ellipsis">Vice President (Research)</div>
                           <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
