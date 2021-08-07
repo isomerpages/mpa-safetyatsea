@@ -11,34 +11,31 @@ permalink: /resources
       <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">
           <div class="speaker-image-wrapper">
-            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3"> </a>
-          </div>
-          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
+            <img src="images/Safe-Boarding.jpg" alt=" " class="speaker-image img-fluid mb-3"> 
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster - <a href="https://www.tal.sg/wshc/Resources/Collaterals/Posters/Safe-Boarding-of-Vessel">Download</a></h4>
       </div>
       <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
           <div class="speaker-image-wrapper">
             <img src="images/WSH-Guide.jpg" alt=" " class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Download the Guide to WSH for Service Providers on Safe Working on Ships at Anchorage here</h4>
-        </a>
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">“WSH for Service Providers on Safe Working on Ships at Anchorage” Guide - <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">Download</a></h4>
       </div>    </div>
     <div class="row">
 			      <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Programmes/bizSAFE/About-bizSAFE">
           <div class="speaker-image-wrapper">
             <img src="images/bizSAFE.jpg" alt=" " class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Find out more about bizSAFE programme here</h4>
-        </a>
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">bizSAFE Programme - <a href="https://www.tal.sg/wshc/Programmes/bizSAFE/About-bizSAFE">Details here</a></h4>
       </div>
       <div class="col is-5">
         <a href="https://www.iworkhealth.gov.sg/Pages/default.html">
           <div class="speaker-image-wrapper">
             <img src="images/iWorkhealth.jpg" alt=" " class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Find out more about iWorkHealth tool here</h4>
-        </a>
+          </div></a>
+          <h4 class="speaker-name text-ellipsis">iWorkHealth Tool - <a href="https://www.iworkhealth.gov.sg/Pages/default.html">Details here</a></h4>
       </div>
     </div>
   </div>
