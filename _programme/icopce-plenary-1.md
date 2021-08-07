@@ -86,7 +86,7 @@ permalink: /programme/icopce-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Darren-Waterman" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Darren Waterman</b></a>
+                            <a href="speakers/Mr-Darren-Waterman" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Darren Waterman</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Regional Director (APAC)</div>
                           <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
@@ -100,7 +100,7 @@ permalink: /programme/icopce-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Raymond Peter</b></a>
+                            <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"></a><b>Capt. Raymond Peter</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Managing Director</div>
                           <div class="text-ellipsis speaker-company">BSM Singapore</div>
@@ -116,7 +116,7 @@ permalink: /programme/icopce-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Bas Weibe</b></a>
+                            <a href="speakers/Mr-Bas-Weibe" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Bas Weibe</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             General Manager                 
