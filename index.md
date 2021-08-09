@@ -7,7 +7,7 @@ permalink: /
 notification: Open for Registration Now!
 sections:
   - hero:
-      background: /images/MainBanner2.jpg
+      background: /images/Mainbanner3.jpg
       key_highlights:
         - title: Register
           description: ""
