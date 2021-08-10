@@ -251,13 +251,13 @@ permalink: /speakers
   <div class="bp-container is-fluid has-text-centered"> 
     <div class="row">
       <div class="col is-4">
-        <a href="/mr-edward-ion"></a>
+        <a href="/mr-edward-ion">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Edward Ion" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Edward Ion</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">Navigate Response Asia</div>
+          <div class="speaker-company text-ellipsis">Navigate Response Asia</div></a>
       </div>
       <div class="col is-4">
         <a href="/mr-dughall-aitken"></a>
@@ -289,13 +289,13 @@ permalink: /speakers
           <div class="speaker-company text-ellipsis">SMIT Salvage Pte Ltd</div>
       </div>
 			      <div class="col is-4">
-        <a href="/capt-kevin-wong"></a>
+        <a href="/capt-kevin-wong">
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Kevin-Wong.png" alt="Capt Kevin Wong" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Kevin Wong</h4>
           <div class="speaker-position text-ellipsis">Port Master</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div></a>
       </div>
     </div>
   </div>
