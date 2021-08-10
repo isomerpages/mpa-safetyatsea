@@ -28,7 +28,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Vibhas-Garg" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Vibhas Garg</b></a>
+                            <a href="/Capt-Vibhas-Garg" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Vibhas Garg</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Director, Global Head of Safety & Quality                   
@@ -71,7 +71,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-David-Townsend" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. David Townsend</b></a>
+                            <a href="/Mr-David-Townsend" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. David Townsend</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Principal Fire Investigator
@@ -114,7 +114,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Kunal-Nakra" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Kunal Nakra</b></a>
+                            <a href="/Capt-Kunal-Nakra" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Kunal Nakra</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Deputy Director, Transport Safety Investigation Bureau</div>
                           <div class="text-ellipsis speaker-company">MOT Singapore</div>
@@ -135,7 +135,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Cheah-Aun-Aun" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Cheah Aun Aun</b></a>
+                            <a href="/Mr-Cheah-Aun-Aun" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Cheah Aun Aun</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Director (Shipping)</div>
                           <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
@@ -149,7 +149,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Vibhas-Garg" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Vibhas Garg</b></a>
+                            <a href="/Capt-Vibhas-Garg" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Vibhas Garg</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Director, Global Head of Safety & Quality                   
@@ -168,7 +168,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Lee-Chee-Seong" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Lee Chee Seong</b></a>
+                            <a href="/Capt-Lee-Chee-Seong" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Lee Chee Seong</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Fleet Director                 
@@ -186,7 +186,7 @@ permalink: /programme/iss-conference-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-David-Townsend" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. David Townsend</b></a>
+                            <a href="/Mr-David-Townsend" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. David Townsend</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Principal Fire Investigator
