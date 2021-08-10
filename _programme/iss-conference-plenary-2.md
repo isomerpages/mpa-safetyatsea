@@ -28,7 +28,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
+                            <a href="/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chairman                   
@@ -71,7 +71,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
+                            <a href="/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director, Group QHSE and Training
@@ -114,7 +114,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Michael-Phoon" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Michael Phoon</b></a>
+                            <a href="/Mr-Michael-Phoon" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Michael Phoon</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Executive Director</div>
                           <div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
@@ -135,7 +135,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
+                            <a href="/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director, Group QHSE and Training
@@ -152,7 +152,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
+                            <a href="/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chairman                   
@@ -171,7 +171,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Hari-Subramaniam" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Hari Subramaniam</b></a>
+                            <a href="/Capt-Hari-Subramaniam" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Hari Subramaniam</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Regional Head - Business Relations and MediSea            
@@ -189,7 +189,7 @@ permalink: /programme/iss-conference-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Daniel-Zhang" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Daniel Zhang</b></a>
+                            <a href="/Mr-Daniel-Zhang" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Daniel Zhang</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Centre Director
