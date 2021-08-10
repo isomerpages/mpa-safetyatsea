@@ -28,7 +28,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Chee-Hong-Tat" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Chee Hong Tat</b></a>
+                            <a href="/Mr-Chee-Hong-Tat" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Chee Hong Tat</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Senior Minister of State
@@ -90,7 +90,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
+                            <a href="/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chief Executive Officer                   
@@ -133,7 +133,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director
@@ -176,7 +176,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
+                            <a href="/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Hon. President</div>
                           <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
@@ -197,7 +197,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Nick-Chubb" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Nick Chubb</b></a>
+                            <a href="/Mr-Nick-Chubb" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Nick Chubb</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Managing Director</div>
                           <div class="text-ellipsis speaker-company">Thetius</div>
@@ -211,7 +211,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers#mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Øyvind Hellan</b>
+                            <a href="/mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Øyvind Hellan</b>
                           </div>
                           <div class="speaker-position text-ellipsis">Vice President (Research)</div>
                           <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
@@ -227,7 +227,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
+                            <a href="/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chief Executive Officer                   
@@ -245,7 +245,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director
