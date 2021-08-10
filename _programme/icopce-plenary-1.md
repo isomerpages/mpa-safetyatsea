@@ -140,6 +140,7 @@ permalink: /programme/icopce-plenary-1
                           <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
                         </div>
                       </div>
+                   </div>
                  </div>
                </div>
              </div>
@@ -148,7 +149,6 @@ permalink: /programme/icopce-plenary-1
        </div>
      </div>
    </div>
- </div>
  </div>
 </section>
 
