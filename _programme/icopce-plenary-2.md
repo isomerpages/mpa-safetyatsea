@@ -24,11 +24,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Edward Ion" class="speaker-image mb-4">
+                          <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Edward Ion</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
@@ -67,17 +67,17 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Edward Ion" class="speaker-image mb-4">
+                          <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Edward Ion</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Navigate Response Asia     </div>
+                            Navigate Response Asia </div>
                           <div class="speaker-role text-ellipsis text-muted">
                             <small>Moderator</small>
                           </div>
