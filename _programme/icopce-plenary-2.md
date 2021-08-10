@@ -28,7 +28,7 @@ permalink: /programme/icopce-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
@@ -71,7 +71,7 @@ permalink: /programme/icopce-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Edward Ion</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
@@ -95,7 +95,7 @@ permalink: /programme/icopce-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Dughall-Aitken" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Dughall Aitken</b>
+                            <a href="/Mr-Dughall-Aitken" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Dughall Aitken</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Chief Executive</div>
                           <div class="text-ellipsis speaker-company"> Spica Services Group</div>
@@ -109,7 +109,7 @@ permalink: /programme/icopce-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Ahmad-Nazri" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Ahmad Nazri</b>
+                            <a href="/Mr-Ahmad-Nazri" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Ahmad Nazri</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Response Team Manager</div>
                           <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
@@ -125,7 +125,7 @@ permalink: /programme/icopce-plenary-2
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="speakers/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Jan Eege Klop</b>
+                            <a href="/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Jan Eege Klop</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Senior Commercial Manager</div>
                           <div class="text-ellipsis speaker-company">SMIT Salvage Pte Ltd</div>
