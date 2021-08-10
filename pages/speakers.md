@@ -207,7 +207,7 @@ permalink: /speakers
             <img src="images/speakers/Binoy-Dubey.png" alt="Capt. Binoy Dubey" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Binoy Dubey</h4>
-          <div class="speaker-position text-ellipsis">Admiralty Manager</div>
+          <div class="speaker-position text-ellipsis">Admiralty Manager and Solicitor</div>
           <div class="speaker-company text-ellipsis">Incisive Law LLC</div>
         </a>
       </div>
@@ -227,16 +227,16 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Raymond Peter</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">BSM Singapore</div>
+          <div class="speaker-company text-ellipsis">Bernhard Schulte Shipmanagement (Singapore) Pte Ltd</div>
       </div>
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/mr-bas-weibe"></a>
+        <a href="/mr-bas-wiebe"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Weibe" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Wiebe" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Bas Weibe</h4>
+          <h4 class="speaker-name text-ellipsis">Mr. Bas Wiebe</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
           <div class="speaker-company text-ellipsis">Resolve Salvage & Fire (Asia) Pte Ltd</div>
       </div>
@@ -264,7 +264,7 @@ permalink: /speakers
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr Dughall Aitken" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Dughall Aitken</h4>
+          <h4 class="speaker-name text-ellipsis">Mr. Dughall Aitken</h4>
           <div class="speaker-position text-ellipsis">Chief Executive</div>
           <div class="speaker-company text-ellipsis">Spica Services Group</div>
       </div>
@@ -282,11 +282,20 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-jan-eege-klop"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan Eege Klop" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan-Eege Klop" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Jan Eege Klop</h4>
+          <h4 class="speaker-name text-ellipsis">Mr. Jan-Eege Klop</h4>
           <div class="speaker-position text-ellipsis">Senior Commercial Manager</div>
-          <div class="speaker-company text-ellipsis">SMIT Salvage</div>
+          <div class="speaker-company text-ellipsis">SMIT Salvage Pte Ltd</div>
+      </div>
+			      <div class="col is-4">
+        <a href="/capt-kevin-wong"></a>
+          <div class="speaker-image-wrapper">
+            <img src="images/speakers/Kevin-Wong.png" alt="Capt Kevin Wong" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Capt Kevin Wong</h4>
+          <div class="speaker-position text-ellipsis">Port Master</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
     </div>
   </div>
