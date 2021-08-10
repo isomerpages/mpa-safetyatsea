@@ -293,7 +293,7 @@ permalink: /speakers
           <div class="speaker-image-wrapper">
             <img src="images/speakers/Kevin-Wong.png" alt="Capt Kevin Wong" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Capt Kevin Wong</h4>
+          <h4 class="speaker-name text-ellipsis">Capt. Kevin Wong</h4>
           <div class="speaker-position text-ellipsis">Port Master</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div></a>
       </div>
