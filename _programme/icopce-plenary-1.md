@@ -29,7 +29,7 @@ permalink: /programme/icopce-plenary-1
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Binoy-Dubey" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Binoy Dubey</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Admiralty Manager</div>
+                          <div class="text-ellipsis speaker-position">Admiralty Manager and Solicitor</div>
                           <div class="text-ellipsis speaker-company">Incisive Law LLC</div>
                         </div>
                       </div>
@@ -68,7 +68,7 @@ permalink: /programme/icopce-plenary-1
                           <div class="speaker-name text-ellipsis">
                             <a href="speakers/Capt-Binoy-Dubey" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Binoy Dubey</b></a>
                           </div>
-                          <div class="text-ellipsis speaker-position">Admiralty Manager</div>
+                          <div class="text-ellipsis speaker-position">Admiralty Manager and Solicitor</div>
                           <div class="text-ellipsis speaker-company">Incisive Law LLC</div>
                           <div class="speaker-role text-ellipsis text-muted">
                             <small>Moderator</small>
