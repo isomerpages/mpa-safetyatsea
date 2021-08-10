@@ -8,7 +8,7 @@ permalink: /capt-binoy-dubey
             </div>
             <div class="col is-9 speaker-details">
               <h4>Capt. Binoy Dubey</h4>
-<p>Admiralty Manager<br>
+<p>Admiralty Manager and Solicitor<br>
 Incisive Law LLC</p><br>
 <p>Captain Binoy Dubey is an Extra-Master Mariner and English qualified lawyer with extensive seagoing and onshore maritime and legal claims handling experience. He is a recognised expert in ice navigation and has broad experience in handling all types of marine casualty including collisions, groundings, pollution (including oil pollution), salvage, fires, cargo damage, unsafe port and ice damage. Binoy regularly advises clients on both wet and dry shipping matters. He also has experience in P&I claim handling, FDD and admiralty disputes both in the Court and in arbitration.</p><p>
 
