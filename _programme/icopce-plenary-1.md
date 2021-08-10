@@ -149,6 +149,7 @@ permalink: /programme/icopce-plenary-1
      </div>
    </div>
  </div>
+ </div>
 </section>
 
 <style type="text/css"> 
