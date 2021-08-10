@@ -127,8 +127,19 @@ permalink: /programme/icopce-plenary-1
                        </div>
                      </div>
                    </div>
-                   <div class="col is-6 prog-speaker">
-                   </div>
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+                        <div class="col is-4">
+                          <img src="images/speakers/Kevin-Wong.png" alt="Capt. Kevin Wong" class="speaker-image mb-4">
+                        </div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a href="speakers/Capt-Kevin-Wong" class="speaker-name text-ellipsis" rel="noopener"></a><b>Capt. Kevin Wong</b>
+                          </div>
+                          <div class="text-ellipsis speaker-position">Port Master</div>
+                          <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+                        </div>
+                      </div>
                  </div>
                </div>
              </div>
