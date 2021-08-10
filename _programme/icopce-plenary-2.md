@@ -128,7 +128,7 @@ permalink: /programme/icopce-plenary-2
                             <a href="speakers/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Jan Eege Klop</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Senior Commercial Manager</div>
-                          <div class="text-ellipsis speaker-company">SMIT Salvage</div>
+                          <div class="text-ellipsis speaker-company">SMIT Salvage Pte Ltd</div>
                         </div>
                       </div>
                     </div>
