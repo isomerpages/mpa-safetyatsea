@@ -121,11 +121,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan Eege Klop" class="speaker-image mb-4">
+                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan-Eege Klop" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Jan Eege Klop</b>
+                            <a href="/Mr-Jan-Eege-Klop" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Jan-Eege Klop</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Senior Commercial Manager</div>
                           <div class="text-ellipsis speaker-company">SMIT Salvage Pte Ltd</div>
