@@ -103,7 +103,7 @@ permalink: /programme/icopce-plenary-1
                             <a href="speakers/Capt-Raymond-Peter" class="speaker-name text-ellipsis" rel="noopener"></a><b>Capt. Raymond Peter</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Managing Director</div>
-                          <div class="text-ellipsis speaker-company">BSM Singapore</div>
+                          <div class="text-ellipsis speaker-company">Bernhard Schulte Shipmanagement (Singapore) Pte Ltd</div>
                         </div>
                       </div>
                     </div>
