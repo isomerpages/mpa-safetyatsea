@@ -1,4 +1,5 @@
 ---
-title: Mr. Oyvind Hellan
+title: Mr. Øyvind Hellan
 permalink: /mr-oyvind-hellan
 ---
+
