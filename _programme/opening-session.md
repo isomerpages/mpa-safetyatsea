@@ -207,7 +207,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Oyvind-Hellan.png" alt="Mr. Øyvind Hellan" class="speaker-image mb-4">
+                          <img src="images/speakers/Oyvind-Hellan.png" alt="Dr. Øyvind Hellan" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
