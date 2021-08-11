@@ -207,11 +207,11 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Øyvind Hellan" class="speaker-image mb-4">
+                          <img src="images/speakers/Oyvind-Hellan.png" alt="Mr. Øyvind Hellan" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Øyvind Hellan</b>
+                            <a href="/mr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Øyvind Hellan</b></a>
                           </div>
                           <div class="speaker-position text-ellipsis">Vice President (Research)</div>
                           <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
