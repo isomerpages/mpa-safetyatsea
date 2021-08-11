@@ -37,7 +37,7 @@ sections:
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
       button: View Programme
-      url: /programme/opening-session-for-the-iss-week
+      url: /programme/opening-session
   - infopic:
       title: IS@S Plenary 1
       subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
