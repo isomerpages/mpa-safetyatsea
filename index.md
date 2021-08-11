@@ -32,7 +32,7 @@ sections:
       description: Joint opening for International Safety@Sea (IS@S) and International
         Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
         to be announced.
-      image: /images/OpeningSession1a.jpg
+      image: /images/OpeningSession1b.jpg
       alt: Image alt text
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
@@ -44,7 +44,7 @@ sections:
       description: Safer Carriage of Goods – What More Must Be Done?
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
-      image: /images/ISASPlenary1.jpg
+      image: /images/ISASPlenary1a.jpg
       alt: Image alt text
   - infopic:
       title: IS@S Plenary 2
@@ -52,7 +52,7 @@ sections:
       description: Rethinking Crew Training in a VUCA World
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/ISASPlenary2.jpg
+      image: /images/ISASPlenary2a.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 1
