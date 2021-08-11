@@ -2,13 +2,12 @@
 title: Dr. Øyvind Hellan
 permalink: /dr-oyvind-hellan
 ---
-
 <div class="row">
             <div class="col is-3">
               <img src="images/speakers/Oyvind-Hellan.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>Mr. Øyvind Hellan</h4>
+              <h4>Dr. Øyvind Hellan</h4>
 <p>Vice President (Research)<br>
 SINTEF Ocean</p><br>
 <p>
