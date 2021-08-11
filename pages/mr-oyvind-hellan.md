@@ -11,7 +11,7 @@ permalink: /mr-oyvind-hellan
 <p>Vice President (Research)<br>
 SINTEF Ocean</p><br>
 <p>
-Øyvind Hellan is Vice President (Research) of SINTEF Ocean.  SINTEF is one of Europe's largest independent research organizations, located in Trondheim, Norway.  SINTEF Ocean operates some of the worlds' most advanced marine technology laboratories and perform research and innovation for the maritime industry, for offshore oil&gas, renewable energy, aquaculture and marine environmental technology.</p><p>
+Øyvind Hellan is Vice President (Research) of SINTEF Ocean.  SINTEF is one of Europe's largest independent research organizations, located in Trondheim, Norway.  SINTEF Ocean operates some of the worlds' most advanced marine technology laboratories and perform research and innovation for the maritime industry, for offshore oil & gas, renewable energy, aquaculture and marine environmental technology.</p><p>
 
 Dr. Hellan has more than 35 years of experience in maritime and offshore technology, R&D, research management and innovation/business development.  He has a M.Sc. in Structural Engineering and a Ph.D. in Marine Technology from The Norwegian University of Technology and Science (NTNU). </p>
             </div>
