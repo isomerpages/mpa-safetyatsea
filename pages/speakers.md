@@ -51,13 +51,13 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/mr-oyvind-hellan"></a>
+        <a href="/mr-oyvind-hellan">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Øyvind Hellan" class="speaker-image img-fluid mb-3">
+            <img src="images/speakers/Oyvind-Hellan.png" alt="Mr. Øyvind Hellan" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Øyvind Hellan</h4>
           <div class="speaker-position text-ellipsis">Vice President (Research)</div>
-          <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
+          <div class="speaker-company text-ellipsis">SINTEF Ocean</div></a>
       </div>
       <div class="col is-4">
         <a href="/capt-yves-vandenborn">
