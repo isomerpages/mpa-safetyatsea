@@ -60,7 +60,7 @@ sections:
       description: Future Proofing Marine Environment Protection in a Changing Landscape
       button: View Programme
       url: /programme/icopce-plenary-1
-      image: /images/ICOPCEPlenary1.jpg
+      image: /images/ICOPCEPlenary1a.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 2
@@ -68,6 +68,6 @@ sections:
       description: Navigating the Increased Complexity of Incident Management
       button: View Programme
       url: /programme/icopce-plenary-2
-      image: /images/ICOPCEPlenary2.jpg
+      image: /images/ICOPCEPlenary2a.jpg
       alt: Image alt text
 ---
