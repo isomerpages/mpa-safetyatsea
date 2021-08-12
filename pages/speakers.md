@@ -11,7 +11,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-chee-hong-tat">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Chee Hong Tat" src="images/speakers/CheeHongTat.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Chee Hong Tat</h4>
           <div class="speaker-position text-ellipsis">Senior Minister of State</div>
@@ -21,7 +21,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-steen-lund">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Steen Lund" src="images/speakers/Steen-Lund.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Steen Lund</h4>
           <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
@@ -31,7 +31,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/ms-katharina-stanzel">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Katharina-Stanzel2.png" alt="Ms. Katharina Stanzel" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Ms. Katharina Stanzel" src="images/speakers/Katharina-Stanzel2.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Ms. Katharina Stanzel</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
@@ -43,7 +43,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-nick-chubb">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Nick-Chubb.png" alt="Mr. Nick Chubb" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Nick Chubb" src="images/speakers/Nick-Chubb.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Nick Chubb</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
@@ -53,7 +53,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/dr-oyvind-hellan">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Oyvind-Hellan.png" alt="Dr. Øyvind Hellan" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Dr. Øyvind Hellan" src="images/speakers/Oyvind-Hellan.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr. Øyvind Hellan</h4>
           <div class="speaker-position text-ellipsis">Vice President (Research)</div>
@@ -62,7 +62,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-yves-vandenborn">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Yves Vandenborn" src="images/speakers/YvesVandenborn.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Yves Vandenborn</h4>
           <div class="speaker-position text-ellipsis">Hon. President</div>
@@ -81,27 +81,27 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-vibhas-garg">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Vibhas-Garg.png" alt="Capt. Vibhas Garg" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Vibhas Garg" src="images/speakers/Vibhas-Garg.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Vibhas Garg</h4>
-          <div class="speaker-position text-ellipsis">Director, Global Head of Safety & Quality</div>
+          <div class="speaker-position text-ellipsis">Director, Global Head of Safety &amp; Quality</div>
           <div class="speaker-company text-ellipsis">Wallem Group</div>
         </a>
       </div>
       <div class="col is-4">
         <a href="/mr-david-townsend">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/David-Townsend.png" alt="Mr. David Townsend" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. David Townsend" src="images/speakers/David-Townsend.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. David Townsend</h4>
           <div class="speaker-position text-ellipsis">Principal Fire Investigator</div>
-          <div class="speaker-company text-ellipsis">Andrew Moore & Associates (Singapore) Pte Ltd</div>
+          <div class="speaker-company text-ellipsis">Andrew Moore &amp; Associates (Singapore) Pte Ltd</div>
         </a>
       </div>
       <div class="col is-4">
         <a href="/mr-cheah-aun-aun">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Cheah-Aun-Aun.png" alt="Mr. Cheah Aun Aun" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Cheah Aun Aun" src="images/speakers/Cheah-Aun-Aun.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Cheah Aun Aun</h4>
           <div class="speaker-position text-ellipsis">Director (Shipping)</div>
@@ -113,7 +113,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-lee-chee-seong">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Lee-Chee-Seong.png" alt="Capt. Lee Chee Seong" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Lee Chee Seong" src="images/speakers/Lee-Chee-Seong.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Lee Chee Seong</h4>
           <div class="speaker-position text-ellipsis">Fleet Director</div>
@@ -123,7 +123,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-kunal-nakra">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Kunal-Nakra.png" alt="Capt. Kunal Nakra" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Kunal Nakra" src="images/speakers/Kunal-Nakra.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Kunal Nakra</h4>
           <div class="speaker-position text-ellipsis">Deputy Director, Transport Safety Investigation Bureau</div>
@@ -142,7 +142,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/dr-grahaeme-henderson">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson OBE" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Dr. Grahaeme Henderson OBE" src="images/speakers/Grahaeme-Henderson.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Dr. Grahaeme Henderson OBE</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
@@ -152,7 +152,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-pradeep-chawla">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Pradeep-Chawla.png" alt="Capt. Pradeep Chawla" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Pradeep Chawla" src="images/speakers/Pradeep-Chawla.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Pradeep Chawla</h4>
           <div class="speaker-position text-ellipsis">Managing Director, Group QHSE and Training</div>
@@ -162,7 +162,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-hari-subramaniam">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Hari-Subramaniam.png" alt="Capt. Hari Subramaniam" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Hari Subramaniam" src="images/speakers/Hari-Subramaniam.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Hari Subramaniam</h4>
           <div class="speaker-position text-ellipsis">Regional Head - Business Relations and MediSea</div>
@@ -174,7 +174,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-daniel-zhang">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Daniel-Zhang.png" alt="Mr. Daniel Zhang" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Daniel Zhang" src="images/speakers/Daniel-Zhang.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Daniel Zhang</h4>
           <div class="speaker-position text-ellipsis">Centre Director</div>
@@ -184,7 +184,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-michael-phoon">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Michael-Phoon.png" alt="Mr. Michael Phoon" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Michael Phoon" src="images/speakers/Michael-Phoon.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Michael Phoon</h4>
           <div class="speaker-position text-ellipsis">Executive Director</div>
@@ -204,7 +204,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-binoy-dubey">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Binoy-Dubey.png" alt="Capt. Binoy Dubey" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Binoy Dubey" src="images/speakers/Binoy-Dubey.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Binoy Dubey</h4>
           <div class="speaker-position text-ellipsis">Admiralty Manager and Solicitor</div>
@@ -214,7 +214,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-darren-waterman"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Darren Waterman" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Darren Waterman" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Darren Waterman</h4>
           <div class="speaker-position text-ellipsis">Regional Director (APAC)</div>
@@ -223,7 +223,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/capt-raymond-peter"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Capt. Raymond Peter" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Raymond Peter" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Raymond Peter</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
@@ -234,11 +234,11 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-bas-wiebe"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Bas Wiebe" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Bas Wiebe" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Bas Wiebe</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Resolve Salvage & Fire (Asia) Pte Ltd</div>
+          <div class="speaker-company text-ellipsis">Resolve Salvage &amp; Fire (Asia) Pte Ltd</div>
       </div>
     </div>
   </div>
@@ -253,16 +253,16 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-edward-ion">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Edward Ion" src="images/speakers/Edward-Ion.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Edward Ion</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">Navigate Response Asia</div></a>
+          <div class="speaker-company text-ellipsis">Navigate Response (Asia)</div></a>
       </div>
       <div class="col is-4">
         <a href="/mr-dughall-aitken"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr Dughall Aitken" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr Dughall Aitken" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Dughall Aitken</h4>
           <div class="speaker-position text-ellipsis">Chief Executive</div>
@@ -271,7 +271,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-ahmad-nazri"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Ahmad Nazri" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Ahmad Nazri" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Ahmad Nazri</h4>
           <div class="speaker-position text-ellipsis">Response Team Manager</div>
@@ -282,7 +282,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-jan-eege-klop"></a>
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Speaker_Silhouette2.jpg" alt="Mr. Jan-Eege Klop" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Jan-Eege Klop" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Jan-Eege Klop</h4>
           <div class="speaker-position text-ellipsis">Senior Commercial Manager</div>
@@ -291,7 +291,7 @@ permalink: /speakers
 			      <div class="col is-4">
         <a href="/capt-kevin-wong">
           <div class="speaker-image-wrapper">
-            <img src="images/speakers/Kevin-Wong.png" alt="Capt Kevin Wong" class="speaker-image img-fluid mb-3">
+            <img class="speaker-image img-fluid mb-3" alt="Capt Kevin Wong" src="images/speakers/Kevin-Wong.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Kevin Wong</h4>
           <div class="speaker-position text-ellipsis">Port Master</div>
