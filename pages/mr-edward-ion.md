@@ -9,7 +9,7 @@ permalink: /mr-edward-ion
             <div class="col is-9 speaker-details">
               <h4>Mr. Edward Ion</h4>
 <p>Managing Director<br>
-Navigate Response Asia</p><br>
+Navigate Response (Asia)</p><br>
 <p>
 Edward is the Managing Director of Navigate Response. As a communications advisor in the shipping
 sector, he has led crisis response for a large number of international clients ranging from major
@@ -21,7 +21,7 @@ During 20 years as a reporter, he wrote about just about every major shipping ca
 world ranging from the Herald of Free Enterprise disaster, the Exxon Valdez, Piper Alpha, the Erika and many others.</p><p>
 In his work as a crisis manager and corporate communications consultant for the maritime sector, he currently handles a wide variety of shipping and maritime public relations accounts ranging from ship managers, owners, marine insurers and Maritime Event Organisers.</p><p>
 Via his work with various insurance industry clients, he has advised on the role of the media in crisis situations from a risk management perspective. He is a regular speaker at various maritime transport and risk management conferences on the subject of media handling and crisis management.
-Edward holds a BA (Hons) in Politics & Modern History from the University of Manchester in the UK and a Diploma in management from the School of Business at the National University of Singapore.
+Edward holds a BA (Hons) in Politics &amp; Modern History from the University of Manchester in the UK and a Diploma in management from the School of Business at the National University of Singapore.
 He is a member of the Singapore Institute of International Affairs (SIIA).</p>
             </div>
           </div> 
