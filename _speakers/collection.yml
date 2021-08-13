@@ -1,0 +1,6 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - mr-chee-hong-tat.md
+      - dr-heike-deggim.md

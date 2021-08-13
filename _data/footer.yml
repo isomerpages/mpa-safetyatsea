@@ -1,10 +1,9 @@
-contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
+contact_us: /contact
+show_reach: false
+feedback: https://form.gov.sg/610e731cdc77d900129c73c5
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/MPA.SG/
+  twitter: https://twitter.com/MPA_Singapore
+  youtube: https://www.youtube.com/user/mpasmw
+  instagram: https://www.instagram.com/maritime_sg
+  linkedin: https://www.linkedin.com/company/mpasingapore/

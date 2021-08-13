@@ -1,19 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SafetyAtSeaLogo1.jpg
 links:
+  - title: Register
+    url: /register
+  - title: About Us
+    url: /about-us
+  - title: Programme
+    url: /programme/overview
+  - title: Speakers
+    url: /speakers
+  - title: Partners
+    url: /partners
+  - title: Media Room
+    url: /media-room
+  - title: Resources
+    url: /resources
   - title: Contact Us
-    url: /contact-us/
-  - title: Sample page
-    url: /sample page/
-  - title: Folder 1
-    collection: folder-1
-  - title: Folder 2
-    collection: folder-2
-  - title: Sample Resource
-    resource_room: true
+    url: /contact

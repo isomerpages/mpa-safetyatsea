@@ -1,5 +1,0 @@
-collections:
-  folder-2:
-    output: true
-    order:
-      - page.md
