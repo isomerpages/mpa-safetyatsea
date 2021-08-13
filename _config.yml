@@ -52,4 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://mpa-safetyatsea-staging.netlify.app
 prod: https://mpa-safetyatsea-prod.netlify.app
-google_analytics: G-8RC9JP669D
+google_analytics: UA-181063598-1
