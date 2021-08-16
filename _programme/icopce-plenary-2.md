@@ -105,11 +105,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Ahmad Nazri" src="images/speakers/Speaker_Silhouette2.jpg">
+                          <img class="speaker-image mb-4" alt="Mr. Ahmad Nazri" src="images/speakers/Ahmad-Nazri.png">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Ahmad-Nazri"></a><b>Mr. Ahmad Nazri</b>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Ahmad-Nazri"><b>Mr. Ahmad Nazri</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Response Team Manager</div>
                           <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
@@ -121,13 +121,13 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Jan-Eege Klop" src="images/speakers/Speaker_Silhouette2.jpg">
+                          <img class="speaker-image mb-4" alt="Mr. Hemant Phul" src="images/speakers/Speaker_Silhouette2.jpg">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Jan-Eege-Klop"></a><b>Mr. Jan-Eege Klop</b>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Hemant-Phul"></a><b>Mr. Hemant Phul</b>
                           </div>
-                          <div class="text-ellipsis speaker-position">Senior Commercial Manager</div>
+                          <div class="text-ellipsis speaker-position">General Manager</div>
                           <div class="text-ellipsis speaker-company">SMIT Salvage Pte Ltd</div>
                         </div>
                       </div>

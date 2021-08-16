@@ -221,13 +221,13 @@ permalink: /speakers
           <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div>
       </div>
       <div class="col is-4">
-        <a href="/capt-raymond-peter"></a>
+        <a href="/capt-raymond-peter">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Capt. Raymond Peter" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Capt. Raymond Peter" src="images/speakers/Raymond-Peter.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt. Raymond Peter</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">Bernhard Schulte Shipmanagement (Singapore) Pte Ltd</div>
+          <div class="speaker-company text-ellipsis">Bernhard Schulte Shipmanagement (Singapore) Pte Ltd</div></a>
       </div>
     </div>
     <div class="row">
@@ -269,13 +269,13 @@ permalink: /speakers
           <div class="speaker-company text-ellipsis">Spica Services Group</div>
       </div>
       <div class="col is-4">
-        <a href="/mr-ahmad-nazri"></a>
+        <a href="/mr-ahmad-nazri">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Mr. Ahmad Nazri" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Ahmad Nazri" src="images/speakers/Ahmad-Nazri.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Ahmad Nazri</h4>
           <div class="speaker-position text-ellipsis">Response Team Manager</div>
-          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div>
+          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div></a>
       </div>
     </div>
     <div class="row">
@@ -284,8 +284,8 @@ permalink: /speakers
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" alt="Mr. Jan-Eege Klop" src="images/speakers/Speaker_Silhouette2.jpg">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr. Jan-Eege Klop</h4>
-          <div class="speaker-position text-ellipsis">Senior Commercial Manager</div>
+          <h4 class="speaker-name text-ellipsis">Mr. Hemant Phul</h4>
+          <div class="speaker-position text-ellipsis">General Manager</div>
           <div class="speaker-company text-ellipsis">SMIT Salvage Pte Ltd</div>
       </div>
 			      <div class="col is-4">
