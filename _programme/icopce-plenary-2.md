@@ -24,11 +24,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Edward Ion" src="images/speakers/Edward-Ion.png">
+                          <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Edward-Ion"><b>Mr. Edward Ion</b></a>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Edward Ion</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
@@ -67,11 +67,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Edward Ion" src="images/speakers/Edward-Ion.png">
+                          <img src="images/speakers/Edward-Ion.png" alt="Mr. Edward Ion" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Edward-Ion"><b>Mr. Edward Ion</b></a>
+                            <a href="/Mr-Edward-Ion" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Edward Ion</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Managing Director                
@@ -91,11 +91,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Dughall Aitken" src="images/speakers/Speaker_Silhouette2.jpg">
+                          <img src="images/speakers/Dughall-Aitken2.png" alt="Mr. Dughall Aitken" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Dughall-Aitken"></a><b>Mr. Dughall Aitken</b>
+                            <a href="/Mr-Dughall-Aitken" class="speaker-name text-ellipsis" rel="noopener"></a><b>Mr. Dughall Aitken</b>
                           </div>
                           <div class="text-ellipsis speaker-position">Chief Executive</div>
                           <div class="text-ellipsis speaker-company"> Spica Services Group</div>
@@ -105,11 +105,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Ahmad Nazri" src="images/speakers/Ahmad-Nazri.png">
+                          <img src="images/speakers/Ahmad-Nazri.png" alt="Mr. Ahmad Nazri" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Ahmad-Nazri"><b>Mr. Ahmad Nazri</b></a>
+                            <a href="/Mr-Ahmad-Nazri" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Ahmad Nazri</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Response Team Manager</div>
                           <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
@@ -121,11 +121,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Hemant Phul" src="images/speakers/Hemant-Phul.png">
+                          <img src="images/speakers/Hemant-Phul.png" alt="Mr. Hemant Phul" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Hemant-Phul"><b>Mr. Hemant Phul</b></a>
+                            <a href="/Mr-Hemant-Phul" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Hemant Phul</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">General Manager</div>
                           <div class="text-ellipsis speaker-company">SMIT Salvage Pte Ltd</div>
@@ -135,11 +135,11 @@ permalink: /programme/icopce-plenary-2
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Capt. Kevin Wong" src="images/speakers/Kevin-Wong.png">
+                          <img src="images/speakers/Kevin-Wong.png" alt="Capt. Kevin Wong" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Capt-Kevin-Wong"><b>Capt. Kevin Wong</b></a>
+                            <a href="/Capt-Kevin-Wong" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Kevin Wong</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Port Master</div>
                           <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
