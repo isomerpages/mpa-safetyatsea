@@ -2,6 +2,7 @@
 title: Mr. Darren Waterman
 permalink: /mr-darren-waterman
 ---
+
 <div class="row">
             <div class="col is-3">
               <img src="images/speakers/Darren-Waterman.png">
