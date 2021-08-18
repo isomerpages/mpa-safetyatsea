@@ -82,11 +82,11 @@ permalink: /programme/icopce-plenary-1
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img class="speaker-image mb-4" alt="Mr. Darren Waterman" src="images/speakers/Speaker_Silhouette2.jpg">
+                          <img class="speaker-image mb-4" alt="Mr. Darren Waterman" src="images/speakers/Darren-Waterman.png">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="speakers/Mr-Darren-Waterman"></a><b>Mr. Darren Waterman</b>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Mr-Darren-Waterman"><b>Mr. Darren Waterman</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Regional Director (APAC)</div>
                           <div class="text-ellipsis speaker-company">Oil Spill Response Ltd</div>
@@ -100,7 +100,7 @@ permalink: /programme/icopce-plenary-1
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a rel="noopener" class="speaker-name text-ellipsis" href="speakers/Capt-Raymond-Peter"><b>Capt. Raymond Peter</b></a>
+                            <a rel="noopener" class="speaker-name text-ellipsis" href="/Capt-Raymond-Peter"><b>Capt. Raymond Peter</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">Managing Director</div>
                           <div class="text-ellipsis speaker-company">Bernhard Schulte Shipmanagement (Singapore) Pte Ltd</div>

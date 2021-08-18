@@ -212,13 +212,13 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/mr-darren-waterman"></a>
+        <a href="/mr-darren-waterman">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Mr. Darren Waterman" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Darren Waterman" src="images/speakers/Darren-Waterman.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Darren Waterman</h4>
           <div class="speaker-position text-ellipsis">Regional Director (APAC)</div>
-          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div>
+          <div class="speaker-company text-ellipsis">Oil Spill Response Ltd</div></a>
       </div>
       <div class="col is-4">
         <a href="/capt-raymond-peter">
@@ -262,7 +262,7 @@ permalink: /speakers
       <div class="col is-4">
         <a href="/mr-dughall-aitken"></a>
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Mr Dughall Aitken" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Mr Dughall Aitken" src="images/speakers/Dughall-Aitken2.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Dughall Aitken</h4>
           <div class="speaker-position text-ellipsis">Chief Executive</div>
@@ -280,13 +280,13 @@ permalink: /speakers
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/mr-jan-eege-klop"></a>
+        <a href="/mr-hemant-phul">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Mr. Jan-Eege Klop" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Hemant-Phul" src="images/speakers/Hemant-Phul.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Hemant Phul</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">SMIT Salvage Pte Ltd</div>
+          <div class="speaker-company text-ellipsis">SMIT Salvage Pte Ltd</div></a>
       </div>
 			      <div class="col is-4">
         <a href="/capt-kevin-wong">
