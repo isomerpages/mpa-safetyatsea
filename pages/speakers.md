@@ -232,13 +232,13 @@ permalink: /speakers
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/mr-bas-wiebe"></a>
+        <a href="/mr-bas-wiebe">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Mr. Bas Wiebe" src="images/speakers/Speaker_Silhouette2.jpg">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Bas Wiebe" src="images/speakers/Bas-Wiebe.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Bas Wiebe</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Resolve Salvage &amp; Fire (Asia) Pte Ltd</div>
+          <div class="speaker-company text-ellipsis">Resolve Salvage &amp; Fire (Asia) Pte Ltd</div></a>
       </div>
     </div>
   </div>
@@ -260,13 +260,13 @@ permalink: /speakers
           <div class="speaker-company text-ellipsis">Navigate Response (Asia)</div></a>
       </div>
       <div class="col is-4">
-        <a href="/mr-dughall-aitken"></a>
+        <a href="/mr-dughall-aitken">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" alt="Mr Dughall Aitken" src="images/speakers/Dughall-Aitken2.png">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Dughall Aitken</h4>
           <div class="speaker-position text-ellipsis">Chief Executive</div>
-          <div class="speaker-company text-ellipsis">Spica Services Group</div>
+          <div class="speaker-company text-ellipsis">Spica Services Group</div></a>
       </div>
       <div class="col is-4">
         <a href="/mr-ahmad-nazri">
