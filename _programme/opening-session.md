@@ -129,17 +129,17 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Managing Director
+                            Chief Operations Officer
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            INTERTANKO
+                            Anglo-Eastern Ship Management Ltd
                           </div>
                         </div>
                       </div>
@@ -241,17 +241,17 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Managing Director
+                            Chief Operations Officer
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            INTERTANKO</div>
+                            Anglo-Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
