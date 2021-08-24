@@ -29,13 +29,13 @@ permalink: /speakers
         </a>
       </div>
       <div class="col is-4">
-        <a href="/ms-katharina-stanzel">
+        <a href="/mr-carsten-ostenfeldt">
           <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="Ms. Katharina Stanzel" src="images/speakers/Katharina-Stanzel2.png">
+            <img class="speaker-image img-fluid mb-3" alt="Mr. Carsten Ostenfeldt" src="images/speakers/Carsten-Ostenfeldt.png">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ms. Katharina Stanzel</h4>
-          <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">INTERTANKO</div>
+          <h4 class="speaker-name text-ellipsis">Mr. Carsten Brix Ostenfeldt</h4>
+          <div class="speaker-position text-ellipsis">INTERTANKO Council Member and </div>
+          <div class="speaker-company text-ellipsis">Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
         </a>
       </div>
     </div>

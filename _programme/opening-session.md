@@ -57,26 +57,7 @@ permalink: /programme/opening-session
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:10 - 16:15</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
-								The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>16:15 - 16:30</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>16:10 - 16:25</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference
                 <div class="programme-description readmore">
                 </div>
@@ -119,7 +100,7 @@ permalink: /programme/opening-session
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:30 - 16:45</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>16:25 - 16:40</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Keynote Presentation for ICOPCE Conference</h4>
                 <div class="programme-description readmore">
                 </div>
@@ -129,17 +110,17 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Managing Director
+                            INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            INTERTANKO
+                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd
                           </div>
                         </div>
                       </div>
@@ -162,7 +143,7 @@ permalink: /programme/opening-session
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:45 - 17:55</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>16:40 - 17:50</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion: "The Human and Technology Crossroads for Maritime Safety"</h4>
                 <div class="programme-description readmore">
                 </div>
@@ -241,22 +222,41 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Katharina-Stanzel.png" alt="Ms. Katharina Stanzel" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Ms-Katharina-Stanzel" class="speaker-name text-ellipsis" rel="noopener"><b>Ms. Katharina Stanzel</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Managing Director
+                            INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            INTERTANKO</div>
+                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>17:50 - 17:55</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
+								The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
               </div>
             </div>
           </div>
