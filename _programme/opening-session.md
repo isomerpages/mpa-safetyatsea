@@ -229,10 +229,10 @@ permalink: /programme/opening-session
                             <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Chief Operations Officer
+                            INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Anglo-Eastern Ship Management Ltd</div>
+                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
