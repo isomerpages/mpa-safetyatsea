@@ -114,7 +114,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Ostenfeldt</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chief Operations Officer
@@ -226,7 +226,7 @@ permalink: /programme/opening-session
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Ostenfeldt</b></a>
+                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chief Operations Officer
