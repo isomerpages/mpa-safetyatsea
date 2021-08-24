@@ -2,22 +2,22 @@
 title: Mr. Carsten Brix Ostenfeldt
 permalink: /mr-carsten-ostenfeldt
 ---
-
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Katharina-Stanzel2.png">
+              <img src="images/speakers/Carsten-Ostenfeldt.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>Ms. Katharina Stanzel</h4>
-<p>Managing Director<br>
-INTERTANKO</p><br>
-<p>Katharina Stanzel has served as Managing Director of INTERTANKO since 2012. The fifth MD in the Association’s long history, she brings an environmental background to the position. She holds postgraduate qualifications in coastal management and business administration from universities in Germany, the UK and Australia.</p>
-<p>
-A marine biologist by training, she entered the world of shipping in the 1990s. Focussing on marine pollution from ships, she spent ten years as technical advisor for the International Tanker Owners Pollution Federation before joining the IOPC Funds, a UN body tasked with administering several crucial compensation conventions for oil pollution from tankers. </p>
-<p>
-She is a Member of the American Bureau of Shipping and sits on the Marine and European Advisory Committees for Lloyd’s Register and RINA respectively. She also served as non-executive director on the Board of SeaAlarm, a Belgian foundation that brings together NGOs, government agencies and industry to enhance oiled wildlife response. </p>
-<p>
-She was honoured to be named WISTA International Personality of the Year 2012 by the Women in Shipping Trade Association.
+              <h4>Mr. Carsten Brix Ostenfeldt</h4>
+<p>Chief Operations Officer<br>
+Anglo-Eastern Ship Management Ltd</p><br>
+<p>Mr. Carsten Ostenfeldt is the COO of Asia for Anglo-Eastern Univan Group, one of the world’s foremost ship management companies.</p><p>
+
+Headquartered in Hong Kong, with offices across Asia, Europe and the Americas, Anglo-Eastern has around 650 vessels under full technical management, over 200 under crew management, and more than 450 supervised newbuildings and conversions to its credit. The group manages and provides technical services to bulk carriers, container ships, tankers, and heavy-lift, offshore and other specialty vessels.</p><p>
+As COO - Asia, Carsten has oversight for over 500 bulk carriers, container ships and tankers managed by the group’s Hong Kong and Singapore offices.</p><p>
+Carsten brings with him over ten years of international ship management experience, having served as Managing Director of Anglo-Eastern (Germany) GmbH in Hamburg, the group’s largest ship management office outside of Asia.</p><p>
+He was also CEO of Dania Ship Management and Senior Vice President and COO of Nordic Tankers in Denmark, as well as CEO of Thome Ship Management in Singapore.</p><p>
+Complementing his career in ship management is a strong and extensive background in marine engineering and technical services. After gaining practical experience at a shipyard during his formative years, Carsten earned a BSc in Engineering before joining MAN B&amp;W Diesel, where he held various positions over the course of 15 years, from supervising new engines under production to heading up the group’s technical service and global service divisions.</p><p>
+Carsten, who also holds an Executive MBA in Shipping &amp; Logistics (“Blue MBA”) from Copenhagen Business School, is presently a regional committee member of both DNV GL and Bureau Veritas in Germany. Previously, he was an executive committee and council member of INTERTANKO, chairman of the Singapore Shipping Association’s technical committee, and a committee member of various IACS class associations.
 </p>
             </div>
           </div> 
