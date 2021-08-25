@@ -100,7 +100,7 @@ permalink: /programme/iss-conference-plenary-2
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>14:55 - 15:55</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>17:25 - 18:25</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion: "Rethinking Crew Training in a VUCA World"</h4>
                 <div class="programme-description readmore">
                 </div>
