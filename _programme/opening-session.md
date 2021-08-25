@@ -101,7 +101,7 @@ permalink: /programme/opening-session
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>16:25 - 16:40</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">"Embracing a New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference
+                <h4 class="programme-title">"A Holistic View on the New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
