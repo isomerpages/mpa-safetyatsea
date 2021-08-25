@@ -110,7 +110,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -222,7 +222,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
