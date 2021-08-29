@@ -9,7 +9,7 @@ permalink: /mr-carsten-ostenfeldt
             <div class="col is-9 speaker-details">
               <h4>Mr. Carsten Brix Ostenfeldt</h4>
 <p>INTERTANKO Council Member and <br>
-Chief Operations Officer, Anglo-Eastern Ship Management Ltd</p><br>
+Chief Operating Officer, Anglo-Eastern Ship Management Ltd</p><br>
 <p>Mr. Carsten Ostenfeldt is the COO of Asia for Anglo-Eastern Univan Group, one of the world’s foremost ship management companies.</p><p>
 
 Headquartered in Hong Kong, with offices across Asia, Europe and the Americas, Anglo-Eastern has around 650 vessels under full technical management, over 200 under crew management, and more than 450 supervised newbuildings and conversions to its credit. The group manages and provides technical services to bulk carriers, container ships, tankers, and heavy-lift, offshore and other specialty vessels.</p><p>
