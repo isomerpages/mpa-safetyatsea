@@ -120,7 +120,7 @@ permalink: /programme/opening-session
                             INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd
+                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd
                           </div>
                         </div>
                       </div>
@@ -232,7 +232,7 @@ permalink: /programme/opening-session
                             INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
+                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
