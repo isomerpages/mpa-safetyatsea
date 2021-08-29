@@ -35,7 +35,7 @@ permalink: /speakers
           </div>
           <h4 class="speaker-name text-ellipsis">Mr. Carsten Brix Ostenfeldt</h4>
           <div class="speaker-position text-ellipsis">INTERTANKO Council Member and </div>
-          <div class="speaker-company text-ellipsis">Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
+          <div class="speaker-company text-ellipsis">Chief Operating Officer, Anglo-Eastern Ship Management Ltd</div>
         </a>
       </div>
     </div>
