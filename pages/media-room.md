@@ -4,6 +4,15 @@ permalink: /media-room
 ---
 <div class="row mx-0">
   <div class="col is-12 mx-auto text-center">
+		<h4 class="mb-4 text-dark">PRESS RELEASE</h4>
+    <p class="mt-4">
+      <span style="text-decoration: underline;">
+        <span style="color: #5c1d5e;">
+          <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/5a184c6e-4fd5-41c7-ad9a-c87b0716b6eb" style="color: #993366; text-decoration: underline;">Technology to Enhance Maritime Safety and Marine Environment Protection <br>*International Safety@Sea Week 2021 features two flagship conferences*</a>
+        </span>
+      </span>
+    </p>
+    <hr class="my-5">
     <h4 class="mb-4 text-dark">2021 VIDEO GALLERY</h4>
     <div class="row">
       <div class="col is-6 mb-4">
@@ -21,22 +30,6 @@ permalink: /media-room
         <p>The Maritime and Port Authority of Singapore (MPA) has launched six next-generation patrol craft to enhance its frontline capabilities to ensure navigational safety, and enhance the protection of the marine environment in the Port of Singapore.</p>
       </div>--!>
     </div>
-   <!-- <h4 class="mb-4 text-dark">PRESS RELEASE</h4>
-    <p class="mt-4">
-      <span style="text-decoration: underline;">
-        <span style="color: #5c1d5e;">
-          <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/5a184c6e-4fd5-41c7-ad9a-c87b0716b6eb" style="color: #993366; text-decoration: underline;">Collaboration and Digitalisation Highlighted for Singapore’s Maritime Safety Efforts at MPA’s International Safety@Sea Event</a>
-        </span>
-      </span>
-      <br>
-      <br>
-      <span style="text-decoration: underline;">
-        <span style="color: #5c1d5e;">
-          <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/detail/d146f655-cb88-4daf-aeaa-7c85b3da5a21" style="color: #993366; text-decoration: underline;">Record number of 15 winners for MPA’s International Safety@Sea Awards</a>
-        </span>
-      </span>
-    </p>
-    <hr class="my-5">-->
     <h4 class="mb-4 text-dark">2020 PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.youtube.com/playlist?list=PLtnss4YyvyaaOnjqIxMimNqh6UhURUkXO" style="color: #993366; text-decoration: underline;">here.</a>
     </p>
