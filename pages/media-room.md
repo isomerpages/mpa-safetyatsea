@@ -4,6 +4,23 @@ permalink: /media-room
 ---
 <div class="row mx-0">
   <div class="col is-12 mx-auto text-center">
+    <h4 class="mb-4 text-dark">2021 VIDEO GALLERY</h4>
+    <div class="row">
+      <div class="col is-6 mb-4">
+        <div class="bp-youtube">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JRlDvXtNVLE" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+        <h4 class="text-info">MPA International Safety@Sea Awards 2021</h4>
+        <p>Full Recording</p>
+      </div>
+     <!-- <div class="col is-6 mb-4">
+        <div class="bp-youtube">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4CVp07MvNUs" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+        <h4 class="text-info">MPA Next-Generation Patrol Craft</h4>
+        <p>The Maritime and Port Authority of Singapore (MPA) has launched six next-generation patrol craft to enhance its frontline capabilities to ensure navigational safety, and enhance the protection of the marine environment in the Port of Singapore.</p>
+      </div>--!>
+    </div>
    <!-- <h4 class="mb-4 text-dark">PRESS RELEASE</h4>
     <p class="mt-4">
       <span style="text-decoration: underline;">
@@ -20,7 +37,7 @@ permalink: /media-room
       </span>
     </p>
     <hr class="my-5">-->
-    <h4 class="mb-4 text-dark">PHOTO GALLERY</h4>
+    <h4 class="mb-4 text-dark">2020 PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.youtube.com/playlist?list=PLtnss4YyvyaaOnjqIxMimNqh6UhURUkXO" style="color: #993366; text-decoration: underline;">here.</a>
     </p>
     <div class="row px-3">
@@ -160,64 +177,8 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('/images/media/2020/35_2684_resized.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
-    <h4 class="mb-4 text-dark">
-      <br>2019
-    </h4>
-    <p class="mt-4">MPA held the sixth edition of the annual International Safety@Sea Week in August 2019 to raise safety awareness and instill a safety-first culture at sea. As part of MPA’s flagship event on maritime safety, the fourth International Safety@Sea Conference centered on the theme of ‘Maritime Safety in a Digital Age’. Attended by nearly 300 international maritime professionals from 29 countries, the event facilitated a dynamic exchange of ideas and best practices on enhancing maritime safety.</p>
-    <div class="row gallery-row gallery3 mx-0">
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-01.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-02.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-04.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-05.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-06.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-03.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-07.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-08.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-09.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-11.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-      <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-14.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
-      </div>
-    </div>
     <hr class="my-5">
-    <h4 class="mb-4 text-dark">VIDEO GALLERY</h4>
+    <h4 class="mb-4 text-dark">2020 VIDEO GALLERY</h4>
     <div class="row">
       <div class="col is-6 mb-4">
         <div class="bp-youtube">
@@ -275,6 +236,62 @@ permalink: /media-room
         <p>Full Recording</p>
       </div>
       <div class="col is-6 mb-4">
+      </div>
+    </div>
+			    <h4 class="mb-4 text-dark">
+      <br>2019 PHOTO GALLERY
+    </h4>
+    <p class="mt-4">MPA held the sixth edition of the annual International Safety@Sea Week in August 2019 to raise safety awareness and instill a safety-first culture at sea. As part of MPA’s flagship event on maritime safety, the fourth International Safety@Sea Conference centered on the theme of ‘Maritime Safety in a Digital Age’. Attended by nearly 300 international maritime professionals from 29 countries, the event facilitated a dynamic exchange of ideas and best practices on enhancing maritime safety.</p>
+    <div class="row gallery-row gallery3 mx-0">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-01.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-02.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-04.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-05.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-06.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-03.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-07.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-08.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-09.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-11.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/media/2019/MPA-ISAS2019-14.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
   </div>
