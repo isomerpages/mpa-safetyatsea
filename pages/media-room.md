@@ -22,13 +22,6 @@ permalink: /media-room
         <h4 class="text-info">MPA International Safety@Sea Awards 2021</h4>
         <p>Full Recording</p>
       </div>
-     <!--<div class="col is-6 mb-4">
-        <div class="bp-youtube">
-          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4CVp07MvNUs" allowfullscreen="allowfullscreen"></iframe>
-        </div>
-        <h4 class="text-info">MPA Next-Generation Patrol Craft</h4>
-        <p>The Maritime and Port Authority of Singapore (MPA) has launched six next-generation patrol craft to enhance its frontline capabilities to ensure navigational safety, and enhance the protection of the marine environment in the Port of Singapore.</p>
-      </div>--!>
     </div>
     <h4 class="mb-4 text-dark">2020 PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.youtube.com/playlist?list=PLtnss4YyvyaaOnjqIxMimNqh6UhURUkXO" style="color: #993366; text-decoration: underline;">here.</a>
