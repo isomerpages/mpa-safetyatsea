@@ -8,7 +8,7 @@ permalink: /media-room
     <p class="mt-4">
       <span style="text-decoration: underline;">
         <span style="color: #5c1d5e;">
-          <a href="/images/Press Release_Day_1.pdf" style="color: #993366; text-decoration: underline;">Technology to Enhance Maritime Safety and Marine Environment Protection <br>*International Safety@Sea Week 2021 features two flagship conferences*</a>
+          <a href="/images/Press Release_Day_1.pdf" style="color: #993366; text-decoration: underline;">Technology to Enhance Maritime Safety and Marine Environment Protection <br>International Safety@Sea Week 2021 features two flagship conferences</a>
         </span>
       </span>
     </p>
