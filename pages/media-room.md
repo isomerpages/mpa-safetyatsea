@@ -22,7 +22,7 @@ permalink: /media-room
         <h4 class="text-info">MPA International Safety@Sea Awards 2021</h4>
         <p>Full Recording</p>
       </div>
-     <!-- <div class="col is-6 mb-4">
+     <!--<div class="col is-6 mb-4">
         <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4CVp07MvNUs" allowfullscreen="allowfullscreen"></iframe>
         </div>
