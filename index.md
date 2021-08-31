@@ -1,10 +1,12 @@
 ---
 layout: homepage
 title: International Safety @ Sea Week 2021
-description: Join us at this annual gathering of the international maritime community as we discuss maritime safety, technology and environmental protection over 5 sessions.
+description: Join us at this annual gathering of the international maritime
+  community as we discuss maritime safety, technology and environmental
+  protection over 5 sessions.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Open for Registration Now!
+notification: Sign up for Plenaries on 31 Aug and 1 Sep!
 sections:
   - hero:
       background: /images/Mainbanner3.jpg

@@ -101,7 +101,7 @@ permalink: /programme/opening-session
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>16:25 - 16:40</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Keynote Presentation for ICOPCE Conference</h4>
+                <h4 class="programme-title">"A Holistic View on the New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -110,7 +110,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -120,7 +120,7 @@ permalink: /programme/opening-session
                             INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd
+                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd
                           </div>
                         </div>
                       </div>
@@ -222,7 +222,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
+                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -232,7 +232,7 @@ permalink: /programme/opening-session
                             INTERTANKO Council Member and 
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Chief Operations Officer, Anglo-Eastern Ship Management Ltd</div>
+                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd</div>
                         </div>
                       </div>
                     </div>
