@@ -6,7 +6,7 @@ description: Join us at this annual gathering of the international maritime
   protection over 5 sessions.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Sign up for Plenaries on 31 Aug and 1 Sep!
+notification: Missed the Opening Session? Watch the recording under MEDIA ROOM now.
 sections:
   - hero:
       background: /images/Mainbanner3.jpg
