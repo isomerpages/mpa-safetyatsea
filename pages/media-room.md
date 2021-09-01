@@ -15,6 +15,13 @@ permalink: /media-room
     <hr class="my-5">
     <h4 class="mb-4 text-dark">2021 VIDEO GALLERY</h4>
     <div class="row">
+			      <div class="col is-6 mb-4">
+        <div class="bp-youtube">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7oORxVZY4_0" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+        <h4 class="text-info">Opening Session: The Human and Technology Crossroads for Maritime Safety</h4>
+        <p>Full Recording</p>
+      </div>
       <div class="col is-6 mb-4">
         <div class="bp-youtube">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JRlDvXtNVLE" allowfullscreen="allowfullscreen"></iframe>
