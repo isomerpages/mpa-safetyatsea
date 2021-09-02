@@ -58,7 +58,7 @@ permalink: /programme/iss-conference-plenary-2
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>17:15 - 17:25</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">“Competencies & Learning Methodologies for the Future””</h4>
+                <h4 class="programme-title">“Competencies & Learning Methodologies for the Future”</h4>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
