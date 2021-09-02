@@ -16,6 +16,9 @@ permalink: /programme/icopce-plenary-2
               <div class="p-4">
                 <div class="programme-time"><b>17:05 - 17:35</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Navigating the Increased Complexity of Incident Management"</h4> 
+																<span style="text-decoration: underline;">
+          <a href="/images/Edward Ion - Navigating the Increased Complexity of Incident Management.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+      </span>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
