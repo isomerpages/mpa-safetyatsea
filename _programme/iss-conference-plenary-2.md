@@ -16,6 +16,9 @@ permalink: /programme/iss-conference-plenary-2
               <div class="p-4">
                 <div class="programme-time"><b>17:05 - 17:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">“Seafarer Training: Working Together as a Global Shipping Industry”</h4> 
+								<span style="text-decoration: underline;">
+          <a href="/images/Grahaeme Henderson - Seafarer Training - Working Together as a Global Shipping Industry.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+      </span>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -59,6 +62,9 @@ permalink: /programme/iss-conference-plenary-2
               <div class="p-4">
                 <div class="programme-time"><b>17:15 - 17:25</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">“Competencies & Learning Methodologies for the Future”</h4>
+								<span style="text-decoration: underline;">
+          <a href="/images/Pradeep Chawla - Competencies & Learning Methodologies for the Future.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+      </span>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
