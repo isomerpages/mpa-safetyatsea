@@ -11,9 +11,9 @@ sections:
   - hero:
       background: /images/Mainbanner3.jpg
       key_highlights:
-        - title: Register
+        - title: MEDIA ROOM
           description: ""
-          url: /register
+          url: /media-room
         - title: About Us
           description: ""
           url: /about-us
