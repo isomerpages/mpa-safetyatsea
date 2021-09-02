@@ -15,7 +15,10 @@ permalink: /programme/iss-conference-plenary-1
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>14:35 - 14:45</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">“Dangerous Goods - the Bane of Box Ship Safety”</h4> 
+                <h4 class="programme-title">“Dangerous Goods - the Bane of Box Ship Safety”</h4>
+								<span style="text-decoration: underline;">
+          <a href="/images/Vibhas Garg - Dangerous Goods - the Bane of Box Ship Safety.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+      </span>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
