@@ -58,7 +58,10 @@ permalink: /programme/opening-session
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>16:10 - 16:25</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference
+                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference<br><br>
+								<span style="text-decoration: underline;">
+          <a href="/images/Steen Lund - Digital Platforms Deliver Safety, Sustainability and Social Responsibility.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+      </span>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
