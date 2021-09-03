@@ -46,6 +46,22 @@ permalink: /media-room
         <p>Full Recording</p>
       </div>
     </div>
+				    <div class="row">
+			      <div class="col is-6 mb-4">
+        <div class="bp-youtube">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/60IO5pUhiIY" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+        <h4 class="text-info">ICOPCE Plenary 1: Future Proofing Marine Environment Protection in a Changing Landscape</h4>
+        <p>Full Recording</p>
+      </div>
+      <div class="col is-6 mb-4">
+        <div class="bp-youtube">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FsJf7t8BPWk" allowfullscreen="allowfullscreen"></iframe>
+        </div>
+        <h4 class="text-info">ICOPCE Plenary 2: Navigating the Increased Complexity of Incident Management</h4>
+        <p>Full Recording</p>
+      </div>
+    </div>
     <h4 class="mb-4 text-dark">2020 PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.youtube.com/playlist?list=PLtnss4YyvyaaOnjqIxMimNqh6UhURUkXO" style="color: #993366; text-decoration: underline;">here.</a>
     </p>

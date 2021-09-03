@@ -6,14 +6,14 @@ description: Join us at this annual gathering of the international maritime
   protection over 5 sessions.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Missed the Opening Session? Watch the recording under MEDIA ROOM now.
+notification: Missed it? Watch all 5 session recordings under MEDIA ROOM now.
 sections:
   - hero:
       background: /images/Mainbanner3.jpg
       key_highlights:
-        - title: Register
+        - title: MEDIA ROOM
           description: ""
-          url: /register
+          url: /media-room
         - title: About Us
           description: ""
           url: /about-us
