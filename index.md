@@ -27,9 +27,8 @@ sections:
       subtitle: 30 August - 1 September 2021
   - infobar:
       title: Spotlight on Maritime Safety, Technology & the Environment
-      description: Join us at this annual gathering of the international maritime
-        community as we discuss maritime safety, technology and environmental
-        protection over 5 sessions.
+      description: An annual event by the Maritime and Port Authority of Singapore to
+        promote safety at sea. Watch all 5 session recordings under MEDIA ROOM.
   - infopic:
       description: Joint opening for International Safety@Sea (IS@S) and International
         Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
