@@ -262,6 +262,7 @@ permalink: /programme/opening-session
               <div class="p-4">
                 <div class="programme-time"><b>17:50 - 17:55</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
+								<a href="https://youtu.be/A3btxNUfv6Y" style="color: #993366; text-decoration: underline;">Watch Awards Ceremony</a><br><br>
 								The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
               </div>
             </div>
