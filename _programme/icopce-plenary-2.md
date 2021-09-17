@@ -17,7 +17,7 @@ permalink: /programme/icopce-plenary-2
                 <div class="programme-time"><b>17:05 - 17:35</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Navigating the Increased Complexity of Incident Management"</h4> 
 																<span style="text-decoration: underline;">
-          <a href="/images/Edward Ion - Navigating the Increased Complexity of Incident Management.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+          <a href="/images/Edward Ion - Navigating the Increased Complexity of Incident Management.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/91nYO83vnZc" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
       </span>
                 <div class="programme-description readmore">
                 </div>
@@ -62,6 +62,7 @@ permalink: /programme/icopce-plenary-2
               <div class="p-4">
                 <div class="programme-time"><b>17:35 - 18:25</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion</h4>
+								<a href="https://youtu.be/EXcxTMEucJo" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
