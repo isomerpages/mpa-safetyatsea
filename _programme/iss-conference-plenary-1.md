@@ -17,7 +17,7 @@ permalink: /programme/iss-conference-plenary-1
                 <div class="programme-time"><b>14:35 - 14:45</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">“Dangerous Goods - the Bane of Box Ship Safety”</h4>
 								<span style="text-decoration: underline;">
-          <a href="/images/Vibhas Garg - Dangerous Goods - the Bane of Box Ship Safety.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+          <a href="/images/Vibhas Garg - Dangerous Goods - the Bane of Box Ship Safety.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/XmuBKaa0mWo" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
       </span>
                 <div class="programme-description readmore">
                 </div>
@@ -62,6 +62,7 @@ permalink: /programme/iss-conference-plenary-1
               <div class="p-4">
                 <div class="programme-time"><b>14:45 - 14:55</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">“Fire on Container Vessels – Are We Sailing Blissfully To Catastrophe?”</h4>
+								<a href="https://youtu.be/rmhQSIiz-dQ" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -105,6 +106,7 @@ permalink: /programme/iss-conference-plenary-1
               <div class="p-4">
                 <div class="programme-time"><b>14:55 - 15:55</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion: "Safer Carriage of Goods – What More Must Be Done?"</h4>
+								<a href="https://youtu.be/Uzns-lRrX6g" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
