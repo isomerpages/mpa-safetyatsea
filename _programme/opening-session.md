@@ -16,6 +16,7 @@ permalink: /programme/opening-session
               <div class="p-4">
                 <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
+								 <a href="https://youtu.be/OCz1RtrF79w" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -60,7 +61,7 @@ permalink: /programme/opening-session
                 <div class="programme-time"><b>16:10 - 16:25</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference<br><br>
 								<span style="text-decoration: underline;">
-          <a href="/images/Steen Lund - Digital Platforms Deliver Safety, Sustainability and Social Responsibility.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+          <a href="/images/Steen Lund - Digital Platforms Deliver Safety, Sustainability and Social Responsibility.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/_3i6NWgHVSQ" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
       </span>
                 <div class="programme-description readmore">
                 </div>
@@ -104,7 +105,8 @@ permalink: /programme/opening-session
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>16:25 - 16:40</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">"A Holistic View on the New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference
+                <h4 class="programme-title">"A Holistic View on the New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference<br><br>
+								 <a href="https://youtu.be/fuAN28eXJJs" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -148,6 +150,7 @@ permalink: /programme/opening-session
               <div class="p-4">
                 <div class="programme-time"><b>16:40 - 17:50</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion: "The Human and Technology Crossroads for Maritime Safety"</h4>
+								<a href="https://youtu.be/DlyjKiXFAu8" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
