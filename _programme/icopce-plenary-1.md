@@ -17,7 +17,7 @@ permalink: /programme/icopce-plenary-1
                 <div class="programme-time"><b>14:35 - 15:05</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">"Future Proofing Marine Environment Protection in a Changing Landscape"</h4> 
 																								<span style="text-decoration: underline;">
-          <a href="/images/ICOPCE-Plenary-1-Combined-Slides.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>
+          <a href="/images/ICOPCE-Plenary-1-Combined-Slides.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/lHR5bRhqGbs" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
       </span>
                 <div class="programme-description readmore"></div>
                 <hr class="my-3 border-primary">
@@ -57,6 +57,7 @@ permalink: /programme/icopce-plenary-1
               <div class="p-4">
                 <div class="programme-time"><b>15:05 - 15:55</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Panel Discussion</h4>
+								<a href="https://youtu.be/QxkSrF6WLJs" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
