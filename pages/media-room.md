@@ -31,7 +31,7 @@ permalink: /media-room
           <div class="media-height" style="background-image: url('/images/4.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/5.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+          <div class="media-height" style="background-image: url('/images/5.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
     </div>
     <div class="row">
@@ -47,7 +47,7 @@ permalink: /media-room
     </div>
     <div class="row">
       <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/9.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+          <div class="media-height" style="background-image: url('/images/9.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
           <div class="media-height" style="background-image: url('/images/10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
