@@ -36,7 +36,7 @@ permalink: /media-room
     </div>
     <div class="row">
       <div class="col is-4 mb-4">
-          <div class="media-height" style="background-image: url('/images/media/6.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+          <div class="media-height" style="background-image: url('/images/6.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
       </div>
       <div class="col is-4 mb-4">
           <div class="media-height" style="background-image: url('/images/7.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
