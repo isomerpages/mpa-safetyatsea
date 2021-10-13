@@ -12,6 +12,59 @@ permalink: /media-room
         </span>
       </span>
     </p>
+		    <hr class="my-5">
+		<h4 class="mb-4 text-dark">2021 PHOTO GALLERY</h4>
+    <p class="mt-4">The 8th International Safety@Sea Week from 30 August to 1 September 2021 attracted over 1,000 attendees from more than 70 countries. The spotlight was put on maritime safety, technology and the environment across five sessions under the International Safety@Sea Conference and the International Chemical and Oil Pollution Conference. The Opening Session on “The Human and Technology Crossroads for Maritime Safety” was opened by Mr Chee Hong Tat, Senior Minister of State for Transport, Singapore. This edition of MPA’s flagship event on maritime safety featured 25 maritime thought leaders, including speakers from international organisations like RightShip and INTERTANKO. Watch the webinar recordings <a href="https://youtube.com/playlist?list=PLtnss4YyvyaZWL9Yk7hDWkz0J55N0-53X" style="color: #993366; text-decoration: underline;">here.</a>
+    </p>
+    <div class="row px-3">
+      <div class="col is-6 mb-4">
+        <img src="/images/1.jpg" >
+      </div>
+      <div class="col is-6 mb-4">
+        <img src="/images/2.png">
+      </div>
+    </div>
+    <div class="row gallery-row gallery3 mx-0">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/3.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/4.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/5.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/6.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/7.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/8.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/9.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/10.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/11.png');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/12.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+      <div class="col is-4 mb-4">
+          <div class="media-height" style="background-image: url('/images/13.jpg');background-position: center; background-repeat: no-repeat; background-size: cover; "></div>
+      </div>
+    </div>
     <hr class="my-5">
     <h4 class="mb-4 text-dark">2021 VIDEO GALLERY</h4>
     <div class="row">
@@ -62,6 +115,7 @@ permalink: /media-room
         <p>Full Recording</p>
       </div>
     </div>
+		    <hr class="my-5">
     <h4 class="mb-4 text-dark">2020 PHOTO GALLERY</h4>
     <p class="mt-4">MPA organised the International Safety@Sea Webinar Series from 30 November to 1 December 2020. More than 900 attendees from over 40 countries participated in the four sessions which discussed maritime safety, seafarers’ mental health &amp; wellness, ship safety and incidents, as well as ship management in the new normal. The Opening Session on “Maritime Safety: New Normal, New Paradigms” was opened by Mr Chee Hong Tat, Senior Minister of State for Foreign Affairs and Transport, Singapore. The seventh edition of MPA’s flagship event on maritime safety featured 21 speakers from across the maritime community including international organisations like the International Maritime Organization, The International Chamber of Shipping, The Nautical Institute, BIMCO and the International Association of Classification Societies. Watch the webinar recordings <a href="https://www.youtube.com/playlist?list=PLtnss4YyvyaaOnjqIxMimNqh6UhURUkXO" style="color: #993366; text-decoration: underline;">here.</a>
     </p>
