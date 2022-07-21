@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Speakers.md
-      - mr-steen-lund.md
+      - Mr Steen Lund.md
       - mr-nick-chubb.md
       - mr-michael-phoon.md
       - mr-dughall-aitken.md
