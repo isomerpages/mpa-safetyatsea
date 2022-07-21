@@ -1,5 +1,4 @@
 collections:
   speakers:
     output: true
-    order:
-      - All Speakers.md
+    order: []
