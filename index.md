@@ -1,9 +1,7 @@
 ---
 layout: homepage
-title: International Safety @ Sea Week 2021
-description: Join us at this annual gathering of the international maritime
-  community as we discuss maritime safety, technology and environmental
-  protection over 5 sessions.
+title: International Safety @ Sea Week 2022
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Missed it? Watch all 5 session recordings under MEDIA ROOM now.
@@ -72,3 +70,4 @@ sections:
       image: /images/ICOPCEPlenary2a.jpg
       alt: Image alt text
 ---
+
