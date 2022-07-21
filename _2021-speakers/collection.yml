@@ -2,4 +2,5 @@ collections:
   2021-speakers:
     output: true
     order:
+      - capt-hari-subramaniam.md
       - Capt Kevin Wong.md
