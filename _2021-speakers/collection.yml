@@ -2,6 +2,7 @@ collections:
   2021-speakers:
     output: true
     order:
+      - capt-lee-chee-seong.md
       - capt-binoy-dubey.md
       - capt-raymond-peter.md
       - capt-kunal-nakra.md
