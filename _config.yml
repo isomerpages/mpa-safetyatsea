@@ -1,4 +1,4 @@
-title: International Safety @ Sea Week 2021
+title: International Safety @ Sea Week 2022
 url: ""
 favicon: /images/SafetyAtSeaLogo1.jpg
 colors:
@@ -53,3 +53,7 @@ plugins:
 staging: https://mpa-safetyatsea-staging.netlify.app
 prod: https://mpa-safetyatsea-prod.netlify.app
 google_analytics: UA-181063598-1
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+linkedin-insights: ""
