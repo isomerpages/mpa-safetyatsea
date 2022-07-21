@@ -3,8 +3,6 @@ title: Capt Kevin Wong
 permalink: /2021-capt-kevin-wong
 description: ""
 ---
-
-
 <div class="row">
             <div class="col is-3">
               <img src="images/speakers/Kevin-Wong.png">
