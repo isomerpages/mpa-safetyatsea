@@ -2,6 +2,7 @@ collections:
   2021-speakers:
     output: true
     order:
+      - capt-yves-vandenborn.md
       - capt-pradeep-chawla.md
       - capt-hari-subramaniam.md
       - Capt Kevin Wong.md
