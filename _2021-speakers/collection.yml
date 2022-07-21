@@ -2,6 +2,7 @@ collections:
   2021-speakers:
     output: true
     order:
+      - mr-edward-ion.md
       - mr-hemant-phul.md
       - mr-david-townsend.md
       - mr-darren-waterman.md
