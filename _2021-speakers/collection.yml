@@ -2,6 +2,7 @@ collections:
   2021-speakers:
     output: true
     order:
+      - mr-darren-waterman.md
       - mr-daniel-zhang.md
       - mr-carsten-brix-ostenfeldt.md
       - mr-cheah-aun-aun.md
