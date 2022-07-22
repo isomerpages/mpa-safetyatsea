@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Mr Terence Yeo.md
       - Mr Michael Phoon.md
       - Rear Admiral Jacques Rivière.md
       - Mr Peter Broadhurst.md
