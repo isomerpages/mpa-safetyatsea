@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Rear Admiral Jacques Rivière.md
       - Mr Peter Broadhurst.md
       - Captain Vibhas Garg.md
       - Prof Raphael Baumler.md
