@@ -2,4 +2,5 @@ collections:
   speakers:
     output: true
     order:
+      - Captain Richard Howe.md
       - Captain William Francis.md
