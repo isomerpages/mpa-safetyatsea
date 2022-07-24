@@ -3,7 +3,6 @@ title: Rear Admiral Jacques Rivière
 permalink: /speakers/rear-admiral-jacques-riviere
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Jacques RivieĚre.png" /></div>
 <div class="col is-9 speaker-details">
@@ -13,3 +12,13 @@ description: ""
 <p>He join CMA CGM Group in 2020 as the head of QSSE for the APAC region. He is responsible of the Quality, Security, Safety, and Environment of the groups assets, vessels, terminals, Inland depot and Cargo. He looks at 100 vessels, and about twenty terminals and depots.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
