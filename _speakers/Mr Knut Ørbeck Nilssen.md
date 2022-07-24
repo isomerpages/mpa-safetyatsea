@@ -4,7 +4,7 @@ permalink: /speakers/mr-knut-orbeck-nilssen
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Speakers/Knut%20Orbeck-Nilssen.png" /></div>
+<div class="col is-3"><img src="/images/Speakers/Knut Orbeck-Nilssen.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Knut &Oslash;rbeck-Nilssen</h4>
 <p>Chief Executive Officer<br />DNV &ndash; Maritime</p>
