@@ -4,7 +4,7 @@ permalink: /speakers/mr-terence-yeo
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Speaker_Silhouette2.jpg" /></div>
+<div class="col is-3"><img src="/images/Speakers/Terence Yeo.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Terence Yeo</h4>
 <p>Assistant Vice President, Infrastructure &amp; Cyber Security Architecture<br />PSA Corporation Ltd</p>
