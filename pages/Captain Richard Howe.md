@@ -3,7 +3,6 @@ title: Captain Richard Howe
 permalink: /speakers/captain-richard-howe
 description: ""
 ---
-
 <div class="row">
             <div class="col is-3">
               <img src="/images/Speakers/Capt Richard Howe.png">
