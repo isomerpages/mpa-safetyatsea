@@ -3,7 +3,6 @@ title: Captain Peng Chuxing
 permalink: /speakers/captain-peng-chuxing
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Chu Xing Peng.png" /></div>
 <div class="col is-9 speaker-details">
@@ -14,3 +13,13 @@ description: ""
 <p>CX actively participates in various forms include SSA Maritime Safety and Security Sub-Committee, World Shipping Council, Container Ship Safety Forum, etc. and leads several safety projects with several local and international institutions.</p>
 </div>
 </div>
+<style type="text/css"> 
+.is-left{
+text-align: left;
+}
+h4{
+font-weight: 500; 
+color: #337B9A !important;
+}
+.speaker-details p { text-align: justified; }
+</style>
