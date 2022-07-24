@@ -3,8 +3,6 @@ title: Mr Peter Broadhurst
 permalink: /speakers/mr-peter-broadhurst
 description: ""
 ---
-
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Peter Broadhurst.png" /></div>
 <div class="col is-9 speaker-details">
@@ -15,3 +13,13 @@ description: ""
 <p>Peter has a HND Electronics, Marine Radio General Certificate, Radar and Marine Navigation Aids accreditation from Wray Castle Merchant Navy School, and holds an Open University, BSc (Hons) First Class degree on Radio Frequency Systems.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
