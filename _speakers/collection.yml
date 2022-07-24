@@ -1,5 +1,4 @@
 collections:
   speakers:
     output: true
-    order:
-      - Captain Vibhas Garg.md
+    order: []
