@@ -27,7 +27,7 @@ description: ""
 </div>
 <div class="col is-4">
 <a href="/speakers/mr-knut-orbeck-nilssen">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Knut Orbeck-Nilssen.png" alt="" /></div>
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Knut Orbeck-Nilssen.png" alt="Mr Knut Ørbeck-Nilssen" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Knut Ørbeck-Nilssen</h4>
 <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
 <div class="speaker-company text-ellipsis">DNV – Maritime</div>
@@ -44,26 +44,26 @@ description: ""
 <div class="row">
 <div class="col is-4">
 <a href="/speakers/captain-william-francis">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/William Francis.png" alt="" /></div>
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/William Francis.png" alt="Captain William Francis" /></div>
 <h4 class="speaker-name text-ellipsis">Captain William Francis</h4>
 <div class="speaker-position text-ellipsis">President</div>
 <div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/captain-richard-howe">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Richard Howe.png" alt="Capt Richard Howe" /></div>
+<h4 class="speaker-name text-ellipsis">Captain Richard Howe</h4>
+<div class="speaker-position text-ellipsis">Managing Director</div>
+<div class="speaker-company text-ellipsis">Maritime Claim & Services Pte Ltd & Yacht Surveys & Services Pte Ltd</div>
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-terence-ho">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Terence Ho.png" alt="Terence Ho" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Terence Ho</h4>
+<div class="speaker-position text-ellipsis">Executive Director</div>
+<div class="speaker-company text-ellipsis">Singapore Sailing Federation</div>
 </a>
 </div>
 </div>
