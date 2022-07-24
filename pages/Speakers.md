@@ -26,13 +26,13 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-knut-orbeck-nilssen">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Knut Orbeck-Nilssen.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Knut Ørbeck-Nilssen</h4>
+<div class="speaker-position text-ellipsis">Chief Executive Officer</div>
+<div class="speaker-company text-ellipsis">DNV – Maritime</div>
 </a>
-</div>
+</div>    
 </div>
 <div class="row">
 <div class="col is-4">
