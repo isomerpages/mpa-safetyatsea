@@ -3,7 +3,6 @@ title: Mr Terence Yeo
 permalink: /speakers/mr-terence-yeo
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Terence Yeo.png" /></div>
 <div class="col is-9 speaker-details">
@@ -13,3 +12,13 @@ description: ""
 <p>He has a keen eye for technology and cybersecurity and hopes to leverage on disruptive technologies to improve processes and user experiences. In his spare time, he likes to hang out with his family and enjoys reading.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
