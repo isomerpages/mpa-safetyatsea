@@ -34,32 +34,6 @@ description: ""
 </a>
 </div>    
 </div>
-<div class="row">
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-</div>
 </div>
 </section>
 <div>
@@ -69,11 +43,11 @@ description: ""
 <div class="bp-container is-fluid has-text-centered">
 <div class="row">
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/captain-william-francis">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/William Francis.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Captain William Francis</h4>
+<div class="speaker-position text-ellipsis">President</div>
+<div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
 </a>
 </div>
 <div class="col is-4">
