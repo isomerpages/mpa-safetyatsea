@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Mr Knut Ørbeck Nilssen.md
       - Mr Chan Yew Kwong.md
       - Mr Terence Ho.md
       - Mr Terence Yeo.md
