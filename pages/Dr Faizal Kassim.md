@@ -3,7 +3,6 @@ title: Dr Faizal Kassim
 permalink: /speakers/dr-faizal-kassim
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Speaker_Silhouette2.jpg" /></div>
 <div class="col is-9 speaker-details">
@@ -15,3 +14,13 @@ description: ""
 <p>During pandemic, played major role in leading both local and cross-border B2G Covid-related operations / projects.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
