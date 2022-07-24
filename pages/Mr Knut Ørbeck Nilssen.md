@@ -3,7 +3,6 @@ title: Mr Knut Ørbeck Nilssen
 permalink: /speakers/mr-knut-orbeck-nilssen
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Knut Orbeck-Nilssen.png" /></div>
 <div class="col is-9 speaker-details">
@@ -14,3 +13,13 @@ description: ""
 <p>After joining DNV in Oslo, in 1990, Knut &Oslash;rbeck-Nilssen worked in DNV&rsquo;s core business areas serving the maritime and oil &amp; gas industries. He holds a Bachelor of Engineering degree from Heriot-Watt University in Edinburgh, Scotland, where he was awarded a First Class Honour&rsquo;s Degree in Civil Engineering in 1990.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
