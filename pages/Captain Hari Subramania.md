@@ -3,7 +3,6 @@ title: Captain Hari Subramania
 permalink: /speakers/captain-hari-subramania
 description: ""
 ---
-
 <div class="row">
             <div class="col is-3">
               <img src="/images/Speakers/Captain Hari Subramaniam.png">
