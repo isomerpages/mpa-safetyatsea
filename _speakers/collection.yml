@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Captain Peng Chuxing.md
       - Captain Andre L LeGoubin MNM MA FNI.md
       - Mr Knut Ørbeck Nilssen.md
       - Mr Chan Yew Kwong.md
