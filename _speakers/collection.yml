@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Mr Chan Yew Kwong.md
       - Mr Terence Ho.md
       - Mr Terence Yeo.md
       - Mr Michael Phoon.md
