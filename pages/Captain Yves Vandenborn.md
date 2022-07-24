@@ -3,7 +3,6 @@ title: Captain Yves Vandenborn
 permalink: /speakers/captain-yves-vandenborn
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Yves Vandenborn.png" /></div>
 <div class="col is-9 speaker-details">
@@ -16,3 +15,13 @@ description: ""
 <p>Yves is a Fellow of the Nautical Institute and became the Hon President of the Nautical Institute Singapore branch in 2020. In this capacity, Yves works closely with the local maritime industry for the improvement of seafarer standards, safety and wellbeing.&nbsp;</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
