@@ -3,7 +3,6 @@ title: Captain Vibhas Garg
 permalink: /speakers/captain-vibhas-garg
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Vibhas Garg.png" /></div>
 <div class="col is-9 speaker-details">
@@ -14,3 +13,13 @@ description: ""
 <p>Vibhas has an MBA from the National University of Singapore and a Diploma in Shipmanagement from Lloyds Maritime Academy, UK.</p>
 </div>
 </div>
+<style type="text/css"> 
+.is-left{
+text-align: left;
+}
+h4{
+font-weight: 500; 
+color: #337B9A !important;
+}
+.speaker-details p { text-align: justified; }
+</style>
