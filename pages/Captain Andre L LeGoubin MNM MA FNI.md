@@ -3,7 +3,6 @@ title: Captain Andre L LeGoubin MNM MA FNI
 permalink: /speakers/captain-andre-l-legoubin
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Capt Andre.png" /></div>
 <div class="col is-9 speaker-details">
@@ -18,3 +17,13 @@ description: ""
 <p>Andr&eacute; and his Wife live in Florida, USA and have three adult children, all settled in various parts of the US.</p>
 </div>
 </div>
+<style type="text/css"> 
+.is-left{
+text-align: left;
+}
+h4{
+font-weight: 500; 
+color: #337B9A !important;
+}
+.speaker-details p { text-align: justified; }
+</style>
