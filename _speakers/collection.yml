@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Captain Andre L LeGoubin MNM MA FNI.md
       - Mr Knut Ørbeck Nilssen.md
       - Mr Chan Yew Kwong.md
       - Mr Terence Ho.md
