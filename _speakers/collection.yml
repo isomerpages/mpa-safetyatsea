@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Mr Peter Broadhurst.md
       - Captain Vibhas Garg.md
       - Prof Raphael Baumler.md
       - Dr Faizal Kassim.md
