@@ -3,7 +3,6 @@ title: Mr Michael Phoon
 permalink: /speakers/mr-michael-phoon
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Michael-Phoon.png" /></div>
 <div class="col is-9 speaker-details">
@@ -16,3 +15,13 @@ description: ""
 <p>Serving the Institutes of Higher Learning (IHLs)on talent development:-<br />Michael is a Certified Master Coach with the International Coaching Council and he sits on the Maritime Institute Advisory Councils for Singapore Polytechnic and the National Technological University of Singapore. With his contributions to academia and industry, Michael is an appointed Fellow at the Singapore University of Social Sciences (SUSS).</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
