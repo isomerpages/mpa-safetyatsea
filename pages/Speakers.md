@@ -357,14 +357,3 @@ description: ""
     </div>
     </div>
     </section>
-    
-   <style type="text/css"> 
-    .is-left{
-      text-align: left;
-    }
-    h4{
-      font-weight: 500; 
-      color: #337B9A !important;
-    }
-     .speaker-details p { text-align: justified; }
-  </style>
