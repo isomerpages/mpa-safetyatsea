@@ -6,11 +6,9 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Sudipta Chattopadhyay.png" /></div>
 <div class="col is-9 speaker-details">
-<h4>Captain Peng Chuxing</h4>
+<h4>Prof Sudipta Chattopadhyay</h4>
 <p>Assistant Professor<br>Singapore University of Technology and Design</p>
-<p>Prior to joining Pacific International Lines, CX&rsquo;s chequered career included stints as Port State Control (PSC) officer, Flag State Investigator, Safety Inspectorate with Maritime and Port Authority of Singapore; Loss Prevention Executive with an IG P&amp;I Club; Designated Person Ashore, Company Security Officer, and Quality and Environmental Management Representative of American President Lines.</p>
-<p>CX completed his MSc (Maritime Studies) from Nanyang Technological University; Graduated Diploma in Maritime Law and Arbitration from National University of Singapore; and Diploma in Marine Investigation from North Kent College.</p>
-<p>CX actively participates in various forms include SSA Maritime Safety and Security Sub-Committee, World Shipping Council, Container Ship Safety Forum, etc. and leads several safety projects with several local and international institutions.</p>
+<p>Sudipta Chattopadhyay received the Ph.D. degree in computer science from the National University of Singapore, in 2013. He is an Assistant Professor with the Information Systems Technology and Design Pillar, Singapore University of Technology and Design, Singapore. His general research interests lie in the broad area of cyber security including but not limited to security for AI, Wireless Technologies, and Internet of Things (IoTs). Together with his student, he discovered SweynTooth and BrakTooth, families of Bluetooth vulnerabilities that affect billions of devices worldwide. His research has been featured in WIRED, PC Magazine, Hacker News, among others. His discovery of SweynTooth and BrakTooth have also been generated cyber security alerts from government regulatory agencies including CSA, DHS, and FDA.</p>
 </div>
 </div>
 <style type="text/css"> 
