@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - overview.md
-      - opening-session.md
       - Pleasure Craft Safety Forum.md
       - FEREX Observer Programme.md
       - Harbour Craft Safety Forum.md
+      - opening-session.md
       - Maritime Cybersecurity Dialogue 2022.md
       - Industry Visits.md
       - IS@S Plenary 1.md
