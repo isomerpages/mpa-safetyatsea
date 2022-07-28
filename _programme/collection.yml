@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Maritime Cybersecurity Dialogue 2022.md
       - Harbour Craft Safety Forum.md
       - FEREX Observer Programme.md
       - overview.md
