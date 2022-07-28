@@ -31,7 +31,7 @@ sections:
       description: Joint opening for International Safety@Sea (IS@S) and International
         Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
         to be announced.
-      image: /images/OpeningSession1b.jpg
+      image: /images/2022-thumbnail-opening.jpg
       alt: Image alt text
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
