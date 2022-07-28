@@ -69,7 +69,7 @@ sections:
       title: Industry Visits
       subtitle: 31 AUG | 09:00 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
-      url: "#"
+      url: /programme/industry-visits
       image: /images/2022-thumbnail-industryvisit.jpg
       alt: Image alt text
   - infopic:
