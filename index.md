@@ -31,7 +31,7 @@ sections:
       title: Pleasure Craft Safety Forum
       subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
       button: View Programme
-      url: /programme/icopce-plenary-1
+      url: /programme/pleasure-craft-safety-forum
       image: /images/2022-thumbnail-PleasureCraft.jpg
       alt: Image alt text
   - infopic:
