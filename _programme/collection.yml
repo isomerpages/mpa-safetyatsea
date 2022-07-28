@@ -2,8 +2,8 @@ collections:
   programme:
     output: true
     order:
-      - Pleasure Craft Safety Forum.md
       - overview.md
+      - Pleasure Craft Safety Forum.md
       - opening-session.md
       - IS@S Plenary 1.md
       - IS@S Plenary 2.md
