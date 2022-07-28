@@ -38,7 +38,7 @@ sections:
       title: FEREX Observer Programme
       subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
       button: View Programme
-      url: /programme/icopce-plenary-2
+      url: /programme/ferex-observer-programme
       image: /images/2022-thumbnail-FEREXObserver.jpg
       alt: Image alt text
   - infopic:
