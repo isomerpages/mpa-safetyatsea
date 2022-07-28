@@ -2,12 +2,12 @@ collections:
   programme:
     output: true
     order:
-      - Industry Visits.md
-      - Maritime Cybersecurity Dialogue 2022.md
-      - Harbour Craft Safety Forum.md
-      - FEREX Observer Programme.md
       - overview.md
-      - Pleasure Craft Safety Forum.md
       - opening-session.md
+      - Pleasure Craft Safety Forum.md
+      - FEREX Observer Programme.md
+      - Harbour Craft Safety Forum.md
+      - Maritime Cybersecurity Dialogue 2022.md
+      - Industry Visits.md
       - IS@S Plenary 1.md
       - IS@S Plenary 2.md
