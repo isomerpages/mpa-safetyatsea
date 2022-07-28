@@ -87,4 +87,5 @@ sections:
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
       image: /images/2022thumbnail-plenary2.jpg
+      alt: IS@S Plenary 2
 ---
