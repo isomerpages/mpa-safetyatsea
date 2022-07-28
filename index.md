@@ -53,12 +53,11 @@ sections:
       url: /programme/iss-conference-plenary-2
       image: /images/2022-thumbnail-plenary2.jpg
   - infopic:
-      title: ICOPCE Plenary 1
-      subtitle: 1 Sep | 14:30 - 16:00 (GMT+8)
-      description: Future Proofing Marine Environment Protection in a Changing Landscape
+      title: Pleasure Craft Safety Forum
+      subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
       button: View Programme
       url: /programme/icopce-plenary-1
-      image: /images/ICOPCEPlenary1a.jpg
+      image: /images/2022-thumbnail-HarbourCraft.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 2
