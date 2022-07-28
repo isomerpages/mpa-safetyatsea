@@ -4,7 +4,7 @@ permalink: /programme/iss-conference-plenary-1
 ---
 <div>
   <b>31 Aug | 14:30 - 16:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Plenary 1: Safer Carriage of Goods – What More Must Be Done?</h3>
+  <h3>Plenary 1: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture</h3>
 </div>
 <section>
   <div class="bp-container is-fluid">
