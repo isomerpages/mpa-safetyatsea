@@ -39,11 +39,11 @@ sections:
       url: /programme/opening-session
   - infopic:
       title: IS@S Plenary 1
-      subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
-      description: Safer Carriage of Goods – What More Must Be Done?
+      subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
+      description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
-      image: /images/ISASPlenary1a.jpg
+      image: /images/2022-thumbnail-plenary1.jpg
       alt: Image alt text
   - infopic:
       title: IS@S Plenary 2
