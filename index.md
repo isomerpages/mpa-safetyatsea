@@ -62,7 +62,7 @@ sections:
       subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
       description: Cyber Safety@Sea
       button: VIEW PROGRAMME
-      url: "#"
+      url: /programme/maritime-cybersecurity-dialogue-2022
       image: /images/2022-thumbnail-MaritimeCybersecurity.jpg
       alt: Image alt text
   - infopic:
