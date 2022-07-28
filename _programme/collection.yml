@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Harbour Craft Safety Forum.md
       - FEREX Observer Programme.md
       - overview.md
       - Pleasure Craft Safety Forum.md
