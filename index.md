@@ -50,9 +50,7 @@ sections:
       image: /images/2022-thumbnail-HarbourCraft.jpg
       alt: Image alt text
   - infopic:
-      description: Joint opening for International Safety@Sea (IS@S) and International
-        Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
-        to be announced.
+      description: Riding the Waves for Maritime Safety
       image: /images/2022-thumbnail-opening.jpg
       alt: Image alt text
       title: Opening Session
