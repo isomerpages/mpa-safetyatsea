@@ -52,7 +52,6 @@ sections:
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
       image: /images/2022-thumbnail-plenary2.jpg
-      alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 1
       subtitle: 1 Sep | 14:30 - 16:00 (GMT+8)
