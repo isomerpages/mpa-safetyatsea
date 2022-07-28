@@ -86,5 +86,5 @@ sections:
       description: Proactive Measurement of Leading Indicators for Maritime Safety
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/2022-thumbnail-plenary2.jpg
+      image: /images/2022thumbnail-plenary2.jpg
 ---
