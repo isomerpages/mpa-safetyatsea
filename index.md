@@ -47,11 +47,11 @@ sections:
       alt: Image alt text
   - infopic:
       title: IS@S Plenary 2
-      subtitle: 31 Aug | 17:00 - 18:30 (GMT+8)
-      description: Rethinking Crew Training in a VUCA World
+      subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
+      description: Proactive Measurement of Leading Indicators for Maritime Safety
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/ISASPlenary2a.jpg
+      image: /images/2022-thumbnail-plenary2.jpg
       alt: Image alt text
   - infopic:
       title: ICOPCE Plenary 1
