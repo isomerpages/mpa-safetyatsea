@@ -4,7 +4,7 @@ permalink: /programme/opening-session
 ---
 <div>
   <b>30 Aug | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Opening Session: The Human and Technology Crossroads for Maritime Safety</h3>
+  <h3>Opening Session: Riding the Waves for Maritime Safety</h3>
 </div>
 <section>
   <div class="bp-container is-fluid">
