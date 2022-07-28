@@ -7,7 +7,7 @@ permalink: /
 notification: Missed it? Watch all 5 session recordings under MEDIA ROOM now.
 sections:
   - hero:
-      background: /images/Mainbanner3.jpg
+      background: /images/2022-HOME-BANNER.jpg
       key_highlights:
         - title: MEDIA ROOM
           description: ""
@@ -21,8 +21,8 @@ sections:
         - title: Speakers
           description: ""
           url: /speakers
-      title: International Safety@Sea Week 2021
-      subtitle: 30 August - 1 September 2021
+      title: International Safety@Sea Week 2022
+      subtitle: 29 August - 31 August 2022
   - infobar:
       title: Spotlight on Maritime Safety, Technology & the Environment
       description: An annual event by the Maritime and Port Authority of Singapore to
@@ -70,4 +70,3 @@ sections:
       image: /images/ICOPCEPlenary2a.jpg
       alt: Image alt text
 ---
-
