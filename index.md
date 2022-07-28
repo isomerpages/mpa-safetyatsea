@@ -28,6 +28,28 @@ sections:
       description: An annual event by the Maritime and Port Authority of Singapore to
         promote safety at sea. Watch all 5 session recordings under MEDIA ROOM.
   - infopic:
+      title: Pleasure Craft Safety Forum
+      subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
+      button: View Programme
+      url: /programme/icopce-plenary-1
+      image: /images/2022-thumbnail-PleasureCraft.jpg
+      alt: Image alt text
+  - infopic:
+      title: FEREX Observer Programme
+      subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
+      button: View Programme
+      url: /programme/icopce-plenary-2
+      image: /images/2022-thumbnail-FEREXObserver.jpg
+      alt: Image alt text
+  - infopic:
+      title: Harbour Craft Safety Forum
+      subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
+      description: Infopic description
+      button: View Programme
+      url: "#"
+      image: /images/2022-thumbnail-HarbourCraft.jpg
+      alt: Image alt text
+  - infopic:
       description: Joint opening for International Safety@Sea (IS@S) and International
         Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
         to be announced.
@@ -53,25 +75,18 @@ sections:
       url: /programme/iss-conference-plenary-2
       image: /images/2022-thumbnail-plenary2.jpg
   - infopic:
-      title: Pleasure Craft Safety Forum
-      subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
-      button: View Programme
-      url: /programme/icopce-plenary-1
-      image: /images/2022-thumbnail-PleasureCraft.jpg
-      alt: Image alt text
-  - infopic:
-      title: FEREX Observer Programme
-      subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
-      button: View Programme
-      url: /programme/icopce-plenary-2
-      image: /images/2022-thumbnail-FEREXObserver.jpg
-      alt: Image alt text
-  - infopic:
-      title: Harbour Craft Safety Forum
-      subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
-      description: Infopic description
-      button: View Programme
+      title: Maritime Cybersecurity Dialogue 2022
+      subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
+      description: Cyber Safety@Sea
+      button: VIEW PROGRAMME
       url: "#"
-      image: /images/2022-thumbnail-HarbourCraft.jpg
+      image: /images/2022-thumbnail-MaritimeCybersecurity.jpg
+      alt: Image alt text
+  - infopic:
+      title: Industry Visits
+      subtitle: 31 AUG | 09:00 – 11:30 (GMT+8)
+      button: VIEW PROGRAMME
+      url: "#"
+      image: /images/2022-thumbnail-industryvisit.jpg
       alt: Image alt text
 ---
