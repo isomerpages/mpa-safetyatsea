@@ -57,7 +57,7 @@ sections:
       subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
       button: View Programme
       url: /programme/icopce-plenary-1
-      image: /images/2022-thumbnail-HarbourCraft.jpg
+      image: /images/2022-thumbnail-PleasureCraft.jpg
       alt: Image alt text
   - infopic:
       title: FEREX Observer Programme
@@ -65,5 +65,13 @@ sections:
       button: View Programme
       url: /programme/icopce-plenary-2
       image: /images/2022-thumbnail-FEREXObserver.jpg
+      alt: Image alt text
+  - infopic:
+      title: Harbour Craft Safety Forum
+      subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
+      description: Infopic description
+      button: View Programme
+      url: "#"
+      image: /images/2022-thumbnail-HarbourCraft.jpg
       alt: Image alt text
 ---
