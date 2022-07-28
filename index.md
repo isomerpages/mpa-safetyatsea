@@ -46,7 +46,7 @@ sections:
       subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
       description: Infopic description
       button: View Programme
-      url: "#"
+      url: /programme/harbour-craft-safety-forum
       image: /images/2022-thumbnail-HarbourCraft.jpg
       alt: Image alt text
   - infopic:
