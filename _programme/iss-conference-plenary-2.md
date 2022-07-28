@@ -4,7 +4,7 @@ permalink: /programme/iss-conference-plenary-2
 ---
 <div>
   <b>31 Aug | 17:00 - 18:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Plenary 2: Rethinking Crew Training in a VUCA World</h3>VUCA: Volatility, Uncertainty, Complexity and Ambiguity<br><br>
+  <h3>Plenary 2: Proactive Measurement of Leading Indicators for Maritime Safety</h3>
 </div>
 <section>
   <div class="bp-container is-fluid">
