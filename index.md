@@ -7,7 +7,6 @@ permalink: /
 notification: Missed it? Watch all 5 session recordings under MEDIA ROOM now.
 sections:
   - hero:
-      background: /images/2022-HOME-BANNER.jpg
       key_highlights:
         - title: MEDIA ROOM
           description: ""
