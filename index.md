@@ -60,11 +60,10 @@ sections:
       image: /images/2022-thumbnail-HarbourCraft.jpg
       alt: Image alt text
   - infopic:
-      title: ICOPCE Plenary 2
-      subtitle: 1 Sep  | 17:00 - 18:30 (GMT+8)
-      description: Navigating the Increased Complexity of Incident Management
+      title: FEREX Observer Programme
+      subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
       button: View Programme
       url: /programme/icopce-plenary-2
-      image: /images/ICOPCEPlenary2a.jpg
+      image: /images/2022-thumbnail-FEREXObserver.jpg
       alt: Image alt text
 ---
