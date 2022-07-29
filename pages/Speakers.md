@@ -85,11 +85,11 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Moderator</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-bernard-wong">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Bernard Wong.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Bernard Wong</h4>
+<div class="speaker-position text-ellipsis">Head of Fleet Management</div>
+<div class="speaker-company text-ellipsis">PSA Marine (Pte) Ltd</div>
 </a>
 </div>
 </div>
@@ -103,11 +103,11 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/supt-desmond-ong">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Desmond Ong.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Supt Desmond Ong</h4>
+<div class="speaker-position text-ellipsis">Commanding Officer, Brani Region</div>
+<div class="speaker-company text-ellipsis">Police Coast Guard, Singapore Police Force</div>
 </a>
 </div>
 <div class="col is-4">
@@ -276,11 +276,11 @@ description: ""
 </div>
 <div class="row">
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 4</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/ms-sikha-singh">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/MdmSikha.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Ms Sikha Singh</h4>
+<div class="speaker-position text-ellipsis">Deputy Chief Executive Officer</div>
+<div class="speaker-company text-ellipsis">Executive Group of Companies</div>
 </a>
 </div>
 <div class="col is-4">
