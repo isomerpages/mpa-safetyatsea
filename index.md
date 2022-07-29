@@ -73,7 +73,7 @@ sections:
       image: /images/2022-thumbnail-industryvisit.jpg
       alt: Image alt text
   - infopic:
-      title: IS@S Plenary 1
+      title: International Safety@Sea Plenary 1
       subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
       description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
       button: VIEW PROGRAMME
@@ -81,7 +81,7 @@ sections:
       image: /images/2022-thumbnail-plenary1.jpg
       alt: Image alt text
   - infopic:
-      title: IS@S Plenary 2
+      title: International Safety@Sea Plenary 2
       subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
       description: Proactive Measurement of Leading Indicators for Maritime Safety
       button: VIEW PROGRAMME
