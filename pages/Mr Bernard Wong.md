@@ -15,3 +15,13 @@ description: ""
 <p>Bernard graduated from the National University of Singapore Business School with a Bachelor&rsquo;s degree in Business Administration, majoring in Management and Marketing, and has also completed executive development programs with Columbia Business School and MIT Sloan School of Management.</p>
 </div>
 </div>
+<style type="text/css"> 
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>
