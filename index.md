@@ -35,7 +35,7 @@ sections:
       image: /images/2022-thumbnail-PleasureCraft.jpg
       alt: Image alt text
   - infopic:
-      title: FEREX Observer Programme
+      title: Ferry Rescue Exercise Observer Programme
       subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
       button: View Programme
       url: /programme/ferex-observer-programme
@@ -88,12 +88,4 @@ sections:
       url: /programme/iss-conference-plenary-2
       image: /images/2022thumbnail-plenary2.jpg
       alt: IS@S Plenary 2
-  - infopic:
-      title: IS@S Plenary 2
-      subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
-      description: Proactive Measurement of Leading Indicators for Maritime Safety
-      button: VIEW PROGRAMME
-      url: /programme/iss-conference-plenary-2
-      image: /images/2022-thumbnail-plenary2.jpg
-      alt: Image alt text
 ---
