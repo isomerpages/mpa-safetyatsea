@@ -225,7 +225,7 @@ permalink: /programme/opening-session
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="src=&quot;https://d33wubrfki0l68.cloudfront.net/91f79382fccb1bb38ac428eafb2ef75adfbbd4a8/dc754/images/speakers/michael-phoon.png&quot;" alt="Mr Michael Phoon" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/91f79382fccb1bb38ac428eafb2ef75adfbbd4a8/dc754/images/speakers/michael-phoon.png" alt="Mr Michael Phoon" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-michael-phoon " rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chairman</div>
@@ -271,7 +271,7 @@ permalink: /programme/opening-session
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="images/Speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-legoubin" rel="noopener">Capt Andr&eacute; L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
