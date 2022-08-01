@@ -240,6 +240,7 @@ Capt Sahwan Osman</strong></a></div>
 </div>
 </section>
 
+
 <style type="text/css"> 
     .is-left{
       text-align: left;
