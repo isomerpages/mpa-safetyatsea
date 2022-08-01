@@ -6,6 +6,7 @@ description: ""
 <div><strong>29 Aug | 09:00 - 11:00</strong>&nbsp;<strong>GMT+8</strong>
 <h3>Safety Forum 1 by MPA-Pleasure Craft Safety Work Group &ldquo;Best Practices to Avoid Incidents at Sea&rdquo;</h3>
 </div>
+
 <section>
 <div class="bp-container is-fluid">
 <div class="row">
@@ -16,7 +17,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:00 - 09:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Emcee opens the session</h4>
-
 <div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 </div>
@@ -27,6 +27,7 @@ description: ""
 </div>
 </div>
 </section>
+
 <section>
 <div class="bp-container is-fluid">
 <div class="row">
@@ -117,7 +118,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Michael-Phoon.png" alt="Mr. Michael Phoon" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Terence Ho.png" alt="Mr Terence Ho" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-terence-ho" rel="noopener"><strong>Mr Terence Ho</strong></a></div>
 <div class="text-ellipsis speaker-position">Executive Director</div>
@@ -131,21 +132,22 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Pradeep-Chawla.png" alt="Capt. Pradeep Chawla" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Capt-Pradeep-Chawla" rel="noopener"><strong>Capt. Pradeep Chawla</strong></a></div>
-<div class="text-ellipsis speaker-position">Managing Director, Group QHSE and Training</div>
-<div class="text-ellipsis speaker-company">Anglo Eastern Ship Management Ltd</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-shawn-hoe" rel="noopener"><strong>Captain Shawn Hoe</strong></a></div>
+<div class="text-ellipsis speaker-position">Assistant Director (Marine Environment and Safety)/Deputy Port Master</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Desmond Ong.png" alt="Supt Desmond Ong" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Dr-Grahaeme-Henderson" rel="noopener"><strong>Dr. Grahaeme Henderson OBE</strong></a></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
-<div class="text-ellipsis speaker-company">Together in Safety</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/supt-desmond-ong" rel="noopener"><strong>
+Supt Desmond Ong</strong></a></div>
+<div class="text-ellipsis speaker-position">Commanding Officer, Brani Region</div>
+<div class="text-ellipsis speaker-company">Police Coast Guard, Singapore Police Force</div>
 </div>
 </div>
 </div>
@@ -153,25 +155,41 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Hari-Subramaniam.png" alt="Capt. Hari Subramaniam" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/William%20Francis.png" alt="Captain William Francis" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Capt-Hari-Subramaniam" rel="noopener"><strong>Capt. Hari Subramaniam</strong></a></div>
-<div class="text-ellipsis speaker-position">Regional Head - Business Relations and MediSea</div>
-<div class="text-ellipsis speaker-company">The Shipowners&rsquo; Mutual Protection and Indemnity Association</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong>
+Captain William Francis</strong></a></div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company">Singapore Power Boat Association</div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Daniel-Zhang.png" alt="Mr. Daniel Zhang" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Capt Richard Howe.png" alt="Captain Richard Howe" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Mr-Daniel-Zhang" rel="noopener"><strong>Mr. Daniel Zhang</strong></a></div>
-<div class="text-ellipsis speaker-position">Centre Director</div>
-<div class="text-ellipsis speaker-company">Centre of Excellence in Maritime Safety (CEMS), Singapore Polytechnic</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-richard-howe" rel="noopener"><strong>Captain Richard Howe</strong></a></div>
+<div class="text-ellipsis speaker-position">Managing Director</div>
+<div class="text-ellipsis speaker-company">Maritime Claim & Services Pte Ltd & Yacht Surveys & Services Pte Ltd</div>
 </div>
 </div>
 </div>
 </div>
+  
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-sahwan-osman" rel="noopener"><strong>
+Capt Sahwan Osman</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Lecturer</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
+</div>
+</div>
+</div>
+</div>  
+  
 </div>
 </div>
 </div>
@@ -181,8 +199,47 @@ description: ""
 </div>
 </div>
 </section>
- 
- 
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>10:55 - 11:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Emcee rounds up the session</h4>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>11:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Networking reception</h4>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
 <style type="text/css"> 
     .is-left{
       text-align: left;
