@@ -46,7 +46,7 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/William Francis.png" alt="William Francis.png" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong>Capt William Francis</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Speakers/captain-william-francis" rel="noopener"><strong>Capt William Francis</strong></a></div>
 <div class="text-ellipsis speaker-position">President</div>
 <div class="text-ellipsis speaker-company">Singapore Power Boat Association</div>
 </div>
