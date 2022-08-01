@@ -6,6 +6,28 @@ permalink: /programme/opening-session
   <b>30 Aug | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>Opening Session: Riding the Waves for Maritime Safety</h3>
 </div>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:00 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Emcee opens the session</h4>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
 <section>
   <div class="bp-container is-fluid">
     <div class="row">
@@ -14,9 +36,9 @@ permalink: /programme/opening-session
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>16:05 - 16:10</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>16:05 - 16:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
-								 <a href="https://youtu.be/OCz1RtrF79w" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
+								 <a href="#" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
                 <div class="programme-description readmore">
                 </div>
                 <hr class="my-3 border-primary">
@@ -25,7 +47,7 @@ permalink: /programme/opening-session
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="images/Speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -50,227 +72,234 @@ permalink: /programme/opening-session
     </div>
   </div>
 </section>
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>16:10 - 16:25</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">"Digital Platforms Deliver Safety, Sustainability and Social Responsibility" <br></h4> Keynote Presentation for IS@S Conference<br><br>
-								<span style="text-decoration: underline;">
-          <a href="/images/Steen Lund - Digital Platforms Deliver Safety, Sustainability and Social Responsibility.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/_3i6NWgHVSQ" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
-      </span>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Chief Executive Officer                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            RightShip                 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:15 - 16:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Launch of International Safety@Sea Conference 2022</h4>
+<p>SMS Chee, Chairman MPA, CE MPA, Chairman NMSSC and Chairman, WSHC Marine Industries Committee</p>
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-8">
+<div class="text-ellipsis speaker-company">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>16:25 - 16:40</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">"A Holistic View on the New Era in Marine Environment Protection" <br></h4> Keynote Presentation for ICOPCE Conference<br><br>
-								 <a href="https://youtu.be/fuAN28eXJJs" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            INTERTANKO Council Member and 
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:20 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Launch of joint initiatives with WSH Council (Safety Video &amp; Case Studies E-Book)</h4>
+<p>Mr Ishak Ismail, Chairman of NMSSC and Prof. Chan Eng Soon, Chairman of WSH Council&nbsp;(Marine Industries) Committee</p>
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-8">
+<div class="text-ellipsis speaker-company">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>16:40 - 17:50</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Panel Discussion: "The Human and Technology Crossroads for Maritime Safety"</h4>
-								<a href="https://youtu.be/DlyjKiXFAu8" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/YvesVandenborn.png" alt="Capt. Yves Vandenborn" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Capt-Yves-Vandenborn" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Yves Vandenborn</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Hon. President</div>
-                          <div class="text-ellipsis speaker-company">The Nautical Institute (Singapore)</div>
-                          <div class="speaker-role text-ellipsis text-muted">
-                            <small>Moderator</small>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Nick-Chubb.png" alt="Mr. Nick Chubb" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Nick-Chubb" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Nick Chubb</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Managing Director</div>
-                          <div class="text-ellipsis speaker-company">Thetius</div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Oyvind-Hellan.png" alt="Dr. Øyvind Hellan" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/dr-oyvind-hellan" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Øyvind Hellan</b></a>
-                          </div>
-                          <div class="speaker-position text-ellipsis">Vice President (Research)</div>
-                          <div class="speaker-company text-ellipsis">SINTEF Ocean</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Steen-Lund.png" alt="Mr. Steen Lund" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Steen-Lund" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Steen Lund</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Chief Executive Officer                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            RightShip 
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Carsten-Ostenfeldt1.png" alt="Mr. Carsten Ostenfeldt" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/mr-carsten-ostenfeldt" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Carsten Brix Ostenfeldt</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            INTERTANKO Council Member and 
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Chief Operating Officer, Anglo-Eastern Ship Management Ltd</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+<span style="text-decoration: underline;"><a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Dr Heike Deggim" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/dr-heike-deggim" rel="noopener"><strong>Dr Heike Deggim</strong></a></div>
+<div class="text-ellipsis speaker-position">Director</div>
+<div class="text-ellipsis speaker-company">Maritime Safety Division, International Maritime Organisation</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>17:50 - 17:55</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
-								<a href="https://youtu.be/A3btxNUfv6Y" style="color: #993366; text-decoration: underline;">Watch Awards Ceremony</a><br><br>
-								The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+<span style="text-decoration: underline;"><a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Knut Orbeck-Nilssen.png" alt="Mr Knut &Oslash;rbeck-Nilssen" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-knut-orbeck-nilssen" rel="noopener">Mr Knut &Oslash;rbeck-Nilssen</a></div>
+<div class="text-ellipsis speaker-position">Chief Executive Officer</div>
+<div class="text-ellipsis speaker-company">DNV – Maritime</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:55 - 18:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="src=&quot;https://d33wubrfki0l68.cloudfront.net/91f79382fccb1bb38ac428eafb2ef75adfbbd4a8/dc754/images/speakers/michael-phoon.png&quot;" alt="Mr Michael Phoon" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-michael-phoon " rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="text-ellipsis speaker-position">Deputy Chairman</div>
+<div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council, Singapore</div>
+<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Ms Quah Ley Hoon" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/ms-quah-ley-hoon" rel="noopener">Ms Quah Ley Hoon</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief Executive</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Arif Toha" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-arif-toha" rel="noopener">Mr Arif Toha</a></strong></div>
+<div class="speaker-position text-ellipsis">Acting Director-General of Sea Transportation</div>
+<div class="speaker-company text-ellipsis">Ministry of Transport, Indonesia</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/dato-baharin" rel="noopener">Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid</a></strong></div>
+<div class="text-ellipsis speaker-position">Director General</div>
+<div class="text-ellipsis speaker-company">Marine Department Malaysia</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-legoubin" rel="noopener">Capt Andr&eacute; L. LeGoubin</a></strong></div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company">The Nautical Institute</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Andreas Brachel" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andreas-brachel" rel="noopener">Mr Andreas Brachel</a></strong></div>
+<div class="text-ellipsis speaker-position">Vice President (Head of Environmental Claims)</div>
+<div class="text-ellipsis speaker-company">Gard and IG P&amp;I Group&rsquo;s Salvage Sub Committee member</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
 
 <style type="text/css"> 
