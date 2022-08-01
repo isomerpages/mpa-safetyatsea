@@ -154,7 +154,7 @@ permalink: /programme/opening-session
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Dr Heike Deggim" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/dr-heike-deggim" rel="noopener"><strong>Dr Heike Deggim</strong></a></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/dr-heike-deggim" rel="noopener">Dr Heike Deggim</a></strong></div>	
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company">Maritime Safety Division, International Maritime Organisation</div>
 </div>
@@ -190,9 +190,9 @@ permalink: /programme/opening-session
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Knut Orbeck-Nilssen.png" alt="Mr Knut &Oslash;rbeck-Nilssen" width="400" height="400" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-knut-orbeck-nilssen" rel="noopener">Mr Knut &Oslash;rbeck-Nilssen</a></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-knut-orbeck-nilssen" rel="noopener">Mr Knut &Oslash;rbeck-Nilssen</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Executive Officer</div>
-<div class="text-ellipsis speaker-company">DNV – Maritime</div>
+<div class="text-ellipsis speaker-company">DNV &ndash; Maritime</div>
 </div>
 </div>
 </div>
