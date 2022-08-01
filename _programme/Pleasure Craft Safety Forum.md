@@ -108,9 +108,9 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>17:25 - 18:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion: "Rethinking Crew Training in a VUCA World"</h4>
-<a style="color: #993366; text-decoration: underline;" href="https://youtu.be/VRb0zbMJwOk">Watch Panel Discussion</a>
+<div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
 <div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
@@ -119,9 +119,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/Michael-Phoon.png" alt="Mr. Michael Phoon" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Mr-Michael-Phoon" rel="noopener"><strong>Mr. Michael Phoon</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-terence-ho" rel="noopener"><strong>Mr Terence Ho</strong></a></div>
 <div class="text-ellipsis speaker-position">Executive Director</div>
-<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
+<div class="text-ellipsis speaker-company">Singapore Sailing Federation</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
