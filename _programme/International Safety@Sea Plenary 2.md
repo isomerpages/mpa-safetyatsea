@@ -3,222 +3,224 @@ title: International Safety@Sea Plenary 2
 permalink: /programme/iss-conference-plenary-2
 description: ""
 ---
-
-
-<div>
-  <b>31 Aug | 17:00 - 18:30</b>&nbsp;<b>GMT+8</b>
+<section>
+	<div>
+  <b>31 Aug | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
   <h3>Plenary 2: Proactive Measurement of Leading Indicators for Maritime Safety</h3>
 </div>
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>17:05 - 17:15</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">“Seafarer Training: Working Together as a Global Shipping Industry”</h4> 
-								<span style="text-decoration: underline;">
-          <a href="/images/Grahaeme Henderson - Seafarer Training - Working Together as a Global Shipping Industry.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/U0U-9M1fgbU" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
-      </span>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Chairman                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Together in Safety                
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>15:30 - 15:35</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Emcee opens the session</h4>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>17:15 - 17:25</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">“Competencies & Learning Methodologies for the Future”</h4>
-								<span style="text-decoration: underline;">
-          <a href="/images/Pradeep Chawla - Competencies & Learning Methodologies for the Future.pdf" style="color: #993366; text-decoration: underline;">Download Slides</a>   |   <a href="https://youtu.be/qLoumB3xoB4" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
-      </span>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Pradeep-Chawla.png" alt="Capt. Pradeep Chawla" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Managing Director, Group QHSE and Training
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           Anglo Eastern Ship Management Ltd
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>15:35 - 15:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Peter Broadhurst.png" alt="Mr Peter Broadhurst" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-peter-broadhurst" rel="noopener"><strong>
+Mr Peter Broadhurst</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Vice President Safety and Regulatory</div>
+<div class="text-ellipsis speaker-company">Inmarsat Maritime</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
 <section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>17:25 - 18:25</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Panel Discussion: "Rethinking Crew Training in a VUCA World"</h4>
-								<a href="https://youtu.be/VRb0zbMJwOk" style="color: #993366; text-decoration: underline;">Watch Panel Discussion</a>
-                <div class="programme-description readmore">
-                </div>
-                <hr class="my-3 border-primary">
-                <div class="speakers px-2">
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Michael-Phoon.png" alt="Mr. Michael Phoon" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Michael-Phoon" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Michael Phoon</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">Executive Director</div>
-                          <div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
-                          <div class="speaker-role text-ellipsis text-muted">
-                            <small>Moderator</small>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Pradeep-Chawla.png" alt="Capt. Pradeep Chawla" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Capt-Pradeep-Chawla" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Pradeep Chawla</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Managing Director, Group QHSE and Training
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           Anglo Eastern Ship Management Ltd</div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Grahaeme-Henderson.png" alt="Dr. Grahaeme Henderson" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Dr-Grahaeme-Henderson" class="speaker-name text-ellipsis" rel="noopener"><b>Dr. Grahaeme Henderson OBE</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Chairman                   
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Together in Safety   </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Hari-Subramaniam.png" alt="Capt. Hari Subramaniam" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Capt-Hari-Subramaniam" class="speaker-name text-ellipsis" rel="noopener"><b>Capt. Hari Subramaniam</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Regional Head - Business Relations and MediSea            
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           The Shipowners’ Mutual Protection and Indemnity Association
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col is-6 prog-speaker">
-                      <div class="row">
-                        <div class="col is-4">
-                          <img src="images/speakers/Daniel-Zhang.png" alt="Mr. Daniel Zhang" class="speaker-image mb-4">
-                        </div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Daniel-Zhang" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Daniel Zhang</b></a>
-                          </div>
-                          <div class="text-ellipsis speaker-position">
-                            Centre Director
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                           Centre of Excellence in Maritime Safety (CEMS), Singapore Polytechnic</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Raphael Baumler.png" alt="Mr Charles Watkins" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/prof-raphael-baumler" rel="noopener"><strong>Prof Raphael Baumler</strong></a></div>
+<div class="text-ellipsis speaker-position">Head of Maritime Safety and Environmental Administration</div>
+<div class="text-ellipsis speaker-company">World Maritime University</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </section>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Vibhas Garg.png" alt="Captain Vibhas Garg" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-yves-vandenborn" rel="noopener"><strong>Capt Vibhas Garg</strong></a></div>
+<div class="text-ellipsis speaker-position">Director, Safety and Training</div>
+<div class="text-ellipsis speaker-company">Wallem Group</div>
+<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Chu Xing Peng.png" alt="Captain Peng Chuxing" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-peng-chuxing" rel="noopener"><strong>Capt Peng Chuxing</strong></a></div>
+<div class="text-ellipsis speaker-position">Deputy GM, Head of Quality, Safety, Security &amp; Sustainability</div>
+<div class="text-ellipsis speaker-company">Pacific International Lines Pte Ltd</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Capt Ritesh Chawla" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-ritesh-chawla" rel="noopener"><strong>Capt Ritesh Chawla</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Manager</div>
+<div class="text-ellipsis speaker-company">Marine Safety & Vetting, Rio Tinto</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Peter Broadhurst.png" alt="Mr Peter Broadhurst" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-peter-broadhurst" rel="noopener"><strong>Mr Peter Broadhurst</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Vice President Safety and Regulatory</div>
+<div class="text-ellipsis speaker-company">Inmarsat Maritime</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Jacques RivieĚre.png" alt="
+Rear Admiral Jacques Rivière" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/rear-admiral-jacques-riviere" rel="noopener"><strong>
+Rear Admiral Jacques Rivière</strong></a></div>
+<div class="text-ellipsis speaker-position">Head QSSE Asia Pacific</div>
+<div class="text-ellipsis speaker-company">CMA CGM</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Jamie Ramsamy" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-jamie-ramsamy" rel="noopener"><strong>Mr Jamie Ramsamy</strong></a></div>
+<div class="text-ellipsis speaker-position">Head of HSSEQ</div>
+<div class="text-ellipsis speaker-company">Thome Group</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>17:25 - 17:30</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Emcee rounds up the session</h4>
+<div class="programme-description readmore">&nbsp;</div>
+<hr class="my-3 border-primary" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
 
 <style type="text/css"> 
     .is-left{
