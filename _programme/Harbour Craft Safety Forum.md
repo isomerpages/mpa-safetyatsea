@@ -118,11 +118,11 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Terence Ho.png" alt="Mr Terence Ho" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Bernard Wong.png" alt="Bernard Wong" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-terence-ho" rel="noopener"><strong>Mr Terence Ho</strong></a></div>
-<div class="text-ellipsis speaker-position">Executive Director</div>
-<div class="text-ellipsis speaker-company">Singapore Sailing Federation</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-bernard-wong" rel="noopener"><strong>Mr Bernard Wong</strong></a></div>
+<div class="text-ellipsis speaker-position">Head of Fleet Management</div>
+<div class="text-ellipsis speaker-company">PSA Marine (Pte) Ltd</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -134,20 +134,19 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-shawn-hoe" rel="noopener"><strong>Captain Shawn Hoe</strong></a></div>
-<div class="text-ellipsis speaker-position">Assistant Director (Marine Environment and Safety)/Deputy Port Master</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-chong-jia-chyuan" rel="noopener"><strong>Capt Chong Jia Chyuan</strong></a></div>
+<div class="text-ellipsis speaker-position">Port Master</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Desmond Ong.png" alt="Supt Desmond Ong" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Chan Yew Kwong.png" alt="Chan Yew Kwong" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/supt-desmond-ong" rel="noopener"><strong>
-Supt Desmond Ong</strong></a></div>
-<div class="text-ellipsis speaker-position">Commanding Officer, Brani Region</div>
-<div class="text-ellipsis speaker-company">Police Coast Guard, Singapore Police Force</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-chan-yew-kwong" rel="noopener"><strong> Mr Chan Yew Kwong</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Consultant</div>
+<div class="text-ellipsis speaker-company">WSH Council Singapore</div>
 </div>
 </div>
 </div>
@@ -155,41 +154,25 @@ Supt Desmond Ong</strong></a></div>
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/William%20Francis.png" alt="Captain William Francis" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Mark Ko" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong>
-Captain William Francis</strong></a></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Power Boat Association</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-mark-ko" rel="noopener"><strong>Mr Mark Ko</strong></a></div>
+<div class="text-ellipsis speaker-position">Executive Director</div>
+<div class="text-ellipsis speaker-company">Tian San Shipping (Pte) Ltd and member of National Maritime Safety at Sea Council, Singapore</div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Capt Richard Howe.png" alt="Captain Richard Howe" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Captain Hari Subramaniam.png" alt="Capt Hari Subramaniam" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-richard-howe" rel="noopener"><strong>Captain Richard Howe</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-hari-subramania" rel="noopener"><strong>Capt Hari Subramaniam</strong></a></div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
-<div class="text-ellipsis speaker-company">Maritime Claim & Services Pte Ltd & Yacht Surveys & Services Pte Ltd</div>
+<div class="text-ellipsis speaker-company">Maritime Claim &amp; Services Pte Ltd &amp; Yacht Surveys &amp; Services Pte Ltd</div>
 </div>
 </div>
 </div>
 </div>
-  
-<div class="row">
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-sahwan-osman" rel="noopener"><strong>
-Capt Sahwan Osman</strong></a></div>
-<div class="text-ellipsis speaker-position">Senior Lecturer</div>
-<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
-</div>
-</div>
-</div>
-</div>  
-  
 </div>
 </div>
 </div>
