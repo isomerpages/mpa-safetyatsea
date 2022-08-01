@@ -16,7 +16,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:00 - 09:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Emcee opens the session</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="/images/Grahaeme Henderson - Seafarer Training - Working Together as a Global Shipping Industry.pdf">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="https://youtu.be/U0U-9M1fgbU">Watch Presentation</a> </span>
+
 <div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 </div>
@@ -44,7 +44,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/Speakers/William Francis.png" alt="William Francis.png" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/William%20Francis.png" alt="William Francis.png" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/Speakers/captain-william-francis" rel="noopener"><strong>Capt William Francis</strong></a></div>
 <div class="text-ellipsis speaker-position">President</div>
