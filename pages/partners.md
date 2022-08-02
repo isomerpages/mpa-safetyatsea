@@ -3,14 +3,33 @@ title: Partners
 permalink: /partners
 ---
 <div>
+  <h3>Organised By</h3>
+</div>
+
+<div>
+  <h3>Supported By</h3>
+</div>
+
+<div>
+  <h3>Part of</h3>
+</div>
+
+<div>
   <h3>Supporting Organisations</h3>
 </div>
 <div class="row">
-<div class="col is-12 mb-4"><a href="https://andrew-moore.com/"><img src="images/logos/AMA.jpg" style="width:220px" class="img-fluid"></a> 
-	<a href="https://www.angloeastern.com/"><img src="images/logos/AngloEastern.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.asmi.com/"><img src="images/logos/ASMI.jpg" style="width:220px" class="img-fluid"></a> <a href="https://www.bs-shipmanagement.com/en/"><img src="images/logos/BSM.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.imarest.org/"><img src="images/logos/IMarEST.jpg" style="width:220px" class="img-fluid"></a>
-	<a href="https://www.incisivelaw.com/"><img src="images/logos/Incisive-Law.jpg" style="width:220px" class="img-fluid"></a> <a href="https://intertanko.com/"><img src="images/logos/Intertanko.jpg" style="width:220px" class="img-fluid"></a> 
-	<a href="https://www.navigateresponse.com/"><img src="images/logos/NavigateResponse.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.oilspillresponse.com/"><img src="images/logos/Oil-Spill-Response.jpg" style="width:220px" class="img-fluid"></a><a href="https://pclsg.com/"><img src="images/logos/Pacific Carriers Limited.jpg" style="width:220px" class="img-fluid"></a> 	<a href="https://resolvemarine.com/"><img src="images/logos/ResolveMarine.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.rightship.com/"><img src="images/logos/RightShip.jpg" style="width:220px" class="img-fluid"></a> <a href="https://www.shipownersclub.com/"><img src="images/logos/shipowners-logo.jpg" style="width:220px" class="img-fluid"></a> <a href="https://industry.sp.edu.sg/cems/"><img src="images/logos/SingaporePoly.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.sintef.no/en/"><img src="images/logos/SINTEF.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.smit.com/"><img src="images/logos/SMIT.jpg" style="width:220px" class="img-fluid"></a><a href="https://spicaservices.com/singapore/"><img src="images/logos/SPICA.jpg" style="width:220px" class="img-fluid"></a><a href="https://www.ssa.org.sg//"><img src="images/logos/SSA.jpg" style="width:220px" class="img-fluid"></a>
-<a href="https://thetius.com/"><img src="images/logos/Thetius.jpg" style="width:220px" class="img-fluid"></a> <a href="https://www.nautinst.org/branch/singapore.html"><img src="images/logos/TNI-SG.jpg" style="width:220px" class="img-fluid"></a> <a href="https://togetherinsafety.info/"><img src="images/logos/Together-in-Safety-Logo.jpg" style="width:220px" class="img-fluid"></a> <a href="https://www.mot.gov.sg/about-mot/transport-safety-investigation-bureau"><img src="images/logos/TSIB2.jpg" style="width:220px" class="img-fluid"></a> <a href="https://www.wallem.com/"><img src="images/logos/WallemGroup.jpg" style="width:220px" class="img-fluid"></a></div>
+<div class="col is-12 mb-4">
+<a href="https://andrew-moore.com/"><img src="images/logos/AMA.jpg" style="width:220px" class="img-fluid"></a> 
+
+<a href="https://www.angloeastern.com/"><img src="images/logos/AngloEastern.jpg" style="width:220px" class="img-fluid"></a>
+
+<a href="https://www.asmi.com/"><img src="images/logos/ASMI.jpg" style="width:220px" class="img-fluid"></a>
+
+<a href="https://www.bs-shipmanagement.com/en/"><img src="images/logos/BSM.jpg" style="width:220px" class="img-fluid"></a>
+
+<a href="https://www.imarest.org/"><img src="images/logos/IMarEST.jpg" style="width:220px" class="img-fluid"></a>
+
+</div>
 </div>
 <div>
   <h3>Media Partners</h3>
