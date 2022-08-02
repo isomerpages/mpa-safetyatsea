@@ -8,7 +8,7 @@ description: ""
               <img src="/images/Speakers/William%20Francis.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>Captain William Francis</h4>
+              <h4>Capt William Francis</h4>
 <p>President<br>
 Singapore Power Boat Association</p><br>
 <p>William’s love for the sea began at age 5 when his dad brought him fishing in a sampan off Changi beach.</p>
