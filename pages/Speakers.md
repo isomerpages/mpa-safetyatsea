@@ -233,22 +233,6 @@ description: ""
 </div>
 <div class="row">
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 2</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-<div class="col is-4">
 <a href="/speakers/captain-hari-subramania">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Captain Hari Subramaniam.png" alt="Captain Hari Subramaniam" /></div>
 <h4 class="speaker-name text-ellipsis">Captain Hari Subramaniam</h4>
@@ -257,8 +241,6 @@ description: ""
 </div>
 </a>
 </div>
-</div>
-<div class="row">
 <div class="col is-4">
 <a href="/speakers/ms-sikha-singh">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/MdmSikha.png" alt="" /></div>
@@ -310,14 +292,7 @@ description: ""
 </div>
 </div>
 <div class="row">
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
+
 <div class="col is-4">
 <a href="/speakers/mr-peter-broadhurst">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Peter Broadhurst.png" alt="" /></div>
@@ -327,15 +302,14 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 3</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-jamie-ramsamy">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/jamieramsamy.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Jamie Ramsamy</h4>
+<div class="speaker-position text-ellipsis">Head of HSSEQ</div>
+<div class="speaker-company text-ellipsis">Thome Group</div>
 </a>
 </div>
-</div>
-<div class="row">
+
 <div class="col is-4">
 <a href="/speakers/rear-admiral-jacques-riviere">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Jacques RivieĚre.png" alt="Jacques RivieĚre" /></div>
@@ -344,6 +318,10 @@ description: ""
 <div class="speaker-company text-ellipsis">CMA CGM</div>
 </a>
 </div>
+
+</div>
+<div class="row">
+
 <div class="col is-4">
 <a href="#">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
@@ -432,4 +410,3 @@ description: ""
   }
 	.content a { text-decoration: none; }
 </style>
-
