@@ -310,6 +310,7 @@ description: ""
 </a>
 </div>
 
+	
 <div class="col is-4">
 <a href="/speakers/rear-admiral-jacques-riviere">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Jacques RivieĚre.png" alt="Jacques RivieĚre" /></div>
