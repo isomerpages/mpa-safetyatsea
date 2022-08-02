@@ -163,45 +163,7 @@ description: ""
 </div>
 </section>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>10:55 - 11:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee rounds up the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>11:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Networking reception</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 
 <style type="text/css"> 
