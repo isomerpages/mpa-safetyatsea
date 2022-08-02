@@ -10,8 +10,9 @@ description: ""
 
 
 
-<div class="row">
-	<div class="col is-12 mb-12"><img src="/images/CEMS introduction image.gif"  class="img-fluid"></div>
+
+<div class="col is-12 mb-12"><img src="/images/CEMS introduction image.gif"  class="img-fluid"></div>
+
 <div class="col is-12 mb-12">
 <h5 class="abt-title">Centre for Excellence in Maritime Safety (CEMS)</h5>
 <div><p>CEMS  re-imagines maritime safety through digital technologies, namely the <strong>3As</strong>,  namely, <strong>A</strong>rtificial Intelligence (AI) in Human Factors, <strong>A</strong>dvanced  Navigation Research Simulator (ANRS) and Next Generation Navigation Simulator  (NGNS) Platform, and lastly <strong>A</strong>ugment Reality (AR)/ Virtual Reality (VR)/  Immersive Technologies. The <strong>3As</strong> initiatives are driven by a team of Captains and Research Scientists in close  engagement with the industry and Maritime &amp; Port Authority of Singapore  (MPA). As part of Singapore&rsquo;s strategy of skill upgrade of our workforce, CEMS  will enhance training assessment systems &amp; solutions with Singapore  Maritime Academy (SMA) to ensure our seafarers are not only safe but also  future ready. <br>
@@ -22,7 +23,6 @@ description: ""
   <li>Equip  seafarers with critical skill set for high risk operations such as LNG Fire-Fighting  and free-fall life boat launch using immersive content delivery.</li>
 </ol> 
   </div>
-</div>
 
 </div>
 <hr class="my-5">
