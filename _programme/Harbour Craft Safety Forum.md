@@ -7,26 +7,6 @@ description: ""
 <h3>Safety Forum 2 by MPA-Harbour Craft Safety Work Group &ldquo;Instilling a Strong Safety Culture for the Harbour Craft Industry&rdquo;</h3>
 </div>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>09:00 - 09:05</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee opens the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" />
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 <section>
 <div class="bp-container is-fluid">
