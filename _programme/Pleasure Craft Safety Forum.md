@@ -15,29 +15,8 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:00 - 09:05</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee opens the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" />
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Observance of Good Seamanship – First Principles</h4>
 <span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
 <div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
@@ -179,7 +158,7 @@ Captain William Francis</strong></a></div>
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/sahwahosman.png" alt="" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-sahwan-osman" rel="noopener"><strong>
 Capt Sahwan Osman</strong></a></div>
@@ -200,45 +179,7 @@ Capt Sahwan Osman</strong></a></div>
 </div>
 </section>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>10:55 - 11:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee rounds up the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>11:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Networking reception</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
 
 
 <style type="text/css"> 
