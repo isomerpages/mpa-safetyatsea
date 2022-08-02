@@ -8,7 +8,7 @@ description: ""
               <img src="/images/Speakers/Captain Hari Subramaniam.png">
             </div>
             <div class="col is-9 speaker-details">
-              <h4>Captain Hari Subramaniam</h4>
+              <h4>Capt Hari Subramaniam</h4>
 <p>Regional Head – Business Relations and MediSea<br>The Shipowners’ P&I Club<br>
 </p>
 <p>Hari’s sailing career spanned over 17 years on a wide range of vessels including main fleet and offshore vessels.</p>
