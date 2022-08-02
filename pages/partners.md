@@ -35,25 +35,25 @@ permalink: /partners
 <div class="row">
 <div class="col is-12 mb-4">
 <a href="https://www.msa.gov.cn/"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-6.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-7.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-8.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-10.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-11.jpg" class="img-fluid"></a> 
+<a href="https://www.msa.gov.cn/"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
+<a href="https://www.cma-cgm.com/"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
+<a href="https://www.dnv.com/maritime/"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a> 
+<a href="https://www.fullertonhealth.com/"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
+<a href="https://www.igpandi.org/"><img src="images/partners/LOGO1-6.jpg" class="img-fluid"></a> 
+<a href="https://www.ics-shipping.org/"><img src="images/partners/LOGO1-7.jpg" class="img-fluid"></a> 
+<a href="https://www.imo.org/"><img src="images/partners/LOGO1-8.jpg" class="img-fluid"></a> 
+<a href="https://www.marine.gov.my/"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+<a href="https://www.mpa.gov.sg/home"><img src="images/partners/LOGO1-10.jpg" class="img-fluid"></a> 
+<a href="https://www.mentalhealth-support.com/"><img src="images/partners/LOGO1-11.jpg" class="img-fluid"></a> 
 <a href="#"><img src="images/partners/LOGO1-12.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-13.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-14.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-15.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-16.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-17.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-18.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-19.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-20.jpg" class="img-fluid"></a> 
+<a href="https://www.pilship.com/"><img src="images/partners/LOGO1-13.jpg" class="img-fluid"></a> 
+<a href="https://www.globalpsa.com/"><img src="images/partners/LOGO1-14.jpg" class="img-fluid"></a> 
+<a href="https://www.riotinto.com/en"><img src="images/partners/LOGO1-15.jpg" class="img-fluid"></a> 
+<a href="https://www.shipownersclub.com/"><img src="images/partners/LOGO1-16.jpg" class="img-fluid"></a> 
+<a href="https://www.ssa.org.sg/"><img src="images/partners/LOGO1-17.jpg" class="img-fluid"></a> 
+<a href="https://www.nautinst.org/"><img src="images/partners/LOGO1-18.jpg" class="img-fluid"></a> 
+<a href="https://sustainability.thome.com/"><img src="images/partners/LOGO1-19.jpg" class="img-fluid"></a> 
+<a href="https://www.wallem.com/"><img src="images/partners/LOGO1-20.jpg" class="img-fluid"></a> 
 </div>
 </div>
 
