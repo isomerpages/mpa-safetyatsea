@@ -24,9 +24,9 @@ sections:
       subtitle: 29 August - 31 August 2022
       background: /images/HOME-BANNER3.jpg
   - infobar:
-      title: Spotlight on Maritime Safety, Technology & the Environment
+      title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
-        promote safety at sea. Watch all 5 session recordings under MEDIA ROOM.
+        promote safety at sea.
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
