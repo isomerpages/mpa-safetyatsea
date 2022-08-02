@@ -8,27 +8,6 @@ description: ""
   <b>31 Aug | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
   <h3>Plenary 2: Proactive Measurement of Leading Indicators for Maritime Safety</h3>
 </div>
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>15:30 - 15:35</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee opens the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" />
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
 
 <section>
 <div class="bp-container is-fluid">
@@ -76,7 +55,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Learning safety to think the system-ship</h4>
 <span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
 <div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
@@ -180,7 +159,7 @@ Rear Admiral Jacques Rivière</strong></a></div>
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Jamie Ramsamy" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/ramsamy.png" alt="Mr Jamie Ramsamy" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-jamie-ramsamy" rel="noopener"><strong>Mr Jamie Ramsamy</strong></a></div>
 <div class="text-ellipsis speaker-position">Head of HSSEQ</div>
@@ -199,25 +178,7 @@ Rear Admiral Jacques Rivière</strong></a></div>
 </div>
 </section>
 
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>17:25 - 17:30</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Emcee rounds up the session</h4>
-<div class="programme-description readmore">&nbsp;</div>
-<hr class="my-3 border-primary" /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+
 
 
 
