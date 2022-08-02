@@ -5,13 +5,28 @@ permalink: /partners
 <div>
   <h3>Organised By</h3>
 </div>
+<div class="row">
+<div class="col is-12 mb-4">
+<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+</div>
+</div>
 
 <div>
   <h3>Supported By</h3>
 </div>
+<div class="row">
+<div class="col is-12 mb-4">
+<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+</div>
+</div>
 
 <div>
   <h3>Part of</h3>
+</div>
+<div class="row">
+<div class="col is-12 mb-4">
+<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+</div>
 </div>
 
 <div>
@@ -19,24 +34,43 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-12 mb-4">
-<a href="https://andrew-moore.com/"><img src="images/logos/AMA.jpg" class="img-fluid"></a> 
-
-<a href="https://www.angloeastern.com/"><img src="images/logos/AngloEastern.jpg"  class="img-fluid"></a>
-
-<a href="https://www.asmi.com/"><img src="images/logos/ASMI.jpg"  class="img-fluid"></a>
-
-<a href="https://www.bs-shipmanagement.com/en/"><img src="images/logos/BSM.jpg"  class="img-fluid"></a>
-
-<a href="https://www.imarest.org/"><img src="images/logos/IMarEST.jpg"  class="img-fluid"></a>
-
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-6.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-7.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-8.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-10.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-11.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-12.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-13.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-14.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-15.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-16.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-17.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-18.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-19.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-20.jpg" class="img-fluid"></a> 
 </div>
 </div>
+
+
 <div>
   <h3>Media Partners</h3>
 </div>
-<div class="row mpartners">
-<div class="col-10 mx-auto mt-4">
-<div class="col-12 mb-4"><a href="https://www.edumaritime.net/"><img src="https://i.levelupp.com/safetyatseaweek/Edumaritime.jpg"  class="img-fluid"> </a> <a href="https://globalmaritimehub.com/"><img src="https://i.levelupp.com/safetyatseaweek/GlobalMaritimeHub2.jpg"  class="img-fluid"></a> <a href="https://www.hellenicshippingnews.com/"><img src="https://i.levelupp.com/safetyatseaweek/Hellenic_Shipping_News.jpg"  class="img-fluid"> </a> <a href="https://www.manifoldtimes.com/"><img src="https://i.levelupp.com/safetyatseaweek/ManifoldTimes.jpg"  class="img-fluid"> </a><a href="https://en.portnews.ru/"><img src="https://i.levelupp.com/safetyatseaweek/PortNews.jpg"  class="img-fluid"> </a> <a href="https://safety4sea.com/"><img src="https://i.levelupp.com/safetyatseaweek/Safety4Sea.jpg"  class="img-fluid"> </a> <a href="https://www.seatrade-maritime.com/"><img src="https://i.levelupp.com/safetyatseaweek/Seatrade_Maritime_News.jpg"  class="img-fluid"> </a> <a href="https://shipmanagementinternational.com/"><img src="https://i.levelupp.com/safetyatseaweek/Ship_Management.jpg"  class="img-fluid"> </a>  <a href="https://xindemarinenews.com/index.html"><img src="https://i.levelupp.com/safetyatseaweek/Xinde_Marine_News.jpg"  class="img-fluid"> </a></div>
+<div class="row">
+<div class="col is-12 mb-4">
+
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+
 </div>
 </div>
 <style>
