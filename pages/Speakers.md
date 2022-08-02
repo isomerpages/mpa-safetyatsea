@@ -12,7 +12,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-william-francis">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/William Francis.png" alt="Captain William Francis" /></div>
-<h4 class="speaker-name text-ellipsis">Captain William Francis</h4>
+<h4 class="speaker-name text-ellipsis">Capt William Francis</h4>
 <div class="speaker-position text-ellipsis">President</div>
 <div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
 </a>
@@ -20,7 +20,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-richard-howe">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Richard Howe.png" alt="Capt Richard Howe" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Richard Howe</h4>
+<h4 class="speaker-name text-ellipsis">Capt Richard Howe</h4>
 <div class="speaker-position text-ellipsis">Managing Director</div>
 <div class="speaker-company text-ellipsis">Maritime Claim & Services Pte Ltd & Yacht Surveys & Services Pte Ltd</div>
 </a>
@@ -71,7 +71,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-hari-subramania">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Captain Hari Subramaniam.png" alt="Captain Hari Subramaniam" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Hari Subramaniam</h4>
+<h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4>
 <div class="speaker-position text-ellipsis">Regional Head - Business Relations and MediSea</div>
 <div class="speaker-company text-ellipsis">The Shipowners’ P&I Club</div>
 </a>
@@ -174,7 +174,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-andre-l-legoubin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Andre.png" alt="Captain Andre L. LeGoubin MNM MA FNI" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Andre L. LeGoubin MNM MA FNI</h4>
+<h4 class="speaker-name text-ellipsis">Capt Andre L. LeGoubin MNM MA FNI</h4>
 <div class="speaker-position text-ellipsis">President</div>
 <div class="speaker-company text-ellipsis">The Nautical Institute</div>
 </a>
@@ -209,7 +209,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-peng-chuxing">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Chu Xing Peng.png" alt="Captain Peng Chuxing" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Peng Chuxing</h4>
+<h4 class="speaker-name text-ellipsis">Capt Peng Chuxing</h4>
 <div class="speaker-position text-ellipsis">Deputy GM, Head of Quality, Safety, Security & Sustainability</div>
 <div class="speaker-company text-ellipsis">Pacific International Lines Pte Ltd</div>
 </a>
@@ -225,7 +225,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-yves-vandenborn">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Yves Vandenborn.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Yves Vandenborn, FNI</h4>
+<h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn, FNI</h4>
 <div class="speaker-position text-ellipsis">Hon. President</div>
 <div class="speaker-company text-ellipsis">The Nautical Institute (Singapore)</div>
 </a>
@@ -235,7 +235,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-hari-subramania">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Captain Hari Subramaniam.png" alt="Captain Hari Subramaniam" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Hari Subramaniam</h4>
+<h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4>
 <div class="speaker-position text-ellipsis">Regional Head - Business Relations and MediSea</div>
 <div class="speaker-company text-ellipsis">The Shipowners’ P&I Club
 </div>
@@ -285,7 +285,7 @@ description: ""
 <div class="col is-4">
 <a href="/speakers/captain-vibhas-garg">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Vibhas Garg.png" alt="Vibhas Garg" /></div>
-<h4 class="speaker-name text-ellipsis">Captain Vibhas Garg</h4>
+<h4 class="speaker-name text-ellipsis">Capt Vibhas Garg</h4>
 <div class="speaker-position text-ellipsis">Director, Safety and Training</div>
 <div class="speaker-company text-ellipsis">Wallem Group</div>
 </a>
