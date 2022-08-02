@@ -34,7 +34,7 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-12 mb-4">
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
+<a href="https://www.msa.gov.cn/"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
 <a href="#"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
 <a href="#"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
 <a href="#"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a> 
