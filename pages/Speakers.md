@@ -44,19 +44,19 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist2</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/supt-desmond-ong">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Desmond Ong.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Supt Desmond Ong</h4>
+<div class="speaker-position text-ellipsis">Commanding Officer, Brani Region</div>
+<div class="speaker-company text-ellipsis">Police Coast Guard, Singapore Police Force</div>
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist3</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/captain-sahwan-osman">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/sahwahosman.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Capt Sahwan Osman</h4>
+<div class="speaker-position text-ellipsis">Senior Lecturer</div>
+<div class="speaker-company text-ellipsis">Singapore Maritime Academy</div>
 </a>
 </div>
 </div>
@@ -100,14 +100,6 @@ description: ""
 <h4 class="speaker-name text-ellipsis">Panellist</h4>
 <div class="speaker-position text-ellipsis">Position</div>
 <div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-<div class="col is-4">
-<a href="/speakers/supt-desmond-ong">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Desmond Ong.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Supt Desmond Ong</h4>
-<div class="speaker-position text-ellipsis">Commanding Officer, Brani Region</div>
-<div class="speaker-company text-ellipsis">Police Coast Guard, Singapore Police Force</div>
 </a>
 </div>
 <div class="col is-4">
