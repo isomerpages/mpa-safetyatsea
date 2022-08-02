@@ -77,8 +77,8 @@ permalink: /partners
 </div>
 <style>
 	
-	a[target="_blank"]:after {
-    display: none;
+a[target="_blank"]:after {
+display: none;
 }
 	
 .content a {display: inline-block;}
