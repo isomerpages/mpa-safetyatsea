@@ -64,13 +64,14 @@ permalink: /partners
 <div class="row">
 <div class="col is-12 mb-4">
 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-<a href="#"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
-
+<a href="http://www.edumaritime.net/"><img src="images/partners/MEDIA-1.jpg" class="img-fluid"></a> 
+<a href="http://www.globalmaritimehub.com/"><img src="images/partners/MEDIA-2.jpg" class="img-fluid"></a> 
+<a href="http://www.manifoldtimes.com/"><img src="images/partners/MEDIA-3.jpg" class="img-fluid"></a> 
+<a href="https://en.portnews.ru/events/"><img src="images/partners/MEDIA-4.jpg" class="img-fluid"></a> 
+<a href="https://safety4sea.com/"><img src="images/partners/MEDIA-5.jpg" class="img-fluid"></a> 
+<a href="https://www.shipmanagementinternational.com/"><img src="images/partners/MEDIA-6.jpg" class="img-fluid"></a> 
+<a href="https://www.xindemarinenews.com/"><img src="images/partners/MEDIA-7.jpg" class="img-fluid"></a> 
+<a href="http://www.rivieramm.com/"><img src="images/partners/MEDIA-8.jpg" class="img-fluid"></a> 	
 </div>
 </div>
 <style>
