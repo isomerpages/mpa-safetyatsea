@@ -348,11 +348,11 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-lionel-chew">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/lionelchew.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Lionel Chew</h4>
+<div class="speaker-position text-ellipsis">Senior IT Manager</div>
+<div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
 </a>
 </div>
 <div class="col is-4">
