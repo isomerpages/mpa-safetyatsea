@@ -24,13 +24,6 @@ permalink: /resources
       </div>    </div>
     <div class="row">
       <div class="col is-5">
-        <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="" src="images/SMM-Board-Ships.jpg"> 
-          </div></a>
-          <h4 class="speaker-name text-ellipsis">“Safe Management Measures When Boarding Ships” Poster - <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community">Download</a></h4>
-      </div>
-      <div class="col is-5">
         <a href="https://www.tal.sg/wshc/Resources/Publications/Guides-and-Handbooks/Guide-to-WSH-for-Service-Providers-on-Safe-Working-on-Ships-at-Anchorage---Revised-2019">
           <div class="speaker-image-wrapper">
             <img class="speaker-image img-fluid mb-3" alt="" src="images/WSH-Guide.jpg">
