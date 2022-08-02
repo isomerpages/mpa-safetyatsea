@@ -3,11 +3,10 @@ title: Capt Peng Chuxing
 permalink: /speakers/captain-peng-chuxing
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Chu Xing Peng.png" /></div>
 <div class="col is-9 speaker-details">
-<h4>Captain Peng Chuxing</h4>
+<h4>Capt Peng Chuxing</h4>
 <p>Deputy GM, Head of Quality, Safety, Security & Sustainability<br>Pacific International Lines Pte Ltd</p>
 <p>A master mariner spent his entire sea career with Neptune Orient Lines &amp; American President Lines.</p>
 <p>Prior to joining Pacific International Lines, CX&rsquo;s chequered career included stints as Port State Control (PSC) officer, Flag State Investigator, Safety Inspectorate with Maritime and Port Authority of Singapore; Loss Prevention Executive with an IG P&amp;I Club; Designated Person Ashore, Company Security Officer, and Quality and Environmental Management Representative of American President Lines.</p>
