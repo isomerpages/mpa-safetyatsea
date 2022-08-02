@@ -95,11 +95,11 @@ description: ""
 </div>
 <div class="row">
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/captain-chong-jia-chyuan">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/chongjiachyuan.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Capt Chong Jia Chyuan</h4>
+<div class="speaker-position text-ellipsis">Port Master / Deputy Director (Operations)</div>
+<div class="speaker-company text-ellipsis">Operations and Marine Services Division, Maritime and Port Authority of Singapore</div>
 </a>
 </div>
 <div class="col is-4">
