@@ -34,6 +34,7 @@ sections:
       url: /programme/pleasure-craft-safety-forum
       image: /images/0-thumbnail-PleasureCraft2.jpg
       alt: Image alt text
+      description: Best Practices to Avoid Incidents at Sea
   - infopic:
       title: Ferry Rescue Exercise Observer Programme
       subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
@@ -44,7 +45,7 @@ sections:
   - infopic:
       title: Harbour Craft Safety Forum
       subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
-      description: Infopic description
+      description: Instilling a Strong Safety Culture for the Harbour Craft Industry
       button: View Programme
       url: /programme/harbour-craft-safety-forum
       image: /images/0-thumbnail-harbourCraft2.jpg
