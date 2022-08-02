@@ -5,14 +5,20 @@ permalink: /about-us
 <div class="row mx-0">
 <div class="col is-12 mx-auto">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/Safety-Sea_Singapore_Logo.png" style="width:60%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/images/logo-2022.jpg" style="width:60%" class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Week</h5>
-<div>The Maritime and Port Authority of Singapore (MPA) is organising the 8th run of the International Safety@Sea Week from 30 August to 1 September 2021.<br><br>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA’s commitment to promoting safety at sea, registration for this event is free.<br><br>This year, the International Safety@Sea Week 2021 will take place over three days.<br><br>The opening session webinar on 30 August 2021 will focus on this year’s theme on <b>“The Human and Technology Crossroads for Maritime Safety”</b>.<br><br>The two live webcast plenary sessions on 31 August 2021 will discuss:</div>
+<p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
+<p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA&rsquo;s commitment to promoting safety at sea, registration for this event is free.</p>
+<p>This year, the International Safety@Sea Week 2022 will include the flagship International Safety@Sea Conference, the annual International Safety@Sea Awards, Ferry Rescue Exercise (FEREX) Observer Programme, Safety Forums and Industry Visits.</p>
+<p>This year&rsquo;s International Safety@Sea Conference will adopt a hybrid format, allowing participants to tune in from anywhere in the world or physically at Sands Expo and Convention Centre, Singapore. The opening session on 30 August 2022 focuses on this year&rsquo;s theme <strong>&ldquo;Riding the Waves for Maritime Safety&rdquo;</strong>.</p>
+<p>The two hybrid plenary sessions on 31 August 2022 will discuss:</p>
 <ol>
-<li>Safer Carriage of Goods – What More Must Be Done?</li>
-<li>Rethinking Crew Training in a VUCA World <br>*(VUCA: Volatility, Uncertainty, Complexity and Ambiguity)*</li>
+<li>Dovetailing Seafarers&rsquo; Health &amp; Wellbeing with a Good Safety Culture</li>
+<li>Proactive Measurement of Leading Indicators for Maritime Safety</li>
 </ol>
+<p>Beyond the conference, FEREX Observer Programme 2022 returns to the big-scale, showcasing how inter-agencies within Maritime Singapore work together in times of crisis. International Safety@Sea Week 2022 also boasts industry visits to key players that help Singapore progress in the field of safety at sea.</p>
+<p>For the first time, International Safety@Sea Week 2022 will see two new safety forums, organized by MPA-Industry Safety Work Groups, and will feature key players in the industry as a speaker-panel lineup that will deep dive into safety within the pleasure craft and harbour craft communities in Singapore.</p>
 </div>
 </div>
 <hr class="my-5">
