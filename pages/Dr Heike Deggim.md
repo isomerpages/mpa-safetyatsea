@@ -13,3 +13,14 @@ description: ""
 <p>Heike graduated in 1983 in Germany with a Master&rsquo;s degree in marine engineering from Rostock University. She is a member of the Royal Institution of Naval Architects (RINA)</p>
 </div>
 </div>
+
+<style type="text/css"> 
+.is-left{
+text-align: left;
+}
+h4{
+font-weight: 500; 
+color: #337B9A !important;
+}
+.speaker-details p { text-align: justified; }
+</style>
