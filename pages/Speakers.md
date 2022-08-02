@@ -303,7 +303,7 @@ description: ""
 </div>
 <div class="col is-4">
 <a href="/speakers/mr-jamie-ramsamy">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/jamieramsamy.png" alt="" /></div>
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/ramsamy.png" alt="" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Jamie Ramsamy</h4>
 <div class="speaker-position text-ellipsis">Head of HSSEQ</div>
 <div class="speaker-company text-ellipsis">Thome Group</div>
