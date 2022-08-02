@@ -15,20 +15,6 @@ permalink: /about-us
 </ol>
 </div>
 </div>
-	<hr class="my-5">
-<div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/ICOPCE Logo.png" style="width:70%" class="img-fluid"></div>
-<div class="col is-9 mb-4 text-justify">
-<h5 class="abt-title">International Chemical and Oil Pollution Conference and Exhibition (ICOPCE)</h5>
-<div>Organised by the MPA, the biennial ICOPCE is a premier international maritime event for the world's energy and energy transportation industries, emergency response companies and government authorities.
-<br><br>
-Through the organisation of major international port and maritime-related conferences such as ICOPCE, the MPA aims to further raise Singapore's profile as a centre for expertise and knowledge in the prevention and response to oil and chemical spills, and as a world-class port and leading international maritime centre.<br><br>This year’s theme is <b>“Embracing a New Era in Marine Environment Protection”</b>.<br><br>ICOPCE will take place on 1 September 2021 and the two live webcast plenary sessions will discuss:</div>
-<ol>
-<li>Future Proofing Marine Environment Protection in a Changing Landscape</li>
-<li>Navigating the Increased Complexity of Incident Management</li>
-</ol>
-</div>
-</div>
 <hr class="my-5">
 <div class="row">
 <div class="col is-3 mb-4"><img src="images/logos/MPA_Singapore_Logo.png" style="width:50%" class="img-fluid"></div>
