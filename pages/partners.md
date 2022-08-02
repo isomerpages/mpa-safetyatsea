@@ -16,7 +16,7 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-12 mb-4">
-<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-000.jpg" class="img-fluid"></a> 
 </div>
 </div>
 
@@ -25,7 +25,7 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-12 mb-4">
-<a href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+<a href="#"><img src="images/partners/LOGO1-001.jpg" class="img-fluid"></a> 
 </div>
 </div>
 
