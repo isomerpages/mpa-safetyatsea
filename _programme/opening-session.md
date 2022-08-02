@@ -252,7 +252,7 @@ permalink: /programme/opening-session
 </div>
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin " width="400" height="400" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-l-legoubin" rel="noopener">Capt Andr&eacute; L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
