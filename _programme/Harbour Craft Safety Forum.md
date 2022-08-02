@@ -112,7 +112,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/chongjiachyuan.png" alt="" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-chong-jia-chyuan" rel="noopener"><strong>Capt Chong Jia Chyuan</strong></a></div>
 <div class="text-ellipsis speaker-position">Port Master</div>
