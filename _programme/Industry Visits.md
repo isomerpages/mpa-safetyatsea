@@ -23,7 +23,7 @@ description: ""
 </ol> 
   </div>
 </div>
-	<div class="col is-4 mb-6"><img src="images/CEMS introduction image.gif"  class="img-fluid"></div>
+	<div class="col is-4 mb-6"><img src="/images/CEMS introduction image.gif"  class="img-fluid"></div>
 </div>
 <hr class="my-5">
 
