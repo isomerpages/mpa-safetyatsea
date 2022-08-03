@@ -5,7 +5,7 @@ permalink: /about-us
 <div class="row mx-0">
 <div class="col is-12 mx-auto">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logo-2022.jpg" style="width:60%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/logo-2022.jpg"  class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Week</h5>
 <p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
