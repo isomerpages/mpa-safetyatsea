@@ -70,7 +70,7 @@ sections:
       title: Industry Visits
       subtitle: 31 AUG | 08:30 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
-      url: /programme/industry-visits
+      url: /programme/industry-visits-cems
       image: /images/1-thumbnail-industryvisit5.jpg
       alt: Image alt text
       description: Wärtsilä Expertise Centre & Centre for Excellence in Maritime
