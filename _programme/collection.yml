@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Industry Visits Wärtsilä.md
       - overview.md
       - Pleasure Craft Safety Forum.md
       - Ferry Rescue Exercise Observer Programme.md
