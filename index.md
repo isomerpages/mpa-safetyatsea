@@ -22,7 +22,7 @@ sections:
           url: /speakers
       title: International Safety@Sea Week 2022
       subtitle: 29 August - 31 August 2022
-      background: /images/HOME-BANNER3.jpg
+      background: /images/HOME-BANNER4.jpg
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
