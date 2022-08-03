@@ -6,19 +6,19 @@ permalink: /partners
 <div class="col is-4 mb-4">
 <h3>Organised by</h3>
 
-<a href="#" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-9.jpg"></a> 
+<a target="_blank" href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
 <h3>Supported By</h3>
 
-<a href="#" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-000.jpg"></a> 
+<a target="_blank" href="#"><img src="images/partners/LOGO1-000.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
 <h3>Part of</h3>
 
-<a href="#" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-001.jpg"></a> 
+<a target="_blank" href="#"><img src="images/partners/LOGO1-001.jpg" class="img-fluid"></a> 
 </div>
 </div>
 
@@ -27,69 +27,81 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-4 mb-4">
-<a href="https://www.msa.gov.cn/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-1.jpg"></a> 
+<a target="_blank" href="https://www.msa.gov.cn/"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">  
-<a href="https://www.cma-cgm.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-2.jpg"></a> 
+<a target="_blank" href="https://www.cma-cgm.com/"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.dnv.com/maritime/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-3.jpg"></a> 
+<a target="_blank" href="https://www.dnv.com/maritime/"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.fullertonhealth.com/"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a>
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.fullertonhealth.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-4.jpg"></a>
+<a target="_blank" href="https://www.igpandi.org/"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.igpandi.org/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-5.jpg"></a> 
+<a target="_blank" href="https://www.ics-shipping.org/"><img src="images/partners/LOGO1-6.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.imo.org/"><img src="images/partners/LOGO1-7.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.ics-shipping.org/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-6.jpg"></a> 
+<a target="_blank" href="https://www.marine.gov.my/"><img src="images/partners/LOGO1-8.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.imo.org/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-7.jpg"></a> 
+<a target="_blank" href="https://www.mpa.gov.sg/home"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.mentalhealth-support.com/"><img src="images/partners/LOGO1-10.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.marine.gov.my/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-8.jpg"></a> 
+<a target="_blank" href="#"><img src="images/partners/LOGO1-11.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.mpa.gov.sg/home" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-9.jpg"></a> 
+<a target="_blank" href="https://www.pilship.com/"><img src="images/partners/LOGO1-12.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.globalpsa.com/"><img src="images/partners/LOGO1-13.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.mentalhealth-support.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-10.jpg"></a> 
+<a target="_blank" href="https://www.riotinto.com/en"><img src="images/partners/LOGO1-14.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="#" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-11.jpg"></a> 
+<a target="_blank" href="https://www.shipownersclub.com/"><img src="images/partners/LOGO1-15.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.ssa.org.sg/"><img src="images/partners/LOGO1-16.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.pilship.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-12.jpg"></a> 
+<a target="_blank" href="https://www.nautinst.org/"><img src="images/partners/LOGO1-17.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.globalpsa.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-13.jpg"></a> 
+<a target="_blank" href="https://sustainability.thome.com/"><img src="images/partners/LOGO1-18.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.wallem.com/"><img src="images/partners/LOGO1-19.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.riotinto.com/en" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-14.jpg"></a> 
+<a target="_blank" href="https://www.wmu.se/"><img src="images/partners/LOGO1-20.jpg" class="img-fluid"></a> 	
 </div>
-<div class="col is-4 mb-4">
-<a href="https://www.shipownersclub.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-15.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="https://www.ssa.org.sg/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-16.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="https://www.nautinst.org/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-17.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="https://sustainability.thome.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-18.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="https://www.wallem.com/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-19.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="https://www.wmu.se/" target="_blank"><img class="img-fluid" src="images/partners/LOGO1-20.jpg"></a> 	
 </div>
 
 
 
-</div>
 
 
 <div>
@@ -97,32 +109,36 @@ permalink: /partners
 </div>
 <div class="row">
 <div class="col is-4 mb-4">
-<a href="http://www.edumaritime.net/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-1.jpg"></a> 
+<a target="_blank" href="http://www.edumaritime.net/"><img src="images/partners/MEDIA-1.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="http://www.globalmaritimehub.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-2.jpg"></a> 
+<a target="_blank" href="http://www.globalmaritimehub.com/"><img src="images/partners/MEDIA-2.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="http://www.manifoldtimes.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-3.jpg"></a> 
+<a target="_blank" href="http://www.manifoldtimes.com/"><img src="images/partners/MEDIA-3.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://en.portnews.ru/events/"><img src="images/partners/MEDIA-4.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://en.portnews.ru/events/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-4.jpg"></a> 
+<a target="_blank" href="https://safety4sea.com/"><img src="images/partners/MEDIA-5.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://safety4sea.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-5.jpg"></a> 
+<a target="_blank" href="https://www.shipmanagementinternational.com/"><img src="images/partners/MEDIA-6.jpg" class="img-fluid"></a> 
+</div>
+</div>
+<div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.xindemarinenews.com/"><img src="images/partners/MEDIA-7.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
-<a href="https://www.shipmanagementinternational.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-6.jpg"></a> 
+<a target="_blank" href="http://www.rivieramm.com/"><img src="images/partners/MEDIA-8.jpg" class="img-fluid"></a> 	
 </div>
-<div class="col is-4 mb-4">
-<a href="https://www.xindemarinenews.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-7.jpg"></a> 
-</div>
-<div class="col is-4 mb-4">
-<a href="http://www.rivieramm.com/" target="_blank"><img class="img-fluid" src="images/partners/MEDIA-8.jpg"></a> 	
 </div>
 
 
-</div>
 <style>
 	
 a[target="_blank"]:after {
