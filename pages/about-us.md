@@ -8,17 +8,31 @@ permalink: /about-us
 <div class="col is-3 mb-4"><img src="images/logo-2022.jpg"  class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Week</h5>
+
 <p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
-<p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA&rsquo;s commitment to promoting safety at sea, registration for this event is free.</p>
-<p>This year, the International Safety@Sea Week 2022 will include the flagship International Safety@Sea Conference, the annual International Safety@Sea Awards, Ferry Rescue Exercise (FEREX) Observer Programme, Safety Forums and Industry Visits.</p>
-<p>This year&rsquo;s International Safety@Sea Conference will adopt a hybrid format, allowing participants to tune in from anywhere in the world or physically at Sands Expo and Convention Centre, Singapore. The opening session on 30 August 2022 focuses on this year&rsquo;s theme <strong>&ldquo;Riding the Waves for Maritime Safety&rdquo;</strong>.</p>
-<p>The two hybrid plenary sessions on 31 August 2022 will discuss:</p>
+<p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA&rsquo;s commitment to promoting safety at sea, registration for all events are free.</p>
+<p>This year, there are 8 sessions to look forward to including the flagship International Safety@Sea Conference, two safety forums for the pleasure craft and harbour craft sectors, the Maritime Cybersecurity Dialogue, Ferry Rescue Exercise (FEREX) Observer Programme and Industry Visits.&nbsp;</p>
+<p>Winners for the annual International Safety@Sea Awards, which recognizes outstanding efforts of organizations and individuals who have played a significant part in ensuring safety at sea, will also receive their awards then.&nbsp;</p>
+<p><strong>International Safety@Sea Conference<br />
+</strong>This year&rsquo;s International Safety@Sea Conference will adopt a hybrid format with option for either online or in-person participation to cater to the event&rsquo;s growing international audience. The opening session on 30 August 2022 focuses on this year&rsquo;s theme&nbsp;&ldquo;Riding the Waves for Maritime Safety&rdquo;.<br /><br />The two hybrid&nbsp;plenary&nbsp;sessions on 31&nbsp;August 2022 will discuss:</p>
 <ol>
-<li>Dovetailing Seafarers&rsquo; Health &amp; Wellbeing with a Good Safety Culture</li>
-<li>Proactive Measurement of Leading Indicators for Maritime Safety</li>
+  <li>Dovetailing Seafarers&rsquo; Health &amp; Wellbeing with a Good Safety Culture</li>
+<li>Proactive Use of Data for Maritime Safety&nbsp;</li>
 </ol>
-<p>Beyond the conference, FEREX Observer Programme 2022 returns to the big-scale, showcasing how inter-agencies within Maritime Singapore work together in times of crisis. International Safety@Sea Week 2022 also boasts industry visits to key players that help Singapore progress in the field of safety at sea.</p>
-<p>For the first time, International Safety@Sea Week 2022 will see two new safety forums, organized by MPA-Industry Safety Work Groups, and will feature key players in the industry as a speaker-panel lineup that will deep dive into safety within the pleasure craft and harbour craft communities in Singapore.</p>
+<p><strong>FEREX Observer Programme<br />
+</strong>The FEREX Observer Programme makes a comeback this year.&nbsp;FEREX (Ferry Rescue Exercise) is a multi-agency exercise led by the Maritime and Port Authority of Singapore (MPA) to test Singapore&rsquo;s operational readiness and responsiveness in the event of a ferry mishap. This year&rsquo;s exercise will see the resumption of a full-scale exercise involving seaward rescue operations and landward deployment of ground resource.</p>
+<p>Seats are limited so do register early to avoid disappointment.</p>
+<p><strong>Pleasure Craft Safety Forum &amp; Harbour Craft Safety Forum<br />
+</strong>For the first time, International Safety@Sea Week 2022 will feature 2 safety forums with presentations and panel discussions involving industry leaders and government agencies. The forum organized by the MPA-Pleasure Craft Safety Work Group will touch on &ldquo;Best Practices to Avoid Incidents at Sea&rdquo;, while the one led by the MPA-Harbour Craft Safety Work Group will discuss &ldquo;Instilling a Strong Safety Culture for the Harbour Craft Industry&rdquo;.</p>
+<p><strong>Industry Visits<br />
+</strong>As part of the Week, MPA is arranging visits to two locations &ndash; the&nbsp;Centre of Excellence for Maritime Safety (CEMS) and the&nbsp;W&auml;rtsil&auml; Expertise Centre.&nbsp;</p>
+<p><strong>Centre of Excellence for Maritime Safety (CEMS)<br /></strong>The tour of CEMS will cover its work in re-imagining maritime safety through AI in Human Factors, Advanced Navigation Research Simulator (ANRS), Next Generation Simulator Platform (NGNS) Platform and the use of AR and VR immersive technologies in training.&nbsp;</p>
+<p><strong>W&auml;rtsil&auml; Expertise Centre<br /></strong>The site visit to the&nbsp;W&auml;rtsil&auml; Expertise Centre&nbsp;will cover the&nbsp;latest emerging technologies for vessel voyages and how real-time data, AI analytics and expert in-the-loop enable predictive insights into fleet operations, performance, and safety enhancements. It will include a sharing on how vessels&rsquo; situational awareness can be enhanced through real-time analytics and augmented reality.</p>
+<p>Seats are limited so do register early to avoid disappointment.</p>
+<p><strong>Maritime Cybersecurity Dialogue<br />
+</strong>The Maritime Cyber Security Dialogue will also be held during the week. Featuring 3 cyber security experts and practitioners from MPA, PSA and Singapore University of Technology and Design, the event will seek to address key cyber safety issues in the rapidly digitalising maritime industry including principles, approaches and techniques to enable a more secure maritime landscape.</p>	
+	
+	
 </div>
 </div>
 <hr class="my-5">
