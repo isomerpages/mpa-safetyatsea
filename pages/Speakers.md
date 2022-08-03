@@ -119,6 +119,16 @@ description: ""
 <section class="bp-section font">
 <div class="bp-container is-fluid has-text-centered">
 <div class="row">
+
+<div class="col is-4">
+<a href="/speakers/mr-chee-hong-tat">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Chee Hong Tat</h4>
+<div class="speaker-company text-ellipsis">Senior Minister of State<br>
+Ministry of Transport, Singapore</div>
+</a>
+</div> 	
+	
 <div class="col is-4">
 <a href="/speakers/mr-knut-orbeck-nilssen">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Knut Orbeck-Nilssen.png" alt="Mr Knut Ørbeck-Nilssen" /></div>
