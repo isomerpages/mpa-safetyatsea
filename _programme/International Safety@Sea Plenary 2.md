@@ -19,8 +19,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>15:35 - 15:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Presentation</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -56,8 +55,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Learning safety to think the system-ship</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -92,8 +90,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="p-4">
 <div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
