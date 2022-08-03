@@ -32,7 +32,7 @@ sections:
       subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
       button: View Programme
       url: /programme/pleasure-craft-safety-forum
-      image: /images/Thumbnails/2022-thumbnail-PleasureCraft4.jpg
+      image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
       alt: Image alt text
       description: Best Practices to Avoid Incidents at Sea
   - infopic:
@@ -40,7 +40,7 @@ sections:
       subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
       button: View Programme
       url: /programme/ferex-observer-programme
-      image: /images/Thumbnails/2022-thumbnail-FEREXObserver4.jpg
+      image: /images/1-thumbnail-FEREXObserver5.jpg
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
@@ -48,11 +48,11 @@ sections:
       description: Instilling a Strong Safety Culture for the Harbour Craft Industry
       button: View Programme
       url: /programme/harbour-craft-safety-forum
-      image: /images/Thumbnails/2022-thumbnail-harbourCraft4.jpg
+      image: /images/1-thumbnail-harbourCraft5.jpg
       alt: Image alt text
   - infopic:
       description: Riding the Waves for Maritime Safety
-      image: /images/Thumbnails/2022-thumbnail-opening4.jpg
+      image: /images/1-thumbnail-opening5.jpg
       alt: Image alt text
       title: Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
@@ -63,14 +63,14 @@ sections:
       subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
       url: /programme/maritime-cybersecurity-dialogue-2022
-      image: /images/Thumbnails/2022-thumbnail-MaritimeCybersecurity4.jpg
+      image: /images/1-thumbnail-MaritimeCybersecurity5.jpg
       alt: Image alt text
   - infopic:
       title: Industry Visits
       subtitle: 31 AUG | 09:00 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
       url: /programme/industry-visits
-      image: /images/Thumbnails/2022-thumbnail-industryvisit4.jpg
+      image: /images/1-thumbnail-industryvisit5.jpg
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Plenary 1
@@ -78,7 +78,7 @@ sections:
       description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
-      image: /images/Thumbnails/2022-thumbnail-plenary1-4.jpg
+      image: /images/1-thumbnail-plenary1-5.jpg
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Plenary 2
@@ -86,6 +86,6 @@ sections:
       description: Proactive Measurement of Leading Indicators for Maritime Safety
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/Thumbnails/2022-thumbnail-plenary2-4.jpg
+      image: /images/1-thumbnail-plenary2-5.jpg
       alt: IS@S Plenary 2
 ---
