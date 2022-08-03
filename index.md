@@ -8,12 +8,12 @@ notification: Up to 8 sessions open for registration now!
 sections:
   - hero:
       key_highlights:
-        - title: MEDIA ROOM
-          description: ""
-          url: /media-room
         - title: About Us
           description: ""
           url: /about-us
+        - title: Register Now
+          description: ""
+          url: /registration
         - title: Programme
           description: ""
           url: /programme/overview
