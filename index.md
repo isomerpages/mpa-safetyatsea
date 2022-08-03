@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /speakers
       title: International Safety@Sea Week 2022
-      subtitle: 29 August - 31 August 2022
+      subtitle: "29th August to 3rd September "
       background: /images/HOME-BANNER4.jpg
   - infobar:
       title: Spotlight on Maritime Safety
