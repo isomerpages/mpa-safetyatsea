@@ -4,26 +4,26 @@ permalink: /partners
 ---
 <div class="row">
 <div class="col is-4 mb-4">
-<h3>Organised by</h3>
+<h4>Organised by</h4>
 
 <a target="_blank" href="#"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
-<h3>Supported By</h3>
+<h4>Supported By</h4>
 
 <a target="_blank" href="#"><img src="images/partners/LOGO1-000.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
-<h3>Part of</h3>
+<h4>Part of</h4>
 
 <a target="_blank" href="#"><img src="images/partners/LOGO1-001.jpg" class="img-fluid"></a> 
 </div>
 </div>
 
 <div>
-<h3>Supporting Organisations</h3>
+<h4>Supporting Organisations</h4>
 </div>
 <div class="row">
 <div class="col is-4 mb-4">
@@ -105,7 +105,7 @@ permalink: /partners
 
 
 <div>
-<h3>Media Partners</h3>
+<h4>Media Partners</h4>
 </div>
 <div class="row">
 <div class="col is-4 mb-4">
