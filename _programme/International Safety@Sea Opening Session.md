@@ -65,7 +65,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:15 - 16:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Launch of International Safety@Sea Conference 2022</h4>
-<p>SMS Chee, Chairman MPA, CE MPA, Chairman NMSSC and Chairman, WSHC Marine Industries Committee</p>
+
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
@@ -96,7 +96,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:20 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Launch of Joint Initiatives with WSH Council (Safety Video &amp; Case Studies Booklet)</h4>
-<p>Mr Ishak Ismail, Chairman of NMSSC and Prof. Chan Eng Soon, Chairman of WSH Council&nbsp;(Marine Industries) Committee</p>
+
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
