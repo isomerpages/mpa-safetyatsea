@@ -54,12 +54,12 @@ sections:
       description: Riding the Waves for Maritime Safety
       image: /images/1-thumbnail-opening5.jpg
       alt: Image alt text
-      title: Opening Session
+      title: International Safety@Sea Conference – Opening Session
       subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
       button: View Programme
       url: /programme/opening-session
   - infopic:
-      title: Maritime Cybersecurity Dialogue 2022
+      title: Maritime Cybersecurity Dialogue 2022 Cyber Safety@Sea
       subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
       url: /programme/maritime-cybersecurity-dialogue-2022
