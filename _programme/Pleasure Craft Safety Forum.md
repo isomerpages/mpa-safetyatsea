@@ -17,8 +17,8 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Observance of Good Seamanship – First Principles</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+<!--<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
+<div class="programme-description readmore">&nbsp;</div>-->
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -54,8 +54,7 @@ description: ""
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Yachting Casualties - Photo Illustrated</h4>
 <p>Fire, Groundings, Sinking, Salvage, Collisions, Lightning Strikes,Thefts, Unseaworthiness.<br>Shipping Collisions, groundings and salvage</p>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -91,8 +90,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
-<div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
