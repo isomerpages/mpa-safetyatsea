@@ -105,7 +105,7 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-shawn-hoe" rel="noopener"><strong>Captain Shawn Hoe</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-shawn-hoe" rel="noopener"><strong>Capt Shawn Hoe</strong></a></div>
 <div class="text-ellipsis speaker-position">Assistant Director (Marine Environment and Safety)/Deputy Port Master</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
@@ -127,7 +127,7 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Capt Richard Howe.png" alt="Captain Richard Howe" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-richard-howe" rel="noopener"><strong>Captain Richard Howe</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-richard-howe" rel="noopener"><strong>Capt Richard Howe</strong></a></div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
 <div class="text-ellipsis speaker-company">Maritime Claim &amp; Services Pte Ltd &amp; Yacht Surveys &amp; Services Pte Ltd</div>
 </div>
@@ -137,7 +137,7 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/William%20Francis.png" alt="Captain William Francis" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong> Captain William Francis</strong></a></div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong> Capt William Francis</strong></a></div>
 <div class="text-ellipsis speaker-position">President</div>
 <div class="text-ellipsis speaker-company">Singapore Power Boat Association</div>
 </div>
