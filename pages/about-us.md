@@ -8,7 +8,7 @@ permalink: /about-us
 <div class="col is-3 mb-4"><img src="images/logo-2022.jpg"  class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Week</h5>
-
+<div>
 <p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the <p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
 <p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA&rsquo;s commitment to promoting safety at sea, registration for all events are free.</p>
 <p>This year, there are 8 sessions to look forward to including the flagship International Safety@Sea Conference, two safety forums for the pleasure craft and harbour craft sectors, the Maritime Cybersecurity Dialogue, Ferry Rescue Exercise (FEREX) Observer Programme and Industry Visits.&nbsp;</p>
@@ -47,7 +47,7 @@ permalink: /about-us
 <p>Seats are limited so do register early to avoid disappointment.</p>
 <p><strong>Maritime Cybersecurity Dialogue<br />
 </strong>The Maritime Cyber Security Dialogue will also be held during the week. Featuring 3 cyber security experts and practitioners from MPA, PSA and Singapore University of Technology and Design, the event will seek to address key cyber safety issues in the rapidly digitalising maritime industry including principles, approaches and techniques to enable a more secure maritime landscape.</p>	
-	
+	</div>	
 	
 </div>
 </div>
@@ -79,4 +79,5 @@ permalink: /about-us
 </div>
 <style>
 	ol li { font-size: 1rem; }
+	p{}
 </style>
