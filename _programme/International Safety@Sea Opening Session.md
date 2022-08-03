@@ -20,9 +20,6 @@ description: ""
               <div class="p-4">
                 <div class="programme-time"><b>16:05 - 16:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
-								 <a href="#" style="color: #993366; text-decoration: underline;">Watch Presentation</a>
-                <div class="programme-description readmore">
-                </div>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -127,8 +124,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Presentation</h4>
-<span style="text-decoration: underline;"><a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -163,8 +158,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Destination Zero: Ensuring Safe Progress for Shipping</h4>
-<span style="text-decoration: underline;"><a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -200,8 +194,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:55 - 18:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
-<div class="programme-description readmore">&nbsp;</div>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
