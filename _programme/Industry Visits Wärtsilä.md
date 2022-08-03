@@ -12,7 +12,7 @@ description: ""
 
 
 <div class="col is-12 mb-12">
-<h5 class="abt-title">Wärtsilä</h5>
+<h5 class="abt-title">Wärtsilä Expertise Centre</h5>
 <img src="/images/Wartsila.png"  class="img-fluid">
 <p style="font-weight: 400;">W&auml;rtsil&auml; Connected Vessels and Expert Insight transforms how vessels perform their voyage by leveraging the latest emerging technologies. Real-time data, AI analytics and expert in-the-loop, enable predictive insights into fleet operations, performance, and safety enhancements.</p>
 <p style="font-weight: 400;">Wartsila Voyage solutions combine vessel infrastructure, cloud data services, decision support systems and smart port solutions to enable port-to-port optimization.&nbsp;</p>
