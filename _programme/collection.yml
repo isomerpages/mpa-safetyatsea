@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Industry Visits Wärtsilä.md
       - overview.md
       - Pleasure Craft Safety Forum.md
       - Ferry Rescue Exercise Observer Programme.md
@@ -10,5 +9,6 @@ collections:
       - opening-session.md
       - Maritime Cybersecurity Dialogue 2022.md
       - Industry Visits CEMS.md
+      - Industry Visits Wärtsilä.md
       - International Safety@Sea Plenary 1.md
       - International Safety@Sea Plenary 2.md
