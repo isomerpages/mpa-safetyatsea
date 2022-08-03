@@ -73,6 +73,8 @@ sections:
       url: /programme/industry-visits
       image: /images/1-thumbnail-industryvisit5.jpg
       alt: Image alt text
+      description: Wärtsilä Expertise Centre & Centre for Excellence in Maritime
+        Safety (CEMS)
   - infopic:
       title: International Safety@Sea - Plenary 1
       subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
