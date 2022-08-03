@@ -9,7 +9,7 @@ permalink: /about-us
 <div class="col is-9 text-justify">
 <h5 class="abt-title">International Safety@Sea Week</h5>
 <div>
-<p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the <p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
+<p>The Maritime and Port Authority of Singapore (MPA) is organising the 9th run of the International Safety@Sea Week from 29 August to 2 September 2022.</p>
 <p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA&rsquo;s commitment to promoting safety at sea, registration for all events are free.</p>
 <p>This year, there are 8 sessions to look forward to including the flagship International Safety@Sea Conference, two safety forums for the pleasure craft and harbour craft sectors, the Maritime Cybersecurity Dialogue, Ferry Rescue Exercise (FEREX) Observer Programme and Industry Visits.&nbsp;</p>
 <p>Winners for the annual International Safety@Sea Awards, which recognizes outstanding efforts of organizations and individuals who have played a significant part in ensuring safety at sea, will also receive their awards then.&nbsp;</p>
@@ -79,5 +79,5 @@ permalink: /about-us
 </div>
 <style>
 	ol li { font-size: 1rem; }
-	p{}
+	p{line-height:24px;}
 </style>
