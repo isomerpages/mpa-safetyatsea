@@ -3,7 +3,6 @@ title: International Safety@Sea Opening Session
 permalink: /programme/opening-session
 description: ""
 ---
-
 <div>
   <b>30 Aug | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>Opening Session: Riding the Waves for Maritime Safety</h3>
@@ -96,7 +95,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>16:20 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Launch of joint initiatives with WSH Council (Safety Video &amp; Case Studies E-Book)</h4>
+<h4 class="programme-title">Launch of Joint Initiatives with WSH Council (Safety Video &amp; Case Studies Booklet)</h4>
 <p>Mr Ishak Ismail, Chairman of NMSSC and Prof. Chan Eng Soon, Chairman of WSH Council&nbsp;(Marine Industries) Committee</p>
 <div class="speakers px-2">
 <div class="row">
