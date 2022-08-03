@@ -19,8 +19,8 @@ description: ""
               <div class="p-4">
                 <div class="programme-time"><b>13:05 - 13:20</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
-								<a href="#" style="color: #993366; text-decoration: underline;">Watch Awards Ceremony</a><br><br>
-								The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
+<hr class="my-3 border-primary" />								
+The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
               </div>
             </div>
           </div>
@@ -40,8 +40,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>13:20 - 13:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Communicating Towards Safety</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -76,8 +75,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>13:35 - 13:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">How Mental Health Management Shapes Safety Culture and Risk Prevention</h4>
-<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -112,8 +110,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>13:50 - 14:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-<a style="color: #993366; text-decoration: underline;" href="#">Watch Panel Discussion</a>
-<div class="programme-description readmore">&nbsp;</div>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
