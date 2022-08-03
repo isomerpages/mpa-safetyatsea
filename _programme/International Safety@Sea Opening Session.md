@@ -26,11 +26,11 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/Speakers/CheeHongTat.png" alt="Mr. Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="/Mr-Chee-Hong-Tat" class="speaker-name text-ellipsis" rel="noopener"><b>Mr. Chee Hong Tat</b></a>
+                            <a href="/speakers/mr-chee-hong-tat" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Chee Hong Tat</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Senior Minister of State
