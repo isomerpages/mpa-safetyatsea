@@ -90,7 +90,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="p-4">
 <div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-
+“Proactive Measurement of Leading Indicators for Maritime Safety”
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
