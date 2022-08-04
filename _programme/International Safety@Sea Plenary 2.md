@@ -54,7 +54,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Learning safety to think the system-ship</h4>
+<h4 class="programme-title">Learning Safety to Think the System-ship</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
