@@ -139,7 +139,7 @@ Rear Admiral Jacques Rivière</strong></a></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-ritesh-chawla" rel="noopener"><strong>Capt Ritesh Chawla</strong></a></div>
 <div class="text-ellipsis speaker-position">Senior Manager</div>
-<div class="text-ellipsis speaker-company">Marine Safety and Vetting, Rio Tinto</div>
+<div class="text-ellipsis speaker-company">Marine Safety and Vetting<br>Rio Tinto</div>
 </div>
 </div>
 </div>
