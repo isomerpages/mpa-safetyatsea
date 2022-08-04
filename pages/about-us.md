@@ -35,7 +35,7 @@ permalink: /about-us
 <div class="col is-3 mb-4"><img src="images/logos/MPA_Singapore_Logo.png" style="width:50%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime and Port Authority of Singapore (MPA)</h5>
-<div>The mission of the Maritime and Port Authority of Singapore (MPA) is to develop Singapore as a premier global hub port and international maritime centre (IMC), and to advance and safeguard Singapore’s strategic maritime interests.MPA is the driving force behind Singapore’s port and maritime development, taking on the roles of Port Authority, Port Regulator, Port Planner, IMC Champion, and National Maritime Representative. MPA partners the industry and other agencies to enhance safety, security and environmental protection in our port waters, facilitate port operations and growth, expand the cluster of maritime ancillary services, and promote maritime R&amp;D and manpower development.</div>
+<div><p>The mission of the Maritime and Port Authority of Singapore (MPA) is to develop Singapore as a premier global hub port and international maritime centre (IMC), and to advance and safeguard Singapore’s strategic maritime interests.MPA is the driving force behind Singapore’s port and maritime development, taking on the roles of Port Authority, Port Regulator, Port Planner, IMC Champion, and National Maritime Representative. MPA partners the industry and other agencies to enhance safety, security and environmental protection in our port waters, facilitate port operations and growth, expand the cluster of maritime ancillary services, and promote maritime R&amp;D and manpower development.</p></div>
 </div>
 </div>
 <hr class="my-5">
@@ -43,7 +43,7 @@ permalink: /about-us
 <div class="col is-3 mb-4"><img src="images/logos/NMSSC_Logo.png" style="width:60%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">National Maritime Safety at Sea Council (NMSSC)</h5>
-<div>National Maritime Safety at Sea Council (NMSSC) was established by the Maritime and Port Authority of Singapore (MPA) to spearhead the drive for maritime safety on a national level, and to ensure the sustainability of safety efforts. The first priority of the Council is to address issues related to navigational safety and raise levels of maritime safety standards. The Council will also endorse safety initiatives by MPA and the working groups to spearhead safety efforts and public campaigns that will raise awareness on navigational safety and practices.</div>
+<div><p>National Maritime Safety at Sea Council (NMSSC) was established by the Maritime and Port Authority of Singapore (MPA) to spearhead the drive for maritime safety on a national level, and to ensure the sustainability of safety efforts. The first priority of the Council is to address issues related to navigational safety and raise levels of maritime safety standards. The Council will also endorse safety initiatives by MPA and the working groups to spearhead safety efforts and public campaigns that will raise awareness on navigational safety and practices.</p></div>
 </div>
 </div>
 <hr class="my-5">
