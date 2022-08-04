@@ -76,7 +76,7 @@ sections:
       description: Wärtsilä Expertise Centre & Centre for Excellence in Maritime
         Safety (CEMS)
   - infopic:
-      title: International Safety@Sea - Plenary 1
+      title: International Safety@Sea Conference - Plenary 1
       subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
       description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
       button: VIEW PROGRAMME
@@ -84,7 +84,7 @@ sections:
       image: /images/1-thumbnail-plenary1-5.jpg
       alt: Image alt text
   - infopic:
-      title: International Safety@Sea - Plenary 2
+      title: International Safety@Sea Conference - Plenary 2
       subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
       description: Proactive Use of Data for Maritime Safety
       button: VIEW PROGRAMME
