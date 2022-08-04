@@ -3,7 +3,6 @@ title: International Safety@Sea Conference Opening Session
 permalink: /programme/opening-session
 description: ""
 ---
-
 <div>
   <b>30 Aug | 16:00 - 18:30</b>&nbsp;<b>GMT+8</b>
   <h3>Opening Session: Riding the Waves for Maritime Safety</h3>
@@ -195,6 +194,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:55 - 18:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
+	“Riding the Waves for Maritime Safety”
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
