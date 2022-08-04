@@ -107,36 +107,15 @@ Mr Peter Broadhurst</strong></a></div>
 </div>
 <div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
+
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Chu Xing Peng.png" alt="Captain Peng Chuxing" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/ramsamy.png" alt="Mr Jamie Ramsamy" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-peng-chuxing" rel="noopener"><strong>Capt Peng Chuxing</strong></a></div>
-<div class="text-ellipsis speaker-position">Deputy GM, Head of Quality, Safety, Security &amp; Sustainability</div>
-<div class="text-ellipsis speaker-company">Pacific International Lines Pte Ltd</div>
-</div>
-</div>
-</div>
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Capt Ritesh Chawla" /></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-ritesh-chawla" rel="noopener"><strong>Capt Ritesh Chawla</strong></a></div>
-<div class="text-ellipsis speaker-position">Senior Manager</div>
-<div class="text-ellipsis speaker-company">Marine Safety & Vetting, Rio Tinto</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Peter Broadhurst.png" alt="Mr Peter Broadhurst" /></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-peter-broadhurst" rel="noopener"><strong>Mr Peter Broadhurst</strong></a></div>
-<div class="text-ellipsis speaker-position">Senior Vice President Safety and Regulatory</div>
-<div class="text-ellipsis speaker-company">Inmarsat Maritime</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-jamie-ramsamy" rel="noopener"><strong>Mr Jamie Ramsamy</strong></a></div>
+<div class="text-ellipsis speaker-position">Head of HSSEQ</div>
+<div class="text-ellipsis speaker-company">Thome Group</div>
 </div>
 </div>
 </div>
@@ -156,11 +135,11 @@ Rear Admiral Jacques Rivière</strong></a></div>
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/ramsamy.png" alt="Mr Jamie Ramsamy" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Ritesh_Chawla.png" alt="Capt Ritesh Chawla" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-jamie-ramsamy" rel="noopener"><strong>Mr Jamie Ramsamy</strong></a></div>
-<div class="text-ellipsis speaker-position">Head of HSSEQ</div>
-<div class="text-ellipsis speaker-company">Thome Group</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-ritesh-chawla" rel="noopener"><strong>Capt Ritesh Chawla</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Manager</div>
+<div class="text-ellipsis speaker-company">Marine Safety and Vetting, Rio Tinto</div>
 </div>
 </div>
 </div>
