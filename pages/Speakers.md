@@ -266,7 +266,7 @@ Ministry of Transport, Singapore</div>
 </div>
 </section>
 <div>
-<h3>Plenary 2: &ldquo;Proactive Measurement of Leading Indicators for Maritime Safety&rdquo;</h3>
+<h3>Plenary 2: &ldquo;Proactive Use of Data for Maritime Safety&rdquo;</h3>
 </div>
 <section class="bp-section font">
 <div class="bp-container is-fluid has-text-centered">
