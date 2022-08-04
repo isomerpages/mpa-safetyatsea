@@ -127,6 +127,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 </div>
 <div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
+<!--
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
@@ -149,6 +150,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 </div>
 </div>
 </div>
+-->
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
