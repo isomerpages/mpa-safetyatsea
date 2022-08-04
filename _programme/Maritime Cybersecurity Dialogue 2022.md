@@ -19,7 +19,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-<p>Cyber Safety@Sea</p>
+
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
