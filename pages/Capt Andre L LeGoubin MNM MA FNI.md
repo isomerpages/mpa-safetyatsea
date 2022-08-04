@@ -6,7 +6,7 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Capt Andre.png" /></div>
 <div class="col is-9 speaker-details">
-<h4>Capt Andre L. LeGoubin MNM MA FNI</h4>
+<h4>Capt André L. LeGoubin</h4>
 <p>President<br />The Nautical Institute</p>
 <p>Andr&eacute; is currently employed as a Mooring Master in the lightering trade, undertaking underway ship-to-ship transfers of oil, offshore in the USA and South America, having decided to return to sea in the summer of 2012 after over eight years ashore, working as a Marine Consultant in Houston, Texas.</p>
 <p>He emigrated from the UK to the USA in January 2004, leaving the London Pilotage Service where he was a first class marine Pilot. Before becoming a Pilot, Andr&eacute; was Master of high-speed ferries, initially hydrofoils, then mono- and multi-hull ro-ro/passenger vessels.</p>
