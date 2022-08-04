@@ -3,7 +3,6 @@ title: Capt Andre L LeGoubin MNM MA FNI
 permalink: /speakers/captain-andre-l-legoubin
 description: ""
 ---
-
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/Capt Andre.png" /></div>
 <div class="col is-9 speaker-details">
