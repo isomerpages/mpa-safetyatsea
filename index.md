@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
-      subtitle: 30 AUG | 09:00 – 11:00 (GMT+8)
+      subtitle: 30 AUG | 09:00 – 12:00 (GMT+8)
       description: Instilling a Strong Safety Culture for the Harbour Craft Industry
       button: View Programme
       url: /programme/harbour-craft-safety-forum
