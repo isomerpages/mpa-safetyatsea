@@ -17,7 +17,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">How Data from Harbour Craft Incidents Can Inform Decisions for Safety at Sea</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
