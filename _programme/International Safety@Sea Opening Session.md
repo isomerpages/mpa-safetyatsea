@@ -4,7 +4,7 @@ permalink: /programme/opening-session
 description: ""
 ---
 <div>
-  <b>30 Aug | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
+  <b>30 Aug | 16:00 - 18:30</b>&nbsp;<b>GMT+8</b>
   <h3>Opening Session: Riding the Waves for Maritime Safety</h3>
 </div>
 
