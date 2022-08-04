@@ -36,11 +36,11 @@ description: ""
 </div>
 <div class="row">
 <div class="col is-4">
-<a href="#">
+<a href="/speakers/captain-shawn-hoe">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<h4 class="speaker-name text-ellipsis">Capt Shawn Hoe</h4>
+<div class="speaker-position text-ellipsis">Assistant Director (Marine Environment and Safety) / Deputy Port Master</div>
+<div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
 </a>
 </div>
 <div class="col is-4">
@@ -128,6 +128,15 @@ description: ""
 Ministry of Transport, Singapore</div>
 </a>
 </div> 	
+
+<div class="col is-4">
+<a href="/speakers/dr-heike-deggim">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/heikedeggim.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Dr Heike Deggim</h4>
+<div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
+<div class="speaker-company text-ellipsis">International Maritime Organisation</div>
+</a>
+</div>
 	
 <div class="col is-4">
 <a href="/speakers/mr-knut-orbeck-nilssen">
@@ -137,14 +146,7 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">DNV - Maritime</div>
 </a>
 </div> 
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker2</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>   
+ 
 </div>
 <div class="row">
 <div class="col is-4">
@@ -155,14 +157,16 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
 </a>
 </div>
+
 <div class="col is-4">
-<a href="/speakers/dr-heike-deggim">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/heikedeggim.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Dr Heike Deggim</h4>
-<div class="speaker-position text-ellipsis">Director, Maritime Safety Division</div>
-<div class="speaker-company text-ellipsis">International Maritime Organisation</div>
+<a href="#">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Speaker2</h4>
+<div class="speaker-position text-ellipsis">Position</div>
+<div class="speaker-company text-ellipsis">Company</div>
 </a>
-</div>
+</div>  
+
 <div class="col is-4">
 <a href="/speakers/dato-hj-baharin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/datobaharin.png" alt="" /></div>
@@ -198,16 +202,7 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 </div>
-<div class="row">
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist6</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
-</div>
+
 </div>
 </section>
 <div>
@@ -277,11 +272,11 @@ Ministry of Transport, Singapore</div>
 <div class="bp-container is-fluid has-text-centered">
 <div class="row">
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker1</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/mr-peter-broadhurst">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Peter Broadhurst.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Peter Broadhurst</h4>
+<div class="speaker-position text-ellipsis">Senior Vice President Safety and Regulatory</div>
+<div class="speaker-company text-ellipsis">Inmarsat Maritime</div>
 </a>
 </div>
 <div class="col is-4">
@@ -303,14 +298,7 @@ Ministry of Transport, Singapore</div>
 </div>
 <div class="row">
 
-<div class="col is-4">
-<a href="/speakers/mr-peter-broadhurst">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Peter Broadhurst.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Mr Peter Broadhurst</h4>
-<div class="speaker-position text-ellipsis">Senior Vice President Safety and Regulatory</div>
-<div class="speaker-company text-ellipsis">Inmarsat Maritime</div>
-</a>
-</div>
+
 <div class="col is-4">
 <a href="/speakers/mr-jamie-ramsamy">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/ramsamy.png" alt="" /></div>
@@ -330,18 +318,17 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 
-</div>
-<div class="row">
-
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist 5</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<a href="/speakers/captain-ritesh-chawla">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Ritesh_Chawla.png" alt="Capt Ritesh Chawla" /></div>
+<h4 class="speaker-name text-ellipsis">Capt Ritesh Chawla</h4>
+<div class="speaker-position text-ellipsis">Senior Manager Marine Safety and Vetting</div>
+<div class="speaker-company text-ellipsis">Rio Tinto</div>
 </a>
 </div>
+
 </div>
+
 </div>
 </section>
 <div>
