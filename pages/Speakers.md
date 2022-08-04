@@ -170,7 +170,7 @@ Ministry of Transport, Singapore</div>
 <div class="col is-4">
 <a href="/speakers/dato-hj-baharin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/datobaharin.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Dato Hj Baharin Bin Dato Abdul Hamid</h4>
+<h4 class="speaker-name text-ellipsis">Dato' Hj Baharin Bin Dato' Abdul Hamid</h4>
 <div class="speaker-position text-ellipsis">Director General</div>
 <div class="speaker-company text-ellipsis">Marine Department Malaysia</div>
 </a>
