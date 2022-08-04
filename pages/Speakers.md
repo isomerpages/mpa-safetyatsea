@@ -11,7 +11,7 @@ description: ""
 <div class="row">
 <div class="col is-4">
 <a href="/speakers/captain-william-francis">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/William Francis.png" alt="Captain William Francis" /></div>
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/wf1.png" alt="Captain William Francis" /></div>
 <h4 class="speaker-name text-ellipsis">Capt William Francis</h4>
 <div class="speaker-position text-ellipsis">President</div>
 <div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
