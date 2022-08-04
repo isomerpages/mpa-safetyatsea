@@ -3,10 +3,9 @@ title: Capt William Francis
 permalink: /speakers/captain-william-francis
 description: ""
 ---
-
 <div class="row">
             <div class="col is-3">
-              <img src="/images/Speakers/William%20Francis.png">
+              <img src="/images/Speakers/wf1.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Capt William Francis</h4>
