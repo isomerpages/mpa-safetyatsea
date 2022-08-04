@@ -3,7 +3,7 @@ title: Pleasure Craft Safety Forum
 permalink: /programme/pleasure-craft-safety-forum
 description: ""
 ---
-<div><strong>29 Aug | 09:00 - 11:00</strong>&nbsp;<strong>GMT+8</strong>
+<div><strong>29 Aug | 09:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong>
 <h3>Safety Forum 1 by MPA-Pleasure Craft Safety Work Group &ldquo;Best Practices to Avoid Incidents at Sea&rdquo;</h3>
 </div>
 <section>
