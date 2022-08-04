@@ -110,7 +110,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 <div class="p-4">
 <div class="programme-time"><strong>13:50 - 14:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-
+“Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture”
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
