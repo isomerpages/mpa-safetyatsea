@@ -188,7 +188,7 @@ Ministry of Transport, Singapore</div>
 <div class="col is-4">
 <a href="/speakers/captain-andre-l-legoubin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Andre.png" alt="Captain Andre L. LeGoubin MNM MA FNI" /></div>
-<h4 class="speaker-name text-ellipsis">Capt Andre L. LeGoubin MNM MA FNI</h4>
+<h4 class="speaker-name text-ellipsis">Capt André L. LeGoubin</h4>
 <div class="speaker-position text-ellipsis">President</div>
 <div class="speaker-company text-ellipsis">The Nautical Institute</div>
 </a>
