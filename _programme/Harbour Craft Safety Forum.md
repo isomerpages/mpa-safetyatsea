@@ -112,7 +112,7 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/chongjiachyuan.png" alt="" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-chong-jia-chyuan" rel="noopener"><strong>Capt Chong Jia Chyuan</strong></a></div>
-<div class="text-ellipsis speaker-position">Port Master</div>
+<div class="text-ellipsis speaker-position">Port Master / Deputy Director (Operations)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
