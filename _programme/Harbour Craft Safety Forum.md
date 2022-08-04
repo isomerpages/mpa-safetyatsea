@@ -3,7 +3,7 @@ title: Harbour Craft Safety Forum
 permalink: /programme/harbour-craft-safety-forum
 description: ""
 ---
-<div><strong>30 Aug | 09:00 - 11:00</strong>&nbsp;<strong>GMT+8</strong>
+<div><strong>30 Aug | 09:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong>
 <h3>Safety Forum 2 by MPA-Harbour Craft Safety Work Group &ldquo;Instilling a Strong Safety Culture for the Harbour Craft Industry&rdquo;</h3>
 </div>
 
