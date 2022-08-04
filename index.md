@@ -29,7 +29,7 @@ sections:
         promote safety at sea.
   - infopic:
       title: Pleasure Craft Safety Forum
-      subtitle: 29 AUG | 09:00 – 11:00 (GMT+8)
+      subtitle: 29 AUG | 09:00 – 12:00 (GMT+8)
       button: View Programme
       url: /programme/pleasure-craft-safety-forum
       image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
@@ -55,7 +55,7 @@ sections:
       image: /images/1-thumbnail-opening5.jpg
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Session
-      subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
+      subtitle: 30 Aug | 16:00 - 18:30 (GMT+8)
       button: View Programme
       url: /programme/opening-session
   - infopic:
