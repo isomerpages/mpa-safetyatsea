@@ -3,7 +3,6 @@ title: International Safety@Sea Conference Plenary 2
 permalink: /programme/iss-conference-plenary-2
 description: ""
 ---
-
 <section>
 	<div>
   <b>31 Aug | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
@@ -107,6 +106,30 @@ Mr Peter Broadhurst</strong></a></div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">&nbsp;</div>
+</div>
+
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Peter Broadhurst.png" alt="Mr Peter Broadhurst" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-peter-broadhurst" rel="noopener"><strong>
+Mr Peter Broadhurst</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior Vice President Safety and Regulatory</div>
+<div class="text-ellipsis speaker-company">Inmarsat Maritime</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Raphael Baumler.png" alt="Mr Charles Watkins" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/prof-raphael-baumler" rel="noopener"><strong>Prof Raphael Baumler</strong></a></div>
+<div class="text-ellipsis speaker-position">Head of Maritime Safety and Environmental Administration</div>
+<div class="text-ellipsis speaker-company">World Maritime University</div>
+</div>
+</div>
+</div>
 </div>
 
 <div class="row">
