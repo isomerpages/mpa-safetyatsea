@@ -103,7 +103,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="images/speakers/shawnhoe.png" alt="" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/shawnhoe.png" alt="" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-shawn-hoe" rel="noopener"><strong>Capt Shawn Hoe</strong></a></div>
 <div class="text-ellipsis speaker-position">Assistant Director (Marine Environment and Safety)/Deputy Port Master</div>
