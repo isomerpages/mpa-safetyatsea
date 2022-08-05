@@ -20,7 +20,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15:35 - 15:50</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Learning Safety to Think the System-ship</h4>
+<h4 class="programme-title">Data Quality for Safety Learning Culture</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
