@@ -9,6 +9,7 @@ description: ""
 </div>
 <img src="/images/FEREX2.jpg"  class="img-fluid">
 <p>FEREX (Ferry Rescue Exercise) is a multi-agency exercise led by the Maritime and Port Authority of Singapore (MPA) to test Singapore’s operational readiness and responsiveness in the event of a ferry mishap. This year’s exercise will see the resumption of a full-scale exercise involving seaward rescue operations and landward deployment of ground resource. Participating agencies and organisations include the Immigration & Checkpoints Authority (ICA), Ministry of Health (MOH), Police Coast Guard from the Singapore Police Force (SPF), Republic of Singapore Air Force (RSAF), Republic of Singapore Navy (RSN) and Singapore Civil Defence Force (SCDF).</p>
+<p>Seats are limited so do register early to avoid disappointment.</p>
 <style type="text/css"> 
     .is-left{
       text-align: left;
