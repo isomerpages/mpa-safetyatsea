@@ -234,6 +234,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
+</div>
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
