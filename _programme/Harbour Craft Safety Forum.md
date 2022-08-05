@@ -144,8 +144,8 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Captain Hari Subramaniam.png" alt="Capt Hari Subramaniam" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-hari-subramania" rel="noopener"><strong>Capt Hari Subramaniam</strong></a></div>
-<div class="text-ellipsis speaker-position">Managing Director</div>
-<div class="text-ellipsis speaker-company">Maritime Claim &amp; Services Pte Ltd &amp; Yacht Surveys &amp; Services Pte Ltd</div>
+<div class="text-ellipsis speaker-position">Regional Head – Business Relations and MediSea</div>
+<div class="text-ellipsis speaker-company">The Shipowners’ P&I Club</div>
 </div>
 </div>
 </div>
