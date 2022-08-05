@@ -9,14 +9,7 @@ description: ""
 <section class="bp-section font">
 <div class="bp-container is-fluid has-text-centered">
 <div class="row">
-<div class="col is-4">
-<a href="/speakers/captain-william-francis">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/wf1.png" alt="Captain William Francis" /></div>
-<h4 class="speaker-name text-ellipsis">Capt William Francis</h4>
-<div class="speaker-position text-ellipsis">President</div>
-<div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
-</a>
-</div>
+
 <div class="col is-4">
 <a href="/speakers/captain-richard-howe">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Richard Howe.png" alt="Capt Richard Howe" /></div>
@@ -25,6 +18,16 @@ description: ""
 <div class="speaker-company text-ellipsis">Maritime Claim & Services Pte Ltd & Yacht Surveys & Services Pte Ltd</div>
 </a>
 </div>
+
+<div class="col is-4">
+<a href="/speakers/captain-william-francis">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/wf1.png" alt="Captain William Francis" /></div>
+<h4 class="speaker-name text-ellipsis">Capt William Francis</h4>
+<div class="speaker-position text-ellipsis">President</div>
+<div class="speaker-company text-ellipsis">Singapore Power Boat Association</div>
+</a>
+</div>
+
 <div class="col is-4">
 <a href="/speakers/mr-terence-ho">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Terence Ho.png" alt="Terence Ho" /></div>
@@ -121,7 +124,7 @@ description: ""
 
 <div class="row">
 
-<div class="col is-4">
+<div class="col is-4" style="display:none;">
 <a href="/speakers/mr-chee-hong-tat">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Chee Hong Tat</h4>
@@ -165,8 +168,8 @@ Ministry of Transport, Singapore</div>
 <a href="/speakers/mr-michael-phoon">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Michael-Phoon.png" alt="Mr Michael Phoon" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Michael Phoon</h4>
-<div class="speaker-position text-ellipsis">Executive Director</div>
-<div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
+<div class="speaker-position text-ellipsis">Deputy Chairman</div>
+<div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council, Singapore<br>Moderator</div>
 </a>
 </div>
 
@@ -222,7 +225,7 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Charles Watkins.png" alt="Mr Charles Watkins" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Charles Watkins</h4>
 <div class="speaker-position text-ellipsis">Clinical Psychologist and Founder</div>
-<div class="speaker-company text-ellipsis">Mental Health Support Solutions (*MHSS)</div>
+<div class="speaker-company text-ellipsis">Mental Health Support Solutions (MHSS)</div>
 </a>
 </div>
 <div class="col is-4">
@@ -270,14 +273,6 @@ Ministry of Transport, Singapore</div>
 <div class="bp-container is-fluid has-text-centered">
 <div class="row">
 <div class="col is-4">
-<a href="/speakers/mr-peter-broadhurst">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Peter Broadhurst.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Mr Peter Broadhurst</h4>
-<div class="speaker-position text-ellipsis">Senior Vice President Safety and Regulatory</div>
-<div class="speaker-company text-ellipsis">Inmarsat Maritime</div>
-</a>
-</div>
-<div class="col is-4">
 <a href="/speakers/prof-raphael-baumler">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Raphael Baumler.png" alt="Raphael Baumler" /></div>
 <h4 class="speaker-name text-ellipsis">Prof Raphael Baumler</h4>
@@ -285,6 +280,16 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">World Maritime University</div>
 </a>
 </div>
+
+<div class="col is-4">
+<a href="/speakers/mr-peter-broadhurst">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Peter Broadhurst.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Peter Broadhurst</h4>
+<div class="speaker-position text-ellipsis">Senior Vice President Safety and Regulatory</div>
+<div class="speaker-company text-ellipsis">Inmarsat Maritime</div>
+</a>
+</div>
+
 <div class="col is-4">
 <a href="/speakers/captain-vibhas-garg">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Vibhas Garg.png" alt="Vibhas Garg" /></div>
@@ -296,6 +301,14 @@ Ministry of Transport, Singapore</div>
 </div>
 <div class="row">
 
+<div class="col is-4">
+<a href="/speakers/rear-admiral-jacques-riviere">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Jacques RivieĚre.png" alt="Jacques RivieĚre" /></div>
+<h4 class="speaker-name text-ellipsis">Rear Admiral	Jacques Rivière</h4>
+<div class="speaker-position text-ellipsis">Head QSSE Asia Pacific</div>
+<div class="speaker-company text-ellipsis">CMA CGM</div>
+</a>
+</div>
 
 <div class="col is-4">
 <a href="/speakers/mr-jamie-ramsamy">
@@ -307,14 +320,7 @@ Ministry of Transport, Singapore</div>
 </div>
 
 	
-<div class="col is-4">
-<a href="/speakers/rear-admiral-jacques-riviere">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Jacques RivieĚre.png" alt="Jacques RivieĚre" /></div>
-<h4 class="speaker-name text-ellipsis">Rear Admiral	Jacques Rivière</h4>
-<div class="speaker-position text-ellipsis">Head QSSE Asia Pacific</div>
-<div class="speaker-company text-ellipsis">CMA CGM</div>
-</a>
-</div>
+
 
 <div class="col is-4">
 <a href="/speakers/captain-ritesh-chawla">
