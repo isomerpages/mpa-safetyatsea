@@ -216,7 +216,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Quah_Ley_Hoon.png" alt="Ms Quah Ley Hoon" width="400" height="400" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers//images/speakers/" rel="noopener">Ms Quah Ley Hoon</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/ms-quah-lay-hoon" rel="noopener">Ms Quah Ley Hoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Executive</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
