@@ -3,10 +3,9 @@ title: Maritime Cybersecurity Dialogue
 permalink: /programme/maritime-cybersecurity-dialogue
 description: ""
 ---
-
 <div>
   <b>31 AUG | 09:30hrs – 11:30hrs (GMT+8)</b>
-  <h3>Cyber Safety@Sea</h3>
+  <h3>Maritime Cybersecurity Dialogue: Cyber Safety@Sea</h3>
 </div>
 
 
