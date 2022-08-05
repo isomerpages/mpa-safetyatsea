@@ -3,9 +3,8 @@ title: Industry visit to Wärtsilä Expertise Centre
 permalink: /programme/industry-visits-wartsila
 description: ""
 ---
-
 <div>
-  <b>31 AUG | 09:00hrs – 11:30hrs (GMT+8)</b>
+  <b>31 AUG | 08:30hrs – 11:30hrs (GMT+8)</b>
   <h3>Industry Visits</h3>
 </div>
 
@@ -13,6 +12,7 @@ description: ""
 
 
 <div class="col is-12 mb-12">
+<p>As part of the Week, MPA is arranging visits to two locations – the Centre of Excellence for Maritime Safety (CEMS) and the Wärtsilä Expertise Centre.</p>	
 <h5 class="abt-title">Wärtsilä Expertise Centre</h5>
 <img src="/images/Wartsila.png"  class="img-fluid">
 <p style="font-weight: 400;">W&auml;rtsil&auml; Connected Vessels and Expert Insight transforms how vessels perform their voyage by leveraging the latest emerging technologies. Real-time data, AI analytics and expert in-the-loop, enable predictive insights into fleet operations, performance, and safety enhancements.</p>
