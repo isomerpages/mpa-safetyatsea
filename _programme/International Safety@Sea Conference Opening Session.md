@@ -123,7 +123,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">IMO and The Human Element: Where Do We Go From Here?</h4>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -222,18 +222,8 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Arif Toha" width="400" height="400" /></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-arif-toha" rel="noopener">Mr Arif Toha</a></strong></div>
-<div class="speaker-position text-ellipsis">Acting Director-General of Sea Transportation</div>
-<div class="speaker-company text-ellipsis">Ministry of Transport, Indonesia</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
+
+
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/datobaharin.png" alt="Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400" /></div>
@@ -244,6 +234,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
+<div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
@@ -254,8 +245,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
-</div>
-<div class="row">
+
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Andreas Brachel" width="400" height="400" /></div>
