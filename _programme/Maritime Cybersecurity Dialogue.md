@@ -8,6 +8,39 @@ description: ""
   <h3>Maritime Cybersecurity Dialogue: Cyber Safety@Sea</h3>
 </div>
 
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Maritime Cybersecurity Risk Management</h4>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img alt="Mr Lionel Chew" src="/images/speakers/lionelchew.png" class="speaker-image mb-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a rel="noopener" href="/speakers/mr-lionel-chew" class="speaker-name text-ellipsis"><strong>Mr Lionel Chew</strong></a></div>
+<div class="text-ellipsis speaker-position">Senior IT Manager</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
 <section>
 <div class="bp-container is-fluid">
@@ -17,7 +50,75 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Cyber Risk Management in Port</h4>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img alt="Mr Terence Yeo" src="/images/Speakers/Terence Yeo.png" class="speaker-image mb-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a rel="noopener" href="/speakers/mr-terence-yeo" class="speaker-name text-ellipsis"><strong>Mr Terence Yeo</strong></a></div>
+<div class="text-ellipsis speaker-position">Assistant Vice President, Infrastructure &amp; Cyber Security Architecture</div>
+<div class="text-ellipsis speaker-company">PSA Corporation Ltd</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Towards Securing Maritime Infrastructure</h4>
+<hr class="my-3 border-primary" />
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"><img alt="Prof Sudipta Chattopadhyay" src="/images/Speakers/Sudipta Chattopadhyay.png" class="speaker-image mb-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><a rel="noopener" href="/speakers/prof-sudipta-chattopadhyay" class="speaker-name text-ellipsis"><strong>Prof Sudipta Chattopadhyay</strong></a></div>
+<div class="text-ellipsis speaker-position">Assistant Professor</div>
+<div class="text-ellipsis speaker-company">Singapore University of Technology and Design</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>10:20 - 11:30</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“Cyber Safety@Sea”
 
