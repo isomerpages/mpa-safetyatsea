@@ -80,8 +80,8 @@ description: ""
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
+<a href="/speakers/mr-mark-ko">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/markko.png" alt="" /></div>
 <h4 class="speaker-name text-ellipsis">Mr Mark Ko</h4>
 <div class="speaker-position text-ellipsis">Executive Director</div>
 <div class="speaker-company text-ellipsis">Tian San Shipping (Pte) Ltd</div>
