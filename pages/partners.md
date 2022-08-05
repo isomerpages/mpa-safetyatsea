@@ -25,38 +25,52 @@ permalink: /partners
 <div>
 <h4>Supporting Organisations</h4>
 </div>
+
 <div class="row">
+
+<!--
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.msa.gov.cn/"><img src="images/partners/LOGO1-1.jpg" class="img-fluid"></a> 
 </div>
+-->
+
 <div class="col is-4 mb-4">  
 <a target="_blank" href="https://www.cma-cgm.com/"><img src="images/partners/LOGO1-2.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.dnv.com/maritime/"><img src="images/partners/LOGO1-3.jpg" class="img-fluid"></a> 
 </div>
-</div>
-<div class="row">
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.fullertonhealth.com/"><img src="images/partners/LOGO1-4.jpg" class="img-fluid"></a>
 </div>
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.igpandi.org/"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
+
 </div>
+
+
+
+<!--
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.ics-shipping.org/"><img src="images/partners/LOGO1-6.jpg" class="img-fluid"></a> 
 </div>
-</div>
+-->
+
 <div class="row">
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.igpandi.org/"><img src="images/partners/LOGO1-5.jpg" class="img-fluid"></a> 
+</div>
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.imo.org/"><img src="images/partners/LOGO1-7.jpg" class="img-fluid"></a> 
 </div>
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.marine.gov.my/"><img src="images/partners/LOGO1-8.jpg" class="img-fluid"></a> 
 </div>
+
+<!--
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.mpa.gov.sg/home"><img src="images/partners/LOGO1-9.jpg" class="img-fluid"></a> 
 </div>
+-->
+
 </div>
 <div class="row">
 <div class="col is-4 mb-4">
