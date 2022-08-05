@@ -2,6 +2,7 @@
 title: Partners
 permalink: /partners
 ---
+<!--
 <div class="row">
 <div class="col is-4 mb-4">
 <h4>Organised by</h4>
@@ -22,7 +23,7 @@ permalink: /partners
 </div>
 </div>
 
-<!--
+
 
 <div>
 <h4>Supporting Organisations</h4>
