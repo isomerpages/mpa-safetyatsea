@@ -85,7 +85,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/mr-charles-watkins" rel="noopener"><strong>Mr Charles Watkins</strong></a></div>
 <div class="text-ellipsis speaker-position">Clinical Psychologist and Founder</div>
-<div class="text-ellipsis speaker-company">Mental Health Support Solutions (*MHSS)</div>
+<div class="text-ellipsis speaker-company">Mental Health Support Solutions (MHSS)</div>
 </div>
 </div>
 </div>
