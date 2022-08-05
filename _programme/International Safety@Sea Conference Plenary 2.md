@@ -6,7 +6,7 @@ description: ""
 <section>
 	<div>
   <b>31 Aug | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Plenary 2: Proactive Measurement of Leading Indicators for Maritime Safety</h3>
+  <h3>Plenary 2: Proactive Use of Data for Maritime Safety</h3>
 </div>
 
 <section>
@@ -90,7 +90,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="p-4">
 <div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-“Proactive Measurement of Leading Indicators for Maritime Safety”
+“Proactive Use of Data for Maritime Safety”
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
