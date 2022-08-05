@@ -59,7 +59,7 @@ sections:
       button: View Programme
       url: /programme/opening-session
   - infopic:
-      title: Maritime Cybersecurity Dialogue 2022
+      title: Maritime Cybersecurity Dialogue
       subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
       button: VIEW PROGRAMME
       url: /programme/maritime-cybersecurity-dialogue-2022
