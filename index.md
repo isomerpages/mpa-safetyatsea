@@ -89,6 +89,6 @@ sections:
       description: Proactive Use of Data for Maritime Safety
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/thumbnail-plenary2-6.jpg
+      image: /images/thumbnail7-03.jpg
       alt: IS@S Plenary 2
 ---
