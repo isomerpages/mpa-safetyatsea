@@ -157,8 +157,8 @@ Ministry of Transport, Singapore</div>
 
 
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
+<a href="/speakers/ms-quah-ley-hoon">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Quah_Ley_Hoon.png" alt="" /></div>
 <h4 class="speaker-name text-ellipsis">Ms Quah Ley Hoon</h4>
 <div class="speaker-position text-ellipsis">Chief Executive</div>
 <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
