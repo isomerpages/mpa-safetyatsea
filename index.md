@@ -48,7 +48,7 @@ sections:
       description: Instilling a Strong Safety Culture for the Harbour Craft Industry
       button: View Programme
       url: /programme/harbour-craft-safety-forum
-      image: /images/1-thumbnail-harbourCraft5.jpg
+      image: /images/thumbnail7-08.jpg
       alt: Image alt text
   - infopic:
       description: Riding the Waves for Maritime Safety
