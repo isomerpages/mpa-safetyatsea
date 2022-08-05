@@ -79,9 +79,9 @@ description: ""
 <div class="col is-4">
 <a href="#">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker & Panellist</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<h4 class="speaker-name text-ellipsis">Mr Mark Ko</h4>
+<div class="speaker-position text-ellipsis">Executive Director</div>
+<div class="speaker-company text-ellipsis">Tian San Shipping (Pte) Ltd</div>
 </a>
 </div>
 <div class="col is-4">
@@ -118,6 +118,7 @@ description: ""
 </div>
 <section class="bp-section font">
 <div class="bp-container is-fluid has-text-centered">
+
 <div class="row">
 
 <div class="col is-4">
@@ -129,6 +130,8 @@ Ministry of Transport, Singapore</div>
 </a>
 </div> 	
 
+
+
 <div class="col is-4">
 <a href="/speakers/dr-heike-deggim">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/heikedeggim.png" alt="" /></div>
@@ -137,7 +140,6 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">International Maritime Organisation</div>
 </a>
 </div>
-	
 <div class="col is-4">
 <a href="/speakers/mr-knut-orbeck-nilssen">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Knut Orbeck-Nilssen.png" alt="Mr Knut Ørbeck-Nilssen" /></div>
@@ -145,10 +147,20 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
 <div class="speaker-company text-ellipsis">DNV - Maritime</div>
 </a>
-</div> 
+</div> 	
  
 </div>
 <div class="row">
+
+
+<div class="col is-4">
+<a href="#">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Ms Quah Ley Hoon</h4>
+<div class="speaker-position text-ellipsis">Chief Executive</div>
+<div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+</a>
+</div>
 <div class="col is-4">
 <a href="/speakers/mr-michael-phoon">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Michael-Phoon.png" alt="Mr Michael Phoon" /></div>
@@ -158,14 +170,7 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Speaker2</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>  
+  
 
 <div class="col is-4">
 <a href="/speakers/dato-hj-baharin">
@@ -177,14 +182,7 @@ Ministry of Transport, Singapore</div>
 </div>
 </div>
 <div class="row">
-<div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist3</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
-</a>
-</div>
+
 <div class="col is-4">
 <a href="/speakers/captain-andre-l-legoubin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Andre.png" alt="Captain Andre L. LeGoubin MNM MA FNI" /></div>
@@ -196,9 +194,9 @@ Ministry of Transport, Singapore</div>
 <div class="col is-4">
 <a href="#">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Panellist5</h4>
-<div class="speaker-position text-ellipsis">Position</div>
-<div class="speaker-company text-ellipsis">Company</div>
+<h4 class="speaker-name text-ellipsis">Mr Andreas Brachel</h4>
+<div class="speaker-position text-ellipsis">Vice President (Head of Environmental Claims)</div>
+<div class="speaker-company text-ellipsis">Gard and Committee Member, IG P&I Group</div>
 </a>
 </div>
 </div>
