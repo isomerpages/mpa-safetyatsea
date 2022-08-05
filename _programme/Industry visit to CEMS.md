@@ -3,11 +3,8 @@ title: Industry visit to CEMS
 permalink: /programme/industry-visits-cems
 description: ""
 ---
-
-
-
 <div>
-  <b>31 AUG | 09:00hrs – 11:30hrs (GMT+8)</b>
+  <b>31 AUG | 08:30hrs – 11:30hrs (GMT+8)</b>
   <h3>Industry Visits</h3>
 </div>
 
@@ -15,6 +12,7 @@ description: ""
 
 
 <div class="col is-12 mb-12">
+<p>As part of the Week, MPA is arranging visits to two locations – the Centre of Excellence for Maritime Safety (CEMS) and the Wärtsilä Expertise Centre.</p>	
 <h5 class="abt-title">Centre for Excellence in Maritime Safety (CEMS)</h5>
 <img src="/images/CEMS introduction image.gif"  class="img-fluid">
 <p>CEMS  re-imagines maritime safety through digital technologies, namely the <strong>3As</strong>,  namely, <strong>A</strong>rtificial Intelligence (AI) in Human Factors, <strong>A</strong>dvanced  Navigation Research Simulator (ANRS) and Next Generation Navigation Simulator  (NGNS) Platform, and lastly <strong>A</strong>ugment Reality (AR)/ Virtual Reality (VR)/  Immersive Technologies. The <strong>3As</strong> initiatives are driven by a team of Captains and Research Scientists in close  engagement with the industry and Maritime &amp; Port Authority of Singapore  (MPA). As part of Singapore&rsquo;s strategy of skill upgrade of our workforce, CEMS  will enhance training assessment systems &amp; solutions with Singapore  Maritime Academy (SMA) to ensure our seafarers are not only safe but also  future ready. <br>
