@@ -257,7 +257,7 @@ Ministry of Transport, Singapore</div>
 </div>
 <div class="col is-4">
 <a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/faizal.png" alt="" /></div>
 <h4 class="speaker-name text-ellipsis">Dr Faizal Kassim</h4>
 <div class="speaker-position text-ellipsis">Medical Director, Primary Care Division, Clinical Quality & Governance</div>
 <div class="speaker-company text-ellipsis">Fullerton Health Group, Singapore</div>
