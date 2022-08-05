@@ -24,7 +24,7 @@ description: ""
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col is-6 prog-speaker">
-                      <div class="row">
+                      <div class="row" style="display:none;">
                         <div class="col is-4">
                           <img src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
@@ -92,8 +92,8 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>16:20 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Launch of Joint Initiatives with WSH Council (Safety Video &amp; Case Studies Booklet)</h4>
-
+<h4 class="programme-title">Launch of Joint Initiatives</h4>
+with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Health Council (WSHC)
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
