@@ -1,74 +1,94 @@
 ---
 layout: homepage
-title: International Safety @ Sea Week 2021
-description: Join us at this annual gathering of the international maritime
-  community as we discuss maritime safety, technology and environmental
-  protection over 5 sessions.
+title: International Safety @ Sea Week 2022
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Missed it? Watch all 5 session recordings under MEDIA ROOM now.
+notification: Registrations is now open for 8 sessions!
 sections:
   - hero:
-      background: /images/Mainbanner3.jpg
       key_highlights:
-        - title: MEDIA ROOM
-          description: ""
-          url: /media-room
         - title: About Us
           description: ""
           url: /about-us
+        - title: Register Now
+          description: ""
+          url: /registration
         - title: Programme
           description: ""
           url: /programme/overview
         - title: Speakers
           description: ""
           url: /speakers
-      title: International Safety@Sea Week 2021
-      subtitle: 30 August - 1 September 2021
+      title: International Safety@Sea Week 2022
+      subtitle: "29th August to 2nd September "
+      background: /images/HOME-BANNER4.jpg
   - infobar:
-      title: Spotlight on Maritime Safety, Technology & the Environment
+      title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
-        promote safety at sea. Watch all 5 session recordings under MEDIA ROOM.
+        promote safety at sea.
   - infopic:
-      description: Joint opening for International Safety@Sea (IS@S) and International
-        Chemical and Oil Pollution (ICOPCE) conferences. Winners for IS@S Awards
-        to be announced.
-      image: /images/OpeningSession1b.jpg
+      title: Pleasure Craft Safety Forum
+      subtitle: 29 AUG | 09:00 – 12:00 (GMT+8)
+      button: View Programme
+      url: /programme/pleasure-craft-safety-forum
+      image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
       alt: Image alt text
-      title: Opening Session
-      subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
+      description: Best Practices to Avoid Incidents at Sea
+  - infopic:
+      title: Ferry Rescue Exercise Observer Programme
+      subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
+      button: View Programme
+      url: /programme/ferex-observer-programme
+      image: /images/1-thumbnail-FEREXObserver5.jpg
+      alt: Image alt text
+  - infopic:
+      title: Harbour Craft Safety Forum
+      subtitle: 30 AUG | 09:00 – 12:00 (GMT+8)
+      description: Instilling a Strong Safety Culture for the Harbour Craft Industry
+      button: View Programme
+      url: /programme/harbour-craft-safety-forum
+      image: /images/thumbnail7-08.jpg
+      alt: Image alt text
+  - infopic:
+      description: Riding the Waves for Maritime Safety
+      image: /images/1-thumbnail-opening5.jpg
+      alt: Image alt text
+      title: International Safety@Sea Conference – Opening Session
+      subtitle: 30 Aug | 16:00 - 18:30 (GMT+8)
       button: View Programme
       url: /programme/opening-session
   - infopic:
-      title: IS@S Plenary 1
-      subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
-      description: Safer Carriage of Goods – What More Must Be Done?
+      title: Maritime Cybersecurity Dialogue
+      subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
+      button: VIEW PROGRAMME
+      url: /programme/maritime-cybersecurity-dialogue-2022
+      image: /images/1-thumbnail-MaritimeCybersecurity5.jpg
+      alt: Image alt text
+      description: Cyber Safety@Sea
+  - infopic:
+      title: Industry Visits
+      subtitle: 31 AUG | 08:30 – 11:30 (GMT+8)
+      button: VIEW PROGRAMME
+      url: /programme/industry-visits-cems
+      image: /images/1-thumbnail-industryvisit5.jpg
+      alt: Image alt text
+      description: Centre for Excellence in Maritime Safety (CEMS) & Wärtsilä
+        Expertise Centre
+  - infopic:
+      title: International Safety@Sea Conference - Plenary 1
+      subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
+      description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-1
-      image: /images/ISASPlenary1a.jpg
+      image: /images/1-thumbnail-plenary1-5.jpg
       alt: Image alt text
   - infopic:
-      title: IS@S Plenary 2
-      subtitle: 31 Aug | 17:00 - 18:30 (GMT+8)
-      description: Rethinking Crew Training in a VUCA World
+      title: International Safety@Sea Conference - Plenary 2
+      subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
+      description: Proactive Use of Data for Maritime Safety
       button: VIEW PROGRAMME
       url: /programme/iss-conference-plenary-2
-      image: /images/ISASPlenary2a.jpg
-      alt: Image alt text
-  - infopic:
-      title: ICOPCE Plenary 1
-      subtitle: 1 Sep | 14:30 - 16:00 (GMT+8)
-      description: Future Proofing Marine Environment Protection in a Changing Landscape
-      button: View Programme
-      url: /programme/icopce-plenary-1
-      image: /images/ICOPCEPlenary1a.jpg
-      alt: Image alt text
-  - infopic:
-      title: ICOPCE Plenary 2
-      subtitle: 1 Sep  | 17:00 - 18:30 (GMT+8)
-      description: Navigating the Increased Complexity of Incident Management
-      button: View Programme
-      url: /programme/icopce-plenary-2
-      image: /images/ICOPCEPlenary2a.jpg
-      alt: Image alt text
+      image: /images/thumbnail7-03.jpg
+      alt: IS@S Plenary 2
 ---

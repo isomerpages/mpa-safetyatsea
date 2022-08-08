@@ -1,5 +1,7 @@
-logo: /images/SafetyAtSeaLogo1.jpg
+logo: /images/logo-2022.jpg
 links:
+  - title: Register Now
+    url: /registration
   - title: About Us
     url: /about-us
   - title: Programme
@@ -13,4 +15,4 @@ links:
   - title: Resources
     url: /resources
   - title: Contact Us
-    url: /contact
+    url: /contactus

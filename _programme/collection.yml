@@ -3,8 +3,12 @@ collections:
     output: true
     order:
       - overview.md
-      - opening-session.md
-      - iss-conference-plenary-1.md
-      - iss-conference-plenary-2.md
-      - icopce-plenary-1.md
-      - icopce-plenary-2.md
+      - Pleasure Craft Safety Forum.md
+      - Ferry Rescue Exercise Observer Programme.md
+      - Harbour Craft Safety Forum.md
+      - International Safety@Sea Conference Opening Session.md
+      - Maritime Cybersecurity Dialogue.md
+      - Industry visit to CEMS.md
+      - Industry visit to Wärtsilä Expertise Centre.md
+      - International Safety@Sea Conference Plenary 1.md
+      - International Safety@Sea Conference Plenary 2.md
