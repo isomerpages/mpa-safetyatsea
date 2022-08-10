@@ -195,11 +195,11 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 <div class="col is-4">
-<a href="#">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Speaker_Silhouette2.jpg" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Mr Andreas Brachel</h4>
-<div class="speaker-position text-ellipsis">Vice President (Head of Environmental Claims)</div>
-<div class="speaker-company text-ellipsis">Gard and Committee Member, IG P&I Group</div>
+<a href="/speakers/mr-andrea-brachel">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Andrea Brachel.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Andrea Brachel</h4>
+<div class="speaker-position text-ellipsis">Vice President – Head of Environmental Claims</div>
+<div class="speaker-company text-ellipsis">Gard AS</div>
 </a>
 </div>
 </div>
@@ -239,6 +239,14 @@ Ministry of Transport, Singapore</div>
 </div>
 <div class="row">
 <div class="col is-4">
+<a href="/speakers/ms-sikha-singh">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/MdmSikha.png" alt="" /></div>
+<h4 class="speaker-name text-ellipsis">Ms Sikha Singh</h4>
+<div class="speaker-position text-ellipsis">Deputy Chief Executive Officer</div>
+<div class="speaker-company text-ellipsis">Executive Group of Companies</div>
+</a>
+</div>
+<div class="col is-4">
 <a href="/speakers/captain-hari-subramania">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Captain Hari Subramaniam.png" alt="Captain Hari Subramaniam" /></div>
 <h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4>
@@ -248,15 +256,7 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 <div class="col is-4">
-<a href="/speakers/ms-sikha-singh">
-<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/MdmSikha.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Ms Sikha Singh</h4>
-<div class="speaker-position text-ellipsis">Deputy Chief Executive Officer</div>
-<div class="speaker-company text-ellipsis">Executive Group of Companies</div>
-</a>
-</div>
-<div class="col is-4">
-<a href="#">
+<a href="/speakers/dr-faizal-kassim">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/faizal.png" alt="" /></div>
 <h4 class="speaker-name text-ellipsis">Dr Faizal Kassim</h4>
 <div class="speaker-position text-ellipsis">Medical Director, Primary Care Division, Clinical Quality & Governance</div>
