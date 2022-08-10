@@ -249,7 +249,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="https://d33wubrfki0l68.cloudfront.net/36c0a9d367fef758c7a9d69f3855149084e9c721/cd0ce/images/speakers/speaker_silhouette2.jpg" alt="Mr Andreas Brachel" width="400" height="400" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Andrea Brachel.png" alt="Mr Andreas Brachel" width="400" height="400" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andreas-brachel" rel="noopener">Mr Andreas Brachel</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President (Head of Environmental Claims)</div>
