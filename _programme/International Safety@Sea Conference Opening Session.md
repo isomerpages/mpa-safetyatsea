@@ -251,9 +251,9 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Andrea Brachel.png" alt="Mr Andreas Brachel" width="400" height="400" /></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andreas-brachel" rel="noopener">Mr Andreas Brachel</a></strong></div>
-<div class="text-ellipsis speaker-position">Vice President (Head of Environmental Claims)</div>
-<div class="text-ellipsis speaker-company">Gard and IG P&amp;I Group&rsquo;s Salvage Sub Committee member</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andrea-brachel" rel="noopener">Mr Andrea Brachel</a></strong></div>
+<div class="text-ellipsis speaker-position">Vice President – Head of Environmental Claims</div>
+<div class="text-ellipsis speaker-company">Gard AS</div>
 </div>
 </div>
 </div>
