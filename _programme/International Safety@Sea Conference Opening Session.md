@@ -258,6 +258,12 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 
+
+</div>
+
+<div class="row">
+
+
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Andrea Brachel.png" alt="Mr Andreas Brachel" width="400" height="400" /></div>
@@ -269,6 +275,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
