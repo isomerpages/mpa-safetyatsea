@@ -4,7 +4,7 @@ permalink: /programme/ferex-observer-programme
 description: ""
 ---
 <div>
-  <b>29 AUG | 15:30hrs – 17:30hrs (GMT+8)</b>
+  <b>29 AUG | 11:30hrs – 15:30hrs (GMT+8)</b>
   <h3>FEREX Observer Programme</h3>
 </div>
 <img src="/images/FEREX2.jpg"  class="img-fluid">

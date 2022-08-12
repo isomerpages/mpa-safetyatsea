@@ -37,7 +37,7 @@ sections:
       description: Best Practices to Avoid Incidents at Sea
   - infopic:
       title: Ferry Rescue Exercise Observer Programme
-      subtitle: 29 AUG | 15:30 – 17:30 (GMT+8)
+      subtitle: 29 AUG | 11:30 – 15:30 (GMT+8)
       button: View Programme
       url: /programme/ferex-observer-programme
       image: /images/1-thumbnail-FEREXObserver5.jpg

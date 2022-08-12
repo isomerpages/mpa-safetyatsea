@@ -4,7 +4,7 @@ permalink: /speakers/dr-faizal-kassim
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Speaker_Silhouette2.jpg" /></div>
+<div class="col is-3"><img src="/images/Speakers/faizal.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Dr Faizal Kassim</h4>
 <p>Medical Director, Primary Care Division, Clinical Quality &amp; Governance<br />Fullerton Health Group, Singapore</p>

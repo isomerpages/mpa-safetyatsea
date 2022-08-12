@@ -5,7 +5,7 @@ description: ""
 ---
 <section>
 	<div>
-  <b>31 Aug | 14:30 - 16:00</b>&nbsp;<b>GMT+8</b>
+  <b>31 Aug | 13:00 - 15:00</b>&nbsp;<b>GMT+8</b>
   <h3>Plenary 1: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture</h3>
 </div>
 
