@@ -194,6 +194,16 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">The Nautical Institute</div>
 </a>
 </div>
+
+<div class="col is-4">
+<a href="/speakers/ms-caroline-yang">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Caroline Yang.png" alt="Ms Caroline Yang" /></div>
+<h4 class="speaker-name text-ellipsis">Ms Caroline Yang</h4>
+<div class="speaker-position text-ellipsis">Vice-chair</div>
+<div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
+</a>
+</div>
+
 <div class="col is-4">
 <a href="/speakers/mr-andrea-brachel">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Andrea Brachel.png" alt="" /></div>
