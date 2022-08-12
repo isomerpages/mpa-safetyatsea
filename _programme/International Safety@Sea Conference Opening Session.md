@@ -249,6 +249,17 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Caroline Yang.png" alt="Ms Caroline Yang" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/ms-caroline-yang" rel="noopener">Ms Caroline Yang</a></strong></div>
+<div class="text-ellipsis speaker-position">Vice-chair</div>
+<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+</div>
+</div>
+</div>
+
+<div class="col is-6 prog-speaker">
+<div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Andrea Brachel.png" alt="Mr Andreas Brachel" width="400" height="400" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andrea-brachel" rel="noopener">Mr Andrea Brachel</a></strong></div>
