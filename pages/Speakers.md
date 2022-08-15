@@ -205,9 +205,9 @@ Ministry of Transport, Singapore</div>
 </div>
 
 <div class="col is-4">
-<a href="/speakers/mr-andrea-brachel">
+<a href="/speakers/mr-andreas-brachel">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Andrea Brachel.png" alt="" /></div>
-<h4 class="speaker-name text-ellipsis">Mr Andrea Brachel</h4>
+<h4 class="speaker-name text-ellipsis">Mr Andreas Brachel</h4>
 <div class="speaker-position text-ellipsis">Vice President – Head of Environmental Claims</div>
 <div class="speaker-company text-ellipsis">Gard AS</div>
 </a>
