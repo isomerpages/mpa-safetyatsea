@@ -24,9 +24,9 @@ description: ""
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col is-6 prog-speaker">
-                      <div class="row" style="display:none;">
+                      <div class="row">
                         <div class="col is-4">
-                          <img src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="images/Speakers/Mr Chee Hong Tat" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -36,7 +36,7 @@ description: ""
                             Senior Minister of State
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Ministry of Transport, Singapore
+                            Ministry of Finance & Ministry of Transport
                           </div>
                         </div>
                       </div>
