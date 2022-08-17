@@ -26,7 +26,7 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="images/Speakers/Mr Chee Hong Tat" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="/images/Speakers/Mr%20Chee%20Hong%20Tat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
