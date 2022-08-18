@@ -187,6 +187,16 @@ Ministry of Transport, Singapore</div>
 <div class="row">
 
 <div class="col is-4">
+<a href="/speakers/mr-arif-toha">
+<div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Arif Toha.png" alt="Mr Arif Toha" /></div>
+<h4 class="speaker-name text-ellipsis">Mr Arif Toha</h4>
+<div class="speaker-position text-ellipsis">Director General of Sea Transportation</div>
+<div class="speaker-company text-ellipsis">Ministry of Transportation Republic of Indonesia</div>
+</a>
+</div>
+
+
+<div class="col is-4">
 <a href="/speakers/captain-andre-l-legoubin">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Capt Andre.png" alt="Captain Andre L. LeGoubin MNM MA FNI" /></div>
 <h4 class="speaker-name text-ellipsis">Capt André L. LeGoubin</h4>
@@ -204,6 +214,11 @@ Ministry of Transport, Singapore</div>
 </a>
 </div>
 
+
+</div>
+
+<div class="row">
+
 <div class="col is-4">
 <a href="/speakers/mr-andreas-brachel">
 <div class="speaker-image-wrapper"><img class="speaker-image img-fluid mb-3" src="images/speakers/Andrea Brachel.png" alt="" /></div>
@@ -212,6 +227,7 @@ Ministry of Transport, Singapore</div>
 <div class="speaker-company text-ellipsis">Gard AS</div>
 </a>
 </div>
+
 </div>
 
 </div>
