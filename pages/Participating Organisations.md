@@ -134,6 +134,10 @@ description: ""
 <div class="row">
 
 <div class="col is-4 mb-4">
+<a  href="#"><img src="images/Partners2022/14-MOT-INDO.jpg" class="img-fluid"></a> 
+</div>
+
+<div class="col is-4 mb-4">
 <a target="_blank" href="https://www.pilship.com/"><img src="images/Partners2022/15-PIL.jpg" class="img-fluid"></a> 
 </div>
 
@@ -141,15 +145,17 @@ description: ""
 <a target="_blank" href="https://www.police.gov.sg/"><img src="images/Partners2022/16-POLICE-COAST-GUARD.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.globalpsa.com/"><img src="images/Partners2022/17-PSA-CORPS.jpg" class="img-fluid"></a> 
-</div>
 
 
 
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.globalpsa.com/"><img src="images/Partners2022/17-PSA-CORPS.jpg" class="img-fluid"></a> 
+</div>
+
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.psamarine.com"><img src="images/Partners2022/18-PSA-MARINE.jpg" class="img-fluid"></a> 
@@ -159,15 +165,17 @@ description: ""
 <a target="_blank" href="https://www.riotinto.com"><img src="images/Partners2022/19-RIO-TINO.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.sp.edu.sg/sma"><img src="images/Partners2022/20-SINGAPORE-MARITIME.jpg" class="img-fluid"></a> 
-</div>
+
 
 
 
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.sp.edu.sg/sma"><img src="images/Partners2022/20-SINGAPORE-MARITIME.jpg" class="img-fluid"></a> 
+</div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.spba.org.sg/"><img src="images/Partners2022/21-SINGAPORE-POWERBOAT.jpg" class="img-fluid"></a> 
@@ -177,9 +185,6 @@ description: ""
 <a target="_blank" href="https://sailing.org.sg/"><img src="images/Partners2022/22-SINGAPORE-SAILING.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.ssa.org.sg/"><img src="images/Partners2022/23-SINGAPORE-SHIPPING.jpg" class="img-fluid"></a> 
-</div>
 
 
 
@@ -189,6 +194,11 @@ description: ""
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.ssa.org.sg/"><img src="images/Partners2022/23-SINGAPORE-SHIPPING.jpg" class="img-fluid"></a> 
+</div>
+
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.nautinst.org"><img src="images/Partners2022/15-THE-NAUTICAL.jpg" class="img-fluid"></a> 
@@ -198,9 +208,7 @@ description: ""
 <a target="_blank" href="https://www.shipownersclub.com/"><img src="images/Partners2022/27-THE-SHIPOWNERS.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.thome.com"><img src="images/Partners2022/28-THOMEGROUP.jpg" class="img-fluid"></a> 
-</div>
+
 
 
 
@@ -208,6 +216,10 @@ description: ""
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.thome.com"><img src="images/Partners2022/28-THOMEGROUP.jpg" class="img-fluid"></a> 
+</div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.tiansan.com.sg"><img src="images/Partners2022/29-TIAN-SAN.jpg" class="img-fluid"></a> 
@@ -218,9 +230,7 @@ description: ""
 <a target="_blank" href="https://www.wallem.com/"><img src="images/Partners2022/30-WALLEM.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="https://www.wartsila.com/"><img src="images/Partners2022/31-WARSTILLA.jpg" class="img-fluid"></a> 
-</div>
+
 
 
 
@@ -229,6 +239,11 @@ description: ""
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.wartsila.com/"><img src="images/Partners2022/31-WARSTILLA.jpg" class="img-fluid"></a> 
+</div>
+
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.wmu.se/"><img src="images/Partners2022/32-WMU.jpg" class="img-fluid"></a> 
 </div>
