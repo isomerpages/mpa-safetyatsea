@@ -225,19 +225,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 
 
 <div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/datobaharin.png" alt="Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400" /></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/dato-hj-baharin" rel="noopener">Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid</a></strong></div>
-<div class="text-ellipsis speaker-position">Director General</div>
-<div class="text-ellipsis speaker-company">Marine Department Malaysia</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
 
-<div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Arif Toha.png" alt="Arif Toha" width="400" height="400" /></div>
 <div class="col is-8">
@@ -246,6 +234,23 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="text-ellipsis speaker-company">Ministry of Transportation Republic of Indonesia</div>
 </div>
 </div>
+
+</div>
+</div>
+<div class="row">
+
+<div class="col is-6 prog-speaker">
+
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/datobaharin.png" alt="Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/dato-hj-baharin" rel="noopener">Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid</a></strong></div>
+<div class="text-ellipsis speaker-position">Director General</div>
+<div class="text-ellipsis speaker-company">Marine Department Malaysia</div>
+</div>
+</div>
+
+
 </div>
 
 <div class="col is-6 prog-speaker">
