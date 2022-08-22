@@ -24,9 +24,9 @@ description: ""
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col is-6 prog-speaker">
-                      <div class="row" style="display:none;">
+                      <div class="row">
                         <div class="col is-4">
-                          <img src="images/Speakers/CheeHongTat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="/images/Speakers/Mr%20Chee%20Hong%20Tat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -36,7 +36,7 @@ description: ""
                             Senior Minister of State
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Ministry of Transport, Singapore
+                            Ministry of Finance & Ministry of Transport
                           </div>
                         </div>
                       </div>
@@ -225,6 +225,22 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 
 
 <div class="col is-6 prog-speaker">
+
+<div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Arif Toha.png" alt="Arif Toha" width="400" height="400" /></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-arif-toha" rel="noopener">Mr Arif Toha</a></strong></div>
+<div class="text-ellipsis speaker-position">Director General of Sea Transportation</div>
+<div class="text-ellipsis speaker-company">Ministry of Transportation Republic of Indonesia</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="row">
+
+<div class="col is-6 prog-speaker">
+
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/datobaharin.png" alt="Dato&rsquo; Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400" /></div>
 <div class="col is-8">
@@ -233,9 +249,10 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="text-ellipsis speaker-company">Marine Department Malaysia</div>
 </div>
 </div>
+
+
 </div>
-</div>
-<div class="row">
+
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Capt Andre.png" alt="Capt Andr&eacute; L. LeGoubin" width="400" height="400" /></div>
@@ -247,6 +264,13 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 
+
+
+
+</div>
+
+<div class="row">
+
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Caroline Yang.png" alt="Ms Caroline Yang" width="400" height="400" /></div>
@@ -257,12 +281,6 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </div>
 </div>
 </div>
-
-
-</div>
-
-<div class="row">
-
 
 <div class="col is-6 prog-speaker">
 <div class="row">

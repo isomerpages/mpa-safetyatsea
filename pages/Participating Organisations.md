@@ -3,8 +3,6 @@ title: Participating Organisations
 permalink: /participating-organisations
 description: ""
 ---
-
-
 <!-- /images/Partners2022/1-IMO.jpg
 <div class="row">
 <div class="col is-4 mb-4">
@@ -73,47 +71,110 @@ description: ""
 </div>
 
 <div class="col is-4 mb-4">
-<a target="_blank" href="www.executive-group.com"><img src="images/Partners2022/5-EXECUTIVE-GROUP.jpg" class="img-fluid"></a> 
+<a target="_blank" href="https://www.dnv.com"><img src="images/Partners2022/4-DNV.jpg" class="img-fluid"></a> 
 </div>
 
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.executive-group.com"><img src="images/Partners2022/5-EXECUTIVE-GROUP.jpg" class="img-fluid"></a> 
+</div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.fullertonhealth.com/sg/"><img src="images/Partners2022/6-FULLERTON-HEALTH.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
+<a target="_blank" href="http://www.gard.no/"><img src="images/Partners2022/7-GARD.jpg" class="img-fluid"></a> 
+</div>
+
+
+
+</div>
+
+<div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.igpandi.org/"><img src="images/Partners2022/8-IG-PI.jpg" class="img-fluid"></a> 
+</div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www2.inmarsat.com/inmarsat_maritime"><img src="images/Partners2022/9-IMMARSAT.jpg" class="img-fluid"></a> 
+</div>
+
+
+<div class="col is-4 mb-4">
 <a target="_blank" href="#"><img src="images/Partners2022/10-INTERNATIONAL-CHAMBER-OFSHIPPING.jpg" class="img-fluid"></a> 
+</div>
+
+
+
+</div>
+
+<div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.marine.gov.my"><img src="images/Partners2022/11-MARINE-DEPARTMENT-MALYASIA.jpg" class="img-fluid"></a> 
+</div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.marclaim.com/"><img src="images/Partners2022/12-MARITIME-CLAIM-SERVICE.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.mentalhealth-support.com"><img src="images/Partners2022/13-MENTAL-HEALTH.jpg" class="img-fluid"></a> 
 </div>
 
+
+
 </div>
 
 <div class="row">
 
 <div class="col is-4 mb-4">
-<a target="_blank" href="#"><img src="images/Partners2022/15-THE-NAUTICAL.jpg" class="img-fluid"></a> 
+<a  href="#"><img src="images/Partners2022/14-MOT-INDO.jpg" class="img-fluid"></a> 
 </div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.pilship.com/"><img src="images/Partners2022/15-PIL.jpg" class="img-fluid"></a> 
+</div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.police.gov.sg/"><img src="images/Partners2022/16-POLICE-COAST-GUARD.jpg" class="img-fluid"></a> 
+</div>
+
+
+
+
+</div>
+
+<div class="row">
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.globalpsa.com/"><img src="images/Partners2022/17-PSA-CORPS.jpg" class="img-fluid"></a> 
 </div>
 
+
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.psamarine.com"><img src="images/Partners2022/18-PSA-MARINE.jpg" class="img-fluid"></a> 
 </div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.riotinto.com"><img src="images/Partners2022/19-RIO-TINO.jpg" class="img-fluid"></a> 
+</div>
+
+
+
+
 
 </div>
 
 <div class="row">
 
 <div class="col is-4 mb-4">
-<a target="_blank" href="www.riotinto.com"><img src="images/Partners2022/19-RIO-TINO.jpg" class="img-fluid"></a> 
+<a target="_blank" href="https://www.sp.edu.sg/sma"><img src="images/Partners2022/20-SINGAPORE-MARITIME.jpg" class="img-fluid"></a> 
 </div>
 
 <div class="col is-4 mb-4">
@@ -121,28 +182,67 @@ description: ""
 </div>
 
 <div class="col is-4 mb-4">
-<a target="_blank" href="https://www.ssa.org.sg/"><img src="images/Partners2022/23-SINGAPORE-SHIPPING.jpg" class="img-fluid"></a> 
+<a target="_blank" href="https://sailing.org.sg/"><img src="images/Partners2022/22-SINGAPORE-SAILING.jpg" class="img-fluid"></a> 
 </div>
+
+
+
+
+
+
 
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.ssa.org.sg/"><img src="images/Partners2022/23-SINGAPORE-SHIPPING.jpg" class="img-fluid"></a> 
+</div>
+
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.nautinst.org"><img src="images/Partners2022/15-THE-NAUTICAL.jpg" class="img-fluid"></a> 
+</div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.shipownersclub.com/"><img src="images/Partners2022/27-THE-SHIPOWNERS.jpg" class="img-fluid"></a> 
 </div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="www.thome.com"><img src="images/Partners2022/28-THOMEGROUP.jpg" class="img-fluid"></a> 
-</div>
 
-<div class="col is-4 mb-4">
-<a target="_blank" href="#"><img src="images/Partners2022/31-WARSTILLA.jpg" class="img-fluid"></a> 
-</div>
+
+
+
 
 </div>
 
 <div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.thome.com"><img src="images/Partners2022/28-THOMEGROUP.jpg" class="img-fluid"></a> 
+</div>
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.tiansan.com.sg"><img src="images/Partners2022/29-TIAN-SAN.jpg" class="img-fluid"></a> 
+</div>
+
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.wallem.com/"><img src="images/Partners2022/30-WALLEM.jpg" class="img-fluid"></a> 
+</div>
+
+
+
+
+
+
+
+</div>
+
+<div class="row">
+
+<div class="col is-4 mb-4">
+<a target="_blank" href="https://www.wartsila.com/"><img src="images/Partners2022/31-WARSTILLA.jpg" class="img-fluid"></a> 
+</div>
 
 <div class="col is-4 mb-4">
 <a target="_blank" href="https://www.wmu.se/"><img src="images/Partners2022/32-WMU.jpg" class="img-fluid"></a> 
@@ -151,11 +251,7 @@ description: ""
 <div class="col is-4 mb-4">
 <a target="_blank" href="#"><img src="images/Partners2022/33-WSH.jpg" class="img-fluid"></a> 
 </div>
-
-
-
 </div>
-
 
 
 
