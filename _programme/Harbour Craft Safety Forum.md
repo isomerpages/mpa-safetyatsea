@@ -52,7 +52,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Forging Ahead Together with Safety</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
