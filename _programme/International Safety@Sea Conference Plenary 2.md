@@ -55,7 +55,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Proactive Use of Data for Maritime Safety</h4>
+<h4 class="programme-title">The Future of Maritime Safety</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
