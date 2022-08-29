@@ -21,7 +21,7 @@ permalink: /resources/
 <div class="speaker-image-wrapper">
 <img class="speaker-image img-fluid mb-3" alt="" src="images/CaseStudies.png">
 </div></a>
-<h4 class="speaker-name text-ellipsis">“Case Studies for Working In and Around Water – <a target="_new" href="https://www.tal.sg/wshc/resources/publications/case-studies/case-studies-working-in-and-around-water">Click Here</a></h4>
+<h4 class="speaker-name text-ellipsis">Case Studies for Working In and Around Water – <a target="_new" href="https://www.tal.sg/wshc/resources/publications/case-studies/case-studies-working-in-and-around-water">Click Here</a></h4>
 </div>    
 </div>
 
