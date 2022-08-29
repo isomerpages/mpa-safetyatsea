@@ -12,7 +12,7 @@ permalink: /resources/
 <div class="col is-5">
 <a href="https://www.youtube.com/watch?v=Aj4M4v6KknU">
 <div class="speaker-image-wrapper">
-<img class="speaker-image img-fluid mb-3" alt="" src="images/VideoQRCode2.png"> 
+<img class="speaker-image img-fluid mb-3" alt="" src="images/SafetyVideo1.png"> 
 </div></a>
 <h4 class="speaker-name text-ellipsis">Safe Boarding of Vessels Video - <a target="_new" href="https://www.youtube.com/watch?v=Aj4M4v6KknU"> Click Here</a></h4>
 </div>
