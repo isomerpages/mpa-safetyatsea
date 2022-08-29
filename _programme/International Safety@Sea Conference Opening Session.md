@@ -157,7 +157,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Destination Zero: Ensuring Safe Progress for Shipping</h4>
+<h4 class="programme-title">Ensuring Safe Progress for Shipping</h4>
 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
