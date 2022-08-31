@@ -11,7 +11,7 @@ permalink: /media-room/
 <p class="mt-4">
 <span style="text-decoration: underline;">
 <span style="color: #5c1d5e;">
-<a href="https://mpa-safetyatsea-staging.netlify.app/media-room/" target="_new" style="color: #993366; text-decoration: underline;">Enhancing Maritime Safety Through Collaboration, Connectivity and Technology
+<a href="https://www.mpa.gov.sg/docs/mpalibraries/media-releases/news-release---international-safety-at-sea-week-by-mpa" target="_new" style="color: #993366; text-decoration: underline;">Enhancing Maritime Safety Through Collaboration, Connectivity and Technology
 International Safety@Sea Week 2022 features 8 sessions focused on safety at sea</a>
 </span>
 </span>
