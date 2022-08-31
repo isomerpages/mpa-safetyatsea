@@ -7,7 +7,7 @@ permalink: /media-room/
 
 
 
-<h4 class="mb-4 text-dark">PRESS RELEASE</h4>
+<h4 class="mb-4 text-dark">PRESS RELEASE 2022</h4>
 <p class="mt-4">
 <span style="text-decoration: underline;">
 <span style="color: #5c1d5e;">
@@ -21,21 +21,25 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 
 
 <h4 class="mb-4 text-dark">2022 VIDEO GALLERY</h4>
+
+
+
 <div class="row">
-<div class="col is-6 mb-4">
-<div class="bp-youtube">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4zftHm5-xhE" allowfullscreen="allowfullscreen"></iframe>
-</div>
-<h4 class="text-info">International Safety@Sea Conference 2022</h4>
-<p>Full Recording</p>
-</div>
+
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w0LzyV3x4DU" allowfullscreen="allowfullscreen"></iframe>
 </div>
 <h4 class="text-info">International Safety@Sea Awards 2022</h4>
-<p>Full Recording</p>
 </div>
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uGaMOkQnHNM" allowfullscreen="allowfullscreen"></iframe>
+</div>
+<h4 class="text-info">Joint Initiatives to Enhance Education on Maritime Safety</h4>
+</div>
+
 </div>
 
 <hr class="my-5">
