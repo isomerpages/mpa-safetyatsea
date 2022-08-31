@@ -6,6 +6,20 @@ permalink: /media-room/
 <div class="col is-12 mx-auto text-center">
 
 
+
+<h4 class="mb-4 text-dark">PRESS RELEASE</h4>
+<p class="mt-4">
+<span style="text-decoration: underline;">
+<span style="color: #5c1d5e;">
+<a href="https://www.mpa.gov.sg/docs/mpalibraries/media-releases/news-release---international-safety-at-sea-week-by-mpa" target="_new" style="color: #993366; text-decoration: underline;">Enhancing Maritime Safety Through Collaboration, Connectivity and Technology
+International Safety@Sea Week 2022 features 8 sessions focused on safety at sea</a>
+</span>
+</span>
+</p>
+
+<hr class="my-5">
+
+
 <h4 class="mb-4 text-dark">2022 VIDEO GALLERY</h4>
 <div class="row">
 <div class="col is-6 mb-4">
@@ -23,19 +37,6 @@ permalink: /media-room/
 <p>Full Recording</p>
 </div>
 </div>
-
-<hr class="my-5">
-
-<h4 class="mb-4 text-dark">PRESS RELEASE</h4>
-<p class="mt-4">
-<span style="text-decoration: underline;">
-<span style="color: #5c1d5e;">
-<a href="https://www.mpa.gov.sg/docs/mpalibraries/media-releases/news-release---international-safety-at-sea-week-by-mpa" target="_new" style="color: #993366; text-decoration: underline;">Enhancing Maritime Safety Through Collaboration, Connectivity and Technology
-International Safety@Sea Week 2022 features 8 sessions focused on safety at sea</a>
-</span>
-</span>
-</p>
-
 
 <hr class="my-5">
 
