@@ -11,9 +11,6 @@ sections:
         - title: About Us
           description: ""
           url: /about-us
-        - title: Register Now
-          description: ""
-          url: /registration
         - title: Programme
           description: ""
           url: /programme/overview
