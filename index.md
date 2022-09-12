@@ -4,16 +4,13 @@ title: International Safety @ Sea Week 2022
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Registrations is now open for 8 sessions!
+notification: Watch this space for this year's session recordings
 sections:
   - hero:
       key_highlights:
         - title: About Us
           description: ""
           url: /about-us
-        - title: Register Now
-          description: ""
-          url: /registration
         - title: Programme
           description: ""
           url: /programme/overview

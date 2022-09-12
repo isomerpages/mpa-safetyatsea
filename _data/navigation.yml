@@ -1,14 +1,12 @@
 logo: /images/logo-2022.jpg
 links:
-  - title: Register Now
-    url: /registration
   - title: About Us
     url: /about-us
   - title: Programme
     url: /programme/overview
   - title: Speakers
     url: /speakers
-  - title: PARTICIPATING ORGANISTIONS
+  - title: Participating Organisations
     url: /participating-organisations
   - title: Media Room
     url: /media-room
