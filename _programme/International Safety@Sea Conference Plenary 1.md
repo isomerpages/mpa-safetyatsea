@@ -1,6 +1,6 @@
 ---
 title: International Safety@Sea Conference Plenary 1
-permalink: /programme/iss-conference-plenary-1
+permalink: /programme/iss-conference-plenary-1/
 description: ""
 ---
 <section>
@@ -40,7 +40,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 <div class="p-4">
 <div class="programme-time"><strong>13:20 - 13:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Communicating Towards Safety</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Communicating Towards Safety.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -75,7 +75,7 @@ The International Safety@Sea Awards are presented by the Maritime and Port Autho
 <div class="p-4">
 <div class="programme-time"><strong>13:35 - 13:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">How Mental Health Management Shapes Safety Culture and Risk Prevention</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/MHSS_Safety_Sea22.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -201,6 +201,11 @@ Capt Hari Subramaniam</strong></a></div>
 
 
 <style type="text/css"> 
+
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }

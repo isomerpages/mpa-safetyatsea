@@ -1,6 +1,6 @@
 ---
 title: Harbour Craft Safety Forum
-permalink: /programme/harbour-craft-safety-forum
+permalink: /programme/harbour-craft-safety-forum/
 description: ""
 ---
 <div><strong>30 Aug | 09:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong>
@@ -18,7 +18,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">How Data from Harbour Craft Incidents Can Inform Decisions for Safety at Sea</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Capt Hari - MPA IS@S HCSF Aug 2022 16-9 format.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -53,7 +53,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Forging Ahead Together with Safety</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/TSS Presentation- Forging Ahead Together with Safety .pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -182,6 +182,11 @@ description: ""
 
 
 <style type="text/css"> 
+
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }

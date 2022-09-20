@@ -1,6 +1,6 @@
 ---
 title: International Safety@Sea Conference Plenary 2
-permalink: /programme/iss-conference-plenary-2
+permalink: /programme/iss-conference-plenary-2/
 description: ""
 ---
 <section>
@@ -21,7 +21,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>15:35 - 15:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Data Quality for Safety Learning Culture</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/FINAL Draft ppt SINGAPORE Learning Culture.pdf">here</a></p> 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -56,7 +56,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">The Future of Maritime Safety</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Inmarsat_MPA Proactive Safety_P Broadhurst.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -191,6 +191,11 @@ Rear Admiral Jacques Rivière</strong></a></div>
 
 
 <style type="text/css"> 
+
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }

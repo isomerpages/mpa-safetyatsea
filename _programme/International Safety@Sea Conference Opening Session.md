@@ -1,6 +1,6 @@
 ---
 title: International Safety@Sea Conference Opening Session
-permalink: /programme/opening-session
+permalink: /programme/opening-session/
 description: ""
 ---
 <div>
@@ -124,6 +124,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">IMO and The Human Element: Where Do We Go From Here?</h4>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/HE%20presentation%20Singapore%2008-22%20new.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -158,7 +159,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Ensuring Safe Progress for Shipping</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/2022-08-30 KON MPA Safety@Sea Conference_FINAL.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -305,6 +306,12 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </section>
 
 <style type="text/css"> 
+
+	
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }

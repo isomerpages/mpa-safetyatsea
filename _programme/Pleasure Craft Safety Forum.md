@@ -1,6 +1,6 @@
 ---
 title: Pleasure Craft Safety Forum
-permalink: /programme/pleasure-craft-safety-forum
+permalink: /programme/pleasure-craft-safety-forum/
 description: ""
 ---
 <div><strong>29 Aug | 09:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong>
@@ -49,8 +49,8 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Observance of Good Seamanship &ndash; First Principles</h4>
-<!--<span style="text-decoration: underline;"> <a style="color: #993366; text-decoration: underline;" href="#">Download Slides</a> | <a style="color: #993366; text-decoration: underline;" href="#">Watch Presentation</a> </span>
-<div class="programme-description readmore">&nbsp;</div>--><hr class="my-3 border-primary" />
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Obsevance of Good Seamanship - A Colection of First Principles.pdf">here</a></p>
+<hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
@@ -188,6 +188,11 @@ description: ""
 </section>
 
 <style type="text/css"> 
+
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }
