@@ -124,7 +124,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">IMO and The Human Element: Where Do We Go From Here?</h4>
-<p>Download presentation <a href="/files/Slides22/HE%20presentation%20Singapore%2008-22%20new.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/HE%20presentation%20Singapore%2008-22%20new.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -306,6 +306,12 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 </section>
 
 <style type="text/css"> 
+
+	
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }
