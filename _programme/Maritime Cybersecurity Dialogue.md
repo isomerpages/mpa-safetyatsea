@@ -1,6 +1,6 @@
 ---
 title: Maritime Cybersecurity Dialogue
-permalink: /programme/maritime-cybersecurity-dialogue
+permalink: /programme/maritime-cybersecurity-dialogue/
 description: ""
 ---
 <div>
@@ -52,6 +52,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Cyber Risk Management in Port</h4>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Maritime-Cyber-Dialogue-CyberRiskInPort-31stAug22 - v1.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -86,6 +87,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Towards Securing Maritime Infrastructure</h4>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/iTrust_MPA_sudiptac.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -192,6 +194,11 @@ description: ""
 
 
 <style type="text/css"> 
+
+	hr.my-3{
+margin-top: 0.75rem;	
+	}
+
     .is-left{
       text-align: left;
     }
