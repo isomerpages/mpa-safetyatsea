@@ -159,7 +159,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Ensuring Safe Progress for Shipping</h4>
-
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/2022-08-30 KON MPA Safety@Sea Conference_FINAL.pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
