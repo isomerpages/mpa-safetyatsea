@@ -16,6 +16,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Yachting Casualties - Photo Illustrated</h4>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Capt Richard's Presentation (IS@S).pdf">here</a></p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
