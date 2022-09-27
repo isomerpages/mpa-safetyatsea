@@ -18,7 +18,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">How Data from Harbour Craft Incidents Can Inform Decisions for Safety at Sea</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Capt Hari - MPA IS@S HCSF Aug 2022 16-9 format.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Capt Hari - MPA IS@S HCSF Aug 2022 16-9 format.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=Q4uvWRSAXAI&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=24">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -53,7 +53,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Forging Ahead Together with Safety</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/TSS Presentation- Forging Ahead Together with Safety .pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/TSS Presentation- Forging Ahead Together with Safety .pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=nm4ZdIRPnK0&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=23">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
