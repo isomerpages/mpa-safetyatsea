@@ -20,7 +20,7 @@ description: ""
               <div class="p-4">
                 <div class="programme-time"><b>16:05 - 16:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
-								 Click <a target="_new" href="https://www.youtube.com/watch?v=l-mwLSi9lZo&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=14">here</a> for video recording
+								 <p>Click <a target="_new" href="https://www.youtube.com/watch?v=l-mwLSi9lZo&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=14">here</a> for video recording</p>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
