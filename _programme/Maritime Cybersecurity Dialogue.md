@@ -18,7 +18,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Maritime Cybersecurity Risk Management</h4>
-Click <a target="_new" href="https://www.youtube.com/watch?v=4PXrkcQCzHg&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=5">here</a> for video recording
+<p>Click <a target="_new" href="https://www.youtube.com/watch?v=4PXrkcQCzHg&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=5">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
