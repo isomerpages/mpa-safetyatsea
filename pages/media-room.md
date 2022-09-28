@@ -95,7 +95,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/LU61fZml3" class="embed-responsive-item"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/LU61fZml3-s" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Maritime Cybersecurity Dialogue: Cyber Safety@Sea</h4>
 </div>
