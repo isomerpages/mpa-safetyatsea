@@ -93,6 +93,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 “Proactive Use of Data for Maritime Safety”
+	<p>Click <a target="_new" href="https://youtu.be/5nxB0w0CSkM">here</a> for video recording</p> 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
