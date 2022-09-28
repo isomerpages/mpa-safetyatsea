@@ -50,14 +50,14 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ko-xER2fxzw" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">IS@S Opening Session</h4>
+<h4 class="text-info">Opening Session: Riding the Waves for Maritime Safety</h4>
 </div>
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/6VwCzFmLX1w" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">IS@S Plenary 1</h4>
+<h4 class="text-info">IS@S Plenary 1: Dovetailing Seafarers’ Health & Wellbeing with a Good Safety Culture</h4>
 </div>
 
 </div>
@@ -70,14 +70,14 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/vkiJWV0Vr6M" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">IS@S Plenary 2</h4>
+<h4 class="text-info">IS@S Plenary 2: Proactive Use of Data for Maritime Safety</h4>
 </div>
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/jPniEkTkfhA" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">Harbour Craft Safety Forum</h4>
+<h4 class="text-info">Harbour Craft Safety Forum: Instilling a Strong Safety Culture for the Harbour Craft Industry</h4>
 </div>
 
 </div>
@@ -90,14 +90,14 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/T9uVZqfQGU0" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">Pleasure Craft Safety Forum</h4>
+<h4 class="text-info">Pleasure Craft Safety Forum: Best Practices to Avoid Incidents at Sea</h4>
 </div>
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/LU61fZml3" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">Maritime Cybersecurity Dialogue</h4>
+<h4 class="text-info">Maritime Cybersecurity Dialogue: Cyber Safety@Sea</h4>
 </div>
 
 </div>
@@ -480,7 +480,6 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 .media-height {
 height: 25vh;
 }
-	
 .content h4{
 color: #004f9f;
 margin-top:16px;
