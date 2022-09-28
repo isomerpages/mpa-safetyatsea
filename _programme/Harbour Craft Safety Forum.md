@@ -90,7 +90,8 @@ description: ""
 <div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“Instilling a Strong Safety Culture for the Harbour Craft Industry”
-<hr class="my-3 border-primary" />
+<p>Click <a target="_new" href="https://youtu.be/vhovqh-2DLY">here</a> for video recording</p>
+	<hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
