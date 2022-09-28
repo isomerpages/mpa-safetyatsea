@@ -19,7 +19,7 @@ description: ""
               <div class="p-4">
                 <div class="programme-time"><b>13:05 - 13:20</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Winners of International Safety@Sea Awards<br></h4>
-								<p>Click <a target="_new" href="https://www.youtube.com/watch?v=hXWKRLwnKc4&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=17">here</a> for video recording</p>
+								<p>Video on this year&rsquo;s award winners <u><a href="https://www.youtube.com/watch?v=w0LzyV3x4DU&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=2" target="_blank">here</a></u>.<br>Click <u><a href="https://www.youtube.com/watch?v=6VwCzFmLX1w&t=7s" target="_blank" >here</a></u> for the awards presentation.</p>
 <hr class="my-3 border-primary" />								
 The International Safety@Sea Awards are presented by the Maritime and Port Authority of Singapore each year to recognise the outstanding efforts of organisations and individuals who have contributed towards ensuring safer seas. The winners for this year will be announced at this session.
               </div>
