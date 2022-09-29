@@ -20,6 +20,7 @@ description: ""
               <div class="p-4">
                 <div class="programme-time"><b>16:05 - 16:15</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
+								 <p>Click <a target="_new" href="https://www.youtube.com/watch?v=l-mwLSi9lZo&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=14">here</a> for video recording</p>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -62,7 +63,9 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:15 - 16:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Launch of International Safety@Sea Conference 2022</h4>
-
+<p>
+	Click <a target="_new" href="https://www.youtube.com/watch?v=4zftHm5-xhE&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=3">here</a> for video recording</p>
+	<hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
@@ -93,7 +96,9 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>16:20 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Launch of Joint Initiatives</h4>
-with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Health Council (WSHC)
+with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Health Council (WSHC)<p>
+	Click <a target="_new" href="https://www.youtube.com/watch?v=uGaMOkQnHNM&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=1">here</a> for video recording</p>
+	<hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
@@ -124,7 +129,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:25 - 16:40</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">IMO and The Human Element: Where Do We Go From Here?</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/HE%20presentation%20Singapore%2008-22%20new.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/HE%20presentation%20Singapore%2008-22%20new.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=X-GKuA64k4g&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=13">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -159,7 +164,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="p-4">
 <div class="programme-time"><strong>16:40 - 16:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Ensuring Safe Progress for Shipping</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/2022-08-30 KON MPA Safety@Sea Conference_FINAL.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/2022-08-30 KON MPA Safety@Sea Conference_FINAL.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=Sa1YXoN3pmo&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=12">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -196,6 +201,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="programme-time"><strong>16:55 - 18:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“Riding the Waves for Maritime Safety”
+<p style="margin: 0;">Click <a target="_new" href="https://www.youtube.com/watch?v=jbORTt_JznA&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=20">here</a> for video recording</p>	
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">

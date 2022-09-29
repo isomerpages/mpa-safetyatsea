@@ -18,6 +18,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Maritime Cybersecurity Risk Management</h4>
+<p>Click <a target="_new" href="https://www.youtube.com/watch?v=4PXrkcQCzHg&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=5">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -52,7 +53,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Cyber Risk Management in Port</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Maritime-Cyber-Dialogue-CyberRiskInPort-31stAug22 - v1.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Maritime-Cyber-Dialogue-CyberRiskInPort-31stAug22 - v1.pdf">here</a>| Click <a target="_new" href="https://www.youtube.com/watch?v=qd9CadmPAc4&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=6">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -87,7 +88,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Towards Securing Maritime Infrastructure</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/iTrust_MPA_sudiptac.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/iTrust_MPA_sudiptac.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=uRi2H7jlUgo&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=7">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -123,7 +124,7 @@ description: ""
 <div class="programme-time"><strong>10:20 - 11:30</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“Cyber Safety@Sea”
-
+	<p>Click <a target="_new" href="https://www.youtube.com/watch?v=KBif8Gf4jpg&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=9">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">

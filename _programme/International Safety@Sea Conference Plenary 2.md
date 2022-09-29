@@ -21,7 +21,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>15:35 - 15:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Data Quality for Safety Learning Culture</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/FINAL Draft ppt SINGAPORE Learning Culture.pdf">here</a></p> 
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/FINAL Draft ppt SINGAPORE Learning Culture.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=GKz0ued4ljA&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=22">here</a> for video recording</p> 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -56,7 +56,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>15:50 - 16:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">The Future of Maritime Safety</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Inmarsat_MPA Proactive Safety_P Broadhurst.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Inmarsat_MPA Proactive Safety_P Broadhurst.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=MF09hrA93tA&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=21">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -93,6 +93,7 @@ Mr Peter Broadhurst</strong></a></div>
 <div class="programme-time"><strong>16:05 - 17:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 “Proactive Use of Data for Maritime Safety”
+	<p>Click <a target="_new" href="https://youtu.be/5nxB0w0CSkM">here</a> for video recording</p> 
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">

@@ -16,6 +16,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Yachting Casualties - Photo Illustrated</h4>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Capt Richard's Presentation (IS@S).pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=p5aKWcxam9k&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=4">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -49,7 +50,7 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Observance of Good Seamanship &ndash; First Principles</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Obsevance of Good Seamanship - A Colection of First Principles.pdf">here</a></p>
+<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Obsevance of Good Seamanship - A Colection of First Principles.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=g5lrVoW73mc&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=8">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
@@ -84,6 +85,7 @@ description: ""
 <div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 “Best Practices to Avoid Incidents at Sea”
+	<p>Click <a target="_new" href="https://www.youtube.com/watch?v=QeYrcJQW944&list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&index=10">here</a> for video recording</p>
 <hr class="my-3 border-primary" />
 <div class="speakers px-2">
 <div class="row">
