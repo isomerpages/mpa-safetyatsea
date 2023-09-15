@@ -4,7 +4,7 @@ title: International Safety @ Sea Week 2022
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Watch all 8 session recordings under MEDIA ROOM and PROGRAMME
+notification: Watch this space as registration will open soon.
 sections:
   - hero:
       key_highlights:
@@ -14,16 +14,23 @@ sections:
         - title: Programme
           description: ""
           url: /programme/overview
-        - title: Speakers
+        - title: ""
           description: ""
           url: /speakers
-      title: International Safety@Sea Week 2022
-      subtitle: "29th August to 2nd September "
+      title: International Safety@Sea Week 2023
+      subtitle: 23rd October to 27th October
       background: /images/HOME-BANNER4.jpg
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
         promote safety at sea.
+  - infopic:
+      description: Advancing Maritime Safety in a Green and Digital Age
+      image: /images/banners4_opening_new.png
+      alt: Image alt text
+      title: International Safety@Sea Conference – Opening Session
+      subtitle: 23 Oct | 13:00 - 15:30 (GMT+8)
+      url: /programme/opening-session
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 29 AUG | 09:00 – 12:00 (GMT+8)
@@ -47,14 +54,6 @@ sections:
       url: /programme/harbour-craft-safety-forum
       image: /images/thumbnail7-08.jpg
       alt: Image alt text
-  - infopic:
-      description: Riding the Waves for Maritime Safety
-      image: /images/1-thumbnail-opening5.jpg
-      alt: Image alt text
-      title: International Safety@Sea Conference – Opening Session
-      subtitle: 30 Aug | 16:00 - 18:30 (GMT+8)
-      button: View Programme
-      url: /programme/opening-session
   - infopic:
       title: Maritime Cybersecurity Dialogue
       subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
