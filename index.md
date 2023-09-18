@@ -4,7 +4,7 @@ title: International Safety @ Sea Week 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Watch this space as registration will open soon.
+notification: Registration will open soon.
 sections:
   - hero:
       key_highlights:
@@ -60,6 +60,7 @@ sections:
       url: /programme/industry-visits-cems
       image: /images/slide8.PNG
       alt: Image alt text
+      subtitle: 25 Oct
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
@@ -71,4 +72,5 @@ sections:
       url: /programme/harbour-craft-safety-forum
       image: /images/slide7.PNG
       alt: Image alt text
+      subtitle: 27 Oct
 ---
