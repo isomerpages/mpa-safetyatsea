@@ -32,6 +32,13 @@ sections:
       subtitle: 23 Oct | 13:00 - 15:30 (GMT+8)
       url: /programme/opening-session
   - infopic:
+      title: International Safety@Sea Conference – Session 2
+      subtitle: 23 oct | 16:00 – 18:00 (GMT+8)
+      description: Operationalising Methanol Bunkering
+      url: /programme/iss-conference-plenary-1
+      image: /images/slide2.PNG
+      alt: Image alt text
+  - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 29 AUG | 09:00 – 12:00 (GMT+8)
       button: View Programme
@@ -71,14 +78,6 @@ sections:
       alt: Image alt text
       description: Centre for Excellence in Maritime Safety (CEMS) & Wärtsilä
         Expertise Centre
-  - infopic:
-      title: International Safety@Sea Conference - Plenary 1
-      subtitle: 31 AUG | 13:00 – 15:00 (GMT+8)
-      description: Dovetailing Seafarers’ Health & Wellbeing With A Good Safety Culture
-      button: VIEW PROGRAMME
-      url: /programme/iss-conference-plenary-1
-      image: /images/1-thumbnail-plenary1-5.jpg
-      alt: Image alt text
   - infopic:
       title: International Safety@Sea Conference - Plenary 2
       subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
