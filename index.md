@@ -14,9 +14,6 @@ sections:
         - title: Programme
           description: ""
           url: /programme2/overview
-        - title: ""
-          description: ""
-          url: /speakers
       title: International Safety@Sea Week 2023
       subtitle: 23rd October to 27th October
       background: /images/HOME-BANNER4.jpg
