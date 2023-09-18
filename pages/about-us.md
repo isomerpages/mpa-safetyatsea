@@ -13,19 +13,19 @@ permalink: /about-us/
 <p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA’s commitment to promoting safety at sea, registration for all events are free.</p>
 <p>This year, there are 8 sessions to look forward to including the flagship International Safety@Sea Conference, two safety forums for the pleasure craft and harbour craft sectors, FEREX Participant Programme and Industry Visits.&nbsp;</p>
 <p>Winners for the annual International Safety@Sea Awards, which recognizes outstanding efforts of organizations and individuals who have played a significant part in ensuring safety at sea, will also receive their awards then.&nbsp;</p>
-<p><strong><a href="/programme/overview">International Safety@Sea Conference (23 – 24 Oct 2023)</a><br></strong>This year’s International Safety@Sea Conference will be held over two days at the PARKROYAL on Beach Road Hotel in Singapore. <br><br>Session themes:</p>
-<ol>
-<li><a href="/programme/iss-conference-plenary-1">Opening Session (23 Oct): "Advancing Maritime Safety in a Green and Digital Age"</a></li>
-<li><a href="/programme/iss-conference-plenary-2">Session 2 (23 Oct): Operationalising Methanol Bunkering&nbsp;</a></li>
-	<li><a href="/programme/iss-conference-plenary-2">Session 3 (24 Oct): Building a Cyber Safe and Resilient Martime Ecosystem&nbsp;</a></li>
-	<li><a href="/programme/iss-conference-plenary-2">Session 4 (24 Oct): Enhancing Maritime Safety through Technology&nbsp;</a></li>
-</ol>
-<p><strong><a href="/programme/ferex-observer-programme">FEREX Participant Programme (24 Oct 2023)</a><br></strong>FEREX (Ferry Rescue Exercise) is a multi-agency exercise, organised by the Maritime and Port Authority of Singapore (MPA) to verify and validate Singapore's operational readiness and responsiveness in the event of a ferry mishap. In a significant stride towards sustainability, the exercise will involve mishap of an electric ferry.</p>
+<p><strong><!--<a href="/programme/overview">-->International Safety@Sea Conference (23 – 24 Oct 2023)<br></strong>This year’s International Safety@Sea Conference will be held over two days at the PARKROYAL on Beach Road Hotel in Singapore. <br><br>Session themes:</p>
+<ul>
+<li>Opening Session (23 Oct): "Advancing Maritime Safety in a Green and Digital Age"</li>
+<li>Session 2 (23 Oct): Operationalising Methanol Bunkering&nbsp;</li>
+	<li>Session 3 (24 Oct): Building a Cyber Safe and Resilient Martime Ecosystem&nbsp;</li>
+	<li>Session 4 (24 Oct): Enhancing Maritime Safety through Technology&nbsp;</li>
+
+<p><strong>FEREX Participant Programme (24 Oct 2023)<br></strong>FEREX (Ferry Rescue Exercise) is a multi-agency exercise, organised by the Maritime and Port Authority of Singapore (MPA) to verify and validate Singapore's operational readiness and responsiveness in the event of a ferry mishap. In a significant stride towards sustainability, the exercise will involve mishap of an electric ferry.</p>
 <p>Observers will get to witness the close coordination between participating agencies and organisations, including the Police Coast Guard from the Singapore Police Force (SPF), Republic of Singapore Air Force (RSAF), Republic of Singapore Navy (RSN) and Singapore Civil Defence Force (SCDF).</p>
-<p><strong><a href="/programme/pleasure-craft-safety-forum">Industry Visits (25 Oct)</a><br></strong>As part of the Week, MPA is arranging visits to the Port Operations Control Centre (POCC), and PSA Innovation Centre.</p><p></p>
-<p><strong><a href="/programme/pleasure-craft-safety-forum">Pleasure Craft Safety Forum (26 Oct) &amp; Harbour Craft Safety Forum (27 Oct)</a><br></strong>The International Safety@Sea Week 2023 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
+<p><strong><!--<a href="/programme/pleasure-craft-safety-forum">-->Industry Visits (25 Oct)<br></strong>As part of the Week, MPA is arranging visits to the Port Operations Control Centre (POCC), and PSA Innovation Centre.</p><p></p>
+<p><strong><!--<a href="/programme/pleasure-craft-safety-forum">-->Pleasure Craft Safety Forum (26 Oct) &amp; Harbour Craft Safety Forum (27 Oct)<br></strong>The International Safety@Sea Week 2023 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
 <p>More details to follow.</p>
-	</div>	
+	</ul></div>	
 	
 </div>
 </div>
