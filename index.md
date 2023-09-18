@@ -13,7 +13,7 @@ sections:
           url: /about-us
         - title: Programme
           description: ""
-          url: /programme/overview
+          url: /programme2/overview
         - title: ""
           description: ""
           url: /speakers
