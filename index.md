@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: International Safety @ Sea Week 2022
+title: International Safety @ Sea Week 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
