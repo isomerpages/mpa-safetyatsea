@@ -3,11 +3,7 @@ links:
   - title: About Us
     url: /about-us
   - title: Programme
-    url: /programme/overview
-  - title: Speakers
-    url: /speakers
-  - title: Participating Organisations
-    url: /participating-organisations
+    url: /programmeoverview/
   - title: Media Room
     url: /media-room
   - title: Resources
