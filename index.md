@@ -39,27 +39,11 @@ sections:
       image: /images/slide2.PNG
       alt: Image alt text
   - infopic:
-      title: Pleasure Craft Safety Forum
-      subtitle: 29 AUG | 09:00 – 12:00 (GMT+8)
-      button: View Programme
-      url: /programme/pleasure-craft-safety-forum
-      image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
-      alt: Image alt text
-      description: Best Practices to Avoid Incidents at Sea
-  - infopic:
       title: Ferry Rescue Exercise Observer Programme
       subtitle: 29 AUG | 11:30 – 15:30 (GMT+8)
       button: View Programme
       url: /programme/ferex-observer-programme
       image: /images/1-thumbnail-FEREXObserver5.jpg
-      alt: Image alt text
-  - infopic:
-      title: Harbour Craft Safety Forum
-      subtitle: 30 AUG | 09:00 – 12:00 (GMT+8)
-      description: Instilling a Strong Safety Culture for the Harbour Craft Industry
-      button: View Programme
-      url: /programme/harbour-craft-safety-forum
-      image: /images/thumbnail7-08.jpg
       alt: Image alt text
   - infopic:
       title: Maritime Cybersecurity Dialogue
@@ -70,20 +54,33 @@ sections:
       alt: Image alt text
       description: Cyber Safety@Sea
   - infopic:
-      title: Industry Visits
-      subtitle: 31 AUG | 08:30 – 11:30 (GMT+8)
-      button: VIEW PROGRAMME
-      url: /programme/industry-visits-cems
-      image: /images/1-thumbnail-industryvisit5.jpg
-      alt: Image alt text
-      description: Centre for Excellence in Maritime Safety (CEMS) & Wärtsilä
-        Expertise Centre
-  - infopic:
-      title: International Safety@Sea Conference - Plenary 2
-      subtitle: 31 AUG | 15:30 – 17:30 (GMT+8)
-      description: Proactive Use of Data for Maritime Safety
-      button: VIEW PROGRAMME
+      title: International Safety@Sea Conference - Session 3
+      subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
+      description: Building a Cyber Safe and Resilient Maritime Ecosystem
       url: /programme/iss-conference-plenary-2
       image: /images/thumbnail7-03.jpg
       alt: IS@S Plenary 2
+  - infopic:
+      title: International Safety@Sea Conference - Session 4
+      subtitle: 24 OCT | 16:00 – 18:00 (GMT+8)
+      id: infopic
+      description: Enhancing Maritime Safety through Technology
+      alt: Image alt text
+  - infopic:
+      title: Industry Visits
+      url: /programme/industry-visits-cems
+      image: /images/1-thumbnail-industryvisit5.jpg
+      alt: Image alt text
+  - infopic:
+      title: Pleasure Craft Safety Forum
+      subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
+      url: /programme/pleasure-craft-safety-forum
+      image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
+      alt: Image alt text
+  - infopic:
+      title: Harbour Craft Safety Forum
+      description: Instilling a Strong Safety Culture for the Harbour Craft Industry
+      url: /programme/harbour-craft-safety-forum
+      image: /images/thumbnail7-08.jpg
+      alt: Image alt text
 ---
