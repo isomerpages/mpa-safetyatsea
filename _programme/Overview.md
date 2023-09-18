@@ -3,4 +3,4 @@ title: Overview
 permalink: /programmeoverview/
 description: ""
 ---
-![2022-Programme](/images/PROGRAMME_V6.jpg)
+![2023-Programme](/images/PROGRAMME_V7.png)
