@@ -59,18 +59,17 @@ sections:
   - infopic:
       title: Industry Visits
       url: /programme/industry-visits-cems
-      image: /images/1-thumbnail-industryvisit5.jpg
+      image: /images/slide8.PNG
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
       url: /programme/pleasure-craft-safety-forum
-      image: /images/Thumbnails/1-thumbnail-PleasureCraft5.jpg
+      image: /images/slide6.PNG
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
-      description: Instilling a Strong Safety Culture for the Harbour Craft Industry
       url: /programme/harbour-craft-safety-forum
-      image: /images/thumbnail7-08.jpg
+      image: /images/slide7.PNG
       alt: Image alt text
 ---
