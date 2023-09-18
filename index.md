@@ -36,9 +36,8 @@ sections:
       image: /images/slide2.PNG
       alt: Image alt text
   - infopic:
-      title: Ferry Rescue Exercise Observer Programme
-      subtitle: 29 AUG | 11:30 – 15:30 (GMT+8)
-      button: View Programme
+      title: FEREX Participant Programme
+      subtitle: 24 OCT | 09:30 – 11:30 (GMT+8)
       url: /programme/ferex-observer-programme
       image: /images/slide5.PNG
       alt: Image alt text
