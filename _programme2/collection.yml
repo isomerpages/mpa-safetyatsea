@@ -1,5 +1,5 @@
 collections:
-  programme:
+  programme2:
     output: true
     order:
       - overview.md
