@@ -40,22 +40,14 @@ sections:
       subtitle: 29 AUG | 11:30 – 15:30 (GMT+8)
       button: View Programme
       url: /programme/ferex-observer-programme
-      image: /images/1-thumbnail-FEREXObserver5.jpg
+      image: /images/slide5.PNG
       alt: Image alt text
-  - infopic:
-      title: Maritime Cybersecurity Dialogue
-      subtitle: 31 AUG | 09:30 – 11:30 (GMT+8)
-      button: VIEW PROGRAMME
-      url: /programme/maritime-cybersecurity-dialogue
-      image: /images/1-thumbnail-MaritimeCybersecurity5.jpg
-      alt: Image alt text
-      description: Cyber Safety@Sea
   - infopic:
       title: International Safety@Sea Conference - Session 3
       subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
       description: Building a Cyber Safe and Resilient Maritime Ecosystem
       url: /programme/iss-conference-plenary-2
-      image: /images/thumbnail7-03.jpg
+      image: /images/slide3.PNG
       alt: IS@S Plenary 2
   - infopic:
       title: International Safety@Sea Conference - Session 4
@@ -63,6 +55,7 @@ sections:
       id: infopic
       description: Enhancing Maritime Safety through Technology
       alt: Image alt text
+      image: /images/slide4.PNG
   - infopic:
       title: Industry Visits
       url: /programme/industry-visits-cems
