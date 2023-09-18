@@ -1,5 +1,0 @@
-collections:
-  programme:
-    output: true
-    order:
-      - Overview.md
