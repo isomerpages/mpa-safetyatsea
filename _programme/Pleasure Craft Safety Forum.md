@@ -4,8 +4,8 @@ permalink: /programme/pleasure-craft-forum/
 description: ""
 ---
 <div>
-  <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Opening Session: Advancing Maritime Safety in a Green and Digital Age</h3>
+  <b>26 Oct | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
+  <h3>Pleasure Craft Safety Forum</h3>
 </div>
 
 
