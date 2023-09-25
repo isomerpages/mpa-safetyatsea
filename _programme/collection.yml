@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Harbour Craft Safety Forum.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
