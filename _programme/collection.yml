@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Pleasure Craft Safety Forum.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
@@ -10,3 +9,4 @@ collections:
       - International Safety@Sea Conference Session 3.md
       - International Safety@Sea Conference Session 4.md
       - Industry Visits.md
+      - Pleasure Craft Safety Forum.md
