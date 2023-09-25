@@ -2,9 +2,9 @@ collections:
   programme:
     output: true
     order:
-      - International Safety@Sea Conference Session 4.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
       - FEREX Observer Programme.md
       - International Safety@Sea Conference Session 3.md
+      - International Safety@Sea Conference Session 4.md
