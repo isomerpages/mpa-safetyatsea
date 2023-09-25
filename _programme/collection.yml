@@ -2,5 +2,5 @@ collections:
   programme:
     output: true
     order:
-      - International Safety@Sea Conference Opening Session.md
       - Overview.md
+      - International Safety@Sea Conference Opening Session.md
