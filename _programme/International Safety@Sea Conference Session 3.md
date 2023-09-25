@@ -4,8 +4,8 @@ permalink: /programme/session-3/
 description: ""
 ---
 <div>
-  <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Opening Session: Advancing Maritime Safety in a Green and Digital Age</h3>
+  <b>24 Oct | 13:30 - 15:30</b>&nbsp;<b>GMT+8</b>
+  <h3>International Safety@Sea Conference – Session 3: “Building a Cyber Safe and Resilient Maritime Ecosystem”</h3>
 </div>
 
 
