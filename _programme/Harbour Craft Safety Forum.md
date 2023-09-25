@@ -4,8 +4,8 @@ permalink: /programme/harbour-craft-forum/
 description: ""
 ---
 <div>
-  <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Opening Session: Advancing Maritime Safety in a Green and Digital Age</h3>
+  <b>27 Oct</b>
+  <h3>Harbour Craft Safety Forum</h3>
 </div>
 
 
