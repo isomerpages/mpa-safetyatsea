@@ -59,6 +59,8 @@ sections:
       description: Enhancing Maritime Safety through Technology
       alt: Image alt text
       image: /images/slide4.PNG
+      button: CLICK HERE
+      url: /programme/session-4/
   - infopic:
       title: Industry Visits
       url: /programme/industry-visits-cems
