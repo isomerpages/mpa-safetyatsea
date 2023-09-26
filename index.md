@@ -40,9 +40,10 @@ sections:
   - infopic:
       title: FEREX Participant Programme
       subtitle: 24 OCT | 09:30 – 11:30 (GMT+8)
-      url: /programme/ferex-observer-programme
+      url: /programme/ferex/
       image: /images/slide5_v2.PNG
       alt: Image alt text
+      button: CLICK HERE
   - infopic:
       title: International Safety@Sea Conference - Session 3
       subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
