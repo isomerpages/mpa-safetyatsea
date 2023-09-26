@@ -77,8 +77,9 @@ sections:
       button: CLICK HERE
   - infopic:
       title: Harbour Craft Safety Forum
-      url: /programme/harbour-craft-safety-forum
+      url: /programme/harbour-craft-forum/
       image: /images/slide7.PNG
       alt: Image alt text
       subtitle: 27 Oct
+      button: CLICK HERE
 ---
