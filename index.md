@@ -63,10 +63,11 @@ sections:
       url: /programme/session-4/
   - infopic:
       title: Industry Visits
-      url: /programme/industry-visits-cems
+      url: /programme/industry-visits/
       image: /images/slide8.PNG
       alt: Image alt text
       subtitle: 25 Oct
+      button: CLICK HERE
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
