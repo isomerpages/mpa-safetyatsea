@@ -48,9 +48,10 @@ sections:
       title: International Safety@Sea Conference - Session 3
       subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
       description: Building a Cyber Safe and Resilient Maritime Ecosystem
-      url: /programme/iss-conference-plenary-2
+      url: /programme/session-3/
       image: /images/slide3.PNG
       alt: IS@S Plenary 2
+      button: CLICK HERE
   - infopic:
       title: International Safety@Sea Conference - Session 4
       subtitle: 24 OCT | 16:00 – 18:00 (GMT+8)
