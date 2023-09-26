@@ -71,9 +71,10 @@ sections:
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
-      url: /programme/pleasure-craft-safety-forum
+      url: /programme/pleasure-craft-forum/
       image: /images/slide6.PNG
       alt: Image alt text
+      button: CLICK HERE
   - infopic:
       title: Harbour Craft Safety Forum
       url: /programme/harbour-craft-safety-forum
