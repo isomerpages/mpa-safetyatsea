@@ -33,9 +33,10 @@ sections:
       title: International Safety@Sea Conference – Session 2
       subtitle: 23 oct | 16:00 – 18:00 (GMT+8)
       description: Operationalising Methanol Bunkering
-      url: /programme/iss-conference-plenary-1
+      url: /programme/session-2/
       image: /images/slide2.PNG
       alt: Image alt text
+      button: CLICK HERE
   - infopic:
       title: FEREX Participant Programme
       subtitle: 24 OCT | 09:30 – 11:30 (GMT+8)
