@@ -27,7 +27,8 @@ sections:
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Session
       subtitle: 23 Oct | 13:00 - 15:30 (GMT+8)
-      url: /programme/opening-session
+      url: /programme/conference-opening-session/
+      button: CLICK HERE
   - infopic:
       title: International Safety@Sea Conference – Session 2
       subtitle: 23 oct | 16:00 – 18:00 (GMT+8)
