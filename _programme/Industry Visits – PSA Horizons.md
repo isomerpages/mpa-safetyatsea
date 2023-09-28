@@ -4,7 +4,7 @@ permalink: /programme/industry-visits-psa/
 description: ""
 ---
 <div>
-  <b>25 Oct</b>
+ <b>25 Oct | 14:00 - 17:00</b>&nbsp;<b>GMT+8</b>
   <h3>Industry Visits – PSA Horizons</h3>
 </div>
 
