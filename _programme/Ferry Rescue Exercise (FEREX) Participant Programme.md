@@ -5,7 +5,7 @@ description: ""
 ---
 <div>
   <b>24 Oct | 09:30 - 11:30</b>&nbsp;<b>GMT+8</b>
-  <h3>FEREX Participant Programme</h3>
+  <h3>Ferry Rescue Exercise (FEREX) Participant Programme</h3>
 </div>
 
 <img src="/images/FEREX2.jpg" class="img-fluid">
