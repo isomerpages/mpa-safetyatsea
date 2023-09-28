@@ -67,7 +67,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Michael Phoon"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ishak Ismail</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -81,7 +80,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
@@ -94,7 +92,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr David Foo" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr David Foo</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Chief Executive (Operations Technology)</div>
@@ -109,7 +106,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Michael Drake</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director Operations</div>
@@ -122,7 +118,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Palle Kristensen</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Advisor</div>
@@ -140,7 +135,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Ms Caroline Yang" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">CDR Peter Bizzaro</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief of Inspections Division Activities Far East, and Commanding Officer</div>
@@ -179,7 +173,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Michael Phoon"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Yves Vandenborn</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
@@ -193,7 +186,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr R. Srinivas</a></strong></div>
 <div class="text-ellipsis speaker-position">Chair of IACS Cyber Systems Panel</div>
@@ -206,7 +198,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr David Foo" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Nick Potter</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -221,7 +212,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Steen Lund</a></strong></div>
 <div class="text-ellipsis speaker-position">CEO</div>
@@ -234,7 +224,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Ms Caroline Yang</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
@@ -252,7 +241,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Ms Caroline Yang" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt André L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
