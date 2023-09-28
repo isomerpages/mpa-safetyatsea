@@ -63,7 +63,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>23 OCT | 13:15 - 14:15</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion 1:</h4>
+<h4 class="programme-title">Panel Discussion 1</h4>
 	“Advancing Maritime Safety in a Green Age”	
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
