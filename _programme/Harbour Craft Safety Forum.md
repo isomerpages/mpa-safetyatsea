@@ -4,7 +4,7 @@ permalink: /programme/harbour-craft-forum/
 description: ""
 ---
 <div>
-  <b>27 Oct</b>
+  <b>27 Oct  | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
   <h3>Harbour Craft Safety Forum</h3>
 	<p>Venue: mTower, Level 18 Excellence Room, 460 Alexandra Road, Singapore 119963</p>
 	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
