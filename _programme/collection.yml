@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Industry Visits – PSA Horizons.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
@@ -10,5 +9,6 @@ collections:
       - International Safety@Sea Conference Session 3.md
       - International Safety@Sea Conference Session 4.md
       - Industry Visits – POCC.md
+      - Industry Visits – PSA Horizons.md
       - Pleasure Craft Safety Forum.md
       - Harbour Craft Safety Forum.md
