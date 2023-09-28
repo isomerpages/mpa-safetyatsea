@@ -6,6 +6,11 @@ description: ""
 <div>
   <b>26 Oct | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
   <h3>Pleasure Craft Safety Forum</h3>
+	<p>Venue: One Degree Fifteen - Level 2 Ballroom</p>
+	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
+	<p>The group focuses on improving and raising safety amongst the pleasure craft community in Singapore.</p>
+	<p>Details on the programme and speakers to follow.</p>
+		
 </div>
 
 
