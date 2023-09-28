@@ -28,7 +28,7 @@ description: ""
                     <div class="col is-6 prog-speaker">
                       <div class="row">
                         <div class="col is-4">
-                          <img src="/images/Speakers/Mr%20Chee%20Hong%20Tat.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
+                          <img src="/images/Speakers/dummy_img.png" alt="Mr Chee Hong Tat" class="speaker-image mb-4">
                         </div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
@@ -70,7 +70,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Arif Toha.png" alt="Mr Michael Phoon"></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Michael Phoon"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ishak Ismail</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -84,7 +84,7 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Quah_Ley_Hoon.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
