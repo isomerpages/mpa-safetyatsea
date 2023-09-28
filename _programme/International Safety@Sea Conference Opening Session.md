@@ -198,9 +198,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
-<div class="text-ellipsis speaker-company">International Maritime Organisation</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr R. Srinivas</a></strong></div>
+<div class="text-ellipsis speaker-position">Chair of IACS Cyber Systems Panel</div>
+<div class="text-ellipsis speaker-company">International Association of Classification Societies</div>
 </div>
 </div>
 </div>
