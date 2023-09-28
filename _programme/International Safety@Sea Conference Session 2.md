@@ -30,6 +30,25 @@ description: ""
 </section>
 
 <section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>23 OCT | 16:15 - 16:55</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Presentations by Panellists with a focus on Singapore’s methanol bunkering experience</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
 <div class="bp-container is-fluid">
 <div class="row">
 <div class="col is-full">
