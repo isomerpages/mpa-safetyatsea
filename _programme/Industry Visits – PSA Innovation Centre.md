@@ -5,8 +5,8 @@ description: ""
 ---
 <div>
  <b>25 Oct | 14:00 - 17:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Industry Visits – PSA Horizons</h3>
-	<p>As part of the Week, MPA is arranging visits to two locations – MPA’s Port Operations Control Centre (POCC) and PSA Horizons.</p>
+  <h3>Industry Visits – PSA Innovation Centre</h3>
+	<p>As part of the Week, MPA is arranging visits to two locations – MPA’s Port Operations Control Centre (POCC) and PSA Innovation Centre.</p>
 	<p>Take a glimpse into the future of port technology and learn about the latest advancements in PSA. The guided visit includes the PSA Innovation Centre – an experiential, multimedia showcase of PSA’s next-generation port and wider supply chain ecosystem; and a panoramic overview of Pasir Panjang Terminal from Level 19 of PSA Horizons.</p>
 	<p>Kindly note that registration for this programme is subject to confirmation due to limited capacity. Details will be sent via email if your registration is successful.</p>
 </div>
