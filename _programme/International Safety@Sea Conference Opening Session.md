@@ -226,9 +226,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Michael Drake</a></strong></div>
-<div class="text-ellipsis speaker-position">Executive Director Operations</div>
-<div class="text-ellipsis speaker-company">Australian Maritime Safety Authority</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Steen Lund</a></strong></div>
+<div class="text-ellipsis speaker-position">CEO</div>
+<div class="text-ellipsis speaker-company">RightShip</div>
 </div>
 </div>
 
@@ -239,9 +239,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-l-legoubin" rel="noopener">Mr Palle Kristensen</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief Advisor</div>
-<div class="text-ellipsis speaker-company">Danish Maritime Authority</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Ms Caroline Yang</a></strong></div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
 </div>
 </div>
 </div>
@@ -257,9 +257,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Ms Caroline Yang" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">CDR Peter Bizzaro</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief of Inspections Division Activities Far East, and Commanding Officer</div>
-<div class="text-ellipsis speaker-company">U.S. Coast Guard Marine Inspection Unit Singapore</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt André L. LeGoubin</a></strong></div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company">The Nautical Institute</div>
 </div>
 </div>
 </div>
