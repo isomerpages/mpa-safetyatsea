@@ -112,11 +112,11 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/datobaharin.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/dato-hj-baharin" rel="noopener">Dato’ Hj Baharin Bin Dato' Abdul Hamid</a></strong></div>
-<div class="text-ellipsis speaker-position">Director General</div>
-<div class="text-ellipsis speaker-company">Marine Department Malaysia</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Michael Drake</a></strong></div>
+<div class="text-ellipsis speaker-position">Executive Director Operations</div>
+<div class="text-ellipsis speaker-company">Australian Maritime Safety Authority</div>
 </div>
 </div>
 
@@ -125,11 +125,11 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Capt Andre.png" alt="Capt André L. LeGoubin" width="400" height="400"></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-l-legoubin" rel="noopener">Capt André L. LeGoubin</a></strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">The Nautical Institute</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-andre-l-legoubin" rel="noopener">Mr Palle Kristensen</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief Advisor</div>
+<div class="text-ellipsis speaker-company">Danish Maritime Authority</div>
 </div>
 </div>
 </div>
@@ -143,26 +143,15 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Caroline Yang.png" alt="Ms Caroline Yang" width="400" height="400"></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Ms Caroline Yang" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/ms-caroline-yang" rel="noopener">Ms Caroline Yang</a></strong></div>
-<div class="text-ellipsis speaker-position">Vice-chair</div>
-<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">CDR Peter Bizzaro</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief of Inspections Division Activities Far East, and Commanding Officer</div>
+<div class="text-ellipsis speaker-company">U.S. Coast Guard Marine Inspection Unit Singapore</div>
 </div>
 </div>
 </div>
 
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/Andrea Brachel.png" alt="Mr Andreas Brachel" width="400" height="400"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-andreas-brachel" rel="noopener">Mr Andreas Brachel</a></strong></div>
-<div class="text-ellipsis speaker-position">Vice President – Head of Environmental Claims</div>
-<div class="text-ellipsis speaker-company">Gard AS</div>
-</div>
-</div>
-</div>
-</div>
 
 </div>
 </div>
@@ -172,7 +161,7 @@ description: ""
 </div>
 </div>
 </div>
-</section>
+</div></section>
 
 <style type="text/css"> 
 
