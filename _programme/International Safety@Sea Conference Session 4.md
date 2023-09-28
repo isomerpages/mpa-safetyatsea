@@ -6,7 +6,7 @@ description: ""
 <div>
   <b>24 Oct | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>International Safety@Sea Conference – Session 4</h3>
-	<h3>Session 4: Enhancing Maritime Safety through Technology</h3>
+	<h3>Session 4: Building a Cyber Safe and Resilient Maritime Ecosystem</h3>
 </div>
 
 
