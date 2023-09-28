@@ -56,9 +56,9 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>23 OCT | 13:15 - 14:15</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion 1</h4>
-	“Advancing Maritime Safety in a Green Age”	
+<div class="programme-time"><strong>23 OCT | 16:15 - 17:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+	“Operationalising Methanol Bunkering”	
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
@@ -66,9 +66,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Michael Phoon"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ishak Ismail</a></strong></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
-<div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Vibhas Garg</a></strong></div>
+<div class="text-ellipsis speaker-position">Director</div>
+<div class="text-ellipsis speaker-company">Octant Marine Pte Limited, and member of the National Maritime Safety at Sea Council, Singapore</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -80,9 +80,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
-<div class="text-ellipsis speaker-company">International Maritime Organisation</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Samuel Soo</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
@@ -93,9 +93,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr David Foo" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr David Foo</a></strong></div>
-<div class="text-ellipsis speaker-position">Assistant Chief Executive (Operations Technology)</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Vibin Chandrabose</a></strong></div>
+<div class="text-ellipsis speaker-position">Principal Engineer</div>
+<div class="text-ellipsis speaker-company">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping</div>
 </div>
 </div>
 
