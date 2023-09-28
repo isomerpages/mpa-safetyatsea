@@ -46,7 +46,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Michael Phoon"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Anthony Lim</a></strong></div>
 <div class="text-ellipsis speaker-position">Fellow</div>
@@ -60,7 +59,6 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ong Chin Beng</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer</div>
@@ -73,7 +71,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr David Foo" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Daniel Ng</a></strong></div>
 <div class="text-ellipsis speaker-position">CEO</div>
@@ -88,7 +85,6 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ron Fong</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
@@ -101,7 +97,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Li Xin</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of IT Security</div>
