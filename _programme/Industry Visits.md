@@ -5,7 +5,7 @@ description: ""
 ---
 <div>
   <b>25 Oct</b>
-  <h3>Industry Visits</h3>
+  <h3>Industry Visits – POCC</h3>
 </div>
 
 
