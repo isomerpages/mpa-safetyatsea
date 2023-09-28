@@ -6,6 +6,10 @@ description: ""
 <div>
   <b>27 Oct</b>
   <h3>Harbour Craft Safety Forum</h3>
+	<p>Venue: mTower, Level 18 Excellence Room, 460 Alexandra Road, Singapore 119963</p>
+	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
+	<p>The group focuses on improving and raising safety among harbour craft operators in Singapore.</p>
+	<p>Details on the programme and speakers to follow.</p>
 </div>
 
 
