@@ -62,8 +62,8 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr Ismael Cobos Delgado" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Samuel Soo</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ong Chin Beng</a></strong></div>
+<div class="text-ellipsis speaker-position">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
@@ -75,9 +75,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Mr David Foo" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Vibin Chandrabose</a></strong></div>
-<div class="text-ellipsis speaker-position">Principal Engineer</div>
-<div class="text-ellipsis speaker-company">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Daniel Ng</a></strong></div>
+<div class="text-ellipsis speaker-position">CEO</div>
+<div class="text-ellipsis speaker-company">CyberOwl</div>
 </div>
 </div>
 
@@ -90,9 +90,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Dato’ Hj Baharin Bin Dato' Abdul Hamid" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Dinesh Kumar Balraj</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Director</div>
-<div class="text-ellipsis speaker-company">Head of Fleet Operations East, A.P. Moller Singapore Pte Ltd (Maersk)</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ron Fong</a></strong></div>
+<div class="text-ellipsis speaker-position">Head of Fleet IT</div>
+<div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
 </div>
 </div>
 
@@ -103,9 +103,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="LeGoubin" width="400" height="400"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Md Kamal Hossain</a></strong></div>
-<div class="text-ellipsis speaker-position">Team Lead</div>
-<div class="text-ellipsis speaker-company">Marine Operations, Hong Lam Marine</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Li Xin</a></strong></div>
+<div class="text-ellipsis speaker-position">Head of IT Security</div>
+<div class="text-ellipsis speaker-company">PSA Corporation</div>
 </div>
 </div>
 </div>
@@ -113,19 +113,6 @@ description: ""
 
 
 
-</div>
-
-<div class="row">
-
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/dummy_img.png" alt="Ms Caroline Yang" width="400" height="400"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt. Jagadeesan Natarajan</a></strong></div>
-<div class="text-ellipsis speaker-position">General Manager</div>
-<div class="text-ellipsis speaker-company">Orient Marine Co., Ltd. (Singapore Branch) (Mistui &amp; Co Subsidarary)</div>
-</div>
-</div>
 </div>
 
 
@@ -137,7 +124,7 @@ description: ""
 </div>
 </div>
 </div>
-</div></section>
+</section>
 	
 	
 	
