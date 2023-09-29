@@ -10,15 +10,15 @@ notification: <a
 sections:
   - hero:
       key_highlights:
+        - title: REGISTRATION
+          description: ""
+          url: https://form.gov.sg/650b03ebd29dcd00119ab589
         - title: About Us
           description: ""
           url: /about-us
         - title: Programme
           description: ""
           url: /programmeOverview
-        - title: REGISTRATION
-          description: ""
-          url: https://form.gov.sg/650b03ebd29dcd00119ab589
       title: International Safety@Sea Week 2023
       subtitle: 23rd October to 27th October
       background: /images/HOME-BANNER4.jpg
