@@ -71,8 +71,10 @@ sections:
       image: /images/slide8.PNG
       alt: Image alt text
       subtitle: 25 Oct
-      description: 'MPA’s Port Operations Control Centre: <a
-        href="/programme/industry-visits-pocc/">CLICK HERE</a>'
+      description: >-
+        MPA POCC: <a href="/programme/industry-visits-pocc/">CLICK HERE</a>
+
+        PSA Innovation Centre: <a href="/programme/industry-visits-psa/">CLICK HERE</a>
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
