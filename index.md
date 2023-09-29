@@ -68,12 +68,11 @@ sections:
       url: /programme/session-4/
   - infopic:
       title: Industry Visits
-      url: /programme/industry-visits/
       image: /images/slide8.PNG
       alt: Image alt text
       subtitle: 25 Oct
-      button: CLICK HERE
-      description: MPA’s Port Operations Control Centre <a
+      description: >
+        MPA’s Port Operations Control Centre: <a
         href="/programme/industry-visits-pocc/">CLICK HERE</a>
   - infopic:
       title: Pleasure Craft Safety Forum
