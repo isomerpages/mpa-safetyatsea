@@ -19,6 +19,8 @@ sections:
       title: International Safety@Sea Week 2023
       subtitle: 23rd October to 27th October
       background: /images/HOME-BANNER4.jpg
+      button: REGISTRATION
+      url: https://form.gov.sg/650b03ebd29dcd00119ab589
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
