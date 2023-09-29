@@ -66,7 +66,7 @@ sections:
       button: CLICK HERE
       url: /programme/session-4/
   - infopic:
-      title: Industry Visit – MPA’s Port Operations Control Centre
+      title: Industry Visits – MPA’s Port Operations Control Centre
       image: /images/slide8.PNG
       alt: Image alt text
       subtitle: 25 Oct | 14:00 - 17:00 (GMT+8
