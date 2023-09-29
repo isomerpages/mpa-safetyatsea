@@ -47,7 +47,7 @@ permalink: /about-us/
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/Maritime_Singapore_Logo.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/logos/ms_logo_ver_fc_pantone_box.png" style="width:50%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime Singapore</h5>
 <div><p>Maritime Singapore is a thriving ecosystem comprising our global hub port, shipping and maritime services, where the international community meets, and where ideas and opportunities abound. And behind the driving force of this maritime ecosystem is the Maritime and Port Authority of Singapore.</p></div>
