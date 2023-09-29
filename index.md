@@ -4,12 +4,14 @@ title: International Safety @ Sea Week 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a
-  href="https://form.gov.sg/650b03ebd29dcd00119ab589">Registration for all 8
-  sessions are now open.</a>
+notification: <a href="https://form.gov.sg/650b03ebd29dcd00119ab589"
+  target="_blank">Registration for all 8 sessions are now open.</a>
 sections:
   - hero:
       key_highlights:
+        - title: REGISTRATION
+          description: ""
+          url: https://form.gov.sg/650b03ebd29dcd00119ab589
         - title: About Us
           description: ""
           url: /about-us
@@ -64,12 +66,20 @@ sections:
       button: CLICK HERE
       url: /programme/session-4/
   - infopic:
-      title: Industry Visits
-      url: /programme/industry-visits/
+      title: Industry Visits – MPA’s Port Operations Control Centre
       image: /images/slide8.PNG
       alt: Image alt text
-      subtitle: 25 Oct
+      subtitle: 25 Oct | 14:00 - 17:00 (GMT+8
+      url: /programme/industry-visits-pocc/
       button: CLICK HERE
+  - infopic:
+      title: Industry Visits – PSA Innovation Centre
+      subtitle: 25 Oct | 14:00 - 17:00 (GMT+8)
+      id: infopic
+      button: CLICK HER
+      url: /programme/industry-visits-psa/
+      image: /images/slide8.PNG
+      alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
@@ -82,6 +92,6 @@ sections:
       url: /programme/harbour-craft-forum/
       image: /images/slide7.PNG
       alt: Image alt text
-      subtitle: 27 Oct
+      subtitle: 27 OCT | 0900 – 12:00 (GMT+8)
       button: CLICK HERE
 ---
