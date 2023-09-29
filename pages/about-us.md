@@ -31,7 +31,7 @@ permalink: /about-us/
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/MPA_Singapore_Logo.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/logos/mpa_logo_pos.png" style="width:50%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime and Port Authority of Singapore (MPA)</h5>
 <div><p>The mission of the Maritime and Port Authority of Singapore (MPA) is to develop Singapore as a premier global hub port and international maritime centre (IMC), and to advance and safeguard Singapore’s strategic maritime interests.MPA is the driving force behind Singapore’s port and maritime development, taking on the roles of Port Authority, Port Regulator, Port Planner, IMC Champion, and National Maritime Representative. MPA partners the industry and other agencies to enhance safety, security and environmental protection in our port waters, facilitate port operations and growth, expand the cluster of maritime ancillary services, and promote maritime R&amp;D and manpower development.</p></div>
