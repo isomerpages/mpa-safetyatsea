@@ -72,7 +72,7 @@ sections:
       alt: Image alt text
       subtitle: 25 Oct
       description: >-
-        MPA POCC: <a href="/programme/industry-visits-pocc/">CLICK HERE</a>
+        MPA POCC: <a href="/programme/industry-visits-pocc/">CLICK HERE</a><br>
 
         PSA Innovation Centre: <a href="/programme/industry-visits-psa/">CLICK HERE</a>
   - infopic:
