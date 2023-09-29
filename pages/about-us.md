@@ -39,7 +39,7 @@ permalink: /about-us/
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="images/logos/NMSSC_Logo.png" style="width:60%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="images/logos/nmssc_logo_new.jpg" style="width:60%" class="img-fluid"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">National Maritime Safety at Sea Council (NMSSC)</h5>
 <div><p>National Maritime Safety at Sea Council (NMSSC) was established by the Maritime and Port Authority of Singapore (MPA) to spearhead the drive for maritime safety on a national level, and to ensure the sustainability of safety efforts. The first priority of the Council is to address issues related to navigational safety and raise levels of maritime safety standards. The Council will also endorse safety initiatives by MPA and the working groups to spearhead safety efforts and public campaigns that will raise awareness on navigational safety and practices.</p></div>
