@@ -135,7 +135,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt. Jagadeesan Natarajan</a></strong></div>
 <div class="text-ellipsis speaker-position">General Manager</div>
-<div class="text-ellipsis speaker-company">Orient Marine Co., Ltd. (Singapore Branch) (Mistui &amp; Co Subsidarary)</div>
+<div class="text-ellipsis speaker-company">Orient Marine Co., Ltd. (Singapore Branch) (Mistui &amp; Co Subsidiary)</div>
 </div>
 </div>
 </div>
