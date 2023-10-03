@@ -6,7 +6,7 @@ description: ""
 <div>
   <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
   <h3>International Safety@Sea Conference – Opening Session</h3>
-	<h3>Opening Session: Advancing Maritime Safety in a Green and Digital Age</h3>
+	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
 </div>
 
 
