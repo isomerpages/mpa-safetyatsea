@@ -6,7 +6,7 @@ description: ""
 <div>
   <b>23 Oct | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>International Safety@Sea Conference – Session 2:</h3>
-	<h3>Session 2: Operationalising Methanol Bunkering</h3>
+	<h3>Operationalising Methanol Bunkering</h3>
 </div>
 
 
