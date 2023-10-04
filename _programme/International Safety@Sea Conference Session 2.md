@@ -5,8 +5,8 @@ description: ""
 ---
 <div>
   <b>23 Oct | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
-  <h3>International Safety@Sea Conference – Session 2:</h3>
-	<h3>Session 2: Operationalising Methanol Bunkering</h3>
+  <h3>International Safety@Sea Conference – Session 2</h3>
+	<h3>Operationalising Methanol Bunkering</h3>
 </div>
 
 
@@ -135,7 +135,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt. Jagadeesan Natarajan</a></strong></div>
 <div class="text-ellipsis speaker-position">General Manager</div>
-<div class="text-ellipsis speaker-company">Orient Marine Co., Ltd. (Singapore Branch) (Mistui &amp; Co Subsidarary)</div>
+<div class="text-ellipsis speaker-company">Orient Marine Co., Ltd. (Singapore Branch) (Mistui &amp; Co Subsidiary)</div>
 </div>
 </div>
 </div>
