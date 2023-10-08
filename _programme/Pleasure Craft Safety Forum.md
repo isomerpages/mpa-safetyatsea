@@ -179,7 +179,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>11:45 – 11:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">End</h4>
-<hr class="my-3 border-primary">
 </div>
 </div>
 </div>
@@ -199,7 +198,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>11:50 - 13:00</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Lunch at Bar Nebula, One15 Marina Club</h4>
-<hr class="my-3 border-primary">
 </div>
 </div>
 </div>
