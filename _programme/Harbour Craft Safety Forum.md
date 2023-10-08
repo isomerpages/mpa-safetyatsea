@@ -197,7 +197,37 @@ description: ""
 </div>
 </section>
 
-
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>10:20 – 11:10</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion with Speakers</h4>
+<hr class="my-3 border-primary">
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr Mark Ko</strong></div>
+<div class="text-ellipsis speaker-position">Executive Director, Tian San Shipping (Pte) Ltd and member of National Maritime Safety at Sea Council, Singapore</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
 
 
 
