@@ -9,6 +9,7 @@ description: ""
 	<p>Venue: One Degree Fifteen - Level 2 Constellation Ballroom</p>
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety amongst the pleasure craft community in Singapore.</p>
+	
 </div>
 
 <section>
@@ -38,7 +39,7 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>09:10 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Observance of Good Seamanship – First Principles</h4>
+<h4 class="programme-title">Pleasure Craft Incident Statistics and Case Studies</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
