@@ -164,6 +164,39 @@ description: ""
 </section>
 
 
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">bizSAFE – Stepping up Workplace Safety and Health &amp; Top Executive WSH Programme (TEWP)</h4>
+<hr class="my-3 border-primary">
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr Charles Ling</strong></div>
+<div class="text-ellipsis speaker-position">Manager, Business &amp; Industry Development</div>
+<div class="text-ellipsis speaker-company">Workplace Safety and Health Council</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
 
 
 
