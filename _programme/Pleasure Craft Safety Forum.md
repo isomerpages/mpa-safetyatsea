@@ -72,16 +72,16 @@ description: ""
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>09:35 - 10:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Observance of Good Seamanship – First Principles</h4>
+<h4 class="programme-title">Safe Practices for Paddle Crafts in Open Waters</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Charles Alexandar De Souza</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Ops Planning &amp; Pilotage)/Deputy Port Master</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Nicholas Yap</strong></div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company">Singapore Canoe Federation Representative</div>
 </div>
 </div>
 </div>
