@@ -97,7 +97,6 @@ description: ""
 </div>
 </section>
 
-
 <section>
 <div class="bp-container is-fluid">
 <div class="row">
@@ -106,33 +105,15 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>10:00 – 10:15</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Break Time</h4>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></section>
-
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
-<div class="programme-time"><strong>10:15 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Discussion on Pleasure Craft Community Response to Incidents at Sea</h4>
+<div class="programme-time"><strong>09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Safe Electric Ferry Operations</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Terence Ho</strong></div>
+<div class="speaker-name text-ellipsis"><strong>Mr George Philip</strong></div>
 <div class="text-ellipsis speaker-position">Executive Director</div>
 <div class="text-ellipsis speaker-company">Singapore Sailing Federation</div>
 </div>
