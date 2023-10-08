@@ -20,7 +20,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>08:30</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 08:30</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Registration</h4>
 </div>
 </div>
@@ -38,7 +38,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Harbour Craft Marine Incidents</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -72,7 +72,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Analysis of Fire Incidents onboard Harbour Craft</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -105,7 +105,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 09:35 – 09:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Safe Electric Ferry Operations</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -138,7 +138,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Improving Crew Mental Health and Safety on Vessels through Technology</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -172,7 +172,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 10:05 – 10:20</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">bizSAFE – Stepping up Workplace Safety and Health &amp; Top Executive WSH Programme (TEWP)</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -205,7 +205,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>10:20 – 11:10</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 10:20 – 11:10</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion with Speakers</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -245,7 +245,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:10 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 11:10 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">End</h4>
 </div>
 </div>
@@ -264,7 +264,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:15 – 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>27 Oct | 11:15 – 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Lunch Reception</h4>
 </div>
 </div>
