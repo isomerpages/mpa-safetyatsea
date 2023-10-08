@@ -20,7 +20,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>08:30</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong> 26 Oct | 08:30</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Registration</h4>
 </div>
 </div>
@@ -38,7 +38,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:10 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 09:10 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Pleasure Craft Incident Statistics and Case Studies</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -72,7 +72,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:35 - 10:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 09:35 - 10:00</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Safe Practices for Paddle Crafts in Open Waters</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -106,7 +106,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>10:00 – 10:15</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 10:00 – 10:15</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Break Time</h4>
 </div>
 </div>
@@ -124,7 +124,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>10:15 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 10:15 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Discussion on Pleasure Craft Community Response to Incidents at Sea</h4>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -158,7 +158,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:15 – 11:45</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 11:15 – 11:45</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Breakout Groups Sharing and Round Up Discussion</h4>
 </div>
 </div>
@@ -177,7 +177,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:45 – 11:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 11:45 – 11:50</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">End</h4>
 </div>
 </div>
@@ -196,7 +196,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:50 - 13:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>26 Oct | 11:50 - 13:00</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Lunch at Bar Nebula, One15 Marina Club</h4>
 </div>
 </div>
