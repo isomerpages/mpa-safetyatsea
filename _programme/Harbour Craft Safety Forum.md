@@ -146,9 +146,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr George Philip</strong></div>
-<div class="text-ellipsis speaker-position">General Manager, Group Commercial and Fleet</div>
-<div class="text-ellipsis speaker-company">Penguin International Limited</div>
+<div class="speaker-name text-ellipsis"><strong>Capt. Soma Sundar</strong></div>
+<div class="text-ellipsis speaker-position">Co-Founder &amp; Director</div>
+<div class="text-ellipsis speaker-company">Bigyellowfish Technologies</div>
 </div>
 </div>
 </div>
