@@ -130,7 +130,6 @@ description: ""
 </div>
 </section>
 
-
 <section>
 <div class="bp-container is-fluid">
 <div class="row">
@@ -139,8 +138,22 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:15 – 11:45</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Breakout Groups Sharing and Round Up Discussion</h4>
+<div class="programme-time"><strong>09:50 – 10:05</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Improving Crew Mental Health and Safety on Vessels through Technology</h4>
+<hr class="my-3 border-primary">
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr George Philip</strong></div>
+<div class="text-ellipsis speaker-position">General Manager, Group Commercial and Fleet</div>
+<div class="text-ellipsis speaker-company">Penguin International Limited</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
