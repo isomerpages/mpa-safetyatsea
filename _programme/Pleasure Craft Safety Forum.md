@@ -131,9 +131,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Nicholas Yap</strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Canoe Federation Representative</div>
+<div class="speaker-name text-ellipsis"><strong>Terence Ho</strong></div>
+<div class="text-ellipsis speaker-position">Executive Director</div>
+<div class="text-ellipsis speaker-company">Singapore Sailing Federation</div>
 </div>
 </div>
 </div>
