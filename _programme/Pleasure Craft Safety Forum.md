@@ -148,6 +148,29 @@ description: ""
 </div>
 </section>
 
+
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>11:15 – 11:45</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Breakout Groups Sharing and Round Up Discussion</h4>
+<hr class="my-3 border-primary">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
 <section>
 <div class="bp-container is-fluid">
 <div class="row">
