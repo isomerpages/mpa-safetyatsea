@@ -46,9 +46,9 @@ description: ""
 <div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/wf1.png" alt="William Francis.png"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong>Capt William Francis</strong></a></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Power Boat Association</div>
+<div class="speaker-name text-ellipsis"><a class="speaker-name text-ellipsis" href="/speakers/captain-william-francis" rel="noopener"><strong>Capt Charles Alexandar De Souza</strong></a></div>
+<div class="text-ellipsis speaker-position">Deputy Director (Ops Planning &amp; Pilotage)/Deputy Port Master</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
