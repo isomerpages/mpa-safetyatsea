@@ -245,7 +245,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:45 – 11:50</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>11:10 – 11:15</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">End</h4>
 </div>
 </div>
@@ -264,8 +264,8 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:50 - 13:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Lunch at Bar Nebula, One15 Marina Club</h4>
+<div class="programme-time"><strong>11:15 – 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Lunch Reception</h4>
 </div>
 </div>
 </div>
