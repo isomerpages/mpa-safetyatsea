@@ -128,7 +128,7 @@ description: ""
 <div class="programme-time"><strong>09:35 - 10:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 “Best Practices to Avoid Incidents at Sea”
-	<p>Click <a target="_new" href="https://www.youtube.com/watch?v=QeYrcJQW944&amp;list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&amp;index=10">here</a> for video recording</p>
+	
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
@@ -220,8 +220,8 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>11:00 - 12:00</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Networking Reception</h4>
+<div class="programme-time"><strong>11:50 - 13:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Lunch at Bar Nebula, One15 Marina Club</h4>
 <hr class="my-3 border-primary">
 </div>
 </div>
