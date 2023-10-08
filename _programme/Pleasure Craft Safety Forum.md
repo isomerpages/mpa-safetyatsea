@@ -159,7 +159,6 @@ description: ""
 <div class="p-4">
 <div class="programme-time"><strong>11:15 – 11:45</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Breakout Groups Sharing and Round Up Discussion</h4>
-<hr class="my-3 border-primary">
 </div>
 </div>
 </div>
