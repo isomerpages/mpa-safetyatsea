@@ -19,7 +19,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:05 - 09:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>08:30</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Registration</h4>
 </div>
 </div>
