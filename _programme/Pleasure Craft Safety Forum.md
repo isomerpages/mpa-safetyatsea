@@ -37,9 +37,8 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>09:20 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>09:10 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Observance of Good Seamanship – First Principles</h4>
-<p style="margin: 0;">Download presentation <a target="_new" href="/files/Slides22/Obsevance of Good Seamanship - A Colection of First Principles.pdf">here</a> | Click <a target="_new" href="https://www.youtube.com/watch?v=g5lrVoW73mc&amp;list=PLtnss4Yyvyab-EnXjVMLNZRF8HRhWKy3b&amp;index=8">here</a> for video recording</p>
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
