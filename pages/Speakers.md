@@ -54,7 +54,7 @@ description: ""
       <div class="col is-4">
         <a href="/peter-bizzaro">
           <div class="speaker-image-wrapper">
-            <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/ishak ismail.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ishak Ismail</h4>
           <div class="speaker-position text-ellipsis">Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore </div>
