@@ -22,7 +22,7 @@ description: ""
       <div class="col is-4">
         <a href="/david-foo">
           <div class="speaker-image-wrapper">
-            <img alt="Captain William Francis" src="/images/Speakers_23/Session1p1/david foo.png" class="speaker-image img-fluid mb-3">
+            <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">David Foo</h4>
           <div class="speaker-position text-ellipsis">ACE(Ops Tech)</div>
@@ -32,7 +32,7 @@ description: ""
       <div class="col is-4">
         <a href="/michael-drake">
           <div class="speaker-image-wrapper">
-            <img alt="Terence Ho" src="/images/Speakers_23/Session1p1/04_michael drake-min.png" class="speaker-image img-fluid mb-3">
+            <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/04_michael drake-min.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
@@ -44,7 +44,7 @@ description: ""
       <div class="col is-4">
         <a href="/palle-kristensen">
           <div class="speaker-image-wrapper">
-            <img alt="Terence Ho" src="/images/Speakers_23/Session1p1/05_palle kristensen.png" class="speaker-image img-fluid mb-3">
+            <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/05_palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Palle Kristensen </h4>
           <div class="speaker-position text-ellipsis">Chief Adviser</div>
@@ -54,9 +54,9 @@ description: ""
       <div class="col is-4">
         <a href="/peter-bizzaro">
           <div class="speaker-image-wrapper">
-            <img alt="Capt Richard Howe" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Peter Bizzaro</h4>
+          <h4 class="speaker-name text-ellipsis">Ishak Ismail</h4>
           <div class="speaker-position text-ellipsis">Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore </div>
           <div class="speaker-company text-ellipsis">United States Coast Guard (USCG)</div>
         </a>
@@ -64,7 +64,7 @@ description: ""
       <div class="col is-4">
         <a href="/ishak-ismail">
           <div class="speaker-image-wrapper">
-            <img alt="Captain William Francis" src="/images/Speakers_23/Session1p1/01_ishak ismail.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/01_ishak ismail.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ishak Ismail (Moderator) </h4>
           <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
