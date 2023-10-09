@@ -83,7 +83,7 @@ description: ""
       <div class="col is-4">
         <a href="/roberto-cazzulo">
           <div class="speaker-image-wrapper">
-            <img alt="Captain Hari Subramaniam" src="/images/Speakers_23/cazzulo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Roberto Cazzulo" src="/images/Speakers_23/Session1p2/cazzulo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Roberto Cazzulo</h4>
           <div class="speaker-position text-ellipsis">Chair of IACS Cyber Systems Panel</div>
@@ -93,7 +93,7 @@ description: ""
       <div class="col is-4">
         <a href="/nick-potter">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/nick potter.png" class="speaker-image img-fluid mb-3">
+            <img alt="Nick Potter" src="/images/Speakers_23/Session1p2/nick potter.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Nick Potter</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
@@ -101,9 +101,9 @@ description: ""
         </a>
       </div>
       <div class="col is-4">
-        <a href="/andré-l-leGoubin">
+        <a href="/andre-l-legoubin/">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/capt andre l legoubin.png" class="speaker-image img-fluid mb-3">
+            <img alt="André L. LeGoubin" src="/images/Speakers_23/Session1p2/capt andre l legoubin.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">André L. LeGoubin</h4>
           <div class="speaker-position text-ellipsis">President</div>
@@ -115,7 +115,7 @@ description: ""
       <div class="col is-4">
         <a href="/steen-lund">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/steen lund.png" class="speaker-image img-fluid mb-3">
+            <img alt="Steen Lund" src="/images/Speakers_23/Session1p2/steen lund.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Steen Lund</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
@@ -125,7 +125,7 @@ description: ""
       <div class="col is-4">
         <a href="/caroline-yang">
           <div class="speaker-image-wrapper">
-            <img alt="Captain Hari Subramaniam" src="/images/Speakers_23/caroline yang.png" class="speaker-image img-fluid mb-3">
+            <img alt="Caroline Yang" src="/images/Speakers_23/caroline yang.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Caroline Yang</h4>
           <div class="speaker-position text-ellipsis">President</div>
@@ -135,7 +135,7 @@ description: ""
       <div class="col is-4">
         <a href="/yves-vandenborn">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/yves vandenborn.png" class="speaker-image img-fluid mb-3">
+            <img alt="Yves Vandenborn" src="/images/Speakers_23/Session1p2/yves vandenborn.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Yves Vandenborn (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member</div>
@@ -151,10 +151,10 @@ description: ""
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
-      <div style="display:none" class="col is-4">
+      <div class="col is-4">
         <a href="/samuel-soo">
           <div class="speaker-image-wrapper">
-            <img alt="Mr Chee Hong Tat" src="/images/Speakers_23/mr samuel soo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Samuel Soo" src="/images/Speakers_23/mr samuel soo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Samuel Soo</h4>
           <div class="speaker-position text-ellipsis">SDD (Marine Services)</div>
@@ -164,7 +164,7 @@ description: ""
       <div class="col is-4">
         <a href="/vibin-chandrabose">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/vibhas garg.png" class="speaker-image img-fluid mb-3">
+            <img alt="Vibin Chandrabose" src="/images/Speakers_23/vibhas garg.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Vibin Chandrabose</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
@@ -174,7 +174,7 @@ description: ""
       <div class="col is-4">
         <a href="/md-kamal-hossain">
           <div class="speaker-image-wrapper">
-            <img alt="Mr Knut Ørbeck-Nilssen" src="/images/Speakers_23/capt md kamal.png" class="speaker-image img-fluid mb-3">
+            <img alt="Md Kamal Hossain" src="/images/Speakers_23/capt md kamal.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Md Kamal Hossain</h4>
           <div class="speaker-position text-ellipsis">Team Lead, Marine Operations</div>
@@ -186,7 +186,7 @@ description: ""
       <div class="col is-4">
         <a href="/dinesh-kumar-balraj">
           <div class="speaker-image-wrapper">
-            <img alt="Mr Knut Ørbeck-Nilssen" src="/images/Speakers_23/dinesh kumar balraj.png" class="speaker-image img-fluid mb-3">
+            <img alt="Dinesh Kumar Balraj" src="/images/Speakers_23/dinesh kumar balraj.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Dinesh Kumar Balraj </h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
@@ -196,7 +196,7 @@ description: ""
       <div class="col is-4">
         <a href="/jagadeesan-natarajan">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/capt natarajan.png" class="speaker-image img-fluid mb-3">
+            <img alt="Jagadeesan Natarajan" src="/images/Speakers_23/capt natarajan.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Jagadeesan Natarajan</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
@@ -206,7 +206,7 @@ description: ""
       <div class="col is-4">
         <a href="/vibhas-garg">
           <div class="speaker-image-wrapper">
-            <img alt="Mr Michael Phoon" src="/images/Speakers_23/vibhas garg.png" class="speaker-image img-fluid mb-3">
+            <img alt="Vibhas Garg" src="/images/Speakers_23/vibhas garg.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group </div>
@@ -225,7 +225,7 @@ description: ""
       <div class="col is-4">
         <a href="/ong-chin-beng">
           <div class="speaker-image-wrapper">
-            <img alt="Captain Peng Chuxing" src="/images/Speakers_23/ong chin beng-.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ong Chin Beng" src="/images/Speakers_23/ong chin beng-.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ong Chin Beng</h4>
           <div class="speaker-position text-ellipsis">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer </div>
@@ -235,7 +235,7 @@ description: ""
       <div class="col is-4">
         <a href="/daniel-ng">
           <div class="speaker-image-wrapper">
-            <img alt="Mr Charles Watkins" src="/images/Speakers_23/daniel ng.png" class="speaker-image img-fluid mb-3">
+            <img alt="Daniel Ng" src="/images/Speakers_23/daniel ng.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Daniel Ng</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
@@ -245,7 +245,7 @@ description: ""
       <div class="col is-4">
         <a href="/pascal-ollivier">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
+            <img alt="Pascal Ollivier" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Pascal Ollivier </h4>
           <div class="speaker-position text-ellipsis">IAPH Data Collaboration Committee Chair</div>
@@ -257,7 +257,7 @@ description: ""
       <div class="col is-4">
         <a href="/li-xin">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/li xin.png" class="speaker-image img-fluid mb-3">
+            <img alt="Li Xin" src="/images/Speakers_23/li xin.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Li Xin</h4>
           <div class="speaker-position text-ellipsis">Head of IT Security</div>
@@ -267,7 +267,7 @@ description: ""
       <div class="col is-4">
         <a href="/ron-fong">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/ron fong-min.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ron Fong" src="/images/Speakers_23/ron fong-min.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ron Fong </h4>
           <div class="speaker-position text-ellipsis">Head of Fleet IT</div>
@@ -277,7 +277,7 @@ description: ""
       <div class="col is-4">
         <a href="/anthony-lim">
           <div class="speaker-image-wrapper">
-            <img alt="Captain Hari Subramaniam" src="/images/Speakers_23/anthony lim.png" class="speaker-image img-fluid mb-3">
+            <img alt="Anthony Lim" src="/images/Speakers_23/anthony lim.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Anthony Lim (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
@@ -296,7 +296,7 @@ description: ""
       <div class="col is-4">
         <a href="/dennis-khoo">
           <div class="speaker-image-wrapper">
-            <img alt="Raphael Baumler" src="/images/Speakers_23/dennis khoo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Dennis Khoo" src="/images/Speakers_23/dennis khoo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Dennis Khoo</h4>
           <div class="speaker-position text-ellipsis">Director (Port Systems)</div>
@@ -306,7 +306,7 @@ description: ""
       <div class="col is-4">
         <a href="/christian-riis">
           <div class="speaker-image-wrapper">
-            <img alt="" src="/images/Speakers_23/christian riis.png" class="speaker-image img-fluid mb-3">
+            <img alt="Christian Riis" src="/images/Speakers_23/christian riis.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Christian Riis</h4>
           <div class="speaker-position text-ellipsis">Director, Marine Safety &amp; Vetting</div>
@@ -316,7 +316,7 @@ description: ""
       <div class="col is-4">
         <a href="/chakib-abi-saab">
           <div class="speaker-image-wrapper">
-            <img alt="Vibhas Garg" src="/images/Speakers_23/chakib abi saab copy.png" class="speaker-image img-fluid mb-3">
+            <img alt="Chakib Abi Saab" src="/images/Speakers_23/chakib abi saab copy.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Chakib Abi Saab</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
@@ -328,7 +328,7 @@ description: ""
       <div class="col is-4">
         <a href="/ben-chng">
           <div class="speaker-image-wrapper">
-            <img alt="Vibhas Garg" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
+            <img alt="Ben Chng" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ben Chng</h4>
           <div class="speaker-position text-ellipsis">Managing Director APAC</div>
@@ -338,7 +338,7 @@ description: ""
       <div class="col is-4">
         <a href="/jimmy-koh">
           <div class="speaker-image-wrapper">
-            <img alt="Jacques RivieĚre" src="/images/Speakers_23/jimmy koh.png" class="speaker-image img-fluid mb-3">
+            <img alt="Jimmy Koh" src="/images/Speakers_23/jimmy koh.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Jimmy Koh (Moderator) \[Co-Host\] </h4>
           <div class="speaker-position text-ellipsis">Head of Pilotage and Digital Transformation (Also NMSSC member) </div>
@@ -348,7 +348,6 @@ description: ""
     </div>
   </div>
 </section>
-
 
 
 <style type="text/css">
