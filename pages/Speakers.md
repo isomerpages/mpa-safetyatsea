@@ -22,7 +22,7 @@ description: ""
       <div class="col is-4">
         <a href="/david-foo">
           <div class="speaker-image-wrapper">
-            <img alt="Captain William Francis" src="images/speakers/david foo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Captain William Francis" src="/images/Speakers_23/Session1p1/david foo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">David Foo</h4>
           <div class="speaker-position text-ellipsis">ACE(Ops Tech)</div>
@@ -32,7 +32,7 @@ description: ""
       <div class="col is-4">
         <a href="/michael-drake">
           <div class="speaker-image-wrapper">
-            <img alt="Terence Ho" src="images/speakers/04\_michael drake-min.png" class="speaker-image img-fluid mb-3">
+            <img alt="Terence Ho" src="/images/Speakers_23/Session1p1/04_michael drake-min.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
@@ -42,7 +42,7 @@ description: ""
       <div class="col is-4">
         <a href="/palle-kristensen">
           <div class="speaker-image-wrapper">
-            <img alt="Terence Ho" src="images/speakers/05\_palle kristensen.png" class="speaker-image img-fluid mb-3">
+            <img alt="Terence Ho" src="/images/Speakers_23/Session1p1/05_palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Palle Kristensen </h4>
           <div class="speaker-position text-ellipsis">Chief Adviser</div>
