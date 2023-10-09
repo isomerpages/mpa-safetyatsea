@@ -12,7 +12,7 @@ description: ""
       <div class="col is-4">
         <a href="/ismael-cobos-delgado">
           <div class="speaker-image-wrapper">
-            <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/02_ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ismael Cobos Delgado</h4>
           <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division)</div>
@@ -22,7 +22,7 @@ description: ""
       <div class="col is-4">
         <a href="/david-foo">
           <div class="speaker-image-wrapper">
-            <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo.png" class="speaker-image img-fluid mb-3">
+            <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo-1.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">David Foo</h4>
           <div class="speaker-position text-ellipsis">ACE(Ops Tech)</div>
@@ -32,7 +32,7 @@ description: ""
       <div class="col is-4">
         <a href="/michael-drake">
           <div class="speaker-image-wrapper">
-            <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/04_michael drake-min.png" class="speaker-image img-fluid mb-3">
+            <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/michael drake.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
@@ -44,7 +44,7 @@ description: ""
       <div class="col is-4">
         <a href="/palle-kristensen">
           <div class="speaker-image-wrapper">
-            <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/05_palle kristensen.png" class="speaker-image img-fluid mb-3">
+            <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Palle Kristensen </h4>
           <div class="speaker-position text-ellipsis">Chief Adviser</div>
