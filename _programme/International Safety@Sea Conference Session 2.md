@@ -56,7 +56,7 @@ description: ""
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>23 OCT | 16:15 - 17:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>23 OCT | 16:55 - 17:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“Operationalising Methanol Bunkering”	
 <hr class="my-3 border-primary">
