@@ -125,7 +125,7 @@ description: ""
       <div class="col is-4">
         <a href="/caroline-yang">
           <div class="speaker-image-wrapper">
-            <img alt="Caroline Yang" src="/images/Speakers_23/caroline yang.png" class="speaker-image img-fluid mb-3">
+            <img alt="Caroline Yang" src="/images/Speakers_23/Session1p2/caroline yang.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Caroline Yang</h4>
           <div class="speaker-position text-ellipsis">President</div>
