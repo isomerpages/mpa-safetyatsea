@@ -154,7 +154,7 @@ description: ""
       <div class="col is-4">
         <a href="/samuel-soo">
           <div class="speaker-image-wrapper">
-            <img alt="Samuel Soo" src="/images/Speakers_23/mr samuel soo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Samuel Soo" src="/images/Speakers_23/Session2/mr samuel soo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Samuel Soo</h4>
           <div class="speaker-position text-ellipsis">SDD (Marine Services)</div>
