@@ -15,8 +15,8 @@ description: ""
             <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/02_ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ismael Cobos Delgado</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division) </div>
-          <div class="speaker-company text-ellipsis">International Maritime Organisation (IMO) </div>
+          <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division)</div>
+          <div class="speaker-company text-ellipsis">International Maritime Organisation (IMO)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -36,9 +36,11 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
-          <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority (AMSA) </div>
+          <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority (AMSA)</div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/palle-kristensen">
           <div class="speaker-image-wrapper">
@@ -49,8 +51,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Danish Maritime Authority (DMA)</div>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/peter-bizzaro">
           <div class="speaker-image-wrapper">
@@ -58,7 +58,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Peter Bizzaro</h4>
           <div class="speaker-position text-ellipsis">Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore </div>
-          <div class="speaker-company text-ellipsis">United States Coast Guard (USCG) </div>
+          <div class="speaker-company text-ellipsis">United States Coast Guard (USCG)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -86,7 +86,7 @@ description: ""
             <img alt="Captain Hari Subramaniam" src="images/speakers/cazzulo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Roberto Cazzulo</h4>
-          <div class="speaker-position text-ellipsis">Chair of IACS Cyber Systems Panel </div>
+          <div class="speaker-position text-ellipsis">Chair of IACS Cyber Systems Panel</div>
           <div class="speaker-company text-ellipsis">International Association of Classification Societies (IACS) </div>
         </a>
       </div>
@@ -97,7 +97,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Nick Potter</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">International Chamber of Shipping (ICS) </div>
+          <div class="speaker-company text-ellipsis">International Chamber of Shipping (ICS)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -110,6 +110,8 @@ description: ""
           <div class="speaker-company text-ellipsis">Nautical Institute (NI)</div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/steen-lund">
           <div class="speaker-image-wrapper">
@@ -120,8 +122,6 @@ description: ""
           <div class="speaker-company text-ellipsis">RightShip</div>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/caroline-yang">
           <div class="speaker-image-wrapper">
@@ -129,7 +129,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Caroline Yang</h4>
           <div class="speaker-position text-ellipsis">President</div>
-          <div class="speaker-company text-ellipsis">Singapore Shipping Association (SSA) </div>
+          <div class="speaker-company text-ellipsis">Singapore Shipping Association (SSA)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -139,7 +139,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Yves Vandenborn (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member</div>
-          <div class="speaker-company text-ellipsis">NMSSC Member (President, NI (Singapore Branch)) </div>
+          <div class="speaker-company text-ellipsis">NMSSC Member (President, NI (Singapore Branch))</div>
         </a>
       </div>
     </div>
@@ -168,7 +168,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Vibin Chandrabose</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
-          <div class="speaker-company text-ellipsis">American Bureau of Shipping (ABS) </div>
+          <div class="speaker-company text-ellipsis">American Bureau of Shipping (ABS)</div>
         </a>
       </div>
       <div class="col is-4">
@@ -181,6 +181,8 @@ description: ""
           <div class="speaker-company text-ellipsis">Hong Lam Marine</div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/dinesh-kumar-balraj">
           <div class="speaker-image-wrapper">
@@ -191,8 +193,6 @@ description: ""
           <div class="speaker-company text-ellipsis">A.P. Moller Singapore Pte Ltd. Maersk Singapore Pte. Ltd </div>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/jagadeesan-natarajan">
           <div class="speaker-image-wrapper">
@@ -248,10 +248,12 @@ description: ""
             <img alt="" src="images/speakers/" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Pascal Ollivier </h4>
-          <div class="speaker-position text-ellipsis">IAPH Data Collaboration Committee Chair </div>
+          <div class="speaker-position text-ellipsis">IAPH Data Collaboration Committee Chair</div>
           <div class="speaker-company text-ellipsis">International Association of Ports and Harbours (IAPH) </div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/li-xin">
           <div class="speaker-image-wrapper">
@@ -262,8 +264,6 @@ description: ""
           <div class="speaker-company text-ellipsis">PSA Corporation</div>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/ron-fong">
           <div class="speaker-image-wrapper">
@@ -280,8 +280,8 @@ description: ""
             <img alt="Captain Hari Subramaniam" src="images/speakers/anthony lim.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Anthony Lim (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech </div>
-          <div class="speaker-company text-ellipsis">Singapore University of Social Sciences (SUSS) </div>
+          <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
+          <div class="speaker-company text-ellipsis">Singapore University of Social Sciences (SUSS)</div>
         </a>
       </div>
     </div>
@@ -309,7 +309,7 @@ description: ""
             <img alt="" src="images/speakers/christian riis.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Christian Riis</h4>
-          <div class="speaker-position text-ellipsis">Director, Marine Safety &amp; Vetting </div>
+          <div class="speaker-position text-ellipsis">Director, Marine Safety &amp; Vetting</div>
           <div class="speaker-company text-ellipsis">Rio Tinto</div>
         </a>
       </div>
@@ -323,6 +323,8 @@ description: ""
           <div class="speaker-company text-ellipsis">Board of Safetytech Accelerator (also Chief Technology and Innovation Officer, Lloyd’s Register) </div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/ben-chng">
           <div class="speaker-image-wrapper">
@@ -333,8 +335,6 @@ description: ""
           <div class="speaker-company text-ellipsis">Wärtsilä</div>
         </a>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/jimmy-koh">
           <div class="speaker-image-wrapper">
@@ -348,8 +348,6 @@ description: ""
     </div>
   </div>
 </section>
-
-
 
 
 
