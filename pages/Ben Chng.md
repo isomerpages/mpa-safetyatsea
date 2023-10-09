@@ -3,7 +3,6 @@ title: Ben Chng
 permalink: /ben-chng/
 description: ""
 ---
-
 <div class="row"> <div class="col is-3"></div> <div class="col is-9 speaker-details"> <h4>Ben Chng</h4> <p>Managing Director APAC <br> Wärtsilä <br> </p> <p> </p> </div> </div>
 
 
