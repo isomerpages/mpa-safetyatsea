@@ -100,6 +100,6 @@ sections:
       id: infopic
       button: CLICK HERE
       url: /programme/the-nautical-institute-singapore-conference-2023/
-      image: /images/nautical institute singapore conference 2023.jpg
-      alt: "Nautical Institute Conference "
+      image: /images/nautical.jpg
+      alt: Nautical Institute Conference
 ---
