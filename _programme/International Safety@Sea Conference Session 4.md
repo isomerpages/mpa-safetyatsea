@@ -60,8 +60,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session4/dennis%20khoo.png" alt="dennis%20khoo"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Dennis Khoo</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dennis-khoo/" rel="noopener">Mr Dennis Khoo</a></strong></div>
 <div class="text-ellipsis speaker-position">Director (Port Systems)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
@@ -72,8 +73,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session4/christian%20riis.png" alt="christian%20riis"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Christian Riis</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/christian-riis" rel="noopener">Mr Christian Riis</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company">Marine Safety &amp; Vetting, Rio Tinto</div>
 </div>
@@ -86,8 +88,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session4/chakib%20abi%20saab%20copy.png" alt="chakib%20abi%20saab%20copy"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Chakib Abi Saab</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chakib-abi-saab/" rel="noopener">Mr Chakib Abi Saab</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">SafetyTech Accelerator and Chief Technology and Innovation Officer, Lloyd’s Register</div>
 </div>
