@@ -326,16 +326,6 @@ description: ""
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/ben-chng">
-          <div class="speaker-image-wrapper">
-            <img alt="Ben Chng" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Ben Chng</h4>
-          <div class="speaker-position text-ellipsis">Managing Director APAC</div>
-          <div class="speaker-company text-ellipsis">Wärtsilä</div>
-        </a>
-      </div>
-      <div class="col is-4">
         <a href="/jimmy-koh">
           <div class="speaker-image-wrapper">
             <img alt="Jimmy Koh" src="/images/Speakers_23/Session4/jimmy koh.png" class="speaker-image img-fluid mb-3">
