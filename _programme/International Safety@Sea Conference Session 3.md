@@ -124,7 +124,7 @@ description: ""
           </strong>
         </div>
         <div class="text-ellipsis speaker-position">IAPH Data Collaboration Committee Chair</div>
-        <div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
+        <div class="text-ellipsis speaker-company">International Association of Ports and Harbours (IAPH)</div>
       </div>
     </div>
   </div>
