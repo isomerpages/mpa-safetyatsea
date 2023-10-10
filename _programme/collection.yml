@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - The Nautical Institute Singapore Conference 2023.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
@@ -13,3 +12,4 @@ collections:
       - Industry Visits – PSA Innovation Centre.md
       - Pleasure Craft Safety Forum.md
       - Harbour Craft Safety Forum.md
+      - The Nautical Institute Singapore Conference 2023.md
