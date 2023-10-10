@@ -101,8 +101,9 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/li%20xin.png" alt="li%20xin"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Li Xin</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/li-xin/" rel="noopener">Mr Li Xin</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of IT Security</div>
 <div class="text-ellipsis speaker-company">PSA Corporation</div>
 </div>
