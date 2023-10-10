@@ -88,8 +88,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/ron%20fong-min.png" alt="ron%20fong-min"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ron Fong</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ron-fong/" rel="noopener">Mr Ron Fong</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
 <div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
 </div>
