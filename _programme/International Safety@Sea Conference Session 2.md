@@ -64,8 +64,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/vibhas%20garg.png" alt="vibhas%20garg"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Vibhas Garg</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company">Octant Marine Pte Limited, and member of the National Maritime Safety at Sea Council, Singapore</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
