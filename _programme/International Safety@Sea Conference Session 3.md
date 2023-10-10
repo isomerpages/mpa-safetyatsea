@@ -46,8 +46,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/anthony%20lim.png" alt="anthony%20lim"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Anthony Lim</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/anthony-lim/" rel="noopener">Mr Anthony Lim</a></strong></div>
 <div class="text-ellipsis speaker-position">Fellow</div>
 <div class="text-ellipsis speaker-company">Cybersecurity, Governance &amp; FinTech, Singapore University of Social Sciences</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
