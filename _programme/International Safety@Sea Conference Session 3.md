@@ -123,7 +123,7 @@ description: ""
             <a class="speaker-name text-ellipsis" href="/pascal-ollivier/" rel="noopener">Pascal Ollivier</a>
           </strong>
         </div>
-        <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
+        <div class="text-ellipsis speaker-position">IAPH Data Collaboration Committee Chair</div>
         <div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
       </div>
     </div>
