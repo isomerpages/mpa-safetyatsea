@@ -325,6 +325,16 @@ description: ""
       </div>
     </div>
     <div class="row">
+			<div class="col is-4">
+        <a href="/jimmy-koh">
+          <div class="speaker-image-wrapper">
+            <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/" class="speaker-image img-fluid mb-3">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Pieter de Coningh</h4>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Tidalis APAC Limited</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a href="/jimmy-koh">
           <div class="speaker-image-wrapper">
