@@ -326,7 +326,7 @@ description: ""
     </div>
     <div class="row">
 			<div class="col is-4">
-        <a href="/jimmy-koh">
+        <a href="/pieter-de-coningh/">
           <div class="speaker-image-wrapper">
             <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/" class="speaker-image img-fluid mb-3">
           </div>
