@@ -109,8 +109,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/michael drake.png" alt="michael drake"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Michael Drake</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-drake/" rel="noopener">Mr Michael Drake</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director Operations</div>
 <div class="text-ellipsis speaker-company">Australian Maritime Safety Authority</div>
 </div>
