@@ -63,7 +63,7 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session4/dennis%20khoo.png" alt="dennis%20khoo"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dennis-khoo/" rel="noopener">Mr Dennis Khoo</a></strong></div>
-<div class="text-ellipsis speaker-position">Director (Port Systems)</div>
+<div class="text-ellipsis speaker-position">Director(Maritime Systems and Technology Division)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
