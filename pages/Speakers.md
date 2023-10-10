@@ -164,7 +164,7 @@ description: ""
       <div class="col is-4">
         <a href="/vibin-chandrabose">
           <div class="speaker-image-wrapper">
-            <img alt="Vibin Chandrabose" src="/images/Speakers_23/Session2/vibhas garg.png" class="speaker-image img-fluid mb-3">
+            <img alt="Vibin Chandrabose" src="/images/Speakers_23/Session2/vibin chandrabose.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Vibin Chandrabose</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
