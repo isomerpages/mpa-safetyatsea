@@ -81,8 +81,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" alt="ismael cobos delgado"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ismael-cobos-delgado/" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
 <div class="text-ellipsis speaker-company">International Maritime Organisation</div>
 </div>
