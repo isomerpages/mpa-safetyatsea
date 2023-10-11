@@ -318,7 +318,7 @@ description: ""
 			<div class="col is-4">
         <a href="/pieter-de-coningh/">
           <div class="speaker-image-wrapper">
-            <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/" class="speaker-image img-fluid mb-3">
+            <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/mr pieter.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Pieter de Coningh</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
