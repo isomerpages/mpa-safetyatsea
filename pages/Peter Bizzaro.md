@@ -12,7 +12,9 @@ description: ""
 <p>Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore <br>United States Coast Guard (USCG)
 <br>
 </p>
-<p></p>
+<p>Commander Bizzaro serves concurrently as the Coast Guard’s Agency Head at the U.S. Embassy in Singapore, as the Chief of Inspections for Coast Guard Activities Far East, and as the Commanding Officer of Marine Inspections Unit Singapore. In these roles, he is responsible for the safety and regulatory compliance of U.S. flagged vessels throughout the Indo-Pacific.</p>
+	<p>His previous assignments include developing national passenger vessel regulatory policy, responding to hurricanes and major oil spills, and leading marine safety professionals in Tampa, San Diego and Louisiana.</p>
+	<p>He holds Master’s Degrees from the Naval War College and University of California, San Diego and is a graduate of the United States Merchant Marine Academy.</p>
 </div>
 </div>
 
