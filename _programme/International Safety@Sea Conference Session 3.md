@@ -114,21 +114,6 @@ description: ""
 
 
 </div>
-<div class="row">
-  <div class="col is-6 prog-speaker">
-    <div class="row">
-      <div class="col is-8">
-        <div class="speaker-name text-ellipsis">
-          <strong>
-            <a class="speaker-name text-ellipsis" href="/pascal-ollivier/" rel="noopener">Pascal Ollivier</a>
-          </strong>
-        </div>
-        <div class="text-ellipsis speaker-position">IAPH Data Collaboration Committee Chair</div>
-        <div class="text-ellipsis speaker-company">International Association of Ports and Harbours (IAPH)</div>
-      </div>
-    </div>
-  </div>
-</div>
 
 </div>
 </div>
