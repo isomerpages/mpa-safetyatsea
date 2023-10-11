@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Palle Kristensen </h4>
-<p>Chief Adviser <br>Danish Maritime Authority (DMA) <br>
+<p>Senior Advisor, Technical Regulation, Climate and Green Transition <br>Danish Maritime Authority (DMA) <br>
 </p>
 <p></p>
 </div>
