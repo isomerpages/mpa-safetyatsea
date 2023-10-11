@@ -68,7 +68,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Ishak Ismail (Moderator) </h4>
           <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
-          <div class="speaker-company text-ellipsis">NMSSC Chairman (Principal Consultant, Arbinger Singapore and i-Grow Partners Pte Ltd) </div>
+          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
         </a>
       </div>
     </div>
