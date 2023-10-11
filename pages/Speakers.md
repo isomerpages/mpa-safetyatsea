@@ -47,7 +47,7 @@ description: ""
             <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Palle Kristensen </h4>
-          <div class="speaker-position text-ellipsis">Chief Adviser</div>
+          <div class="speaker-position text-ellipsis">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
           <div class="speaker-company text-ellipsis">Danish Maritime Authority (DMA)</div>
         </a>
       </div>
