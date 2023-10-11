@@ -340,7 +340,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Jimmy Koh" src="/images/Speakers_23/Session4/jimmy koh.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Jimmy Koh (Moderator) \[Co-Host\] </h4>
+          <h4 class="speaker-name text-ellipsis">Jimmy Koh (Moderator) [Co-Host] </h4>
           <div class="speaker-position text-ellipsis">Head of Pilotage and Digital Transformation (Also NMSSC member) </div>
           <div class="speaker-company text-ellipsis">PSA Marine</div>
         </a>
