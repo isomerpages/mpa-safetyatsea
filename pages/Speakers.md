@@ -242,19 +242,7 @@ description: ""
           <div class="speaker-company text-ellipsis">CyberOwl</div>
         </a>
       </div>
-      <div class="col is-4">
-        <a href="/pascal-ollivier">
-          <div class="speaker-image-wrapper">
-            <img alt="Pascal Ollivier" src="/images/Speakers_23/" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Pascal Ollivier </h4>
-          <div class="speaker-position text-ellipsis">IAPH Data Collaboration Committee Chair</div>
-          <div class="speaker-company text-ellipsis">International Association of Ports and Harbours (IAPH) </div>
-        </a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4">
+			 <div class="col is-4">
         <a href="/li-xin">
           <div class="speaker-image-wrapper">
             <img alt="Li Xin" src="/images/Speakers_23/Session3/li xin.png" class="speaker-image img-fluid mb-3">
@@ -264,6 +252,8 @@ description: ""
           <div class="speaker-company text-ellipsis">PSA Corporation</div>
         </a>
       </div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/ron-fong">
           <div class="speaker-image-wrapper">
