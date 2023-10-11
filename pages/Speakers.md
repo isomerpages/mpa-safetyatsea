@@ -210,7 +210,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group </div>
-          <div class="speaker-company text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group (Director, Octant Marine Pte Ltd, Singapore) </div>
+          <div class="speaker-company text-ellipsis">(Director, Octant Marine Pte Ltd, Singapore) </div>
         </a>
       </div>
     </div>
