@@ -70,7 +70,7 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/ishak ismail.png" alt="ishak ismail"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ishak-ismail" rel="noopener">Mr Ishak Ismail</a></strong></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
+<div class="text-ellipsis speaker-position">NMSSC Chairman</div>
 <div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
