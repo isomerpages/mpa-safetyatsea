@@ -101,6 +101,7 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+		<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session4/mr pieter.png" alt="Mr Pieter de Coningh"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/pieter-de-coningh/" rel="noopener">Mr Pieter de Coningh</a></strong></div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
