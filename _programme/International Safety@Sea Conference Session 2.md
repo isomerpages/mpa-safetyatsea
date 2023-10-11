@@ -109,8 +109,8 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/dinesh%20kumar%20balraj.png" alt="dinesh%20kumar%20balraj"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dinesh-kumar-balraj/" rel="noopener">Mr Dinesh Kumar Balraj</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Director</div>
-<div class="text-ellipsis speaker-company">Head of Fleet Operations East, A.P. Moller Singapore Pte Ltd (Maersk)</div>
+<div class="text-ellipsis speaker-position">Managing Director</div>
+<div class="text-ellipsis speaker-company">A.P. Moller Singapore Pte Ltd.<br>Maersk Singapore Pte. Ltd</div>
 </div>
 </div>
 
