@@ -8,7 +8,7 @@ description: ""
 <img src="/images/Speakers_23/Session1p1/peter bizzaro.png">
 </div>
 <div class="col is-9 speaker-details">
-<h4>Peter Bizzaro </h4>
+<h4>CDR Peter Bizzaro </h4>
 <p>Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore <br>United States Coast Guard (USCG)
 <br>
 </p>
