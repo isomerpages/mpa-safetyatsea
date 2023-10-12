@@ -156,7 +156,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Samuel Soo" src="/images/Speakers_23/Session2/mr samuel soo.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Samuel Soo</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Samuel Soo</h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director (Marine Services)</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
@@ -166,7 +166,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Vibin Chandrabose" src="/images/Speakers_23/Session2/vibin chandrabose.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Vibin Chandrabose</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Vibin Chandrabose</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
           <div class="speaker-company text-ellipsis">American Bureau of Shipping (ABS)</div>
         </a>
@@ -176,7 +176,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Md Kamal Hossain" src="/images/Speakers_23/Session2/capt md kamal.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Md Kamal Hossain</h4>
+          <h4 class="speaker-name text-ellipsis">Capt Md Kamal Hossain</h4>
           <div class="speaker-position text-ellipsis">Team Lead, Marine Operations</div>
           <div class="speaker-company text-ellipsis">Hong Lam Marine</div>
         </a>
@@ -188,7 +188,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Dinesh Kumar Balraj" src="/images/Speakers_23/Session2/dinesh kumar balraj.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dinesh Kumar Balraj </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Dinesh Kumar Balraj </h4>
           <div class="speaker-position text-ellipsis">Senior Director, Head of Fleet Operations East</div>
           <div class="speaker-company text-ellipsis">A.P.Moller-Maersk </div>
         </a>
@@ -198,7 +198,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Jagadeesan Natarajan" src="/images/Speakers_23/Session2/capt natarajan.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Jagadeesan Natarajan</h4>
+          <h4 class="speaker-name text-ellipsis">Capt. Jagadeesan Natarajan</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
           <div class="speaker-company text-ellipsis">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan) </div>
         </a>
@@ -208,7 +208,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Vibhas Garg" src="/images/Speakers_23/Session2/vibhas garg.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Vibhas Garg (Moderator)</h4>
+          <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group </div>
           <div class="speaker-company text-ellipsis">(Director, Octant Marine Pte Ltd, Singapore) </div>
         </a>
