@@ -228,8 +228,8 @@ description: ""
             <img alt="Ong Chin Beng" src="/images/Speakers_23/Session3/ong chin beng-.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Ong Chin Beng</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer </div>
-          <div class="speaker-company text-ellipsis">MPA</div>
+          <div class="speaker-position text-ellipsis">Chief Information Security Officer </div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
       <div class="col is-4">
