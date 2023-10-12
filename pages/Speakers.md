@@ -227,7 +227,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Ong Chin Beng" src="/images/Speakers_23/Session3/ong chin beng-.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ong Chin Beng</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Ong Chin Beng</h4>
           <div class="speaker-position text-ellipsis">Chief Information Security Officer </div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
@@ -237,7 +237,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Daniel Ng" src="/images/Speakers_23/Session3/daniel ng.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Daniel Ng</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Daniel Ng</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">CyberOwl</div>
         </a>
@@ -247,7 +247,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Li Xin" src="/images/Speakers_23/Session3/li xin.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Li Xin</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Li Xin</h4>
           <div class="speaker-position text-ellipsis">Head of IT Security</div>
           <div class="speaker-company text-ellipsis">PSA Corporation Limited</div>
         </a>
@@ -259,7 +259,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Ron Fong" src="/images/Speakers_23/Session3/ron fong-min.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ron Fong </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Ron Fong </h4>
           <div class="speaker-position text-ellipsis">Head of Fleet IT</div>
           <div class="speaker-company text-ellipsis">Pacific Carriers Limited (PCL)</div>
         </a>
@@ -269,7 +269,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Anthony Lim" src="/images/Speakers_23/Session3/anthony lim.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Anthony Lim (Moderator)</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Anthony Lim (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
           <div class="speaker-company text-ellipsis">Singapore University of Social Sciences (SUSS)</div>
         </a>
