@@ -57,7 +57,7 @@ description: ""
             <img alt="peter bizzaro" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Peter Bizzaro</h4>
-          <div class="speaker-position text-ellipsis">Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore </div>
+          <div class="speaker-position text-ellipsis">Commanding Officer <br>U.S. Coast Guard Marine Inspection Unit Singapore </div>
           <div class="speaker-company text-ellipsis">United States Coast Guard (USCG)</div>
         </a>
       </div>
