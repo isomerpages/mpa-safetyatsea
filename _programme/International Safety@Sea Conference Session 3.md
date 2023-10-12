@@ -63,7 +63,7 @@ description: ""
 	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/ong%20chin%20beng-.png" alt="ong%20chin%20beng"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ong-chin-beng/" rel="noopener">Mr Ong Chin Beng</a></strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer</div>
+<div class="text-ellipsis speaker-position">Chief Information Security Officer</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
