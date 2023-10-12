@@ -288,7 +288,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Dennis Khoo" src="/images/Speakers_23/Session4/dennis khoo.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Dennis Khoo</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Dennis Khoo</h4>
           <div class="speaker-position text-ellipsis">Director (Maritime Systems and Technology)</div>
           <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority of Singapore (MPA)</div>
         </a>
@@ -298,7 +298,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Christian Riis" src="/images/Speakers_23/Session4/christian riis.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Christian Riis</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Christian Riis</h4>
           <div class="speaker-position text-ellipsis">Director, Marine Safety &amp; Vetting</div>
           <div class="speaker-company text-ellipsis">Rio Tinto</div>
         </a>
@@ -308,7 +308,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Chakib Abi Saab" src="/images/Speakers_23/Session4/chakib abi saab copy.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Chakib Abi Saab</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Chakib Abi Saab</h4>
           <div class="speaker-position text-ellipsis">Chief Technology and Innovation Officer (LR) / Chairman (Safetytech Accelerator)</div>
           <div class="speaker-company text-ellipsis">Lloyd’s Register / Safetytech Accelerator </div>
         </a>
@@ -320,7 +320,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/mr pieter.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Pieter de Coningh</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Pieter de Coningh</h4>
           <div class="speaker-position text-ellipsis">Managing Director</div>
           <div class="speaker-company text-ellipsis">Tidalis APAC Limited</div>
         </a>
@@ -330,7 +330,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Jimmy Koh" src="/images/Speakers_23/Session4/jimmy koh.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Jimmy Koh (Moderator) [Co-Host] </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Jimmy Koh (Moderator) [Co-Host] </h4>
           <div class="speaker-position text-ellipsis">Head of Pilotage and Digital Transformation (Also NMSSC member) </div>
           <div class="speaker-company text-ellipsis">PSA Marine</div>
         </a>
