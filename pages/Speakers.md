@@ -289,8 +289,8 @@ description: ""
             <img alt="Dennis Khoo" src="/images/Speakers_23/Session4/dennis khoo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Dennis Khoo</h4>
-          <div class="speaker-position text-ellipsis">Director (Port Systems)</div>
-          <div class="speaker-company text-ellipsis">MPA</div>
+          <div class="speaker-position text-ellipsis">Director (Maritime Systems and Technology)</div>
+          <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority of Singapore (MPA)</div>
         </a>
       </div>
       <div class="col is-4">
