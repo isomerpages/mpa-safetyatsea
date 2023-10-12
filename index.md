@@ -82,7 +82,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
-      subtitle: 26 OCT | 09:00 – 12:00 (GMT+8)
+      subtitle: 26 OCT | 09:00 – 13:00 (GMT+8)
       url: /programme/pleasure-craft-forum/
       image: /images/slide6.PNG
       alt: Image alt text
