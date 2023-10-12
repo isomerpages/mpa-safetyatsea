@@ -309,8 +309,8 @@ description: ""
             <img alt="Chakib Abi Saab" src="/images/Speakers_23/Session4/chakib abi saab copy.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Chakib Abi Saab</h4>
-          <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">Board of Safetytech Accelerator (also Chief Technology and Innovation Officer, Lloyd’s Register) </div>
+          <div class="speaker-position text-ellipsis">Chief Technology and Innovation Officer (LR) / Chairman (Safetytech Accelerator)</div>
+          <div class="speaker-company text-ellipsis">Lloyd’s Register / Safetytech Accelerator </div>
         </a>
       </div>
     </div>
