@@ -86,7 +86,7 @@ description: ""
             <img alt="Roberto Cazzulo" src="/images/Speakers_23/Session1p2/cazzulo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Roberto Cazzulo</h4>
-          <div class="speaker-position text-ellipsis">Chair of IACS Cyber Systems Panel</div>
+          <div class="speaker-position text-ellipsis">IACS Chair-elect</div>
           <div class="speaker-company text-ellipsis">International Association of Classification Societies (IACS) </div>
         </a>
       </div>
