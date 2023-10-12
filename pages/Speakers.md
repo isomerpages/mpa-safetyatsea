@@ -189,8 +189,8 @@ description: ""
             <img alt="Dinesh Kumar Balraj" src="/images/Speakers_23/Session2/dinesh kumar balraj.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Dinesh Kumar Balraj </h4>
-          <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">A.P. Moller Singapore Pte Ltd. Maersk Singapore Pte. Ltd </div>
+          <div class="speaker-position text-ellipsis">Senior Director, Head of Fleet Operations East</div>
+          <div class="speaker-company text-ellipsis">A.P.Moller-Maersk </div>
         </a>
       </div>
       <div class="col is-4">
