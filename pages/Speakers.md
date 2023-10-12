@@ -96,8 +96,8 @@ description: ""
             <img alt="Nick Potter" src="/images/Speakers_23/Session1p2/nick potter.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Nick Potter</h4>
-          <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">International Chamber of Shipping (ICS)</div>
+          <div class="speaker-position text-ellipsis">General Manager, Shipping &amp; Maritime, Asia Pacific and the Middle East</div>
+          <div class="speaker-company text-ellipsis">Shell</div>
         </a>
       </div>
       <div class="col is-4">
