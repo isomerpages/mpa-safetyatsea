@@ -249,7 +249,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Li Xin</h4>
           <div class="speaker-position text-ellipsis">Head of IT Security</div>
-          <div class="speaker-company text-ellipsis">PSA Corporation</div>
+          <div class="speaker-company text-ellipsis">PSA Corporation Limited</div>
         </a>
       </div>
     </div>
