@@ -200,7 +200,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Jagadeesan Natarajan</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Orient Marine Co., Ltd. (Singapore Branch) (100% Mistui &amp; Co Subsidarary) </div>
+          <div class="speaker-company text-ellipsis">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan) </div>
         </a>
       </div>
       <div class="col is-4">
