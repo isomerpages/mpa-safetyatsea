@@ -261,7 +261,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Ron Fong </h4>
           <div class="speaker-position text-ellipsis">Head of Fleet IT</div>
-          <div class="speaker-company text-ellipsis">Kuok Singapore Limited Group</div>
+          <div class="speaker-company text-ellipsis">Pacific Carriers Limited (PCL)</div>
         </a>
       </div>
       <div class="col is-4">
