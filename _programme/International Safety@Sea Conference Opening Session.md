@@ -196,8 +196,8 @@ description: ""
 <div class="row">
 	<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers_23/session1p2/cazzulo.png" alt="cazzulo"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Roberto Cazzulo</a></strong></div>
-<div class="text-ellipsis speaker-position">Chair of IACS Cyber Systems Panel</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Roberto Cazzulo</a></strong></div>
+<div class="text-ellipsis speaker-position">IACS Chair-elect</div>
 <div class="text-ellipsis speaker-company">International Association of Classification Societies (IACS)</div>
 </div>
 </div>
