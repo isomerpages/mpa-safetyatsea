@@ -85,7 +85,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Roberto Cazzulo" src="/images/Speakers_23/Session1p2/cazzulo.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Roberto Cazzulo</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Roberto Cazzulo</h4>
           <div class="speaker-position text-ellipsis">IACS Chair-elect</div>
           <div class="speaker-company text-ellipsis">International Association of Classification Societies (IACS) </div>
         </a>
@@ -95,7 +95,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Nick Potter" src="/images/Speakers_23/Session1p2/nick potter.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Nick Potter</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Nick Potter</h4>
           <div class="speaker-position text-ellipsis">General Manager, Shipping &amp; Maritime, Asia Pacific and the Middle East</div>
           <div class="speaker-company text-ellipsis">Shell</div>
         </a>
@@ -105,7 +105,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="André L. LeGoubin" src="/images/Speakers_23/Session1p2/capt andre l legoubin.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">André L. LeGoubin</h4>
+          <h4 class="speaker-name text-ellipsis">Capt André L. LeGoubin</h4>
           <div class="speaker-position text-ellipsis">President</div>
           <div class="speaker-company text-ellipsis">Nautical Institute (NI)</div>
         </a>
@@ -117,7 +117,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Steen Lund" src="/images/Speakers_23/Session1p2/steen lund.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Steen Lund</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Steen Lund</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">RightShip</div>
         </a>
@@ -127,7 +127,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Caroline Yang" src="/images/Speakers_23/Session1p2/caroline yang.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Caroline Yang</h4>
+          <h4 class="speaker-name text-ellipsis">Ms Caroline Yang</h4>
           <div class="speaker-position text-ellipsis">President</div>
           <div class="speaker-company text-ellipsis">Singapore Shipping Association (SSA)</div>
         </a>
@@ -137,7 +137,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Yves Vandenborn" src="/images/Speakers_23/Session1p2/yves vandenborn.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Yves Vandenborn (Moderator)</h4>
+          <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Honorary President of Nautical Institute Singapore branch <br>Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
           <div class="speaker-company text-ellipsis">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
         </a>
