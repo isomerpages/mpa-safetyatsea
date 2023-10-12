@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Peter Bizzaro </h4>
-<p>Commanding Officer U.S. Coast Guard Marine Inspection Unit Singapore <br>United States Coast Guard (USCG)
+<p>Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore <br>United States Coast Guard (USCG)
 <br>
 </p>
 <p>Commander Bizzaro serves concurrently as the Coast Guard’s Agency Head at the U.S. Embassy in Singapore, as the Chief of Inspections for Coast Guard Activities Far East, and as the Commanding Officer of Marine Inspections Unit Singapore. In these roles, he is responsible for the safety and regulatory compliance of U.S. flagged vessels throughout the Indo-Pacific.</p>
