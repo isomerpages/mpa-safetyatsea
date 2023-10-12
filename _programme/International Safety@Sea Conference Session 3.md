@@ -105,7 +105,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/li-xin/" rel="noopener">Mr Li Xin</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of IT Security</div>
-<div class="text-ellipsis speaker-company">PSA Corporation</div>
+<div class="text-ellipsis speaker-company">PSA Corporation Limited</div>
 </div>
 </div>
 </div>
