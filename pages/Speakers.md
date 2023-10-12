@@ -25,8 +25,8 @@ description: ""
             <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo-1.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">David Foo</h4>
-          <div class="speaker-position text-ellipsis">ACE(Ops Tech)</div>
-          <div class="speaker-company text-ellipsis">MPA</div>
+          <div class="speaker-position text-ellipsis">Assistant Chief Executive (Operations Technology)</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
       <div class="col is-4">
