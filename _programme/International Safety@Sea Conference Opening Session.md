@@ -183,8 +183,8 @@ description: ""
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/yves%20vandenborn.png" alt="yves%20vandenborn"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/yves-vandenborn/" rel="noopener">Capt Yves Vandenborn</a></strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">The Nautical Institute (Singapore) and member of the National Maritime Safety at Sea Council, Singapore</div>
+<div class="text-ellipsis speaker-position">Honorary President of Nautical Institute Singapore branch<br> Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
+<div class="text-ellipsis speaker-company">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
