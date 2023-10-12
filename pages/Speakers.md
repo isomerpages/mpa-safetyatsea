@@ -138,8 +138,8 @@ description: ""
             <img alt="Yves Vandenborn" src="/images/Speakers_23/Session1p2/yves vandenborn.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Yves Vandenborn (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">NMSSC Member</div>
-          <div class="speaker-company text-ellipsis">NMSSC Member (President, NI (Singapore Branch))</div>
+          <div class="speaker-position text-ellipsis">Honorary President of Nautical Institute Singapore branch <br>Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
+          <div class="speaker-company text-ellipsis">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
         </a>
       </div>
     </div>
