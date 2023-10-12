@@ -144,8 +144,8 @@ description: ""
 	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/peter bizzaro.png" alt="peter bizzaro"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/peter-bizzaro/" rel="noopener">CDR Peter Bizzaro</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief of Inspections Division Activities Far East, and Commanding Officer</div>
-<div class="text-ellipsis speaker-company">U.S. Coast Guard Marine Inspection Unit Singapore</div>
+<div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
+<div class="text-ellipsis speaker-company">United States Coast Guard (USCG)</div>
 </div>
 </div>
 </div>
