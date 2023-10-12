@@ -14,7 +14,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ismael Cobos Delgado</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Ismael Cobos Delgado</h4>
           <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division)</div>
           <div class="speaker-company text-ellipsis">International Maritime Organisation (IMO)</div>
         </a>
@@ -24,7 +24,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo-1.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">David Foo</h4>
+          <h4 class="speaker-name text-ellipsis">Mr David Foo</h4>
           <div class="speaker-position text-ellipsis">Assistant Chief Executive (Operations Technology)</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
@@ -34,7 +34,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/michael drake.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Michael Drake</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
           <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority (AMSA)</div>
         </a>
@@ -46,7 +46,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Palle Kristensen </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Palle Kristensen </h4>
           <div class="speaker-position text-ellipsis">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
           <div class="speaker-company text-ellipsis">Danish Maritime Authority (DMA)</div>
         </a>
@@ -56,7 +56,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="peter bizzaro" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Peter Bizzaro</h4>
+          <h4 class="speaker-name text-ellipsis">CDR Peter Bizzaro</h4>
           <div class="speaker-position text-ellipsis">Commanding Officer <br>U.S. Coast Guard Marine Inspection Unit Singapore </div>
           <div class="speaker-company text-ellipsis">United States Coast Guard (USCG)</div>
         </a>
@@ -66,7 +66,7 @@ description: ""
           <div class="speaker-image-wrapper">
             <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/ishak ismail.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Ishak Ismail (Moderator) </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail (Moderator) </h4>
           <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
         </a>
