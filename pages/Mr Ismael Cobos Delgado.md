@@ -8,7 +8,7 @@ description: ""
 <img src="/images/Speakers_23/Session1p1/ismael cobos delgado.png">
 </div>
 <div class="col is-9 speaker-details">
-<h4>Ismael Cobos Delgado</h4>
+<h4>Mr Ismael Cobos Delgado</h4>
 <p>Deputy Director (Maritime Safety Division)<br> International Maritime Organisation (IMO)
 </p>
 <p>Ismael Cobos holds a Phd (cum laude distinction); a MEng in Marine Technology and Marine Engineering; a BEng in Ship Science/Naval Architecture and a Master in Shipping Business, all from the Catalonia Polytechnic University.</p>
