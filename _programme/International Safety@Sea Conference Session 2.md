@@ -95,7 +95,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibin-chandrabose/" rel="noopener">Mr Vibin Chandrabose</a></strong></div>
 <div class="text-ellipsis speaker-position">Principal Engineer</div>
-<div class="text-ellipsis speaker-company">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping</div>
+<div class="text-ellipsis speaker-company">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping(ABS)</div>
 </div>
 </div>
 
