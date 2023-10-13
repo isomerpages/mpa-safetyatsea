@@ -127,7 +127,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/palle-kristensen/" rel="noopener">Mr Palle Kristensen</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
-<div class="text-ellipsis speaker-company">Danish Maritime Authority</div>
+<div class="text-ellipsis speaker-company">Danish Maritime Authority(DMA)</div>
 </div>
 </div>
 </div>
