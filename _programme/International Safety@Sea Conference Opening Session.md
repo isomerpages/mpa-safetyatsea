@@ -239,7 +239,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/caroline-yang/" rel="noopener">Ms Caroline Yang</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
+<div class="text-ellipsis speaker-company">Singapore Shipping Association(SSA)</div>
 </div>
 </div>
 </div>
