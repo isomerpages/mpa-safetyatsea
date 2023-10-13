@@ -8,7 +8,7 @@ description: ""
 <img src="/images/Speakers_23/Session1p2/steen lund.png">
 </div>
 <div class="col is-9 speaker-details">
-<h4>Steen Lund</h4>
+<h4>Mr Steen Lund</h4>
 <p>CEO<br>RightShip<br>
 </p>
 <p>Steen Lund has 35 years’ experience in the maritime industry. He spent 21 years with A.P. Moller-Maersk, where he was ultimately responsible for the Maersk Line network in the Americas, Oceania, Asia, the Middle East and Africa.</p>
