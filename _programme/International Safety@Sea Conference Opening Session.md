@@ -257,7 +257,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt André L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">The Nautical Institute</div>
+<div class="text-ellipsis speaker-company">Nautical Institute(NI)</div>
 </div>
 </div>
 </div>
