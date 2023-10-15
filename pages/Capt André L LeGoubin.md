@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Capt André L. LeGoubin</h4>
-<p>President<br>Nautical Institute (NI) <br>
+<p>President<br>Nautical Institute <br>
 </p>
 <p>André is employed as a Mooring Master / POAC in the lightering trade, undertaking underway ship-to-ship transfers of oil, offshore in the USA and South America, having decided to return to sea in 2012 after over eight years ashore, working as a Marine Consultant in the USA.</p>
 <p>
