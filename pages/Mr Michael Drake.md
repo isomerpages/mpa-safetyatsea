@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr Michael Drake</h4>
-<p>Executive Director Operations<br>Australian Maritime Safety Authority (AMSA) <br>
+<p>Executive Director Operations<br>Australian Maritime Safety Authority  <br>
 </p>
 <p>Mr Drake became AMSA’s Executive Director of Operations in November 2021. Mr Drake has an extensive career in maritime safety and joined AMSA as the National Operations Manager Regions in 2018. In this role, he was responsible for the effective delivery and implementation of AMSA’s national ship and vessel programs.</p>
 <p>Mr Drake spent 15 years in the Royal Australian Navy where he served in a variety of roles at sea, primarily on submarines, and shore-based roles both within Australia and overseas.</p>
