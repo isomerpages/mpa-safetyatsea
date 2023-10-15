@@ -64,7 +64,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dennis-khoo/" rel="noopener">Mr Dennis Khoo</a></strong></div>
 <div class="text-ellipsis speaker-position">Director (Maritime Systems and Technology)</div>
-<div class="text-ellipsis speaker-company">Maritime &amp; Port Authority of Singapore (MPA)</div>
+<div class="text-ellipsis speaker-company">Maritime &amp; Port Authority of Singapore</div>
 </div>
 </div>
 </div>
