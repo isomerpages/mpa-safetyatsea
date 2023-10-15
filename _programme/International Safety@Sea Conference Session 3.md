@@ -50,7 +50,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/anthony-lim/" rel="noopener">Mr Anthony Lim</a></strong></div>
 <div class="text-ellipsis speaker-position">Fellow</div>
-<div class="text-ellipsis speaker-company">Cybersecurity, Governance &amp; FinTech, Singapore University of Social Sciences(SUSS)</div>
+<div class="text-ellipsis speaker-company">Cybersecurity, Governance &amp; FinTech, Singapore University of Social Sciences</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -92,7 +92,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ron-fong/" rel="noopener">Mr Ron Fong</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
-<div class="text-ellipsis speaker-company">Pacific Carriers Limited (PCL)</div>
+<div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
 </div>
 </div>
 
