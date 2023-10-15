@@ -86,7 +86,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ismael-cobos-delgado/" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
-<div class="text-ellipsis speaker-company">International Maritime Organisation(IMO)</div>
+<div class="text-ellipsis speaker-company">International Maritime Organisation</div>
 </div>
 </div>
 </div>
@@ -114,7 +114,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-drake/" rel="noopener">Mr Michael Drake</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director Operations</div>
-<div class="text-ellipsis speaker-company">Australian Maritime Safety Authority(AMSA)</div>
+<div class="text-ellipsis speaker-company">Australian Maritime Safety Authority</div>
 </div>
 </div>
 
@@ -127,7 +127,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/palle-kristensen/" rel="noopener">Mr Palle Kristensen</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
-<div class="text-ellipsis speaker-company">Danish Maritime Authority(DMA)</div>
+<div class="text-ellipsis speaker-company">Danish Maritime Authority</div>
 </div>
 </div>
 </div>
@@ -145,7 +145,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/peter-bizzaro/" rel="noopener">CDR Peter Bizzaro</a></strong></div>
 <div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
-<div class="text-ellipsis speaker-company">United States Coast Guard (USCG)</div>
+<div class="text-ellipsis speaker-company">United States Coast Guard</div>
 </div>
 </div>
 </div>
@@ -198,7 +198,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Roberto Cazzulo</a></strong></div>
 <div class="text-ellipsis speaker-position">IACS Chair-elect</div>
-<div class="text-ellipsis speaker-company">International Association of Classification Societies (IACS)</div>
+<div class="text-ellipsis speaker-company">International Association of Classification Societies</div>
 </div>
 </div>
 </div>
@@ -239,7 +239,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/caroline-yang/" rel="noopener">Ms Caroline Yang</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Shipping Association(SSA)</div>
+<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
 </div>
 </div>
 </div>
@@ -257,7 +257,7 @@ description: ""
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt André L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Nautical Institute(NI)</div>
+<div class="text-ellipsis speaker-company">Nautical Institute</div>
 </div>
 </div>
 </div>
