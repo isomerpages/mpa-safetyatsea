@@ -16,7 +16,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Ismael Cobos Delgado</h4>
           <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division)</div>
-          <div class="speaker-company text-ellipsis">International Maritime Organisation (IMO)</div>
+          <div class="speaker-company text-ellipsis">International Maritime Organisation</div>
         </a>
       </div>
       <div class="col is-4">
@@ -36,7 +36,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Michael Drake</h4>
           <div class="speaker-position text-ellipsis">Executive Director Operations</div>
-          <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority (AMSA)</div>
+          <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority</div>
         </a>
       </div>
     </div>
@@ -48,7 +48,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Palle Kristensen </h4>
           <div class="speaker-position text-ellipsis">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
-          <div class="speaker-company text-ellipsis">Danish Maritime Authority (DMA)</div>
+          <div class="speaker-company text-ellipsis">Danish Maritime Authority </div>
         </a>
       </div>
       <div class="col is-4">
@@ -58,7 +58,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">CDR Peter Bizzaro</h4>
           <div class="speaker-position text-ellipsis">Commanding Officer <br>U.S. Coast Guard Marine Inspection Unit Singapore </div>
-          <div class="speaker-company text-ellipsis">United States Coast Guard (USCG)</div>
+          <div class="speaker-company text-ellipsis">United States Coast Guard </div>
         </a>
       </div>
       <div class="col is-4">
@@ -87,7 +87,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Roberto Cazzulo</h4>
           <div class="speaker-position text-ellipsis">IACS Chair-elect</div>
-          <div class="speaker-company text-ellipsis">International Association of Classification Societies (IACS) </div>
+          <div class="speaker-company text-ellipsis">International Association of Classification Societies</div>
         </a>
       </div>
       <div class="col is-4">
@@ -107,7 +107,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Capt André L. LeGoubin</h4>
           <div class="speaker-position text-ellipsis">President</div>
-          <div class="speaker-company text-ellipsis">Nautical Institute (NI)</div>
+          <div class="speaker-company text-ellipsis">Nautical Institute</div>
         </a>
       </div>
     </div>
@@ -129,7 +129,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Ms Caroline Yang</h4>
           <div class="speaker-position text-ellipsis">President</div>
-          <div class="speaker-company text-ellipsis">Singapore Shipping Association (SSA)</div>
+          <div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
         </a>
       </div>
       <div class="col is-4">
@@ -168,7 +168,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Vibin Chandrabose</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
-          <div class="speaker-company text-ellipsis">American Bureau of Shipping (ABS)</div>
+          <div class="speaker-company text-ellipsis">American Bureau of Shipping </div>
         </a>
       </div>
       <div class="col is-4">
@@ -261,7 +261,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Ron Fong </h4>
           <div class="speaker-position text-ellipsis">Head of Fleet IT</div>
-          <div class="speaker-company text-ellipsis">Pacific Carriers Limited (PCL)</div>
+          <div class="speaker-company text-ellipsis">Pacific Carriers Limited </div>
         </a>
       </div>
       <div class="col is-4">
@@ -271,7 +271,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Anthony Lim (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
-          <div class="speaker-company text-ellipsis">Singapore University of Social Sciences (SUSS)</div>
+          <div class="speaker-company text-ellipsis">Singapore University of Social Sciences</div>
         </a>
       </div>
     </div>
@@ -290,7 +290,7 @@ description: ""
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Dennis Khoo</h4>
           <div class="speaker-position text-ellipsis">Director (Maritime Systems and Technology)</div>
-          <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority of Singapore (MPA)</div>
+          <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority of Singapore</div>
         </a>
       </div>
       <div class="col is-4">
