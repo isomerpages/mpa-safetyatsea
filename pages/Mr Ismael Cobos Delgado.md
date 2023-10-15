@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr Ismael Cobos Delgado</h4>
-<p>Deputy Director (Maritime Safety Division)<br> International Maritime Organisation (IMO)
+<p>Deputy Director (Maritime Safety Division)<br> International Maritime Organisation
 </p>
 <p>Ismael Cobos holds a Phd (cum laude distinction); a MEng in Marine Technology and Marine Engineering; a BEng in Ship Science/Naval Architecture and a Master in Shipping Business, all from the Catalonia Polytechnic University.</p>
 <p>He began his professional career as Engineer Officer in 1999 in crude oil tankers and reefer ships before joining the shipping industry ashore. In the Spanish Maritime Administration from 2004, he worked as Maritime Safety Inspector/Supervisor. </p>
