@@ -27,7 +27,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: Advancing Maritime Safety in a Green and Digital Age
-      image: /images/banners4_opening_new.png
+      image: /images/Home/v02-01.jpg
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Session
       subtitle: 23 Oct | 13:00 - 15:30 (GMT+8)
@@ -38,14 +38,14 @@ sections:
       subtitle: 23 oct | 16:00 – 18:00 (GMT+8)
       description: Operationalising Methanol Bunkering
       url: /programme/session-2/
-      image: /images/slide2.PNG
+      image: /images/Home/v02-02.jpg
       alt: Image alt text
       button: CLICK HERE
   - infopic:
       title: FEREX Participant Programme
       subtitle: 24 OCT | 09:30 – 11:30 (GMT+8)
       url: /programme/ferex/
-      image: /images/slide5_v2.PNG
+      image: /images/Home/v02-03.jpg
       alt: Image alt text
       button: CLICK HERE
   - infopic:
@@ -53,7 +53,7 @@ sections:
       subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
       description: Building a Cyber Safe and Resilient Maritime Ecosystem
       url: /programme/session-3/
-      image: /images/slide3.PNG
+      image: /images/Home/v02-04.jpg
       alt: IS@S Plenary 2
       button: CLICK HERE
   - infopic:
@@ -62,12 +62,12 @@ sections:
       id: infopic
       description: Enhancing Maritime Safety through Technology
       alt: Image alt text
-      image: /images/slide4.PNG
+      image: /images/Home/v02-05.jpg
       button: CLICK HERE
       url: /programme/session-4/
   - infopic:
       title: Industry Visits – MPA’s Port Operations Control Centre
-      image: /images/slide8.PNG
+      image: /images/Home/v02-06.jpg
       alt: Image alt text
       subtitle: 25 Oct | 14:00 - 17:00 (GMT+8
       url: /programme/industry-visits-pocc/
@@ -78,19 +78,19 @@ sections:
       id: infopic
       button: CLICK HER
       url: /programme/industry-visits-psa/
-      image: /images/slide8.PNG
+      image: /images/Home/v02-07.jpg
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
       subtitle: 26 OCT | 09:00 – 13:00 (GMT+8)
       url: /programme/pleasure-craft-forum/
-      image: /images/slide6.PNG
+      image: /images/Home/v02-08.jpg
       alt: Image alt text
       button: CLICK HERE
   - infopic:
       title: Harbour Craft Safety Forum
       url: /programme/harbour-craft-forum/
-      image: /images/slide7.PNG
+      image: /images/Home/v02-09.jpg
       alt: Image alt text
       subtitle: 27 OCT | 0900 – 12:00 (GMT+8)
       button: CLICK HERE
