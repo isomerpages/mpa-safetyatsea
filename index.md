@@ -95,6 +95,14 @@ sections:
       subtitle: 27 OCT | 0900 – 12:00 (GMT+8)
       button: CLICK HERE
   - infopic:
+      title: 2023 SAFETY4SEA Singapore Forum
+      subtitle: 26 OCT | 09:00 – 17:00 (GMT+8)
+      id: infopic
+      button: CLICK HERE
+      url: https://events.safety4sea.com/2023-safety4sea-singapore-forum/
+      image: /images/safety4sea.jpg
+      alt: SAFETY4SEA
+  - infopic:
       title: The Nautical Institute Singapore Conference 2023
       subtitle: 27 Oct | 09:00 - 18:00 (GMT+8)
       id: infopic
