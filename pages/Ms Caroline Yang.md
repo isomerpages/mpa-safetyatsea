@@ -1,29 +1,21 @@
 ---
 title: Ms Caroline Yang
-permalink: /speakers/ms-caroline-yang
+permalink: /caroline-yang/
 description: ""
 ---
-<div class="row">
-<div class="col is-3"><img src="/images/Speakers/Caroline Yang.png" /></div>
-<div class="col is-9 speaker-details">
-<h4>Ms Caroline Yang</h4>
-<p>Vice-chair<br />International Chamber of Shipping</p>
-<p>	
-Ms Caroline Yang started her career with Hong Lam Marine Pte Ltd as their in-house counsel in 1991 and was appointed as Executive Director in 2002. In her current role as Chief Executive, she also directly oversees the Legal and Human Resources functions.</p>	
+<div class="row"> <div class="col is-3"> <img src="/images/Speakers_23/Session1p2/caroline yang.png"> </div> <div class="col is-9 speaker-details"> <h4>Ms Caroline Yang</h4> <p>President<br>Singapore Shipping Association <br> </p> <p>Caroline Yang has over 30 years of experience in the shipping industry. She is the CEO of Hong Lam Marine Pte Ltd, a leading bunker craft operator in Singapore. </p> <p> Caroline was first elected as President of the Singapore Shipping Association in 2019, becoming the first female to helm the association since its inception in 1985. Currently serving her third term, Caroline has seen through some of the association’s most challenging times. Her first two years in office was during the outbreak of COVID-19 and she oversaw various initiatives that placed Singapore at the forefront of the global response to the plight of seafarers. More recently, Caroline is committed to leading the industry in areas of digital transformation, cybersecurity, decarbonisation, talent attraction and retention. </p> </div> </div>
 
-<p>	Ms Yang graduated with L.L.B. Honours (University of London) and B.A. Honours (National University of Singapore) both in 1990. She was called to the Bar of England and Wales in 1992. She subsequently passed Bar Exams of Singapore in 1992 and called to the Bar of Singapore in 1995. She is a member of the Singapore Academy of Law.</p>	
 
-<p>	Ms Yang has close to 30 years of experience in the shipping industry. In 2019, Ms Yang was elected as the President of the Singapore Shipping Association (SSA), becoming the first female to helm the Association since its inception in 1985. Currently serving as the President of the SSA for a second term, Ms Yang is also one of the four Vice-Chairs of the International Chamber of Shipping. She is also a board member of the Maritime and Port Authority of Singapore and the Singapore Maritime Foundation.</p>
-</div>
-</div>
+
+
 
 <style type="text/css"> 
-.is-left{
-text-align: left;
-}
-h4{
-font-weight: 500; 
-color: #337B9A !important;
-}
-.speaker-details p { text-align: justified; }
-</style>
+    .is-left{
+      text-align: left;
+    }
+    h4{
+      font-weight: 500; 
+      color: #337B9A !important;
+    }
+     .speaker-details p { text-align: justified; }
+  </style>

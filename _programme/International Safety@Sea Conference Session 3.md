@@ -46,8 +46,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/anthony%20lim.png" alt="anthony%20lim"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Anthony Lim</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/anthony-lim/" rel="noopener">Mr Anthony Lim</a></strong></div>
 <div class="text-ellipsis speaker-position">Fellow</div>
 <div class="text-ellipsis speaker-company">Cybersecurity, Governance &amp; FinTech, Singapore University of Social Sciences</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
@@ -59,9 +60,10 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/ong%20chin%20beng-.png" alt="ong%20chin%20beng"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ong Chin Beng</a></strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Maritime Cybersecurity) and Chief Information Security Officer</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ong-chin-beng/" rel="noopener">Mr Ong Chin Beng</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief Information Security Officer</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
@@ -71,8 +73,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/daniel%20ng.png" alt="daniel%20ng"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Daniel Ng</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/daniel-ng/" rel="noopener">Mr Daniel Ng</a></strong></div>
 <div class="text-ellipsis speaker-position">CEO</div>
 <div class="text-ellipsis speaker-company">CyberOwl</div>
 </div>
@@ -85,8 +88,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/ron%20fong-min.png" alt="ron%20fong-min"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ron Fong</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ron-fong/" rel="noopener">Mr Ron Fong</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
 <div class="text-ellipsis speaker-company">Pacific Carriers Limited</div>
 </div>
@@ -97,10 +101,11 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session3/li%20xin.png" alt="li%20xin"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Li Xin</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/li-xin/" rel="noopener">Mr Li Xin</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of IT Security</div>
-<div class="text-ellipsis speaker-company">PSA Corporation</div>
+<div class="text-ellipsis speaker-company">PSA Corporation Limited</div>
 </div>
 </div>
 </div>
@@ -109,7 +114,6 @@ description: ""
 
 
 </div>
-
 
 </div>
 </div>

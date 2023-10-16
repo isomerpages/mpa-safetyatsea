@@ -27,6 +27,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/mr chee hong tat.png" alt="chee hong"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Chee Hong Tat</b></a>
@@ -67,9 +68,10 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/ishak ismail.png" alt="ishak ismail"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ishak Ismail</a></strong></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ishak-ismail" rel="noopener">Mr Ishak Ismail</a></strong></div>
+<div class="text-ellipsis speaker-position">NMSSC Chairman</div>
 <div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
@@ -80,8 +82,9 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" alt="ismael cobos delgado"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ismael-cobos-delgado/" rel="noopener">Mr Ismael Cobos Delgado</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Maritime Safety Division)</div>
 <div class="text-ellipsis speaker-company">International Maritime Organisation</div>
 </div>
@@ -92,8 +95,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/david foo-1.png" alt="david foo"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr David Foo</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/david-foo/" rel="noopener">Mr David Foo</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Chief Executive (Operations Technology)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
@@ -106,8 +110,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/michael drake.png" alt="michael drake"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Michael Drake</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-drake/" rel="noopener">Mr Michael Drake</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director Operations</div>
 <div class="text-ellipsis speaker-company">Australian Maritime Safety Authority</div>
 </div>
@@ -118,9 +123,10 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/palle kristensen.png" alt="palle kristensen"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Palle Kristensen</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief Advisor</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/palle-kristensen/" rel="noopener">Mr Palle Kristensen</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
 <div class="text-ellipsis speaker-company">Danish Maritime Authority</div>
 </div>
 </div>
@@ -135,10 +141,11 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/peter bizzaro.png" alt="peter bizzaro"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">CDR Peter Bizzaro</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief of Inspections Division Activities Far East, and Commanding Officer</div>
-<div class="text-ellipsis speaker-company">U.S. Coast Guard Marine Inspection Unit Singapore</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/peter-bizzaro/" rel="noopener">CDR Peter Bizzaro</a></strong></div>
+<div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
+<div class="text-ellipsis speaker-company">United States Coast Guard</div>
 </div>
 </div>
 </div>
@@ -173,10 +180,11 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/yves%20vandenborn.png" alt="yves%20vandenborn"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Yves Vandenborn</a></strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">The Nautical Institute (Singapore) and member of the National Maritime Safety at Sea Council, Singapore</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/yves-vandenborn/" rel="noopener">Capt Yves Vandenborn</a></strong></div>
+<div class="text-ellipsis speaker-position">Honorary President of Nautical Institute Singapore branch<br> Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
+<div class="text-ellipsis speaker-company">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -186,9 +194,10 @@ description: ""
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers_23/session1p2/cazzulo.png" alt="cazzulo"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr R. Srinivas</a></strong></div>
-<div class="text-ellipsis speaker-position">Chair of IACS Cyber Systems Panel</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Roberto Cazzulo</a></strong></div>
+<div class="text-ellipsis speaker-position">IACS Chair-elect</div>
 <div class="text-ellipsis speaker-company">International Association of Classification Societies</div>
 </div>
 </div>
@@ -198,8 +207,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/nick potter.png" alt="nick potter"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Nick Potter</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/nick-potter/" rel="noopener">Mr Nick Potter</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">Oil Companies International Marine Forum</div>
 </div>
@@ -212,8 +222,9 @@ description: ""
 <div class="col is-6 prog-speaker">
 
 <div class="row">
+	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/steen%20lund.png" alt="steen%20lund"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Mr Steen Lund</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/steen-lund/" rel="noopener">Mr Steen Lund</a></strong></div>
 <div class="text-ellipsis speaker-position">CEO</div>
 <div class="text-ellipsis speaker-company">RightShip</div>
 </div>
@@ -224,8 +235,9 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/caroline%20yang.png" alt="caroline%20yang"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Ms Caroline Yang</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/caroline-yang/" rel="noopener">Ms Caroline Yang</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
 <div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
 </div>
@@ -241,10 +253,11 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/capt%20andre%20l%20legoubin.png" alt="capt%20andre%20l%20legoubin"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt André L. LeGoubin</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt André L. LeGoubin</a></strong></div>
 <div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">The Nautical Institute</div>
+<div class="text-ellipsis speaker-company">Nautical Institute</div>
 </div>
 </div>
 </div>
