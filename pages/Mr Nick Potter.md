@@ -9,7 +9,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr Nick Potter</h4>
-<p>General Manager, Shipping &amp; Maritime, Asia Pacific and the Middle East <br>Shell
+<p>Chairman <br>Oil Companies International Marine Forum
 </p>
 <p>Nick Potter has held the role of Chairman of the Oil Companies International Marine Forum (OCIMF) since February 2022 and was first involved in its Board in 2013. The association was formed in April 1970 in response to the growing public concern about marine pollution, particularly by oil. In the 50 years since, OCIMF has grown to become a leading authority on safety for the global marine industry, and today has 111 member companies and consultancy status at the International Maritime Organization (IMO) </p>
 </div>
