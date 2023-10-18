@@ -1,11 +1,13 @@
 logo: /images/logo-2022.jpg
 links:
   - title: REGISTRATION
-    url: "https://form.gov.sg/650b03ebd29dcd00119ab589 "
+    url: https://form.gov.sg/650b03ebd29dcd00119ab589
   - title: About Us
     url: /about-us
   - title: Programme
     url: /programmeoverview/
+  - title: SPEAKER
+    url: /speakers
   - title: Media Room
     url: /media-room
   - title: Resources
