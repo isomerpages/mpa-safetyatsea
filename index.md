@@ -4,8 +4,7 @@ title: International Safety @ Sea Week 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="https://form.gov.sg/650b03ebd29dcd00119ab589"
-  target="_blank">Registration has closed for IS@S Week events</a>
+notification: Registration has closed for IS@S Week events
 sections:
   - hero:
       key_highlights:
