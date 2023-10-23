@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a href="https://form.gov.sg/650b03ebd29dcd00119ab589"
-  target="_blank">Open for Registration.</a>
+  target="_blank">Registration has closed for IS@S Week events</a>
 sections:
   - hero:
       key_highlights:
