@@ -8,9 +8,6 @@ notification: Registration has closed for IS@S Week events
 sections:
   - hero:
       key_highlights:
-        - title: REGISTRATION
-          description: ""
-          url: https://form.gov.sg/650b03ebd29dcd00119ab589
         - title: About Us
           description: ""
           url: /about-us
