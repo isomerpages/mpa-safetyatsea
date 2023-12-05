@@ -25,22 +25,18 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 mb-4">
-<div class="bp-youtube">
 <a href="https://www.youtube.com/watch?v=O0fx\_fy5wMM&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
 <img alt="Session 1" src="/images/Thumbnails/Session_1.png">
-	</a>	
-</div>
+	</a>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 <div class="col is-6 mb-4">
-<div class="bp-youtube">
 <a href="https://www.youtube.com/watch?v=43ALXHVAl-o&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
 <img alt="Session 2" src="/images/Thumbnails/Session_2.png">
 	</a>
-</div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
@@ -50,22 +46,18 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 mb-4">
-<div class="bp-youtube">
 <a href="https://www.youtube.com/watch?v=UVnzWj0z8q0&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=3">
 <img alt="Session 3" src="/images/Thumbnails/Session_3.png">
 	</a>	
-</div>
 <h4 class="text-info">Session 3: Building a Cyber Safe and Resilient Maritime Ecosystem</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 <div class="col is-6 mb-4">
-<div class="bp-youtube">
 <a href="https://www.youtube.com/watch?v=O-LgdzsSK-8&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=4">
 <img alt="Session 4" src="/images/Thumbnails/Session_4.png">
 	</a>
-</div>
 <h4 class="text-info">Session 4: Enhancing Maritime Safety through Technology</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
