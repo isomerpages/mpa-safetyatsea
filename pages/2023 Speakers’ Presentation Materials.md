@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div>
-  <h3>Session 1 - Panel Discussion 1 - Advancing Maritime Safety in a Green Age</h3>
+  <h3>Session 1 - Panel Discussion 1</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -17,6 +17,21 @@ description: ""
     </div>
   </div>
 </section>
+<hr class="my-5">
+<div>
+  <h3>Session 1 - Panel Discussion 2</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Capt LeGoubin - Final Advancing Maritime Safety in a Digital Age - <a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Capt_LeGoubin___Final_Advancing_Maritime_Safety_in_a_Digital_Age.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</section>
+
 <style type="text/css"> 
 .is-left{
 text-align: left;
