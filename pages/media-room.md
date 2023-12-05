@@ -29,8 +29,8 @@ variant: markdown
 <img alt="Session 1" src="/images/Thumbnails/Session_1.png">
 </div>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
-<p style="text-align:left;">Full Recording</p>
-<p style="text-align:left;">Click here to view speakers’ presentation materials.</p>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 <div class="col is-6 mb-4">
