@@ -33,6 +33,12 @@ description: ""
         </h4>
       </div>
     </div>
+<div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Steen Lund - International Safety@Sea Conference 2023  <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Steen_Lund_International_Safety_Sea_Conference_2023.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
   </div>
 </section>
 
