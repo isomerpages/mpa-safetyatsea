@@ -92,7 +92,7 @@ description: ""
         </h4>
       </div>
  <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">MPA Oct roundtable - Dinesh <br><a target="_new" href="/files/Presentation/SESSION_2/MPA_Oct_roundtable___Dinesh.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis">Li Xin - international safety at sea - psa oct 2023 <br><a target="_new" href="/files/Presentation/SESSION_3/Li_Xin___international_safety_at_sea___psa_oct_2023_v0_1.pdf"> Click Here</a>
         </h4>
       </div>
     </div>
