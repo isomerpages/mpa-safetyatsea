@@ -26,7 +26,9 @@ variant: markdown
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
+<a href="https://www.youtube.com/watch?v=O0fx\_fy5wMM&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
 <img alt="Session 1" src="/images/Thumbnails/Session_1.png">
+	</a>	
 </div>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
@@ -35,7 +37,9 @@ variant: markdown
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
+<a href="https://www.youtube.com/watch?v=43ALXHVAl-o&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
 <img alt="Session 2" src="/images/Thumbnails/Session_2.png">
+	</a>
 </div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
