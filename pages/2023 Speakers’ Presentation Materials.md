@@ -128,7 +128,7 @@ description: ""
     </div>
  <div class="row">
       <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">Ong Chin Beng - International Safety at Sea 2023 Cybersecurity  <br><a target="_new" href="/files/Presentation/SESSION_4/.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis"> Pieter - Tidalis Safety - Sea POV technology Provider <br><a target="_new" href="/files/Presentation/SESSION_4/Pieter___Tidalis_Safety___Sea_POV_technology_Provider.pdf"> Click Here</a>
         </h4>
       </div>
  <div class="col is-5">
