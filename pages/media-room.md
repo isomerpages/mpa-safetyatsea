@@ -25,7 +25,7 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 mb-4">
-<a href="https://www.youtube.com/watch?v=O0fx\_fy5wMM&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
+<a href="https://www.youtube.com/watch?v=O0fx_fy5wMM&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=3">
 <img alt="Session 1" src="/images/Thumbnails/Session_1.png">
 	</a>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
