@@ -38,8 +38,8 @@ variant: markdown
 <img alt="Session 2" src="/images/Thumbnails/Session_2.png">
 </div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
-<p style="text-align:left;">Full Recording</p>
-<a href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 </div>
