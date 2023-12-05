@@ -109,6 +109,35 @@ description: ""
   </div>
 </section>
 
+
+<hr class="my-5">
+<div>
+  <h3>Session 4</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Dennis Khoo MPA  - Enhancing Maritime Safety Through Technology  <br><a target="_new" href="/files/Presentation/SESSION_4/Dennis_Khoo_MPA____Enhancing_Maritime_Safety_Through_Technology__for_uploading_.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Mr Chakib LR_Maritime Safety presentation <br><a target="_new" href="/files/Presentation/SESSION_4/Mr_Chakib_LR_Maritime_Safety_presentation.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+ <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Ong Chin Beng - International Safety at Sea 2023 Cybersecurity  <br><a target="_new" href="/files/Presentation/SESSION_4/.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Ron Fong – Building a Cyber Safe and Resilient Maritime Ecosystem for sharing<br><a target="_new" href="/files/Presentation/SESSION_4/.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</section>
 <style type="text/css"> 
 .is-left{
 text-align: left;
