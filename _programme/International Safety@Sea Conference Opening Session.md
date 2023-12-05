@@ -2,6 +2,7 @@
 title: International Safety@Sea Conference Opening Session
 permalink: /programme/conference-opening-session/
 description: ""
+variant: markdown
 ---
 <div>
   <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
@@ -235,24 +236,6 @@ description: ""
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/caroline%20yang.png" alt="caroline%20yang"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/caroline-yang/" rel="noopener">Ms Caroline Yang</a></strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
-</div>
-</div>
-</div>
-
-
-
-
-</div>
-
-<div class="row">
-
-<div class="col is-6 prog-speaker">
-<div class="row">
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/capt%20andre%20l%20legoubin.png" alt="capt%20andre%20l%20legoubin"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt André L. LeGoubin</a></strong></div>
@@ -263,7 +246,11 @@ description: ""
 </div>
 
 
+
+
 </div>
+
+
 </div>
 </div>
 </div>
