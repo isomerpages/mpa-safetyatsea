@@ -30,7 +30,7 @@ variant: markdown
 	</a>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
-<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 <div class="col is-6 mb-4">
@@ -39,7 +39,7 @@ variant: markdown
 	</a>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
-<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 </div>
@@ -51,7 +51,7 @@ variant: markdown
 	</a>	
 <h4 class="text-info">Session 3: Building a Cyber Safe and Resilient Maritime Ecosystem</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
-<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 <div class="col is-6 mb-4">
@@ -60,7 +60,7 @@ variant: markdown
 	</a>
 <h4 class="text-info">Session 4: Enhancing Maritime Safety through Technology</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
-<a class="mb-0 mt-0" href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 </div>
