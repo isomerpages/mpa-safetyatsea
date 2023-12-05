@@ -11,7 +11,7 @@ description: ""
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">CMD Bizzaro 2023 Safety at Sea USCG - <a target="_new" href="/files/Presentation/SESSION_1_PANEL_1/Copy_of_CMD_Bizzaro_2023_Safety_at_Sea_USCG.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis">CMD Bizzaro 2023 Safety at Sea USCG <br> <a target="_new" href="/files/Presentation/SESSION_1_PANEL_1/Copy_of_CMD_Bizzaro_2023_Safety_at_Sea_USCG.pdf"> Click Here</a>
         </h4>
       </div>
     </div>
