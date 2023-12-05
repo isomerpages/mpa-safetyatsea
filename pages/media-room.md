@@ -36,6 +36,8 @@ variant: markdown
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/uGaMOkQnHNM" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
+<h5 class="mb-0">Full Recording</h5>
+<h5>Click here to view speakers’ presentation materials.</h5>
 </div>
 
 </div>
