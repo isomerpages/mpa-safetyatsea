@@ -102,7 +102,7 @@ description: ""
         </h4>
       </div>
  <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">Samuel Soo - For Sharing MPA Safety At Sea Presentation Operationalising Methanol Bunkering <br><a target="_new" href="/files/Presentation/SESSION_2/Samuel_Soo___For_Sharing_MPA_Safety_At_Sea_Presentation_Operationalising_Methanol_Bunkering.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis">Ron Fong – Building a Cyber Safe and Resilient Maritime Ecosystem for sharing<br><a target="_new" href="/files/Presentation/SESSION_3/Ron_Fong___Building_a_Cyber_Safe_and_Resilient_Maritime_Ecosystem_for_sharing.pdf"> Click Here</a>
         </h4>
       </div>
     </div>
