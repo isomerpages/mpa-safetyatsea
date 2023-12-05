@@ -42,6 +42,42 @@ description: ""
   </div>
 </section>
 
+<hr class="my-5">
+<div>
+  <h3>Session 2</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Capt Kamal HLM - Operationalising Methanol Bunkering 23 Oct 2023_  <br><a target="_new" href="/files/Presentation/SESSION_2/Capt_Kamal_HLM__Operationalising_Methanol_Bunkering_23_Oct_2023_.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Nick Potter - OCIMF MMS Forum drated slides <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Nick_Potter___OCIMF_MMS_Forum_drated_slides.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+ <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Capt LeGoubin - Final Advancing Maritime Safety in a Digital Age  <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Capt_LeGoubin___Final_Advancing_Maritime_Safety_in_a_Digital_Age.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Nick Potter - OCIMF MMS Forum drated slides <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Nick_Potter___OCIMF_MMS_Forum_drated_slides.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+<div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Steen Lund - International Safety@Sea Conference 2023  <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Steen_Lund_International_Safety_Sea_Conference_2023.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <style type="text/css"> 
 .is-left{
 text-align: left;
