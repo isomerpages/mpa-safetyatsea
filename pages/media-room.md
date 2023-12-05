@@ -18,6 +18,29 @@ variant: markdown
 </p>
 
 <hr class="my-5">
+<h4 class="mb-4 text-dark">2023 VIDEO GALLERY</h4>
+
+
+
+<div class="row">
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/w0LzyV3x4DU" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
+</div>
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/uGaMOkQnHNM" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
+</div>
+
+</div>
+<hr class="my-5">
+
 </div>
 </div>
 
