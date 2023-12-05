@@ -14,15 +14,6 @@ description: ""
         <h4 class="speaker-name text-ellipsis">CMD Bizzaro 2023 Safety at Sea USCG - <a target="_new" href="/files/Presentation/SESSION_1_PANEL_1/Copy_of_CMD_Bizzaro_2023_Safety_at_Sea_USCG.pdf"> Click Here</a>
         </h4>
       </div>
-      <div class="col is-5">
-        <a href="https://www.tal.sg/wshc/resources/publications/case-studies/case-studies-working-in-and-around-water">
-          <div class="speaker-image-wrapper">
-            <img class="speaker-image img-fluid mb-3" alt="" src="images/CaseStudies.png">
-          </div>
-        </a>
-        <h4 class="speaker-name text-ellipsis">Case Studies for Working In and Around Water – <a target="_new" href="https://www.tal.sg/wshc/resources/publications/case-studies/case-studies-working-in-and-around-water">Click Here</a>
-        </h4>
-      </div>
     </div>
   </div>
 </section>
