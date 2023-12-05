@@ -54,7 +54,7 @@ description: ""
         </h4>
       </div>
  <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">Nick Potter - OCIMF MMS Forum drated slides <br><a target="_new" href="/files/Presentation/SESSION_1_PANEL_2/Nick_Potter___OCIMF_MMS_Forum_drated_slides.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis">MPA Oct roundtable - Dinesh <br><a target="_new" href="/files/Presentation/SESSION_2/MPA_Oct_roundtable___Dinesh.pdf"> Click Here</a>
         </h4>
       </div>
     </div>
