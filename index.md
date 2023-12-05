@@ -4,7 +4,7 @@ title: International Safety @ Sea Week 2023
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="/media-room/">Click here</a> to view the session
+notification: Click <a href="/media-room/">here</a> to view the session
   recordings for the 2023 conference.
 sections:
   - hero:
