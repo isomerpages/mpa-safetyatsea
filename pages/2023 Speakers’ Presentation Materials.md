@@ -98,7 +98,7 @@ description: ""
     </div>
  <div class="row">
       <div class="col is-5">
-        <h4 class="speaker-name text-ellipsis">Natarajan PPT  <br><a target="_new" href="/files/Presentation/SESSION_2/Natarajan_PPT.pdf"> Click Here</a>
+        <h4 class="speaker-name text-ellipsis">Ong Chin Beng - International Safety at Sea 2023 Cybersecurity  <br><a target="_new" href="/files/Presentation/SESSION_3/Ong_Chin_Beng___International_Safety_at_Sea_2023_Cybersecurity_C.pdf"> Click Here</a>
         </h4>
       </div>
  <div class="col is-5">
