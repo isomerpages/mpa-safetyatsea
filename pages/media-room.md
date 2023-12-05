@@ -39,7 +39,7 @@ variant: markdown
 </div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
 <p style="text-align:left;">Full Recording</p>
-<p style="text-align:left;">Click here to view speakers’ presentation materials.</p>
+<a href="/resources" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div>
 
 </div>
