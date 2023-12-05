@@ -29,6 +29,8 @@ variant: markdown
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/w0LzyV3x4DU" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
+<p style="text-align:left;">Full Recording</p>
+<p style="text-align:left;">Click here to view speakers’ presentation materials.</p>
 </div>
 
 <div class="col is-6 mb-4">
@@ -36,8 +38,8 @@ variant: markdown
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/uGaMOkQnHNM" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
-<h5 class="mb-0 mt-0">Full Recording</h5>
-<h5 class="mb-0 mt-0">Click here to view speakers’ presentation materials.</h5>
+<p style="text-align:left;">Full Recording</p>
+<p style="text-align:left;">Click here to view speakers’ presentation materials.</p>
 </div>
 
 </div>
