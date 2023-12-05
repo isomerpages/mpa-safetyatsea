@@ -78,6 +78,37 @@ description: ""
 </section>
 
 
+
+
+<hr class="my-5">
+<div>
+  <h3>Session 3</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">CyberOwl Satefy@Sea SG 2023 -  Daniel Ng  <br><a target="_new" href="/files/Presentation/SESSION_3/CyberOwl_Satefy_Sea_SG_202310_Daniel_Ng.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">MPA Oct roundtable - Dinesh <br><a target="_new" href="/files/Presentation/SESSION_2/MPA_Oct_roundtable___Dinesh.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+ <div class="row">
+      <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Natarajan PPT  <br><a target="_new" href="/files/Presentation/SESSION_2/Natarajan_PPT.pdf"> Click Here</a>
+        </h4>
+      </div>
+ <div class="col is-5">
+        <h4 class="speaker-name text-ellipsis">Samuel Soo - For Sharing MPA Safety At Sea Presentation Operationalising Methanol Bunkering <br><a target="_new" href="/files/Presentation/SESSION_2/Samuel_Soo___For_Sharing_MPA_Safety_At_Sea_Presentation_Operationalising_Methanol_Bunkering.pdf"> Click Here</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</section>
+
 <style type="text/css"> 
 .is-left{
 text-align: left;
