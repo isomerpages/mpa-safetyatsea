@@ -18,7 +18,6 @@ description: ""
 <div class="text-ellipsis speaker-company">United States Coast Guard</div>
 
 </div>
-[CLICK HERE](/files/Presentation/SESSION_1_PANEL_1/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf)
 
 <style type="text/css"> 
 .is-left{
