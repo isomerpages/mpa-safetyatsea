@@ -55,7 +55,7 @@ description: ""
 <div class="text-ellipsis speaker-company mb-3">Maritime and Port Authority of Singapore</div>
 
 	
-<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Vibin Chandrabose’s Presentation Slides<span class="text-danger">*</span>:</strong> 
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Vibin Chandrabose’s Presentation Slides<span class="text-red">*</span>:</strong> 
 	<a href="/files/Presentation/SESSION_2/Mr_Vibin_Chandrabose_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Principal Engineer</div>
 <div class="text-ellipsis speaker-company mb-3">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping
@@ -100,4 +100,5 @@ color: #337B9A !important;
 .content a { text-decoration: none; }
 .speaker-name{  color: #3a79ff;}
 .content strong{ color: #3a79ff;}
+.text-red{color:red;}
 </style>
