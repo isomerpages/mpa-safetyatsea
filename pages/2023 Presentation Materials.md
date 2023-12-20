@@ -24,12 +24,11 @@ description: ""
 	“Advancing Maritime Safety in a Digital Age”
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Nick Potter’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_1/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Nick_Potter_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">Oil Companies International Marine Forum</div>
 
 </div>
-
 
 
 <style type="text/css"> 
