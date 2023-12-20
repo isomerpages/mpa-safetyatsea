@@ -13,7 +13,7 @@ description: ""
 	“Advancing Maritime Safety in a Green Age”	
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong>CDR Peter Bizzaro's Presentation Slides</strong> 
-	<a>CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a class="ml-3">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 	
 
 </div>
