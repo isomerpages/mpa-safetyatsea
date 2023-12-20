@@ -61,6 +61,11 @@ description: ""
 <div class="text-ellipsis speaker-company mb-3">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping
 </div>
 *This presentation is intended for informational purposes only and does not replace independent professional advice. This presentation comprises intellectual property of the American Bureau of Shipping (ABS) and should not be distributed without its consent. ABS shall have no liability for any reliance on the contents of this presentation by any party whomsoever.
+	
+<div class="speaker-name text-ellipsis mt-3"><strong class="mr-5">Mr Dinesh Kumar Balraj’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_2/Mr_Vibin_Chandrabose_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Senior Director, Head of Fleet Operations East</div>
+<div class="text-ellipsis speaker-company mb-3">A.P.Moller-Maersk</div>
 
 </div>
 
