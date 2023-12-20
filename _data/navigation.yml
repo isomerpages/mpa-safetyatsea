@@ -8,5 +8,8 @@ links:
     url: /speakers
   - title: Resources
     url: /resources
+    sublinks:
+      - title: 2023 Presentation Materials
+        url: /2023-speakers-presentation-materials
   - title: Contact Us
     url: /contactus
