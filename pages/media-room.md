@@ -34,9 +34,9 @@ variant: markdown
 </div>
 
 <div class="col is-6 mb-4">
-<a href="https://www.youtube.com/watch?v=43ALXHVAl-o&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=2">
-<img alt="Session 2" src="/images/Thumbnails/Session_2.png">
-	</a>
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/43ALXHVAl-o?si=w0K3zyEchosEQI9O" class="embed-responsive-item"></iframe>
+</div>
 <h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
