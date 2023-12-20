@@ -8,32 +8,32 @@ description: ""
   <h3>International Safety@Sea Conference – Opening Session</h3>
 	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
 </div>
-<div class="mb-3">
+<div class="mb-5">
 <h4 class="programme-title">Panel Discussion 1</h4>
 	“Advancing Maritime Safety in a Green Age”	
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">CDR Peter Bizzaro's Presentation Slides:</strong> 
 	<a href="/files/Presentation/SESSION_1_PANEL_1/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
-<div class="text-ellipsis speaker-company">United States Coast Guard</div>
+<div class="text-ellipsis speaker-company mb-3">United States Coast Guard</div>
 
 </div>
 
-<div class="mb-3">
+<div class="mb-5">
 <h4 class="programme-title">Panel Discussion 2</h4>
 	“Advancing Maritime Safety in a Digital Age”
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Nick Potter’s Presentation Slides:</strong> 
 	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Nick_Potter_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chairman</div>
-<div class="text-ellipsis speaker-company">Oil Companies International Marine Forum</div>
+<div class="text-ellipsis speaker-company  mb-3">Oil Companies International Marine Forum</div>
 
 	
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Steen Lund’s Presentation Slides:</strong> 
 	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Nick_Potter_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">CEO</div>
-<div class="text-ellipsis speaker-company">RightShip</div>
+<div class="text-ellipsis speaker-company  mb-3">RightShip</div>
 </div>
 
 
