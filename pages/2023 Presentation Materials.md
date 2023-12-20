@@ -12,10 +12,12 @@ description: ""
 <h4 class="programme-title">Panel Discussion 1</h4>
 	“Advancing Maritime Safety in a Green Age”	
 	
+<div class="speaker-name text-ellipsis"><strong>CDR Peter Bizzaro's Presentation Slides</strong> 
+	<a>CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 	
 <hr class="my-5">
 </div>
-<i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i>
+
 
 <style type="text/css"> 
 .is-left{
