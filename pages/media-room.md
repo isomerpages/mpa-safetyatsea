@@ -55,9 +55,9 @@ variant: markdown
 </div>
 
 <div class="col is-6 mb-4">
-<a href="https://www.youtube.com/watch?v=O-LgdzsSK-8&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=4">
-<img alt="Session 4" src="/images/Thumbnails/Session_4.png">
-	</a>
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/O-LgdzsSK-8?si=LUFn6B3hYDm2Zb6Z" class="embed-responsive-item"></iframe>
+</div>
 <h4 class="text-info">Session 4: Enhancing Maritime Safety through Technology</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
