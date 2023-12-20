@@ -98,7 +98,7 @@ font-weight: 500;
 color: #337B9A !important;
 }
 .content a { text-decoration: none; }
-.speaker-name{  color: #3a79ff;}
-.content strong{ color: #3a79ff;}
+.speaker-name{  color: #337B9A;}
+.content strong{ color: #337B9A;}
 .text-red{color:red;}
 </style>
