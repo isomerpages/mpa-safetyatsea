@@ -131,7 +131,7 @@ description: ""
 <div class="text-ellipsis speaker-company mb-3">Marine Safety &amp; Vetting, Rio Tinto</div>
 
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Chakib Abi Saab’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_4/Mr_Chakib_Abi_Saab_s_Presentation_Slides.pdff" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/Presentation/SESSION_4/Mr_Chakib_Abi_Saab_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chief Technology and Innovation Officer (LR) / Chairman (Safetytech Accelerator)</div>
 <div class="text-ellipsis speaker-company mb-3">Lloyd’s Register / Safetytech Accelerator</div>
 
