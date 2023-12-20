@@ -43,6 +43,13 @@ description: ""
 <div class="text-ellipsis speaker-company  mb-3">Nautical Institute</div>
 </div>
 
+<div>
+  <h3>International Safety@Sea Conference – Session 2</h3>
+	<h3>Operationalising Methanol Bunkering</h3>
+</div>
+
+
+
 
 <style type="text/css"> 
 .is-left{
