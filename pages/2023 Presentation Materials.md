@@ -74,7 +74,12 @@ description: ""
 <div class="text-ellipsis speaker-position">Team Lead</div>
 <div class="text-ellipsis speaker-company mb-3">Marine Operations, Hong Lam Marine</div>
 	
+<div class="speaker-name text-ellipsis mt-3"><strong class="mr-5">Capt Jagadeesan Natarajan’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_2/Capt_Jagadeesan_Natarajan_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">General Manager</div>
+<div class="text-ellipsis speaker-company mb-3">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan)</div>
 	
+		
 </div>
 
 
