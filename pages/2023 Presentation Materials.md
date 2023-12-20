@@ -12,8 +12,8 @@ description: ""
 <h4 class="programme-title">Panel Discussion 1</h4>
 	“Advancing Maritime Safety in a Green Age”	
 <hr class="my-5">	
-<div class="speaker-name text-ellipsis"><strong>CDR Peter Bizzaro's Presentation Slides</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_2/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf" target="_new" class="ml-5 pl-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="speaker-name text-ellipsis"><strong class="mr-5">CDR Peter Bizzaro's Presentation Slides</strong> 
+	<a href="/files/Presentation/SESSION_1_PANEL_2/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
 <div class="text-ellipsis speaker-company">United States Coast Guard</div>
 
