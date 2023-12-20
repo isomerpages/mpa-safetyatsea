@@ -10,7 +10,7 @@ description: ""
 </div>
 <div>
   <h4>Session 1 - Panel Discussion 1</h4>
-	<p>“Advancing Maritime Safety in a Green Age”</p>
+	<p>Advancing Maritime Safety in a Green Age</p>
 </div>
 <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i>
 
