@@ -34,6 +34,13 @@ description: ""
 	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Steen_Lund_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">CEO</div>
 <div class="text-ellipsis speaker-company  mb-3">RightShip</div>
+	
+	
+		
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Capt André L. LeGoubin’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_1_PANEL_2/Capt_Andr__L__LeGoubin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">President</div>
+<div class="text-ellipsis speaker-company  mb-3">Nautical Institute</div>
 </div>
 
 
