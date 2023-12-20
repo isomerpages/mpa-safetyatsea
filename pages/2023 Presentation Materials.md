@@ -9,8 +9,8 @@ description: ""
 	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
 </div>
 <div>
-  <h4 class="mb-0">Panel Discussion 1</h4>
-	<p>Advancing Maritime Safety in a Green Age</p>
+<h4 class="programme-title">Panel Discussion 1</h4>
+	“Advancing Maritime Safety in a Green Age”	
 	
 	
 <hr class="my-5">
