@@ -46,9 +46,9 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 mb-4">
-<a href="https://www.youtube.com/watch?v=UVnzWj0z8q0&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=3">
-<img alt="Session 3" src="/images/Thumbnails/Session_3.png">
-	</a>	
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/UVnzWj0z8q0?si=D9e0qU7sqrdCrGTu" class="embed-responsive-item"></iframe>
+</div>
 <h4 class="text-info">Session 3: Building a Cyber Safe and Resilient Maritime Ecosystem</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
