@@ -113,6 +113,36 @@ description: ""
 </div>
 
 
+<div>
+  <h3>International Safety@Sea Conference – Session 4</h3>
+	<h3>Enhancing Maritime Safety through Technology</h3>
+</div>
+<div class="mb-5">
+<hr class="my-5">	
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Dennis Khoo’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_4/Mr_Dennis_Khoo_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Director (Maritime Systems and Technology)</div>
+<div class="text-ellipsis speaker-company mb-3">Maritime &amp; Port Authority of Singapore</div>
+
+	
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Daniel Ng’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_3/Mr_Daniel_Ng_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">CEO</div>
+<div class="text-ellipsis speaker-company mb-3">CyberOwl</div>
+
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Ron Fong’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_3/Mr_Ron_Fong_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Head of Fleet IT</div>
+<div class="text-ellipsis speaker-company mb-3">Pacific Carriers Limited</div>
+
+	
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Li Xin’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_3/Mr_Li_Xin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Head of IT Security</div>
+<div class="text-ellipsis speaker-company mb-3">PSA Corporation Limited</div>
+	
+</div>
+
 <style type="text/css"> 
 .is-left{
 text-align: left;
