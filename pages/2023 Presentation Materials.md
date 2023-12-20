@@ -9,7 +9,7 @@ description: ""
 	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
 </div>
 <div>
-  <h4>Session 1 - Panel Discussion 1</h4>
+  <h4 class="mb-0">Session 1 - Panel Discussion 1</h4>
 	<p>Advancing Maritime Safety in a Green Age</p>
 </div>
 <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i>
