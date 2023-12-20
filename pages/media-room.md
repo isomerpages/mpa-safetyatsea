@@ -25,9 +25,9 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 mb-4">
-<a href="https://www.youtube.com/watch?v=O0fx_fy5wMM&amp;list=PLtnss4Yyvyaa7HWFaspGdN0qIHMianThr&amp;index=3">
-<img alt="Session 1" src="/images/Thumbnails/Session_1.png">
-	</a>
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/O0fx_fy5wMM?si=Z_tOW8PjzRJgfpnw" class="embed-responsive-item"></iframe>
+</div>
 <h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
 <a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
