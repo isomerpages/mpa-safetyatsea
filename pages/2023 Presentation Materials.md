@@ -137,7 +137,7 @@ description: ""
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Pieter de Coningh’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_3/Mr_Li_Xin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/Presentation/SESSION_4/Mr_Pieter_de_Coningh_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
 <div class="text-ellipsis speaker-company mb-3">Tidalis APAC Limited</div>
 	
