@@ -103,7 +103,13 @@ description: ""
 	<a href="/files/Presentation/SESSION_3/Mr_Ron_Fong_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
 <div class="text-ellipsis speaker-company mb-3">Pacific Carriers Limited</div>
-		
+
+	
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Li Xin’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_3/Mr_Li_Xin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Head of IT Security</div>
+<div class="text-ellipsis speaker-company mb-3">PSA Corporation Limited</div>
+	
 </div>
 
 
