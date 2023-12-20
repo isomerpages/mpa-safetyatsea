@@ -93,6 +93,12 @@ description: ""
 <div class="text-ellipsis speaker-position">Chief Information Security Officer</div>
 <div class="text-ellipsis speaker-company mb-3">Maritime and Port Authority of Singapore</div>
 
+	
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Daniel Ng’s Presentation Slides:</strong> 
+	<a href="/files/Presentation/SESSION_3/Mr_Daniel_Ng_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">CEO</div>
+<div class="text-ellipsis speaker-company mb-3">CyberOwl</div>
+
 		
 </div>
 
