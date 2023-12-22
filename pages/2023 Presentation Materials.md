@@ -19,7 +19,7 @@ description: ""
 
 </div>
 
-<div class="mb-5">
+<div class="mb-5 pb-5">
 <h4 class="programme-title">Panel Discussion 2</h4>
 	“Advancing Maritime Safety in a Digital Age”
 <hr class="my-5">	
@@ -47,7 +47,7 @@ description: ""
   <h3>International Safety@Sea Conference – Session 2</h3>
 	<h3>Operationalising Methanol Bunkering</h3>
 </div>
-<div class="mb-5">
+<div class="mb-5 pb-5">
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Samuel Soo’s Presentation Slides:</strong> 
 	<a href="/files/Presentation/SESSION_2/Mr_Samuel_Soo_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
