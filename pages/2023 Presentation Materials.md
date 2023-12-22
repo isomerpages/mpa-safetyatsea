@@ -177,5 +177,6 @@ color: #337B9A !important;
 .content a { text-decoration: none; }
 .speaker-name{  color: #004f9f;}
 .content strong{ color: #004f9f;}
+h3{ margin-top:1rem !important;}
 .text-red{color:red;}
 </style>
