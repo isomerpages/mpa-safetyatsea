@@ -174,7 +174,7 @@ h4{
 font-weight: 500; 
 color: #337B9A !important;
 }
-.content a { text-decoration: none; line-height: 1.1; font-size:16px; }
+.content a { text-decoration: none;  font-size:16px; }
 .speaker-name{  color: #004f9f;}
 .content strong{ color: #004f9f;}
 h3{ margin-top:1rem !important;}
