@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div>
-  <h3 class="mb-1">International Safety@Sea Conference – Opening Session</h3>
+  <h3>International Safety@Sea Conference – Opening Session</h3>
 	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
 </div>
 <div class="mb-5 pb-5">
