@@ -2,6 +2,7 @@
 title: Speakers
 permalink: /speakers/
 description: ""
+variant: markdown
 ---
 <div>
   <h3>Opening Session - Advancing Maritime Safety in a Green Age (Panel 1)</h3>
@@ -120,16 +121,6 @@ description: ""
           <h4 class="speaker-name text-ellipsis">Mr Steen Lund</h4>
           <div class="speaker-position text-ellipsis">CEO</div>
           <div class="speaker-company text-ellipsis">RightShip</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/caroline-yang">
-          <div class="speaker-image-wrapper">
-            <img alt="Caroline Yang" src="/images/Speakers_23/Session1p2/caroline yang.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Ms Caroline Yang</h4>
-          <div class="speaker-position text-ellipsis">President</div>
-          <div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
         </a>
       </div>
       <div class="col is-4">

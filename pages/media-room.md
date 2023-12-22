@@ -1,7 +1,75 @@
 ---
 title: Media Room
 permalink: /media-room/
+variant: markdown
 ---
+<div class="row mx-0">
+<div class="col is-12 mx-auto text-center">
+
+
+
+<h4 class="mb-4 text-dark">PRESS RELEASE 2023</h4>
+<p class="mt-4">
+<span style="text-decoration: underline;">
+<span style="color: #5c1d5e;">
+<a style="color: #993366; text-decoration: underline;" target="_new" href="https://www.mpa.gov.sg/media-centre/details/is@s-week-2023-fostering-maritime-safety-in-the-decarbonisation-and-digitalisation-age">IS@S Week 2023: Fostering Maritime Safety in the Decarbonisation and Digitalisation Age</a>
+</span>
+</span>
+</p>
+
+<hr class="my-5">
+<h4 class="mb-4 text-dark">2023 VIDEO GALLERY</h4>
+
+
+
+<div class="row">
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/O0fx_fy5wMM?si=Z_tOW8PjzRJgfpnw" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Opening Session: Advancing Maritime Safety in a Green and Digital Age</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/43ALXHVAl-o?si=w0K3zyEchosEQI9O" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 2: Operationalising Methanol Bunkering</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+
+</div>
+<div class="row">
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/UVnzWj0z8q0?si=D9e0qU7sqrdCrGTu" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 3: Building a Cyber Safe and Resilient Maritime Ecosystem</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/O-LgdzsSK-8?si=LUFn6B3hYDm2Zb6Z" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 4: Enhancing Maritime Safety through Technology</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2023-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+
+</div>
+<hr class="my-5">
+
+</div>
+</div>
+
+
 <div class="row mx-0">
 <div class="col is-12 mx-auto text-center">
 
@@ -51,15 +119,15 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ko-xER2fxzw" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Opening Session: Riding the Waves for Maritime Safety</h4>
-<p style="text-align:left; ">Full Recording</p>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/6VwCzFmLX1w" class="embed-responsive-item"></iframe>
 </div>
-<h4 class="text-info">IS@S Plenary 1: Dovetailing Seafarers’ Health & Wellbeing with a Good Safety Culture</h4>
-<p style="text-align:left; ">Full Recording</p>
+<h4 class="text-info">IS@S Plenary 1: Dovetailing Seafarers’ Health &amp; Wellbeing with a Good Safety Culture</h4>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 </div>
@@ -73,7 +141,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/vkiJWV0Vr6M" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">IS@S Plenary 2: Proactive Use of Data for Maritime Safety</h4>
-<p style="text-align:left; ">Full Recording</p>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 <div class="col is-6 mb-4">
@@ -81,7 +149,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/jPniEkTkfhA" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Harbour Craft Safety Forum: Instilling a Strong Safety Culture for the Harbour Craft Industry</h4>
-<p style="text-align:left; ">Full Recording</p>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 </div>
@@ -95,7 +163,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/T9uVZqfQGU0" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Pleasure Craft Safety Forum: Best Practices to Avoid Incidents at Sea</h4>
-<p style="text-align:left; ">Full Recording</p>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 <div class="col is-6 mb-4">
@@ -103,7 +171,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/LU61fZml3-s" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Maritime Cybersecurity Dialogue: Cyber Safety@Sea</h4>
-<p style="text-align:left; ">Full Recording</p>
+<p style="text-align:left;">Full Recording</p>
 </div>
 
 </div>
