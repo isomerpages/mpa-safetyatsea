@@ -207,7 +207,7 @@ with National Maritime Safety at Sea Council (NMSSC) and Workplace Safety & Heal
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers/michael-phoon.png" alt="Mr Michael Phoon" /></div>
+<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers/Michael-Phoon.png" alt="Mr Michael Phoon" /></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/mr-michael-phoon " rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chairman</div>
