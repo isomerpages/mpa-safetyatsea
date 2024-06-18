@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: International Safety @ Sea Week 2023
+title: Singapore Safety@Sea Week 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -18,8 +18,8 @@ sections:
         - title: SPEAKER
           description: ""
           url: /speakers
-      title: International Safety@Sea Week 2023
-      subtitle: 23rd October to 27th October
+      title: Singapore Safety@Sea Week 2024
+      subtitle: 19th August to 23rd August
       background: /images/HOME-BANNER4.jpg
   - infobar:
       title: Spotlight on Maritime Safety
