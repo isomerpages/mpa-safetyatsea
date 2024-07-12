@@ -19,6 +19,7 @@ sections:
           description: ""
           url: /speakers
       background: /images/Home_Page_Banner.jpg
+      variant: image
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
