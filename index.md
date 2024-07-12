@@ -18,8 +18,6 @@ sections:
         - title: SPEAKER
           description: ""
           url: /speakers
-      title: Singapore Safety@Sea Week 2024
-      subtitle: 19th August to 23rd August
       background: /images/Home_Page_Banner.jpg
   - infobar:
       title: Spotlight on Maritime Safety
