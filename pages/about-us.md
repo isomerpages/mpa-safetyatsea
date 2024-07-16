@@ -28,9 +28,9 @@ This year, there are eight sessions to look forward to including the Singapore S
 <p>          More details to follow.</p>
 <p><strong>          Responder Plus Programme (RPP) Maritime Workshops (21 &amp; 23 Aug 2024)<br></strong>          The RPP (Responder Plus Programme) Maritime Workshop is a new addition to the event line-up this year. Two sessions of the RPP Maritime Workshop will be held on 21 Aug and 23 Aug. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), the workshop aims to equip participants with critical lifesaving skills such as First Aid, CPR/AED, and learning how to use a fire extinguisher.
 </p><p><strong>          Ferry Rescue Exercise (FEREX) (22 Aug 2024)</strong>          
-
-MPA’s Ferry Rescue Exercise (FEREX) is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a ferry mishap. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. 
 </p>
+MPA’s Ferry Rescue Exercise (FEREX) is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a ferry mishap. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building.           FEREX 2024 will be held in conjunction with SS@S Week 2024.
+<p></p>
 	Kindly note that this is a closed-door event. <p></p>
 	</div>	
 	
