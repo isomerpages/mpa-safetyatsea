@@ -6,7 +6,7 @@ variant: markdown
 <div class="row mx-0">
 <div class="col is-12 mx-auto">
 <div class="row">
-<div class="col is-3 mb-4"><img src="/images/is_logo.jpg" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img src="/images/logos/SS_SWeek_Logo_CLOSE_UP.jpg" class="img-fluid"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">Singapore Safety@Sea Week</h5>
 <div>
