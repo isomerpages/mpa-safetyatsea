@@ -77,7 +77,7 @@ sections:
       button: Click here
       alt: Image alt text
       image: /images/Home/FEREX.jpg
-      url: /programme/industry-visits-psa/
+      url: /programme/ferex/
   - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshop 2
       subtitle: 23 Aug | 08:30 - 13:00 (GMT+8)
