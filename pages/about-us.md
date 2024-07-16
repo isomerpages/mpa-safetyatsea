@@ -18,12 +18,11 @@ _As part of MPA’s commitment to promoting safety at sea, registration for all 
 <p>         
 
 This year, there are eight sessions to look forward to including the Singapore Safety@Sea (SS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and inaugural Responder Plus Programme (RPP) Maritime Workshops.</p>
-<p><strong>International Safety@Sea Conference (23 – 24 Oct 2023)<br></strong>This year’s International Safety@Sea Conference will be held over two days at the PARKROYAL on Beach Road Hotel in Singapore. <br><br>Session themes:</p>
+<p><strong>Singapore Safety@Sea Conference (19 Aug 2024)<br></strong>          This year’s Singapore Safety@Sea Conference will be held at Conrad Singapore Orchard (1 Cuscaden Rd Singapore 249715). <br><br>Session themes:</p>
 <ul>
-<li>Opening Session (23 Oct): "Advancing Maritime Safety in a Green and Digital Age"</li>
-<li>Session 2 (23 Oct): Operationalising Methanol Bunkering&nbsp;</li>
-	<li>Session 3 (24 Oct): Building a Cyber Safe and Resilient Martime Ecosystem&nbsp;</li>
-	<li>Session 4 (24 Oct): Enhancing Maritime Safety through Technology&nbsp;</li>
+<li>          Opening Session: “All Hands on Deck for Safe and Green Shipping”</li>
+<li>          Session 2:&nbsp;“All Hands on Deck for Safe Ammonia Bunkering”</li>
+	<li>          Session 3: “All Hands on Deck for Our People’s Safety and Wellbeing”</li>
 
 <p><strong>Ferry Rescue Exercise (FEREX) Participant Programme (24 Oct 2023)<br></strong>FEREX (Ferry Rescue Exercise) is a multi-agency exercise, organised by the Maritime and Port Authority of Singapore (MPA) to verify and validate Singapore's operational readiness and responsiveness in the event of a ferry mishap. In a significant stride towards sustainability, the exercise will involve mishap of an electric ferry.</p>
 <p>Observers will get to witness the close coordination between participating agencies and organisations, including the Police Coast Guard from the Singapore Police Force (SPF), Republic of Singapore Air Force (RSAF), Republic of Singapore Navy (RSN) and Singapore Civil Defence Force (SCDF).</p>
