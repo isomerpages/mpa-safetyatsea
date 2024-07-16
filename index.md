@@ -71,6 +71,13 @@ sections:
       url: /programme/industry-visits-pocc/
       button: CLICK HERE
   - infopic:
+      title: Ferry
+      subtitle: 22 AUG | 09:30 - 12:00 (GMT+8)
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshop 2
       subtitle: 23 Aug | 08:30 - 13:00 (GMT+8)
       id: infopic
