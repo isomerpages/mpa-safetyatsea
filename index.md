@@ -10,7 +10,7 @@ notification: Registration for 2024 events will open soon. Click <a
 sections:
   - hero:
       key_highlights:
-        - title: About Us
+        - title: About US
           description: ""
           url: /about-us
         - title: Programme
