@@ -14,7 +14,7 @@ variant: markdown
 <p>          Into its 11th year, this year’s S@S Week is the Singapore edition, which alternates with the International edition. It will be held from 19 to 23 Aug 2024.</p>
 <p>         
 
-*As part of MPA’s commitment to promoting safety at sea, registration for all events is free.*</p>
+As part of MPA’s commitment to promoting safety at sea, registration for all events is free.</p>
 <p>         
 
 This year, there are eight sessions to look forward to including the Singapore Safety@Sea (SS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and inaugural Responder Plus Programme (RPP) Maritime Workshops.</p>
