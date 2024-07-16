@@ -36,11 +36,13 @@ sections:
       subtitle: 19 Aug | 13:30 – 15:00 (GMT+8)
       description: All Hands on Deck for Safe Ammonia Bunkering
       image: /images/Home/Session_Two_Banner.jpg
+      alt: Image alt text
   - infopic:
       title: Singapore Safety@Sea Conference - Session 3
       subtitle: 19 AUG | 15:30 – 17:30 (GMT+8)
       description: All Hands on Deck for Our People's Safety and Wellbeing
       image: /images/Home/Session_Three_Banner.jpg
+      alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
       image: /images/Home/Harbour_Craft_Banner.jpg
