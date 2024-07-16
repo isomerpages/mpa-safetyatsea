@@ -9,18 +9,9 @@ notification: Registration for 2024 events will open soon. Click <a
   conference.
 sections:
   - hero:
-      key_highlights:
-        - title: About US
-          description: ""
-          url: /about-us
-        - title: Programme
-          description: ""
-          url: /programmeOverview
-        - title: SPEAKER
-          description: ""
-          url: /speakers
-      background: /images/Home_Page_Banner.jpg
-      variant: image
+      background: /images/2022-HOME-BANNER2.jpg
+      variant: center
+      title: Singapore Safety@Sea Week 2024
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
