@@ -30,7 +30,8 @@ This year, there are eight sessions to look forward to including the Singapore S
 </p><p><strong>          Ferry Rescue Exercise (FEREX) (22 Aug 2024)</strong>          
 
 MPA’s Ferry Rescue Exercise (FEREX) is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a ferry mishap. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. 
-</p><p></p>
+</p>
+	Kindly note that this is a closed-door event. <p></p>
 	</div>	
 	
 </div>
