@@ -22,14 +22,13 @@ This year, there are eight sessions to look forward to including the Singapore S
 <ul>
 <li>          Opening Session: “All Hands on Deck for Safe and Green Shipping”</li>
 <li>          Session 2:&nbsp;“All Hands on Deck for Safe Ammonia Bunkering”</li>
-	<li>          Session 3: “All Hands on Deck for Our People’s Safety and Wellbeing”</li>
+	<li>          Session 3: “All Hands on Deck for Our People’s Safety and Wellbeing”</li> </ul>
 
-<p><strong>Ferry Rescue Exercise (FEREX) Participant Programme (24 Oct 2023)<br></strong>FEREX (Ferry Rescue Exercise) is a multi-agency exercise, organised by the Maritime and Port Authority of Singapore (MPA) to verify and validate Singapore's operational readiness and responsiveness in the event of a ferry mishap. In a significant stride towards sustainability, the exercise will involve mishap of an electric ferry.</p>
-<p>Observers will get to witness the close coordination between participating agencies and organisations, including the Police Coast Guard from the Singapore Police Force (SPF), Republic of Singapore Air Force (RSAF), Republic of Singapore Navy (RSN) and Singapore Civil Defence Force (SCDF).</p>
-<p><strong>Industry Visits (25 Oct)<br></strong>As part of the Week, MPA is arranging visits to the Port Operations Control Centre (POCC), and PSA Innovation Centre.</p><p></p>
-<p><strong>Pleasure Craft Safety Forum (26 Oct) &amp; Harbour Craft Safety Forum (27 Oct)<br></strong>The International Safety@Sea Week 2023 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
-<p>More details to follow.</p>
-	</ul></div>	
+<p><strong>          Pleasure Craft Safety Forum &amp; Harbour Craft Safety Forum (20 Aug 2024)<br></strong>          The Singapore Safety@Sea Week 2024 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
+<p>          More details to follow.</p>
+<p><strong>          Responder Plus Programme (RPP) Maritime Workshops (21 &amp; 23 Aug 2024)<br></strong>          The RPP (Responder Plus Programme) Maritime Workshop is a new addition to the event line-up this year. Two sessions of the RPP Maritime Workshop will be held on 21 Aug and 23 Aug. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), the workshop aims to equip participants with critical lifesaving skills such as First Aid, CPR/AED, and learning how to use a fire extinguisher.
+</p><p></p>
+	</div>	
 	
 </div>
 </div>
