@@ -71,12 +71,13 @@ sections:
       url: /programme/industry-visits-pocc/
       button: CLICK HERE
   - infopic:
-      title: Ferry
+      title: Ferry Rescue Exercise (FEREX)
       subtitle: 22 AUG | 09:30 - 12:00 (GMT+8)
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Click here
       alt: Image alt text
+      image: /images/Home/FEREX.jpg
+      url: /programme/industry-visits-psa/
   - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshop 2
       subtitle: 23 Aug | 08:30 - 13:00 (GMT+8)
