@@ -8,12 +8,16 @@ variant: markdown
 <div class="row">
 <div class="col is-3 mb-4"><img src="/images/is_logo.jpg" class="img-fluid"></div>
 <div class="col is-9 text-justify">
-<h5 class="abt-title">International Safety@Sea Week</h5>
+<h5 class="abt-title">Singapore Safety@Sea Week</h5>
 <div>
-<p>The Maritime and Port Authority of Singapore (MPA) is organising the 10th edition of the International Safety@Sea Week from 23 October to 27 October 2023.</p>
-<p>This is an annual platform for MPA to engage members of the international maritime community and top practitioners to raise awareness and exchange views on maritime safety. As part of MPA’s commitment to promoting safety at sea, registration for all events are free.</p>
-<p>This year, there are 8 sessions to look forward to including the flagship International Safety@Sea Conference, two safety forums for the pleasure craft and harbour craft sectors, FEREX Participant Programme and Industry Visits.&nbsp;</p>
-<p>Winners for the annual International Safety@Sea Awards, which recognizes outstanding efforts of organizations and individuals who have played a significant part in ensuring safety at sea, will also receive their awards then.&nbsp;</p>
+<p>          The Safety@Sea (S@S) Week is an annual platform organised by the Maritime and Port Authority of Singapore (MPA) to engage members of the maritime community and top practitioners to raise awareness and exchange views on maritime safety. It consists of various events across the week.</p>
+<p>          Into its 11th year, this year’s S@S Week is the Singapore edition, which alternates with the International edition. It will be held from 19 to 23 Aug 2024.</p>
+<p>         
+
+_As part of MPA’s commitment to promoting safety at sea, registration for all events is free._</p>
+<p>         
+
+This year, there are eight sessions to look forward to including the Singapore Safety@Sea (SS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and inaugural Responder Plus Programme (RPP) Maritime Workshops.</p>
 <p><strong>International Safety@Sea Conference (23 – 24 Oct 2023)<br></strong>This year’s International Safety@Sea Conference will be held over two days at the PARKROYAL on Beach Road Hotel in Singapore. <br><br>Session themes:</p>
 <ul>
 <li>Opening Session (23 Oct): "Advancing Maritime Safety in a Green and Digital Age"</li>
