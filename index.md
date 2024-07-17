@@ -9,7 +9,7 @@ notification: Registration for 2024 events will open soon. Click <a
   conference.
 sections:
   - hero:
-      background: /images/2022-HOME-BANNER.jpg
+      background: /images/HOME-BANNER4.jpg
       variant: center
       title: Singapore Safety@Sea Week 2024
       subtitle: 19th August to 23rd August
