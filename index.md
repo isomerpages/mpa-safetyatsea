@@ -4,110 +4,56 @@ title: Singapore Safety@Sea Week 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click <a href="/media-room/">here</a> to view the session
-  recordings for the 2023 conference.
+notification: Registration for 2024 events will open soon. Click <a
+  href="/media-room/">here</a> to view the session recordings for the 2023
+  conference.
 sections:
   - hero:
-      key_highlights:
-        - title: About Us
-          description: ""
-          url: /about-us
-        - title: Programme
-          description: ""
-          url: /programmeOverview
-        - title: SPEAKER
-          description: ""
-          url: /speakers
+      background: /images/HOME-BANNER4.jpg
+      variant: center
       title: Singapore Safety@Sea Week 2024
       subtitle: 19th August to 23rd August
-      background: /images/HOME-BANNER4.jpg
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
         promote safety at sea.
   - infopic:
-      description: Advancing Maritime Safety in a Green and Digital Age
-      image: /images/Home/v02-01.jpg
+      description: All Hands on Deck for Safe and Green Shipping
+      image: /images/Home/Opening_Session_Banner.jpg
       alt: Image alt text
-      title: International Safety@Sea Conference – Opening Session
-      subtitle: 23 Oct | 13:00 - 15:30 (GMT+8)
-      url: /programme/conference-opening-session/
-      button: CLICK HERE
+      title: Singapore Safety@Sea Conference – Opening Session
+      subtitle: 19 Aug | 10:00 - 12:30 (GMT+8)
   - infopic:
-      title: International Safety@Sea Conference – Session 2
-      subtitle: 23 oct | 16:00 – 18:00 (GMT+8)
-      description: Operationalising Methanol Bunkering
-      url: /programme/session-2/
-      image: /images/Home/v02-02.jpg
-      alt: Image alt text
-      button: CLICK HERE
-  - infopic:
-      title: FEREX Participant Programme
-      subtitle: 24 OCT | 09:30 – 11:30 (GMT+8)
-      url: /programme/ferex/
-      image: /images/Home/v02-03.jpg
-      alt: Image alt text
-      button: CLICK HERE
-  - infopic:
-      title: International Safety@Sea Conference - Session 3
-      subtitle: 24 OCT | 13:30 – 15:30 (GMT+8)
-      description: Building a Cyber Safe and Resilient Maritime Ecosystem
-      url: /programme/session-3/
-      image: /images/Home/v02-04.jpg
-      alt: IS@S Plenary 2
-      button: CLICK HERE
-  - infopic:
-      title: International Safety@Sea Conference - Session 4
-      subtitle: 24 OCT | 16:00 – 18:00 (GMT+8)
-      id: infopic
-      description: Enhancing Maritime Safety through Technology
-      alt: Image alt text
-      image: /images/Home/v02-05.jpg
-      button: CLICK HERE
-      url: /programme/session-4/
-  - infopic:
-      title: Industry Visits – MPA’s Port Operations Control Centre
-      image: /images/Home/v02-06.jpg
-      alt: Image alt text
-      subtitle: 25 Oct | 14:00 - 17:00 (GMT+8
-      url: /programme/industry-visits-pocc/
-      button: CLICK HERE
-  - infopic:
-      title: Industry Visits – PSA Innovation Centre
-      subtitle: 25 Oct | 14:00 - 17:00 (GMT+8)
-      id: infopic
-      button: CLICK HER
-      url: /programme/industry-visits-psa/
-      image: /images/Home/v02-07.jpg
+      title: Singapore Safety@Sea Conference – Session 2
+      subtitle: 19 Aug | 13:30 – 15:00 (GMT+8)
+      description: All Hands on Deck for Safe Ammonia Bunkering
+      image: /images/Home/Session_Two_Banner.jpg
       alt: Image alt text
   - infopic:
-      title: Pleasure Craft Safety Forum
-      subtitle: 26 OCT | 09:00 – 13:00 (GMT+8)
-      url: /programme/pleasure-craft-forum/
-      image: /images/Home/v02-08.jpg
+      title: Singapore Safety@Sea Conference - Session 3
+      subtitle: 19 AUG | 15:30 – 17:30 (GMT+8)
+      description: All Hands on Deck for Our People's Safety and Wellbeing
+      image: /images/Home/Session_Three_Banner.jpg
       alt: Image alt text
-      button: CLICK HERE
   - infopic:
       title: Harbour Craft Safety Forum
-      url: /programme/harbour-craft-forum/
-      image: /images/Home/v02-09.jpg
+      image: /images/Home/Harbour_Craft_Banner.jpg
       alt: Image alt text
-      subtitle: 27 OCT | 0900 – 12:00 (GMT+8)
-      button: CLICK HERE
+      subtitle: 20 AUG | 08:30 – 12:00 (GMT+8)
   - infopic:
-      title: 2023 SAFETY4SEA Singapore Forum
-      subtitle: 26 OCT | 09:00 – 17:00 (GMT+8)
-      id: infopic
-      button: CLICK HERE
-      url: https://events.safety4sea.com/2023-safety4sea-singapore-forum/
-      image: /images/safety4sea.jpg
-      alt: SAFETY4SEA
+      title: Pleasure Craft Safety Forum
+      subtitle: 20 AUG | 08:30 – 12:00 (GMT+8)
+      image: /images/Home/Pleasure_Craft_Banner.jpg
+      alt: Image alt text
   - infopic:
-      title: The Nautical Institute Singapore Conference 2023
-      subtitle: 27 Oct | 09:00 - 18:00 (GMT+8)
+      title: Responder Plus Programme (RPP) Maritime Workshops
+      image: /images/Home/RPP_Banner.jpg
+      alt: Image alt text
+      subtitle: 21 & 23 AUG | 08:30 - 13:00
+  - infopic:
+      title: Ferry Rescue Exercise (FEREX)
+      subtitle: 22 AUG | 09:30 - 12:00 (GMT+8)
       id: infopic
-      button: CLICK HERE
-      url: /programme/the-nautical-institute-singapore-conference-2023/
-      image: /images/nautical.jpg
-      alt: Nautical Institute Conference
+      alt: Image alt text
+      image: /images/Home/FEREX.jpg
 ---
