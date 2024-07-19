@@ -42,7 +42,7 @@ sections:
       subtitle: 20 AUG | 08:30 – 12:00 (GMT+8)
   - infopic:
       title: Pleasure Craft Safety Forum
-      subtitle: 20 AUG | 08:30 – 12:00 (GMT+8)
+      subtitle: 20 AUG | 13:00 – 16:00 (GMT+8)
       image: /images/Home/Pleasure_Craft_Banner.jpg
       alt: Image alt text
   - infopic:
