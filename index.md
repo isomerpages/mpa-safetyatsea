@@ -56,4 +56,11 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Home/FEREX.jpg
+  - infopic:
+      title: Refresher Sharing on Shiphandling
+      subtitle: 22 AUG | 13:00 - 14:30 (GMT+8)
+      id: infopic
+      description: By PSA Marine
+      image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
+      alt: Image alt text
 ---
