@@ -4,7 +4,7 @@ permalink: /navigating-a-safe-shipping-transition-seminar-by-ssa/
 variant: tiptap
 description: ""
 ---
-<p><strong>22 Aug  | 12:00 - 17:00 GMT+8</strong>
+<p><strong>22 Aug | 12:00 - 17:00 GMT+8</strong>
 </p>
 <h3>Navigating a Safe Shipping Transition Seminar</h3>
 <p></p>
