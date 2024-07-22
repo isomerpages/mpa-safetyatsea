@@ -4,7 +4,7 @@ permalink: /refresher-sharing-on-shiphandling-by-psa-marine/
 variant: tiptap
 description: ""
 ---
-<p><strong>20 Aug | 13;00 - 14:30 GMT+8</strong>
+<p><strong>20 Aug | 13:00 - 14:30 GMT+8</strong>
 </p>
 <h3>Refresher Sharing on Shiphandling</h3>
 <p>Organized by PSA Marine</p>
