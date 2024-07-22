@@ -19,12 +19,6 @@ FEREX 2024&nbsp;will simulate the collision of two domestic ferries - one electr
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
 <p>Kindly note that this is a closed-door event.</p>
 
 <style type="text/css"> 
