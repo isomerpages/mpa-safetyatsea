@@ -5,13 +5,25 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>24 Oct | 09:30 - 11:30</b>&nbsp;<b>GMT+8</b>
+  <b>22 Aug | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
   <h3>Ferry Rescue Exercise (FEREX) Participant Programme</h3>
 </div>
 
 <img src="/images/FEREX2.jpg" class="img-fluid">
-<p>FEREX (Ferry Rescue Exercise) is a multi-agency exercise, organised by the Maritime and Port Authority of Singapore (MPA) to verify and validate Singapore’s operational readiness and responsiveness in the event of a ferry mishap. In a significant stride towards sustainability, this year’s exercise will involve mishap of an electric ferry.</p>
-<p>Participants will get to witness the close coordination between participating agencies and organisations, including the Police Coast Guard from the Singapore Police Force (SPF), Republic of Singapore Air Force (RSAF), Republic of Singapore Navy (RSN) and Singapore Civil Defence Force (SCDF).</p>
+<p>        
+
+FEREX 2024&nbsp;will simulate the collision of two domestic ferries - one electric and one diesel-powered - plying between Marina South Pier and Southern Islands. The collision results in severe damage to the hull of the diesel-powered ferry, causing the vessel to take in water. Several passengers&nbsp;also require immediate evacuation after&nbsp;sustaining&nbsp;severe injuries&nbsp;from the collision. Meanwhile, the electric ferry experiences a thermal runaway and catches fire. MPA&nbsp;and the relevant agencies, together with private operators, will respond upon activation of the Ferry Mishap Contingency Plan.</p>
+<p>        
+
+**FEREX will be held on 22 Aug 2024 (Thursday), 9.00am – 12.00pm.** Invitees will witness how MPA, as the Crisis Manager, will lead and coordinate WoG efforts to deal with the ferry mishap. They will also be able to see how MPA is leveraging on technology and systems to enhance both MPA’s and WoG’s situational awareness, to ensure timely and coordinated emergency responses. Additionally, they will get to see how the SSVP volunteers are deployed to aid in search and rescue efforts at sea and landward operations at Marina Bay Cruise Centre (MBCC).</p>
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 <p>Kindly note that this is a closed-door event.</p>
 
