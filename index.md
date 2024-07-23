@@ -63,4 +63,11 @@ sections:
       description: By PSA Marine
       image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
       alt: Image alt text
+  - infopic:
+      title: Navigating a Safe Shipping Transition Seminar
+      subtitle: 22 AUG | 12:00 - 17:00 (GMT+8)
+      id: infopic
+      description: By Singapore Shipping Association (SSA)
+      image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
+      alt: Image alt text
 ---
