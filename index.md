@@ -52,7 +52,7 @@ sections:
       subtitle: 21 & 23 AUG | 08:30 - 13:00
   - infopic:
       title: Ferry Rescue Exercise (FEREX)
-      subtitle: 22 AUG | 09:30 - 12:00 (GMT+8)
+      subtitle: 22 AUG | 09:00 - 12:00 (GMT+8)
       id: infopic
       alt: Image alt text
       image: /images/Home/FEREX.jpg
