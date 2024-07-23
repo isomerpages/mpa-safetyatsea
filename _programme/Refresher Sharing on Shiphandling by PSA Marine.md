@@ -18,9 +18,8 @@ port waters. Maritime excellence is ingrained in our DNA where we are committed
 to prioritise safety, professionalism, reliability and efficiency in our
 services, ensuring maritime pilots and all on board return safely to their
 loved ones.</p>
-<blockquote>
-<h4>Experience Ship Handling Excellence with PSA Marine Academy</h4>
-</blockquote>
+<p><strong>Experience Ship Handling Excellence with PSA Marine Academy</strong>
+</p>
 <p>Embark on a ship-handling journey with us! You would expect the experience
 the following during the Ship Handling 101 session:</p>
 <p></p>
