@@ -56,6 +56,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/Home/FEREX.jpg
+      url: /programme/ferex/
+      button: Click here
   - infopic:
       title: Refresher Sharing on Shiphandling
       subtitle: 20 AUG | 13:00 - 14:30 (GMT+8)
@@ -63,6 +65,8 @@ sections:
       description: By PSA Marine
       image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
       alt: Image alt text
+      url: /refresher-sharing-on-shiphandling-by-psa-marine/
+      button: Click here
   - infopic:
       title: Navigating a Safe Shipping Transition Seminar
       subtitle: 22 AUG | 12:00 - 17:00 (GMT+8)
@@ -70,4 +74,6 @@ sections:
       description: By Singapore Shipping Association (SSA)
       image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
       alt: Image alt text
+      url: /navigating-a-safe-shipping-transition-seminar-by-ssa/
+      button: Click here
 ---
