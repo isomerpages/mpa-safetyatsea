@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div>
   <b>22 Aug | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Ferry Rescue Exercise (FEREX) Participant Programme</h3>
+  <h3>Ferry Rescue Exercise (FEREX)</h3>
 </div>
 
 <img src="/images/FEREX2.jpg" class="img-fluid">
