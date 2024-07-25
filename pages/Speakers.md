@@ -13,7 +13,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
-            <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="![](/images/logos/MPA_Singapore_Logo.png)speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -76,7 +76,7 @@ variant: markdown
   </div>
 </section>
 <div>
-  <h3>Opening Session - Advancing Maritime Safety in a Green and Digital Age (Panel 2) </h3>
+  <h3>Opening Session - All Hands on Deck for Safe Methanol Bunkering (Panel 2) </h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -137,63 +137,42 @@ variant: markdown
   </div>
 </section>
 <div>
-  <h3>Session 2 - Operationalising Methanol Bunkering </h3>
+  <h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a href="/samuel-soo">
+        <a href="/glen-davenport">
           <div class="speaker-image-wrapper">
             <img alt="Samuel Soo" src="/images/Speakers_23/Session2/mr samuel soo.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Samuel Soo</h4>
-          <div class="speaker-position text-ellipsis">Senior Deputy Director (Marine Services)</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+          <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
+          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical</div>
+          <div class="speaker-company text-ellipsis">Vopak Terminal</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/vibin-chandrabose">
+        <a href="/andrew-hoare">
           <div class="speaker-image-wrapper">
             <img alt="Vibin Chandrabose" src="/images/Speakers_23/Session2/vibin chandrabose.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Vibin Chandrabose</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4>
           <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
-          <div class="speaker-company text-ellipsis">American Bureau of Shipping </div>
+          <div class="speaker-company text-ellipsis">Fortescue </div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/md-kamal-hossain">
+        <a href="/mohd-salleh-a-sarwan">
           <div class="speaker-image-wrapper">
             <img alt="Md Kamal Hossain" src="/images/Speakers_23/Session2/capt md kamal.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Capt Md Kamal Hossain</h4>
-          <div class="speaker-position text-ellipsis">Team Lead, Marine Operations</div>
-          <div class="speaker-company text-ellipsis">Hong Lam Marine</div>
+          <h4 class="speaker-name text-ellipsis">Capt Mohd Salleh A Sarwan</h4>
+          <div class="speaker-position text-ellipsis">Specialist (Navigation &amp; Shiphandling)</div>
+          <div class="speaker-company text-ellipsis">Singapore Maritime Academy</div>
         </a>
       </div>
     </div>
-    <div class="row">
-      <div class="col is-4">
-        <a href="/dinesh-kumar-balraj">
-          <div class="speaker-image-wrapper">
-            <img alt="Dinesh Kumar Balraj" src="/images/Speakers_23/Session2/dinesh kumar balraj.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Dinesh Kumar Balraj </h4>
-          <div class="speaker-position text-ellipsis">Senior Director, Head of Fleet Operations East</div>
-          <div class="speaker-company text-ellipsis">A.P.Moller-Maersk </div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/jagadeesan-natarajan">
-          <div class="speaker-image-wrapper">
-            <img alt="Jagadeesan Natarajan" src="/images/Speakers_23/Session2/capt natarajan.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Capt. Jagadeesan Natarajan</h4>
-          <div class="speaker-position text-ellipsis">General Manager</div>
-          <div class="speaker-company text-ellipsis">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan) </div>
-        </a>
-      </div>
       <div class="col is-4">
         <a href="/vibhas-garg">
           <div class="speaker-image-wrapper">
@@ -205,7 +184,7 @@ variant: markdown
         </a>
       </div>
     </div>
-  </div>
+  
 </section>
 <div>
   <h3>Session 3 - Building a Cyber Safe and Resilient Maritime Ecosystem</h3>
