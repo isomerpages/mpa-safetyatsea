@@ -13,7 +13,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
-            <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="![](/images/logos/MPA_Singapore_Logo.png)speaker-image img-fluid mb-3">
+            <img alt="Goh Hock Nguan" src="/images/logos/MPA_Singapore_Logo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -23,7 +23,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/mayank-singh">
           <div class="speaker-image-wrapper">
-            <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo-1.png" class="speaker-image img-fluid mb-3">
+            <img alt="David Foo" src="/images/logos/MPA_Singapore_Logo.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Mayank Singh</h4>
           <div class="speaker-position text-ellipsis">Quality Assurance Manager</div>
@@ -47,7 +47,7 @@ variant: markdown
           <div class="speaker-image-wrapper">
             <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon </h4>
+          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Deputy Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
         </a>
@@ -187,51 +187,51 @@ variant: markdown
   
 </section>
 <div>
-  <h3>Session 3 - Building a Cyber Safe and Resilient Maritime Ecosystem</h3>
+  <h3>Session 3 - All Hands on Deck for Our People's Safety and Wellbeing</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a href="/ong-chin-beng">
+        <a href="/kenneth-low">
           <div class="speaker-image-wrapper">
             <img alt="Ong Chin Beng" src="/images/Speakers_23/Session3/ong chin beng-.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Ong Chin Beng</h4>
-          <div class="speaker-position text-ellipsis">Chief Information Security Officer </div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+          <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
+          <div class="speaker-position text-ellipsis">Chairman </div>
+          <div class="speaker-company text-ellipsis">Workplace Safety and Health Council (Marine Industries Committee)</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/daniel-ng">
+        <a href="/gwee-guo-duan">
           <div class="speaker-image-wrapper">
             <img alt="Daniel Ng" src="/images/Speakers_23/Session3/daniel ng.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Daniel Ng</h4>
-          <div class="speaker-position text-ellipsis">CEO</div>
-          <div class="speaker-company text-ellipsis">CyberOwl</div>
+          <h4 class="speaker-name text-ellipsis">Mr Gwee Guo Duan</h4>
+          <div class="speaker-position text-ellipsis">Assistant General Secretary</div>
+          <div class="speaker-company text-ellipsis">Singapore Maritime Officers' Union</div>
         </a>
       </div>
 			 <div class="col is-4">
-        <a href="/li-xin">
+        <a href="/kelvin-kang">
           <div class="speaker-image-wrapper">
             <img alt="Li Xin" src="/images/Speakers_23/Session3/li xin.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Li Xin</h4>
-          <div class="speaker-position text-ellipsis">Head of IT Security</div>
-          <div class="speaker-company text-ellipsis">PSA Corporation Limited</div>
+          <h4 class="speaker-name text-ellipsis">Mr Kelvin Kang</h4>
+          <div class="speaker-position text-ellipsis">General Manager</div>
+          <div class="speaker-company text-ellipsis">Stellar Shipmanagement Services</div>
         </a>
       </div>
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/ron-fong">
+        <a href="/ishak-ismail">
           <div class="speaker-image-wrapper">
             <img alt="Ron Fong" src="/images/Speakers_23/Session3/ron fong-min.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Ron Fong </h4>
-          <div class="speaker-position text-ellipsis">Head of Fleet IT</div>
-          <div class="speaker-company text-ellipsis">Pacific Carriers Limited </div>
+          <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail (Moderator) </h4>
+          <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
+          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
         </a>
       </div>
       <div class="col is-4">
@@ -239,7 +239,7 @@ variant: markdown
           <div class="speaker-image-wrapper">
             <img alt="Anthony Lim" src="/images/Speakers_23/Session3/anthony lim.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Anthony Lim (Moderator)</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
           <div class="speaker-company text-ellipsis">Singapore University of Social Sciences</div>
         </a>
