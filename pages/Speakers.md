@@ -5,51 +5,51 @@ description: ""
 variant: markdown
 ---
 <div>
-  <h3>Opening Session - Advancing Maritime Safety in a Green Age (Panel 1)</h3>
+  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping (Panel 1)</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a href="/ismael-cobos-delgado">
+        <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
             <img alt="Ismael Cobos Delgado" src="/images/Speakers_23/Session1p1/ismael cobos delgado.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Ismael Cobos Delgado</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director (Maritime Safety Division)</div>
-          <div class="speaker-company text-ellipsis">International Maritime Organisation</div>
+          <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
+          <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
+          <div class="speaker-company text-ellipsis">PSA Singapore</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/david-foo">
+        <a href="/mayank-singh">
           <div class="speaker-image-wrapper">
             <img alt="David Foo" src="/images/Speakers_23/Session1p1/david foo-1.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr David Foo</h4>
-          <div class="speaker-position text-ellipsis">Assistant Chief Executive (Operations Technology)</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+          <h4 class="speaker-name text-ellipsis">Capt Mayank Singh</h4>
+          <div class="speaker-position text-ellipsis">Quality Assurance Manager</div>
+          <div class="speaker-company text-ellipsis">X-Press Feeders</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/michael-drake">
+        <a href="/chatur wahyu-drake">
           <div class="speaker-image-wrapper">
             <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/michael drake.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Michael Drake</h4>
-          <div class="speaker-position text-ellipsis">Executive Director Operations</div>
-          <div class="speaker-company text-ellipsis">Australian Maritime Safety Authority</div>
+          <h4 class="speaker-name text-ellipsis">Capt Chatur Wahyu</h4>
+          <div class="speaker-position text-ellipsis">Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Maritime Academy</div>
         </a>
       </div>
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/palle-kristensen">
+        <a href="/michael-phoon">
           <div class="speaker-image-wrapper">
             <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Palle Kristensen </h4>
-          <div class="speaker-position text-ellipsis">Senior Advisor, Technical Regulation, Climate and Green Transition</div>
-          <div class="speaker-company text-ellipsis">Danish Maritime Authority </div>
+          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon </h4>
+          <div class="speaker-position text-ellipsis">Deputy Chairman</div>
+          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
         </a>
       </div>
       <div class="col is-4">
@@ -263,67 +263,6 @@ variant: markdown
           <h4 class="speaker-name text-ellipsis">Mr Anthony Lim (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
           <div class="speaker-company text-ellipsis">Singapore University of Social Sciences</div>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-<div>
-  <h3>Session 4 - Enhancing Maritime Safety through Technology</h3>
-</div>
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
-      <div class="col is-4">
-        <a href="/dennis-khoo">
-          <div class="speaker-image-wrapper">
-            <img alt="Dennis Khoo" src="/images/Speakers_23/Session4/dennis khoo.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Dennis Khoo</h4>
-          <div class="speaker-position text-ellipsis">Director (Maritime Systems and Technology)</div>
-          <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority of Singapore</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/christian-riis">
-          <div class="speaker-image-wrapper">
-            <img alt="Christian Riis" src="/images/Speakers_23/Session4/christian riis.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Christian Riis</h4>
-          <div class="speaker-position text-ellipsis">Director, Marine Safety &amp; Vetting</div>
-          <div class="speaker-company text-ellipsis">Rio Tinto</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/chakib-abi-saab">
-          <div class="speaker-image-wrapper">
-            <img alt="Chakib Abi Saab" src="/images/Speakers_23/Session4/chakib abi saab copy.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Chakib Abi Saab</h4>
-          <div class="speaker-position text-ellipsis">Chief Technology and Innovation Officer (LR) / Chairman (Safetytech Accelerator)</div>
-          <div class="speaker-company text-ellipsis">Lloyd’s Register / Safetytech Accelerator </div>
-        </a>
-      </div>
-    </div>
-    <div class="row">
-			<div class="col is-4">
-        <a href="/pieter-de-coningh/">
-          <div class="speaker-image-wrapper">
-            <img alt="Pieter de Coningh" src="/images/Speakers_23/Session4/mr pieter.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Pieter de Coningh</h4>
-          <div class="speaker-position text-ellipsis">Managing Director</div>
-          <div class="speaker-company text-ellipsis">Tidalis APAC Limited</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/jimmy-koh">
-          <div class="speaker-image-wrapper">
-            <img alt="Jimmy Koh" src="/images/Speakers_23/Session4/jimmy koh.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Jimmy Koh (Moderator) [Co-Host] </h4>
-          <div class="speaker-position text-ellipsis">Head of Pilotage and Digital Transformation (Also NMSSC member) </div>
-          <div class="speaker-company text-ellipsis">PSA Marine</div>
         </a>
       </div>
     </div>
