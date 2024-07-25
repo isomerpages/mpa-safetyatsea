@@ -205,7 +205,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/gwee-guo-duan">
           <div class="speaker-image-wrapper">
-            <img alt="Daniel Ng" src="/images/Speakers_23/Session3/daniel ng.png" class="speaker-image img-fluid mb-3">
+            <img alt="Daniel Ng" src="/images/Speakers/2024/Gwee_Guo_Duan_Cropped.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Gwee Guo Duan</h4>
           <div class="speaker-position text-ellipsis">Assistant General Secretary</div>
