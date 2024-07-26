@@ -13,7 +13,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
-            <img alt="Goh Hock Nguan" src="/images/logos/MPA_Singapore_Logo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Goh Hock Nguan" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -23,7 +23,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/mayank-singh">
           <div class="speaker-image-wrapper">
-            <img alt="David Foo" src="/images/logos/MPA_Singapore_Logo.png" class="speaker-image img-fluid mb-3">
+            <img alt="David Foo" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Mayank Singh</h4>
           <div class="speaker-position text-ellipsis">Quality Assurance Manager</div>
@@ -33,7 +33,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/chatur wahyu-drake">
           <div class="speaker-image-wrapper">
-            <img alt="Michael Drake" src="/images/Speakers_23/Session1p1/michael drake.png" class="speaker-image img-fluid mb-3">
+            <img alt="Michael Drake" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Chatur Wahyu</h4>
           <div class="speaker-position text-ellipsis">Director</div>
@@ -45,7 +45,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/michael-phoon">
           <div class="speaker-image-wrapper">
-            <img alt="Palle Kristensen" src="/images/Speakers_23/Session1p1/palle kristensen.png" class="speaker-image img-fluid mb-3">
+            <img alt="Palle Kristensen" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Deputy Chairman</div>
@@ -55,26 +55,16 @@ variant: markdown
       <div class="col is-4">
         <a href="/chua-yeng-hian">
           <div class="speaker-image-wrapper">
-            <img alt="peter bizzaro" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
+            <img alt="peter bizzaro" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Chua Yeng Hian</h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director Marine Services <br> </div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
         </a>
       </div>
-      <div class="col is-4">
-        <a href="/ishak-ismail">
-          <div class="speaker-image-wrapper">
-            <img alt="Ishak Ismail" src="/images/Speakers_23/Session1p1/ishak ismail.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail (Moderator) </h4>
-          <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
-          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
-        </a>
-      </div>
-    </div>
+     
   </div>
-</section>
+</div></section>
 <div>
   <h3>Opening Session - All Hands on Deck for Safe Methanol Bunkering (Panel 2) </h3>
 </div>
@@ -145,7 +135,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/glen-davenport">
           <div class="speaker-image-wrapper">
-            <img alt="Samuel Soo" src="/images/Speakers_23/Session2/mr samuel soo.png" class="speaker-image img-fluid mb-3">
+            <img alt="Samuel Soo" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
           <div class="speaker-position text-ellipsis">Vice President, Operations and Technical</div>
@@ -155,17 +145,17 @@ variant: markdown
       <div class="col is-4">
         <a href="/andrew-hoare">
           <div class="speaker-image-wrapper">
-            <img alt="Vibin Chandrabose" src="/images/Speakers_23/Session2/vibin chandrabose.png" class="speaker-image img-fluid mb-3">
+            <img alt="Vibin Chandrabose" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4>
-          <div class="speaker-position text-ellipsis">Principal Engineer, Sustainability Global Sustainability Center - Singapore </div>
+          <div class="speaker-position text-ellipsis">Group Manager, Marine </div>
           <div class="speaker-company text-ellipsis">Fortescue </div>
         </a>
       </div>
       <div class="col is-4">
         <a href="/mohd-salleh-a-sarwan">
           <div class="speaker-image-wrapper">
-            <img alt="Md Kamal Hossain" src="/images/Speakers_23/Session2/capt md kamal.png" class="speaker-image img-fluid mb-3">
+            <img alt="Md Kamal Hossain" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Mohd Salleh A Sarwan</h4>
           <div class="speaker-position text-ellipsis">Specialist (Navigation &amp; Shiphandling)</div>
@@ -195,7 +185,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/kenneth-low">
           <div class="speaker-image-wrapper">
-            <img alt="Ong Chin Beng" src="/images/Speakers_23/Session3/ong chin beng-.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ong Chin Beng" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
           <div class="speaker-position text-ellipsis">Chairman </div>
@@ -205,7 +195,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/gwee-guo-duan">
           <div class="speaker-image-wrapper">
-            <img alt="Daniel Ng" src="/images/Speakers/2024/Gwee_Guo_Duan_Cropped.png" class="speaker-image img-fluid mb-3">
+            <img alt="Gwee Guo Duan" src="/images/Speakers/2024/Gwee_Guo_Duan_Cropped.png" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Gwee Guo Duan</h4>
           <div class="speaker-position text-ellipsis">Assistant General Secretary</div>
@@ -215,7 +205,7 @@ variant: markdown
 			 <div class="col is-4">
         <a href="/kelvin-kang">
           <div class="speaker-image-wrapper">
-            <img alt="Li Xin" src="/images/Speakers_23/Session3/li xin.png" class="speaker-image img-fluid mb-3">
+            <img alt="Li Xin" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Kelvin Kang</h4>
           <div class="speaker-position text-ellipsis">General Manager</div>
@@ -227,7 +217,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/ishak-ismail">
           <div class="speaker-image-wrapper">
-            <img alt="Ron Fong" src="/images/Speakers_23/Session3/ron fong-min.png" class="speaker-image img-fluid mb-3">
+            <img alt="Ron Fong" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail (Moderator) </h4>
           <div class="speaker-position text-ellipsis">NMSSC Chairman</div>
@@ -237,7 +227,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/anthony-lim">
           <div class="speaker-image-wrapper">
-            <img alt="Anthony Lim" src="/images/Speakers_23/Session3/anthony lim.png" class="speaker-image img-fluid mb-3">
+            <img alt="Anthony Lim" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
           <div class="speaker-position text-ellipsis">Fellow, Cybersecurity, Governance &amp; FinTech</div>
