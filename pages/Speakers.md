@@ -53,13 +53,13 @@ variant: markdown
         </a>
       </div>
       <div class="col is-4">
-        <a href="/peter-bizzaro">
+        <a href="/chua-yeng-hian">
           <div class="speaker-image-wrapper">
             <img alt="peter bizzaro" src="/images/Speakers_23/Session1p1/peter bizzaro.png" class="speaker-image img-fluid mb-3">
           </div>
-          <h4 class="speaker-name text-ellipsis">CDR Peter Bizzaro</h4>
-          <div class="speaker-position text-ellipsis">Commanding Officer <br>U.S. Coast Guard Marine Inspection Unit Singapore </div>
-          <div class="speaker-company text-ellipsis">United States Coast Guard </div>
+          <h4 class="speaker-name text-ellipsis">Mr Chua Yeng Hian</h4>
+          <div class="speaker-position text-ellipsis">Senior Deputy Director Marine Services <br> </div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
         </a>
       </div>
       <div class="col is-4">
