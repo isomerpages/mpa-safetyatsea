@@ -40,15 +40,6 @@ variant: markdown
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/michael-phoon">
-          <div class="speaker-image-wrapper">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">Deputy Chairman</div>
-          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
-        </a>
-      </div>
-      <div class="col is-4">
         <a href="/chua-yeng-hian">
           <div class="speaker-image-wrapper">
           </div>
@@ -57,18 +48,25 @@ variant: markdown
           <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
         </a>
       </div>
+      <div class="col is-4">
+        <a href="/michael-phoon">
+          <div class="speaker-image-wrapper">
+          </div>
+          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
+          <div class="speaker-position text-ellipsis">Deputy Chairman</div>
+          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
      
-  </div>
-</div></section>
-<div>
+  </a></div><a href="/michael-phoon">
+</a></div></div></section><a href="/michael-phoon">
+</a><div><a href="/michael-phoon">
 <div>
   <h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
 </div>
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
-      <div class="col is-4">
-        <a href="/glen-davenport">
+</a><section class="bp-section font"><a href="/michael-phoon">
+  </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
+    </a><div class="row"><a href="/michael-phoon">
+      </a><div class="col is-4"><a href="/michael-phoon">
+        </a><a href="/glen-davenport">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
@@ -95,26 +93,34 @@ variant: markdown
         </a>
       </div>
     </div>
+    <div class="row">
       <div class="col is-4">
+        <a href="/new-wei-siang">
+          </a><div class="speaker-image-wrapper"><a href="/vibhas-garg">
+            <img class="speaker-image img-fluid mb-3">
+          <h4 class="speaker-name text-ellipsis">Mr New Wei Siang</h4>
+          <div class="speaker-position text-ellipsis">Director (Maritime Decarbonisation &amp; Net-Zero Pathways) </div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore </div>
+        </a>
+      </div>
+    </div>
+ <div class="col is-4">
         <a href="/vibhas-garg">
           </a><div class="speaker-image-wrapper"><a href="/vibhas-garg">
             <img class="speaker-image img-fluid mb-3">
           <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group </div>
           <div class="speaker-company text-ellipsis">(Director, Octant Marine Pte Ltd, Singapore) </div>
-        </a>
-      </div>
-    </div>
   
-</div></section>
+</a></div></div></div></div></section><a href="/vibhas-garg">
 <div>
   <h3>Session 3 - All Hands on Deck for Our People's Safety and Wellbeing</h3>
 </div>
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
-      <div class="col is-4">
-        <a href="/kenneth-low">
+</a><section class="bp-section font"><a href="/vibhas-garg">
+  </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
+    </a><div class="row"><a href="/vibhas-garg">
+      </a><div class="col is-4"><a href="/vibhas-garg">
+        </a><a href="/kenneth-low">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
