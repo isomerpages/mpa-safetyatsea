@@ -2,5 +2,6 @@
 title: Overview
 permalink: /programmeoverview/
 description: ""
+variant: markdown
 ---
-![2023-Programme](/images/mpa_programme_v03.jpg)
+![](/images/Programme%202024/Overview_2024.png)
