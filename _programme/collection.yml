@@ -2,13 +2,13 @@ collections:
   programme:
     output: true
     order:
-      - Responder Plus Programme (RPP) Maritime Workshops.md
       - Overview.md
       - International Safety@Sea Conference Opening Session.md
       - International Safety@Sea Conference Session 2.md
       - International Safety@Sea Conference Session 3.md
       - Harbour Craft Safety Forum.md
       - Pleasure Craft Safety Forum.md
+      - Responder Plus Programme (RPP) Maritime Workshops.md
       - Ferry Rescue Exercise (FEREX).md
       - Refresher Sharing on Shiphandling by PSA Marine.md
       - Navigating a Safe Shipping Transition Seminar by SSA.md
