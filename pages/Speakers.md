@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping (Panel 1)</h3>
+  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping </h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -13,7 +13,6 @@ variant: markdown
       <div class="col is-4">
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
-            <img alt="Goh Hock Nguan" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -23,7 +22,6 @@ variant: markdown
       <div class="col is-4">
         <a href="/mayank-singh">
           <div class="speaker-image-wrapper">
-            <img alt="David Foo" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Mayank Singh</h4>
           <div class="speaker-position text-ellipsis">Quality Assurance Manager</div>
@@ -33,7 +31,6 @@ variant: markdown
       <div class="col is-4">
         <a href="/chatur wahyu-drake">
           <div class="speaker-image-wrapper">
-            <img alt="Michael Drake" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Chatur Wahyu</h4>
           <div class="speaker-position text-ellipsis">Director</div>
@@ -45,7 +42,6 @@ variant: markdown
       <div class="col is-4">
         <a href="/michael-phoon">
           <div class="speaker-image-wrapper">
-            <img alt="Palle Kristensen" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Deputy Chairman</div>
@@ -55,7 +51,6 @@ variant: markdown
       <div class="col is-4">
         <a href="/chua-yeng-hian">
           <div class="speaker-image-wrapper">
-            <img alt="peter bizzaro" src="" class="speaker-image img-fluid mb-3">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Chua Yeng Hian</h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director Marine Services <br> </div>
@@ -66,66 +61,11 @@ variant: markdown
   </div>
 </div></section>
 <div>
-  <h3>Opening Session - All Hands on Deck for Safe Methanol Bunkering (Panel 2) </h3>
-</div>
-<section class="bp-section font">
-  <div class="bp-container is-fluid has-text-centered">
-    <div class="row">
-      <div class="col is-4">
-        <a href="/roberto-cazzulo">
-          <div class="speaker-image-wrapper">
-            <img alt="Roberto Cazzulo" src="/images/Speakers_23/Session1p2/cazzulo.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Roberto Cazzulo</h4>
-          <div class="speaker-position text-ellipsis">IACS Chair-elect</div>
-          <div class="speaker-company text-ellipsis">International Association of Classification Societies</div>
-        </a>
+        
       </div>
-      <div class="col is-4">
-        <a href="/nick-potter">
-          <div class="speaker-image-wrapper">
-            <img alt="Nick Potter" src="/images/Speakers_23/Session1p2/nick potter.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Nick Potter</h4>
-          <div class="speaker-position text-ellipsis">Chairman</div>
-          <div class="speaker-company text-ellipsis">Oil Companies International Marine Forum</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/andre-l-legoubin/">
-          <div class="speaker-image-wrapper">
-            <img alt="André L. LeGoubin" src="/images/Speakers_23/Session1p2/capt andre l legoubin.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Capt André L. LeGoubin</h4>
-          <div class="speaker-position text-ellipsis">President</div>
-          <div class="speaker-company text-ellipsis">Nautical Institute</div>
-        </a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4">
-        <a href="/steen-lund">
-          <div class="speaker-image-wrapper">
-            <img alt="Steen Lund" src="/images/Speakers_23/Session1p2/steen lund.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Steen Lund</h4>
-          <div class="speaker-position text-ellipsis">CEO</div>
-          <div class="speaker-company text-ellipsis">RightShip</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/yves-vandenborn">
-          <div class="speaker-image-wrapper">
-            <img alt="Yves Vandenborn" src="/images/Speakers_23/Session1p2/yves vandenborn.png" class="speaker-image img-fluid mb-3">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">Honorary President of Nautical Institute Singapore branch <br>Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
-          <div class="speaker-company text-ellipsis">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
+    
+  
+
 <div>
   <h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
 </div>
