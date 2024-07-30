@@ -60,63 +60,10 @@ variant: markdown
 </a></div></div></section><a href="/michael-phoon">
 </a><div><a href="/michael-phoon">
 
-<h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
-</a></div><a href="/michael-phoon">
-</a><section class="bp-section font"><a href="/michael-phoon">
-  </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
-    </a><div class="row"><a href="/michael-phoon">
-      </a><div class="col is-4"><a href="/michael-phoon">
-        </a><a href="/glen-davenport">
-          <div class="speaker-image-wrapper">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
-          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical</div>
-          <div class="speaker-company text-ellipsis">Vopak Terminal</div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/andrew-hoare">
-          <div class="speaker-image-wrapper">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4>
-          <div class="speaker-position text-ellipsis">Group Manager, Marine </div>
-          <div class="speaker-company text-ellipsis">Fortescue </div>
-        </a>
-      </div>
-      <div class="col is-4">
-        <a href="/mohd-salleh-a-sarwan">
-          <div class="speaker-image-wrapper">
-          </div>
-          <h4 class="speaker-name text-ellipsis">Capt Mohd Salleh A Sarwan</h4>
-          <div class="speaker-position text-ellipsis">Specialist (Navigation &amp; Shiphandling)</div>
-          <div class="speaker-company text-ellipsis">Singapore Maritime Academy</div>
-        </a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col is-4">
-        <a href="/new-wei-siang">
-          </a><div class="speaker-image-wrapper"><a href="/vibhas-garg">
-            <img class="speaker-image img-fluid mb-3">
-          <h4 class="speaker-name text-ellipsis">Mr New Wei Siang</h4>
-          <div class="speaker-position text-ellipsis">Director (Maritime Decarbonisation &amp; Net-Zero Pathways) </div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore </div>
-        </a>
-      </div>
-    </div>
- <div class="col is-4">
-        <a href="/vibhas-garg">
-          </a><div class="speaker-image-wrapper"><a href="/vibhas-garg">
-            <img class="speaker-image img-fluid mb-3">
-          <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group </div>
-          <div class="speaker-company text-ellipsis">(Director, Octant Marine Pte Ltd, Singapore) </div>
-  
-</a></div></div></div></div></section><a href="/vibhas-garg">
-<div>
+<div> <h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering</h3> </div> </a><section class="bp-section font"><a href="/michael-phoon"> </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon"> </a><div class="row"><a href="/michael-phoon"> </a><div class="col is-4"><a href="/michael-phoon"> </a><a href="/glen-davenport"> <div class="speaker-image-wrapper"></div> <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4> <div class="speaker-position text-ellipsis">Vice President, Operations and Technical</div> <div class="speaker-company text-ellipsis">Vopak Terminal</div> </a> </div> <div class="col is-4"> <a href="/andrew-hoare"> <div class="speaker-image-wrapper"></div> <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4> <div class="speaker-position text-ellipsis">Group Manager, Marine</div> <div class="speaker-company text-ellipsis">Fortescue</div> </a> </div> <div class="col is-4"> <a href="/mohd-salleh-a-sarwan"> <div class="speaker-image-wrapper"></div> <h4 class="speaker-name text-ellipsis">Capt Mohd Salleh A Sarwan</h4> <div class="speaker-position text-ellipsis">Specialist (Navigation &amp; Shiphandling)</div> <div class="speaker-company text-ellipsis">Singapore Maritime Academy</div> </a> </div> </div> <div class="row"> <div class="col is-4"> <a href="/new-wei-siang"> <div class="speaker-image-wrapper"></div> <h4 class="speaker-name text-ellipsis">Mr New Wei Siang</h4> <div class="speaker-position text-ellipsis">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div> <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div> </a> </div> <div class="col is-4"> <a href="/vibhas-garg"> <div class="speaker-image-wrapper"></div> <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4> <div class="speaker-position text-ellipsis">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group</div> <div class="speaker-company text-ellipsis">(Director, Octant Marine Pte Ltd, Singapore)</div> </a> </div> </div> </div> </section>
   <h3>Session 3 - All Hands on Deck for Our People's Safety and Wellbeing</h3>
 </div>
-</a><section class="bp-section font"><a href="/vibhas-garg">
+<section class="bp-section font"><a href="/vibhas-garg">
   </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
     </a><div class="row"><a href="/vibhas-garg">
       </a><div class="col is-4"><a href="/vibhas-garg">
