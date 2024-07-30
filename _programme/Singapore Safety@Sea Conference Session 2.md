@@ -29,8 +29,8 @@ variant: markdown
 	<div class="col is-4"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
-<div class="text-ellipsis speaker-position">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group</div>
-<div class="text-ellipsis speaker-company">(Director, Octant Marine Pte Ltd, Singapore)</div>
+<div class="text-ellipsis speaker-position">Director, Octant Marine Pte Ltd, Singapore</div>
+<div class="text-ellipsis speaker-company">(Member, National Maritime Safety at Sea Council)</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -57,7 +57,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibin-chandrabose/" rel="noopener">Mr Glen Davenport</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
-<div class="text-ellipsis speaker-company">Vopak Terminal</div>
+<div class="text-ellipsis speaker-company">Vopak Terminals Singapore Pte Ltd</div>
 </div>
 </div>
 
@@ -83,9 +83,9 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/md-kamal-hossain/" rel="noopener">Capt Mohd Salleh A Sarwan</a></strong></div>
-<div class="text-ellipsis speaker-position">Specialist (Navigation &amp; Shiphandling)</div>
-<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/md-kamal-hossain/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist </div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
 </div>
 </div>
 </div>
