@@ -44,7 +44,7 @@ variant: markdown
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Chua Yeng Hian</h4>
-          <div class="speaker-position text-ellipsis">Senior Deputy Director Marine Services <br> </div>
+          <div class="speaker-position text-ellipsis">Senior Deputy Director (Marine Services) <br> </div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
         </a>
       </div>
