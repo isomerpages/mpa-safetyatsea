@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>24 Oct | 13:30 - 15:30</b>&nbsp;<b>GMT+8</b>
-  <h3>International Safety@Sea Conference – Session 3</h3>
-	<h3>Building a Cyber Safe and Resilient Maritime Ecosystem</h3>
+  <b>19 Aug | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
+  <h3>Singapore Safety@Sea Conference – Session 3</h3>
+	<h3>All Hands on Deck for Our People's Safety and Wellbeing</h3>
 </div>
 
 
