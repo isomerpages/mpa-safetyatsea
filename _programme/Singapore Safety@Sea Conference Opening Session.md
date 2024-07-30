@@ -31,13 +31,13 @@ variant: markdown
 <div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/mr chee hong tat.png" alt="chee hong"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Chee Hong Tat</b></a>
+                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Acting Minister for Transport
+                            Chief Executive
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Senior Minister of State for Finance
+                            Maritime and Port Authority Singapore
                           </div>
                         </div>
                       </div>
