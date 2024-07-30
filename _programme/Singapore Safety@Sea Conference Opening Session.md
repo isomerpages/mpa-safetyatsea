@@ -71,13 +71,10 @@ variant: markdown
 <div class="col is-4"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>MP Murali Pillai</b></a>
+                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Minister of State of Transport
-                          </div>
-                          <div class="text-ellipsis speaker-company">
-                            Ministry of Transport
+                            Minister of State for Transport
                           </div>
                         </div>
                       </div>
