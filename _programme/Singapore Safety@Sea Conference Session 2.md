@@ -5,49 +5,10 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>23 Oct | 16:00 - 18:00</b>&nbsp;<b>GMT+8</b>
-  <h3>International Safety@Sea Conference – Session 2</h3>
-	<h3>Operationalising Methanol Bunkering</h3>
+  <b>19 Aug | 13:30 - 15:00</b>&nbsp;<b>GMT+8</b>
+  <h3>Singapore Safety@Sea Conference – Session 2</h3>
+	<h3>All Hands on Deck for Safe Ammonia Bunkering</h3>
 </div>
-
-
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>23 OCT | 16:05 - 16:10</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Presentation of International Safety@Sea Awards</h4>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section>
-  <div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>23 OCT | 16:10 - 17:00</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Presentations by Panellists with a focus on Singapore’s methanol bunkering experience</h4>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 <section>
 <div class="bp-container is-fluid">
@@ -57,9 +18,9 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>23 OCT | 17:00 - 17:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>19 AUG | 13:35 - 14:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
-	“Operationalising Methanol Bunkering”	
+	“All Hands on Deck for Safe Ammonia Bunkering”	
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
