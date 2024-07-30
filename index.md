@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Registrations are now open. Click <a
-  href="go.gov.sg/safetyatseaweek2024">here</a> to register.
+  href="http://go.gov.sg/safetyatseaweek2024">here</a> to register.
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
