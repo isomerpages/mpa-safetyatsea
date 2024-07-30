@@ -59,9 +59,9 @@ variant: markdown
   </a></div><a href="/michael-phoon">
 </a></div></div></section><a href="/michael-phoon">
 </a><div><a href="/michael-phoon">
-<div>
-  <h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
-</div>
+
+<h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering </h3>
+</a></div><a href="/michael-phoon">
 </a><section class="bp-section font"><a href="/michael-phoon">
   </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
     </a><div class="row"><a href="/michael-phoon">
@@ -213,4 +213,4 @@ variant: markdown
   .content a {
     text-decoration: none;
   }
-</style></div>
+</style>
