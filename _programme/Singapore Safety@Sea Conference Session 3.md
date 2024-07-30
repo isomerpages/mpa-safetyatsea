@@ -46,9 +46,9 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ong-chin-beng/" rel="noopener">Mr Kelvin Kang</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ong-chin-beng/" rel="noopener">Mr Kelvin Kang Xiao Dong</a></strong></div>
 <div class="text-ellipsis speaker-position">General Manager</div>
-<div class="text-ellipsis speaker-company">Stellar Shipmanagement Services</div>
+<div class="text-ellipsis speaker-company">Stellar Shipmanagement Services Pte Ltd, Global Energy Group</div>
 </div>
 </div>
 </div>
