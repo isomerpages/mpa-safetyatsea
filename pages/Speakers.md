@@ -79,7 +79,7 @@ variant: markdown
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4>
-          <div class="speaker-position text-ellipsis">Group Manager, Marine</div>
+          <div class="speaker-position text-ellipsis">          Head of Fortescue Marine Systems and Green Shipping</div>
           <div class="speaker-company text-ellipsis">Fortescue</div>
         </a>
       </div>
