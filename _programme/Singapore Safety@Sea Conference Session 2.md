@@ -26,7 +26,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/vibhas%20garg.png" alt="vibhas%20garg"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
 <div class="text-ellipsis speaker-position">NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group</div>
@@ -40,10 +40,10 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/mr%20samuel%20soo.png" alt="mr%20samuel%20soo"></div>
+<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/samuel-soo/" rel="noopener">Mr Samuel Soo</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/samuel-soo/" rel="noopener">Mr New Wei Siang</a></strong></div>
+<div class="text-ellipsis speaker-position">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
@@ -53,11 +53,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/vibin chandrabose.png" alt="vibhas%20garg"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibin-chandrabose/" rel="noopener">Mr Vibin Chandrabose</a></strong></div>
-<div class="text-ellipsis speaker-position">Principal Engineer</div>
-<div class="text-ellipsis speaker-company">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibin-chandrabose/" rel="noopener">Mr Glen Davenport</a></strong></div>
+<div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
+<div class="text-ellipsis speaker-company">Vopak Terminal</div>
 </div>
 </div>
 
@@ -68,11 +68,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/dinesh%20kumar%20balraj.png" alt="dinesh%20kumar%20balraj"></div>
+<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dinesh-kumar-balraj/" rel="noopener">Mr Dinesh Kumar Balraj</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Director, Head of Fleet Operations East</div>
-<div class="text-ellipsis speaker-company">A.P.Moller-Maersk</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dinesh-kumar-balraj/" rel="noopener">Mr Andrew Hoare</a></strong></div>
+<div class="text-ellipsis speaker-position">Group Manager, Marine</div>
+<div class="text-ellipsis speaker-company">Fortescue</div>
 </div>
 </div>
 
@@ -81,29 +81,15 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/capt%20md%20kamal.png" alt="capt%20md%20kamal"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/md-kamal-hossain/" rel="noopener">Capt Md Kamal Hossain</a></strong></div>
-<div class="text-ellipsis speaker-position">Team Lead</div>
-<div class="text-ellipsis speaker-company">Marine Operations, Hong Lam Marine</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/md-kamal-hossain/" rel="noopener">Capt Mohd Salleh A Sarwan</a></strong></div>
+<div class="text-ellipsis speaker-position">Specialist (Navigation &amp; Shiphandling)</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
 </div>
 </div>
 </div>
 
-
-
-
-</div>
-
-<div class="row">
-
-<div class="col is-6 prog-speaker">
-<div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session2/capt%20natarajan.png" alt="capt%20natarajan"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/jagadeesan-natarajan/" rel="noopener">Capt. Jagadeesan Natarajan</a></strong></div>
-<div class="text-ellipsis speaker-position">General Manager</div>
-<div class="text-ellipsis speaker-company">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan)</div>
 </div>
 </div>
 </div>
@@ -115,9 +101,9 @@ variant: markdown
 </div>
 </div>
 </div>
-</div>
-</div>
-</div></section>
+
+
+</section>
 	
 	
 	
