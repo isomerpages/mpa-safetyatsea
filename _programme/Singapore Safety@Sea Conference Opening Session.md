@@ -171,7 +171,7 @@ variant: markdown
 	<div class="col is-4"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Deputy Director Marine Services</div>
+<div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority Singapore</div>
 </div>
 </div>
