@@ -63,9 +63,9 @@ variant: markdown
 <div>
 	<h3>Session 2 - All Hands on Deck for Safe Ammonia Bunkering</h3> 
 </div>
-</a><section class="bp-section font"><a href="/michael-phoon">
-	</a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
-		</a><div class="row">
+</a><section class="bp-section font">
+	<div class="bp-container is-fluid has-text-centered">
+		<div class="row">
 			<div class="col is-4">
 				<a href="/glen-davenport"> 
 					<div class="speaker-image-wrapper">
