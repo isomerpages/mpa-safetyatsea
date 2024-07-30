@@ -62,10 +62,10 @@ variant: markdown
 	</section>
   	
   <h3>Session 2- All Hands on Deck for Safe Ammonia Bunkering</h3>
-<section class="bp-section font"><a href="/michael-phoon"></a><a href="/vibhas-garg">
-  </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
-    </a><div class="row"><a href="/vibhas-garg">
-      </a><div class="col is-4"><a href="/vibhas-garg">
+<section class="bp-section font"><a href="/michael-phoon">
+  </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
+    </a><div class="row"><a href="/michael-phoon">
+      </a><div class="col is-4"><a href="/michael-phoon">
         </a><a href="/glen-davenport">
           <div class="speaker-image-wrapper">
           </div>
