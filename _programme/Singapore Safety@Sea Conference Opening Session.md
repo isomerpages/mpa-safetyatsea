@@ -98,7 +98,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>19 AUG | 10:20 - 10:35</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Presentation of  Safety@Sea Awards</h4>
+                <h4 class="programme-title">Presentation of MPA Safety@Sea Awards</h4>
                           </div>
                         </div>
                       </div>
