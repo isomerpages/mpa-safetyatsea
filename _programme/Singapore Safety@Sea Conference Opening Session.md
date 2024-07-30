@@ -213,7 +213,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
-<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
 </div>
 </div>
 </div>
