@@ -74,7 +74,7 @@ variant: markdown
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>MP Murali Pillai</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Minister of State
+                            Minister of State of Transport
                           </div>
                           <div class="text-ellipsis speaker-company">
                             Ministry of Transport
