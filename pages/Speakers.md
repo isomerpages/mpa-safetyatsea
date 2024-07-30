@@ -65,9 +65,9 @@ variant: markdown
 </div>
 </a><section class="bp-section font"><a href="/michael-phoon">
 	</a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
-		</a><div class="row"><a href="/michael-phoon">
-			</a><div class="col is-4"><a href="/michael-phoon">
-				</a><a href="/glen-davenport"> 
+		</a><div class="row">
+			<div class="col is-4">
+				<a href="/glen-davenport"> 
 					<div class="speaker-image-wrapper">
 					</div> 
 					<h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4> 
