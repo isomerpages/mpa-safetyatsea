@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>23 Oct | 13:00 - 15:30</b>&nbsp;<b>GMT+8</b>
-  <h3>International Safety@Sea Conference – Opening Session</h3>
-	<h3>Advancing Maritime Safety in a Green and Digital Age</h3>
+  <b>19 Aug | 10:00 - 12:30</b>&nbsp;<b>GMT+8</b>
+  <h3>Singapore Safety@Sea Conference – Opening Session</h3>
+	<h3>All Hands on Deck for Safe and Green Shipping</h3>
 </div>
 
 
@@ -21,8 +21,8 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>23 OCT | 13:05 - 13:15</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Opening Address</h4>
+                <div class="programme-time"><b>19 AUG | 10:05 - 10:10</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Welcome Remarks</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -173,19 +173,19 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>23 OCT | 14:15 - 15:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion 2</h4>
-	“Advancing Maritime Safety in a Digital Age”	
+<div class="programme-time"><strong>19 OCT | 11:05 - 12:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+	“All Hands on Deck for Safe Methanol Bunkering”	
 <hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/yves%20vandenborn.png" alt="yves%20vandenborn"></div>
+<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/yves-vandenborn/" rel="noopener">Capt Yves Vandenborn</a></strong></div>
-<div class="text-ellipsis speaker-position">Honorary President of Nautical Institute Singapore branch<br> Head of Loss Prevention Asia-Pacific at NorthStandard P&amp;I</div>
-<div class="text-ellipsis speaker-company">Nautical Institute Singapore branch NorthStandard P&amp;I</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/yves-vandenborn/" rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
+<div class="text-ellipsis speaker-company">(Deputy Chairman, National Maritime Safety at Sea Council) </div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -195,11 +195,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/speakers_23/session1p2/cazzulo.png" alt="cazzulo"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Roberto Cazzulo</a></strong></div>
-<div class="text-ellipsis speaker-position">IACS Chair-elect</div>
-<div class="text-ellipsis speaker-company">International Association of Classification Societies</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Deputy Director Marine Services</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority Singapore</div>
 </div>
 </div>
 </div>
@@ -208,11 +208,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/nick potter.png" alt="nick potter"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/nick-potter/" rel="noopener">Mr Nick Potter</a></strong></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
-<div class="text-ellipsis speaker-company">Oil Companies International Marine Forum</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/nick-potter/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
+<div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
+<div class="text-ellipsis speaker-company">PSA Singapore</div>
 </div>
 </div>
 
@@ -223,11 +223,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/steen%20lund.png" alt="steen%20lund"></div>
+	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/steen-lund/" rel="noopener">Mr Steen Lund</a></strong></div>
-<div class="text-ellipsis speaker-position">CEO</div>
-<div class="text-ellipsis speaker-company">RightShip</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/steen-lund/" rel="noopener">Capt Mayank Singh</a></strong></div>
+<div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
+<div class="text-ellipsis speaker-company">X-Press Feeders</div>
 </div>
 </div>
 
@@ -236,11 +236,11 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p2/capt%20andre%20l%20legoubin.png" alt="capt%20andre%20l%20legoubin"></div>
+<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt André L. LeGoubin</a></strong></div>
-<div class="text-ellipsis speaker-position">President</div>
-<div class="text-ellipsis speaker-company">Nautical Institute</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
+<div class="text-ellipsis speaker-position">Director</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy</div>
 </div>
 </div>
 </div>
