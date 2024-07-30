@@ -28,7 +28,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/mr chee hong tat.png" alt="chee hong"></div>
+<div class="col is-4"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
@@ -68,10 +68,10 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img class="speaker-image mb-4" src="/images/Speakers_23/Session1p1/mr chee hong tat.png" alt="chee hong"></div>
+<div class="col is-4"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Chee Hong Tat</b></a>
+                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>MP Murali Pillai</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Minister of State
