@@ -35,7 +35,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Singapore Safety@Sea Conference - Session 3
-      subtitle: Add an image and text
+      subtitle: 19 Aug | 15:30 - 17:30 (GMT+8)
       id: infopic
       description: All Hands on Deck for Our People's Safety and Wellbeing
       button: Click Here
@@ -60,7 +60,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshops
-      subtitle: 21 & 23 aug | 08:30 - 13:00
+      subtitle: 21&23 aug | 08:30 - 13:00
       id: infopic
       button: click here
       url: /responder-plus-programme-rpp-maritime-workshops/
