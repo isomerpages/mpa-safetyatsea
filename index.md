@@ -80,7 +80,7 @@ sections:
       id: infopic
       description: By PSA Marine
       button: click here
-      url: /refresher-aring-on=shiphandling-by-psa-marine/
+      url: /refresher-sharing-on-shiphandling-by-psa-marine/
       image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
       alt: Image alt text
   - infopic:
