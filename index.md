@@ -23,7 +23,7 @@ sections:
       title: Singapore Safety@Sea Conference – Opening Session
       subtitle: 19 Aug | 10:00 - 12:30 (GMT+8)
       button: click here
-      url: /singapore safety@sea conference - opening session/
+      url: /singapore-safety@sea-conference---opening-session/
   - infopic:
       title: Singapore Safety@Sea Conference – Session 2
       subtitle: 19 Aug | 13:30 – 15:00 (GMT+8)
