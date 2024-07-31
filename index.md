@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: All Hands on Deck for Safe Ammonia Bunkering
       button: Click Here
-      url: /programme/
+      url: /programme/session-2/
       image: /images/Home/Session_Two_Banner.jpg
       alt: Image alt text
   - infopic:
