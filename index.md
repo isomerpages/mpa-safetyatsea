@@ -23,58 +23,73 @@ sections:
       title: Singapore Safety@Sea Conference – Opening Session
       subtitle: 19 Aug | 10:00 - 12:30 (GMT+8)
       button: click here
-      url: /singapore-safety@sea-conference---opening-session/
+      url: /singapore-safety@sea-conference/
   - infopic:
-      title: Singapore Safety@Sea Conference – Session 2
-      subtitle: 19 Aug | 13:30 – 15:00 (GMT+8)
+      title: Singapore Safety@Sea Conference - Session 2
+      subtitle: 19 Aug | 13:30 - 15:00 (GMT+8)
+      id: infopic
       description: All Hands on Deck for Safe Ammonia Bunkering
+      button: Click Here
+      url: /programme/
       image: /images/Home/Session_Two_Banner.jpg
       alt: Image alt text
   - infopic:
       title: Singapore Safety@Sea Conference - Session 3
-      subtitle: 19 AUG | 15:30 – 17:30 (GMT+8)
+      subtitle: Add an image and text
+      id: infopic
       description: All Hands on Deck for Our People's Safety and Wellbeing
+      button: Click Here
+      url: /programme/
       image: /images/Home/Session_Three_Banner.jpg
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
+      subtitle: 20 AUG | 08:30 - 12:00 (GMT+8)
+      id: infopic
+      button: click here
+      url: /programme/
       image: /images/Home/Harbour_Craft_Banner.jpg
       alt: Image alt text
-      subtitle: 20 AUG | 08:30 – 12:00 (GMT+8)
   - infopic:
       title: Pleasure Craft Safety Forum
-      subtitle: 20 AUG | 13:00 – 16:00 (GMT+8)
+      subtitle: 20 AUG | 13:00 - 16:00 (GMT+8)
+      id: infopic
+      button: click here
+      url: /programme/
       image: /images/Home/Pleasure_Craft_Banner.jpg
       alt: Image alt text
   - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshops
+      subtitle: 21 & 23 aug | 08:30 - 13:00
+      id: infopic
+      button: click here
+      url: /programme/
       image: /images/Home/RPP_Banner.jpg
       alt: Image alt text
-      subtitle: 21 & 23 AUG | 08:30 - 13:00
   - infopic:
       title: Ferry Rescue Exercise (FEREX)
-      subtitle: 22 AUG | 09:00 - 12:00 (GMT+8)
+      subtitle: 22 aug | 09:00 - 12:00 (GMT+8)
       id: infopic
-      alt: Image alt text
+      button: CLICK HERE
+      url: /programme-ferex/
       image: /images/Home/FEREX.jpg
-      url: /programme/ferex/
-      button: Click here
+      alt: Image alt text
   - infopic:
       title: Refresher Sharing on Shiphandling
-      subtitle: 20 AUG | 13:00 - 14:30 (GMT+8)
+      subtitle: 20 aug | 13:00 - 14:30 (GMT+8)
       id: infopic
       description: By PSA Marine
+      button: click here
+      url: /refresher-aring-on=shiphandling-by-psa-marine/
       image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
       alt: Image alt text
-      url: /refresher-sharing-on-shiphandling-by-psa-marine/
-      button: Click here
   - infopic:
       title: Navigating a Safe Shipping Transition Seminar
-      subtitle: 22 AUG | 12:00 - 17:00 (GMT+8)
+      subtitle: 22 aug | 12:00 - 17:00 (GMT+8)
       id: infopic
       description: By Singapore Shipping Association (SSA)
+      button: CLICK HERE
+      url: /navigating-a-safe-shipping-transition-seminar-by-singapore-shipping-association-(ssa)/
       image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
       alt: Image alt text
-      url: /navigating-a-safe-shipping-transition-seminar-by-ssa/
-      button: Click here
 ---
