@@ -39,7 +39,7 @@ sections:
       id: infopic
       description: All Hands on Deck for Our People's Safety and Wellbeing
       button: Click Here
-      url: /programme/
+      url: /programme/session-3/
       image: /images/Home/Session_Three_Banner.jpg
       alt: Image alt text
   - infopic:
@@ -47,7 +47,7 @@ sections:
       subtitle: 20 AUG | 08:30 - 12:00 (GMT+8)
       id: infopic
       button: click here
-      url: /programme/
+      url: /programme/harbour-craft-forum/
       image: /images/Home/Harbour_Craft_Banner.jpg
       alt: Image alt text
   - infopic:
@@ -55,7 +55,7 @@ sections:
       subtitle: 20 AUG | 13:00 - 16:00 (GMT+8)
       id: infopic
       button: click here
-      url: /programme/
+      url: /programme/pleasure-craft-forum/
       image: /images/Home/Pleasure_Craft_Banner.jpg
       alt: Image alt text
   - infopic:
@@ -63,7 +63,7 @@ sections:
       subtitle: 21 & 23 aug | 08:30 - 13:00
       id: infopic
       button: click here
-      url: /programme/
+      url: /responder-plus-programme-rpp-maritime-workshops/
       image: /images/Home/RPP_Banner.jpg
       alt: Image alt text
   - infopic:
@@ -71,7 +71,7 @@ sections:
       subtitle: 22 aug | 09:00 - 12:00 (GMT+8)
       id: infopic
       button: CLICK HERE
-      url: /programme-ferex/
+      url: /programme/ferex/
       image: /images/Home/FEREX.jpg
       alt: Image alt text
   - infopic:
@@ -89,7 +89,7 @@ sections:
       id: infopic
       description: By Singapore Shipping Association (SSA)
       button: CLICK HERE
-      url: /programme-navigating-a-safe-shipping-transition-seminar-ssa/
+      url: /navigating-a-safe-shipping-transition-seminar-by-ssa/
       image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
       alt: Image alt text
 ---
