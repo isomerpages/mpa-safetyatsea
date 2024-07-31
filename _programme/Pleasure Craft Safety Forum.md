@@ -24,7 +24,7 @@ margin-top: 0.75rem;
     .is-left{
       text-align: left;
     }
-    .content h4{
+    .content h3{
       font-weight: 500; 
       color: #337B9A !important;
       margin-top: 1rem;
@@ -37,5 +37,5 @@ margin-top: 0.75rem;
       padding: 1.5rem!important;
     }
   .content a {text-decoration:none;}
-	.content h4 { margin-top: 1rem;}
+	.content h3 { margin-top: 1rem;}
 </style></div>
