@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>20 Oct | 13:00 - 16:00</b>&nbsp;<b>GMT+8</b>
+  <b>20 Aug | 13:00 - 16:00</b>&nbsp;<b>GMT+8</b>
   <h3>Pleasure Craft Safety Forum</h3>
 	<p>Venue: One 15 Marina - Level 2 Constellation Ballroom</p>
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
