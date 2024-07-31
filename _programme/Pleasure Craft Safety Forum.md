@@ -11,7 +11,7 @@ variant: markdown
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety amongst the pleasure craft community in Singapore.</p>
 	
-Details on the programme and speakers to follow.
+Details on the programme and speakers to follow.<p></p>
 
 
 <style type="text/css"> 
@@ -24,7 +24,7 @@ margin-top: 0.75rem;
     .is-left{
       text-align: left;
     }
-    .content h3{
+    .content h4{
       font-weight: 500; 
       color: #337B9A !important;
       margin-top: 1rem;
