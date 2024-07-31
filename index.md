@@ -89,7 +89,7 @@ sections:
       id: infopic
       description: By Singapore Shipping Association (SSA)
       button: CLICK HERE
-      url: /navigating-a-safe-shipping-transition-seminar-ssa/
+      url: /programme-navigating-a-safe-shipping-transition-seminar-ssa/
       image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
       alt: Image alt text
 ---
