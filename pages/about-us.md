@@ -17,7 +17,7 @@ variant: markdown
 As part of MPA’s commitment to promoting safety at sea, registration for all events is free.</p>
 <p>         
 
-This year, there are eight sessions to look forward to including the Singapore Safety@Sea (SS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and inaugural Responder Plus Programme (RPP) Maritime Workshops.</p>
+This year, there are seven sessions to look forward to including the Singapore Safety@Sea (SS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and inaugural Responder Plus Programme (RPP) Maritime Workshops.</p>
 <p><strong>Singapore Safety@Sea Conference (19 Aug 2024)<br></strong>          This year’s Singapore Safety@Sea Conference will be held at Conrad Singapore Orchard (1 Cuscaden Rd Singapore 249715). <br><br>Session themes:</p>
 <ul>
 <li>          Opening Session: “All Hands on Deck for Safe and Green Shipping”</li>
