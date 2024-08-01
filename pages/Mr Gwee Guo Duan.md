@@ -6,13 +6,13 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_23/Session1p1/palle kristensen.png">
+<img src="">
 </div>
 <div class="col is-9 speaker-details">
-<h4>Mr Palle Kristensen </h4>
-<p>Senior Advisor, Technical Regulation, Climate and Green Transition <br>Danish Maritime Authority <br>
+<h4>Mr           Gwee Guo Duan </h4>
+<p>          Assistant General Secretary <br>          Singapore Maritime Officers’ Union <br>
 </p>
-<p>Educated Marine Engineer and sailed as Marine Engineer for a decade before joining The Danish Maritime Authority as Ship Surveyor. In 2005 changed from the survey department to the regulatory department in DMA and has participated meetings in IMO with special focus on fire safety, design and equipment and oil and air pollution. Has participated in the environmental work in MEPC meetings, with focus on GHG emissions from shipping and the development of EEDI, DCS, EEXI, CII as well as regulation and guidelines for alternative fuels such ad LNG, Methanol etc. and now the development of guidelines for hydrogen and ammonia.</p>
+<p>          Gwee Guo Duan serves as the Assistant General Secretary at the Singapore Maritime Officers' Union (SMOU). Starting as a Junior Industrial Relations Officer in July 2005, he progressed to Director of Industrial Relations. Gwee collaborates with national and international partners, including the International Transport Workers’ Federation (ITF), Maritime and Port Authority of Singapore (MPA), and Singapore National Trades Union Congress (SNTUC). As the ITF contact, he plays a key role in international labour relations. He was instrumental in creating the Singapore Crew Change Guidebook and the SG-STAR Task Force during the COVID-19 pandemic. Recognized with the Minister’s Innovation Award 2020 and the Crew Change Champion Award, Gwee was elected to the SNTUC Central Committee in 2023, solidifying his influential role in the labour movement. An alumnus of Singapore Polytechnic, he holds a Diploma in Maritime Transport (Management) and an MBA from Roehampton University.</p>
 </div>
 </div>
 		
