@@ -55,7 +55,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/glen-davenport/" rel="noopener">Mr Glen Davenport</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Mr Glen Davenport</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
 <div class="text-ellipsis speaker-company">Vopak Terminals Singapore Pte Ltd</div>
 </div>
