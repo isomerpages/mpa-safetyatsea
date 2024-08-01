@@ -32,7 +32,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/anthony-lim/" rel="noopener">Mr Ishak Ismail</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ishak-ismail/" rel="noopener">Mr Ishak Ismail</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
@@ -46,7 +46,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ong-chin-beng/" rel="noopener">Mr Kelvin Kang Xiao Dong</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kelvin-kang-xiao-dong/" rel="noopener">Mr Kelvin Kang Xiao Dong</a></strong></div>
 <div class="text-ellipsis speaker-position">General Manager</div>
 <div class="text-ellipsis speaker-company">Stellar Shipmanagement Services Pte Ltd, Global Energy Group</div>
 </div>
@@ -59,7 +59,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/daniel-ng/" rel="noopener">Prof Kenneth Low</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kenneth-low/" rel="noopener">Prof Kenneth Low</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">Workplace Safety and Health Council (Marine Industries Committee)</div>
 </div>
@@ -74,7 +74,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ron-fong/" rel="noopener">Mr Gwee Guo Duan</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/gwee-guo-duan/" rel="noopener">Mr Gwee Guo Duan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant General Secretary</div>
 <div class="text-ellipsis speaker-company">Singapore Maritime Officers' Union</div>
 </div>
@@ -110,7 +110,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/anthony-lim/" rel="noopener">Mr Terence Ho</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/terence-ho/" rel="noopener">Mr Terence Ho</a></strong></div>
 <div class="text-ellipsis speaker-position"></div>
 <div class="text-ellipsis speaker-company"></div>
 <div class="speaker-role text-ellipsis text-muted"><small>Facilitator</small>
