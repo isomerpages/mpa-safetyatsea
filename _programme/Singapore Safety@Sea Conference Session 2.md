@@ -42,7 +42,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/samuel-soo/" rel="noopener">Mr New Wei Siang</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/new-wei-siang/" rel="noopener">Mr New Wei Siang</a></strong></div>
 <div class="text-ellipsis speaker-position">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
@@ -55,7 +55,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibin-chandrabose/" rel="noopener">Mr Glen Davenport</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/glen-davenport/" rel="noopener">Mr Glen Davenport</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
 <div class="text-ellipsis speaker-company">Vopak Terminals Singapore Pte Ltd</div>
 </div>
@@ -70,7 +70,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/dinesh-kumar-balraj/" rel="noopener">Mr Andrew Hoare</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andrew-hoare/" rel="noopener">Mr Andrew Hoare</a></strong></div>
 <div class="text-ellipsis speaker-position">Group Manager, Marine</div>
 <div class="text-ellipsis speaker-company">Fortescue</div>
 </div>
@@ -83,7 +83,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/md-kamal-hossain/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mohamad-sallah-bin-ahmad-sarwan/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist </div>
 <div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
 </div>

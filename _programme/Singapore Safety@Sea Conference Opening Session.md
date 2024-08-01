@@ -156,7 +156,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/yves-vandenborn/" rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
 <div class="text-ellipsis speaker-company">(Deputy Chairman, National Maritime Safety at Sea Council) </div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
@@ -170,7 +170,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/roberto-cazzulo/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority Singapore</div>
 </div>
@@ -183,7 +183,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/nick-potter/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
 <div class="text-ellipsis speaker-company">PSA Singapore</div>
 </div>
@@ -198,7 +198,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/steen-lund/" rel="noopener">Capt Mayank Singh</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
 <div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
 <div class="text-ellipsis speaker-company">X-Press Feeders</div>
 </div>
@@ -211,7 +211,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andre-l-legoubin/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chatur-wahyu/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
 </div>
