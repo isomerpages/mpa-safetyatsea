@@ -5,12 +5,11 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/chongjiachyuan.png"></div>
+<div class="col is-3"><img src=""></div>
 <div class="col is-9 speaker-details">
-<h4>Capt Chong Jia Chyuan</h4>
-<p>Port Master / Deputy Director (Operations)<br>Operations and Marine Services Division, <br>Maritime and Port Authority of Singapore</p>
-<p>Capt. Chong is the Port Master of the Maritime and Port Authority of Singapore (MPA). His responsibilities include regulatory control, safe and efficient management of the port.</p>
-<p>He holds a Master (Foreign-going) Certificate of Competency and a Master of Science (Maritime Safety and Environmental Administration) from the World Maritime University, Malmo (Sweden). He joined the MPA in 2009 as a Watch Manager in the Singapore VTIS and was subsequently promoted to Controller to oversee the Marine Environment and Safety Department from 2016 to 2017.</p>
+<h4>Capt           Mayank Singh</h4>
+<p>          Quality Assurance Manager<br>          X-Press Feeders Pte. Ltd.</p>
+<p>          Mayank has a distinguished career in the maritime industry with sailing experience onboard commercial vessels and marine expertise, now operates as the Quality Assurance Manager at X-Press Feeders. In this role, Mayank has played a pivotal part in pioneering projects like delivery of methanol-fuelled vessels under X-Press Feeders group. Mayank has been instrumental in developing all-encompassing procedures and safety measures for the operation of these vessels, including the intricate handling of methanol fuel onboard. This dedication to safety and innovation underscores Mayank's commitment to advancing the maritime industry. Mayank played a crucial role in coordinating the first simultaneous methanol bunkering operation in collaboration with multiple authorities &amp; port facility, successfully completed in Singapore earlier this year.</p>
 </div>
 </div>
 
