@@ -29,7 +29,7 @@ variant: markdown
         </a>
       </div>
       <div class="col is-4">
-        <a href="/chatur wahyu-drake">
+        <a href="/chatur-wahyu">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Chatur Wahyu</h4>
