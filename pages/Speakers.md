@@ -139,7 +139,7 @@ variant: markdown
         </a>
       </div>
 			 <div class="col is-4">
-        <a href="/kelvin-kang">
+        <a href="/kelvin-kang-xiao-dong">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Kelvin Kang Xiao Dong</h4>
