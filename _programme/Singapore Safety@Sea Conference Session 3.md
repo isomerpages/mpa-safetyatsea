@@ -59,7 +59,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kenneth-low/" rel="noopener">Prof Kenneth Low</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Prof Kenneth Low</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company">Workplace Safety and Health Council (Marine Industries Committee)</div>
 </div>
