@@ -29,7 +29,7 @@ variant: markdown
         </a>
       </div>
       <div class="col is-4">
-        <a href="/chatur wahyu-drake">
+        <a href="/chatur-wahyu/">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Chatur Wahyu</h4>
@@ -66,7 +66,7 @@ variant: markdown
   </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
     </a><div class="row"><a href="/michael-phoon">
       </a><div class="col is-4"><a href="/michael-phoon">
-        </a><a href="/glen-davenport">
+        </a><a href="">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
@@ -121,7 +121,7 @@ variant: markdown
   </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
     </a><div class="row"><a href="/vibhas-garg">
       </a><div class="col is-4"><a href="/vibhas-garg">
-        </a><a href="/kenneth-low">
+        </a><a href="">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
@@ -139,7 +139,7 @@ variant: markdown
         </a>
       </div>
 			 <div class="col is-4">
-        <a href="/kelvin-kang">
+        <a href="/kelvin-kang-xiao-dong/">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Kelvin Kang Xiao Dong</h4>
