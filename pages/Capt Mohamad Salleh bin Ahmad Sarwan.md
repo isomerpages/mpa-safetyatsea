@@ -4,7 +4,16 @@ permalink: /mohamad-salleh-bin-ahmad-sarwan/
 description: ""
 variant: markdown
 ---
-<div class="row"> <div class="col is-3"> <img src="/images/Speakers_23/Session2/capt md kamal.png"> </div> <div class="col is-9 speaker-details"> <h4>Capt Md Kamal Hossain</h4> <p>Team Lead, Marine Operations<br> Hong Lam Marine <br> </p> <p>A Master Mariner, currently serving as Team Lead, Marine Operations at Hong Lam Marine Pte Ltd. Member working group SS648: 2019 and SS600: 2022. Ex member SSA-MFM subcommittee 2019-2022. Passionate about teaching and research-based work. Currently undergoing research-based MSc in Ship design and Technology in UMT, Malaysia. Active members and volunteers of social organizations in Singapore and Bangladesh, namely BMCS, SMOU, SBS, BLLS, BMMOA, respectively. He is the ex-cadet of Bangladesh Marine Academy, 33rd Batch.</p> </div> </div>
+<div class="row"> <div class="col is-3"> <img src=""> </div> <div class="col is-9 speaker-details"> <h4>Capt           Mohamad Salleh bin Ahmad Sarwan</h4> <p>          Senior Lecturer &amp; Specialist<br>           Singapore Maritime Academy, Singapore Polytechnic <br> </p> <p>         
+
+Captain Mohamad Salleh is a Master Mariner, Senior Lecturer and an active advocate of maritime safety.</p> 
+<p></p>          
+
+He had served on the Singapore National Maritime Safety at Sea Council; chaired the Workplace Safety &amp; Health Council: Workgroup on Commercial Diving; and as co-convenor of the Singapore Standards for Shore-based Mooring and Unmooring Work Group. <p></p>
+<p></p>           He served as Director, SMA from 2015 to 2023. <p></p>
+<p></p>           Captain Salleh has actively contributed to growing the capacity of seagoing and shore-based maritime talent, helping to reinforce Singapore’s place in the maritime industry. <p></p> 
+<p></p>           He currently co-chairs the Standards Development Organisation (SDO) Working Group on Crew Training for Ammonia Bunkering as well as WSH Guidelines on Personal Flotation Devices. <p></p></div> </div>
+
 
 
 <style type="text/css"> 
