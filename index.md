@@ -94,4 +94,13 @@ sections:
       url: /navigating-a-safe-shipping-transition-seminar-by-ssa/
       image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
       alt: Image alt text
+  - infopic:
+      title: The Nautical Institute Conference 2024
+      subtitle: 21 AUG | 08:00 - 18:00 (GMT+8)
+      id: infopic
+      description: By Nautical Institute (NI)
+      button: CLICK HERE
+      url: /the-nautical-institute-conference-2024/
+      image: /images/Home/Linkedin_Twitter_Banner.jpg
+      alt: Image alt text
 ---
