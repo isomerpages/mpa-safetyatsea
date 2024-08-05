@@ -12,6 +12,8 @@ sections:
       variant: center
       title: Singapore Safety@Sea Week 2024
       subtitle: 19th August to 23rd August
+      button: Click Here to Register
+      url: http://go.gov.sg/safetyatseaweek2024
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
