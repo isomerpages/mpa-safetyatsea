@@ -146,7 +146,7 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>19 OCT | 11:05 - 12:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>19 AUG | 11:05 - 12:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“All Hands on Deck for Safe Methanol Bunkering”	
 <hr class="my-3 border-primary">
