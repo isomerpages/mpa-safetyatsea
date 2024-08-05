@@ -25,7 +25,8 @@ variant: markdown
 <div class="programme-time"><strong>19 AUG | 15:35 - 16:35</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“All Hands on Deck for Our People's Safety and Wellbeing”	
-<hr class="my-3 border-primary">
+	<p></p><p>          The panel for Session 3 of this year’s conference will focus on the safety and well-being of the maritime workforce.          The panel will feature WSHC, SMOU, and Stellar Shipmanagement Services’ views on this topic.
+</p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
