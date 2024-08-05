@@ -25,6 +25,6 @@ welfare, mental wellness, and ensuring a diverse, skilled future workforce.</p>
 <p>This is a unique opportunity for you to engage with industry leaders and
 report on the pivotal changes shaping the maritime sector. Cocktails networking
 session follows after the conference.&nbsp;</p>
-<p>Secure your seats today! Register here: <a rel="noopener noreferrer nofollow" target="_blank">https://reg.eventnook.com/event/NI2024</a>&nbsp;&nbsp;</p>
+<p>Secure your seats today! <a href="https://reg.eventnook.com/event/NI2024" rel="noopener noreferrer nofollow" target="_blank">Register here</a>&nbsp;&nbsp;</p>
 <p>Any enquiries, please contact <a rel="noopener noreferrer nofollow" target="_blank">singapore.branch@nautinst.org</a>
 </p>
