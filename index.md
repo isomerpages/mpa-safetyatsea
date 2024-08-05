@@ -86,12 +86,12 @@ sections:
       image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
       alt: Image alt text
   - infopic:
-      title: The Nautical Institute Conference 2024
+      title: The Nautical Institute Singapore Conference 2024
       subtitle: 21 AUG | 08:00 - 18:00 (GMT+8)
       id: infopic
-      description: By Nautical Institute (NI)
+      description: By Nautical Institute (Singapore Branch)
       button: CLICK HERE
-      url: /the-nautical-institute-conference-2024/
+      url: /the-nautical-institute-singapore-conference-2024/
       image: /images/Home/Linkedin_Twitter_Banner.jpg
       alt: Image alt text
   - infopic:
