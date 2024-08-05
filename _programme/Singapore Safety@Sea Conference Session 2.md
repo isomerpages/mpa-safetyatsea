@@ -21,7 +21,7 @@ variant: markdown
 <div class="programme-time"><strong>19 AUG | 13:35 - 14:55</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“All Hands on Deck for Safe Ammonia Bunkering”
-	<p></p><p>          The panel for Session 2 of this year’s conference will focus on safe ammonia bunkering.         
+<div><p></p><p>          The panel for Session 2 of this year’s conference will focus on safe ammonia bunkering.         
 The panel will feature MPA and the various parties involved in the world’s first use of ammonia as a marine fuel in the Port of Singapore earlier this year.
 </p><hr class="my-3 border-primary">
 <div class="speakers px-2">
@@ -105,7 +105,7 @@ The panel will feature MPA and the various parties involved in the world’s fir
 </div>
 
 
-</section>
+</div></section>
 	
 	
 	
