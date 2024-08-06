@@ -149,7 +149,10 @@ variant: markdown
 <div class="programme-time"><strong>19 AUG | 11:05 - 12:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Panel Discussion</h4>
 	“All Hands on Deck for Safe Methanol Bunkering”	
-<hr class="my-3 border-primary">
+	<p></p> <p>         
+
+</p><div>The panel will feature MPA and the various parties involved in the first successful simultaneous methanol bunkering and cargo operation at Tuas Port on 27 May 2024. <p></p> <p> </p><div>
+<p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
 <div class="col is-6 prog-speaker">
@@ -231,7 +234,7 @@ variant: markdown
 </div>
 </div>
 </div>
-</div></section>
+</div></div></div></section>
 
 
 <style type="text/css"> 
