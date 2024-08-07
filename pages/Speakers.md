@@ -53,8 +53,9 @@ variant: markdown
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Michael Phoon Thin Kwai (Moderator)</h4>
-          <div class="speaker-position text-ellipsis">Deputy Chairman</div>
-          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
+          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <div class="speaker-company text-ellipsis">Singapore Shipping Association
+						(Deputy Chairman, National Maritime Safety at Sea Council) </div>
 				</a>
 			</div>
 		</div>
@@ -70,8 +71,8 @@ variant: markdown
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
-          <div class="speaker-position text-ellipsis">President, Operations and Technical </div>
-          <div class="speaker-company text-ellipsis">Vopak Terminals Singapore Pte Ltd</div>
+          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical </div>
+          <div class="speaker-company text-ellipsis">Vopak Terminals Singapore</div>
         </a>
       </div>
       <div class="col is-4">
@@ -99,8 +100,8 @@ variant: markdown
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr New Wei Siang </h4>
-          <div class="speaker-position text-ellipsis">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
+          <div class="speaker-position text-ellipsis">Director (Decarbonisation &amp; Net-Zero Pathways)</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
       <div class="col is-4">
@@ -109,7 +110,7 @@ variant: markdown
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Director</div>
-          <div class="speaker-company text-ellipsis">Octant Marine Pte Ltd, Singapore (Member, National Maritime Safety at Sea Council)</div>
+          <div class="speaker-company text-ellipsis">Octant Marine Pte Ltd (Member, National Maritime Safety at Sea Council)</div>
         </a>
       </div>
     </div>
@@ -121,12 +122,12 @@ variant: markdown
   </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
     </a><div class="row"><a href="/vibhas-garg">
       </a><div class="col is-4"><a href="/vibhas-garg">
-        </a><a href="">
+        </a><a href="/kenneth-low/">
           <div class="speaker-image-wrapper">
           </div>
           <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
-          <div class="speaker-position text-ellipsis">Chairman </div>
-          <div class="speaker-company text-ellipsis">Workplace Safety and Health Council (Marine Industries Committee)</div>
+          <div class="speaker-position text-ellipsis">Senior Vice President </div>
+          <div class="speaker-company text-ellipsis">ST Engineering</div>
         </a>
       </div>
       <div class="col is-4">
