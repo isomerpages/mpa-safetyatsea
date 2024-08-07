@@ -16,7 +16,7 @@ variant: markdown
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
-          <div class="speaker-company text-ellipsis">PSA Singapore</div>
+          <div class="speaker-company text-ellipsis">PSA Corporation Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -25,7 +25,7 @@ variant: markdown
           </div>
           <h4 class="speaker-name text-ellipsis">Capt Mayank Singh</h4>
           <div class="speaker-position text-ellipsis">Quality Assurance Manager</div>
-          <div class="speaker-company text-ellipsis">X-Press Feeders</div>
+          <div class="speaker-company text-ellipsis">X-Press Feeders Pte Ltd</div>
         </a>
       </div>
       <div class="col is-4">
@@ -45,14 +45,14 @@ variant: markdown
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Chua Yeng Hian</h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director (Marine Services) <br> </div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority Singapore</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/michael-phoon">
+        <a href="/michael-phoon-thin-kwai">
           <div class="speaker-image-wrapper">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon (Moderator)</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Michael Phoon Thin Kwai (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Deputy Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council (Executive Director, Singapore Shipping Association) </div>
 				</a>
