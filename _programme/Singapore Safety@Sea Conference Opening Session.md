@@ -159,7 +159,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon/" rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
 <div class="text-ellipsis speaker-company">(Deputy Chairman, National Maritime Safety at Sea Council) </div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
