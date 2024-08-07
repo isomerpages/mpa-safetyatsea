@@ -14,7 +14,7 @@ variant: markdown
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
           </div>
-          <h4 class="speaker-name text-ellipsis">Mr Goh Hock NguanK</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
           <div class="speaker-company text-ellipsis">PSA Corporation Ltd</div>
         </a>
