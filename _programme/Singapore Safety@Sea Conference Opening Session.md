@@ -157,7 +157,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
@@ -171,7 +171,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Chua_Yeng_Hian.png" alt="Mr Chua Yeng Hian"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Chua_Yeng_Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
@@ -184,7 +184,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -199,7 +199,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png" alt="Capt Mayank Singh"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
 <div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
@@ -212,7 +212,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Chatur_Wahyu.png" alt="Capt Chatur Wahyu"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Chatur_Wahyu.png" alt="Capt Chatur Wahyu" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chatur-wahyu/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
@@ -239,7 +239,11 @@ variant: markdown
 
 <style type="text/css"> 
 
-	
+	.image-adjust{
+		object-fit: cover;
+		height: 140px;
+		width: 100%;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}
