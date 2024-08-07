@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping </h3>
+  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping Check</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
