@@ -202,10 +202,11 @@ variant: markdown
   }
   .speaker-image-wrapper{
     height: 215px;
-    width: 215px;
+    width: 170px;
     background-position: center center;
     background-size: cover;
     border-radius: 50%;
-    background-repeat: no-repeat;	
+    background-repeat: no-repeat;
+    margin: 0 auto;
   }
 </style>
