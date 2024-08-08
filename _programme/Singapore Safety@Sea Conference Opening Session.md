@@ -243,6 +243,7 @@ variant: markdown
 		object-fit: cover;
 		height: 140px;
 		width: 100%;
+		border-radius:50%;
 	}
 	hr.my-3{
 margin-top: 0.75rem;	
