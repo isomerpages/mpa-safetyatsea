@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src=""></div>
+<div class="col is-3"><img src="/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png" alt="Mr Terence Ho" class="image-adjust"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Terence Ho</h4>
 <p><br></p>
@@ -13,6 +13,13 @@ variant: markdown
 </div>
 </div>
 <style type="text/css"> 
+      .image-adjust{
+		object-fit: cover;
+		height: 220px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
     .is-left{
       text-align: left;
     }
