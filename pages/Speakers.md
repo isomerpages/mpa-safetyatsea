@@ -13,6 +13,7 @@ variant: markdown
       <div class="col is-4">
         <a href="/goh-hock-nguan">
           <div class="speaker-image-wrapper">
+		  <img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
           <div class="speaker-position text-ellipsis">Assistant Vice President, Sustainability Planning &amp; Development</div>
