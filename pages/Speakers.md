@@ -12,7 +12,7 @@ variant: markdown
     <div class="row">
       <div class="col is-4">
         <a href="/goh-hock-nguan">
-          <div class="speaker-image-wrapper">
+          <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png)">
             <img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust">
           </div>
           <h4 class="speaker-name text-ellipsis">Mr Goh Hock Nguan</h4>
