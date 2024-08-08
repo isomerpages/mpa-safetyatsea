@@ -72,7 +72,7 @@ variant: markdown
   </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
     </a><div class="row"><a href="/michael-phoon">
       </a><div class="col is-4"><a href="/michael-phoon">
-        </a><a href="">
+        </a><a href="/glen-davenport">
           <div class="speaker-image-wrapper">
             <img src="/images/Speakers/2024/Speaker_-_Mr_Glen_Davenport.png" alt="Mr Glen Davenport" class="image-adjust">
           </div>
