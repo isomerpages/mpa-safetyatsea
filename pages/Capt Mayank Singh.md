@@ -16,7 +16,7 @@ variant: markdown
 <style type="text/css"> 
   .image-adjust{
 		object-fit: cover;
-		height: 100px;
+		height: 220px;
 		width: 100%;
 		border-radius:50%;
 		object-position: top center;
