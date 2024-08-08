@@ -28,7 +28,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Captain_Vibhas_Grag__Moderator.png" alt="Capt Vibhas Garg" class="image-adjust"></div></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Captain_Vibhas_Grag__Moderator.png" alt="Capt Vibhas Garg" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
 <div class="text-ellipsis speaker-position">Director, Octant Marine Pte Ltd, Singapore</div>
