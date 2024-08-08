@@ -32,7 +32,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Mr.Ishak_Ismail-.png" alt="Mr Ishak Ismail" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ishak-ismail/" rel="noopener">Mr Ishak Ismail</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -46,7 +46,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._Kelvin_Kang_XiaoDong-.png" alt="Mr Kelvin Kang Xiao Dong" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kelvin-kang-xiao-dong/" rel="noopener">Mr Kelvin Kang Xiao Dong</a></strong></div>
 <div class="text-ellipsis speaker-position">General Manager</div>
@@ -59,7 +59,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Prof_Kenneth_Low.png" alt="Prof Kenneth Low" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Prof Kenneth Low</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -74,7 +74,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png" alt="Mr Gwee Guo Duan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/gwee-guo-duan/" rel="noopener">Mr Gwee Guo Duan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant General Secretary</div>
@@ -110,7 +110,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png" alt="Mr Terence Ho" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/terence-ho/" rel="noopener">Mr Terence Ho</a></strong></div>
 <div class="text-ellipsis speaker-position"></div>
@@ -127,7 +127,13 @@ variant: markdown
 	
 <style type="text/css"> 
 
-	
+	.image-adjust{
+		object-fit: cover;
+		height: 100px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}
