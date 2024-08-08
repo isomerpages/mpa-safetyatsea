@@ -201,9 +201,9 @@ variant: markdown
     text-decoration: none;
   }
   .speaker-image-wrapper{
-    height: 215px;
-    width: 170px;
-    background-position: center center;
+    height: 200x;
+    width: 100px;
+    background-position: top center;
     background-size: cover;
     border-radius: 50%;
     background-repeat: no-repeat;
