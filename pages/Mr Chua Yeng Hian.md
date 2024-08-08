@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src=""></div>
+<div class="col is-3"><img src="/images/Speakers/2024/Speaker_-_Mr_Chua_Yeng_Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr           Chua Yeng Hian</h4>
 <p>          Senior Deputy Director (Marine Services)<br>          Maritime and Port Authority of Singapore<br><br></p>
@@ -17,6 +17,13 @@ Yeng Hian currently heads the Marine Services Division at the Maritime and Port 
 </div>
 
 <style type="text/css"> 
+  .image-adjust{
+    object-fit: cover;
+		height: 220px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
 .is-left{
 text-align: left;
 }
