@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src=""></div>
+<div class="col is-3"><img src="/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt           Mayank Singh</h4>
 <p>          Quality Assurance Manager<br>          X-Press Feeders Pte. Ltd.</p>
@@ -14,6 +14,13 @@ variant: markdown
 </div>
 
 <style type="text/css"> 
+  .image-adjust{
+		object-fit: cover;
+		height: 100px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
 .is-left{
 text-align: left;
 }
