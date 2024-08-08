@@ -116,6 +116,7 @@ variant: markdown
 		height: 100px;
 		width: 100%;
 		border-radius:50%;
+		object-position: top center;
 	}
 	hr.my-3{
 margin-top: 0.75rem;	
