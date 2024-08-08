@@ -241,7 +241,7 @@ variant: markdown
 
 	.image-adjust{
 		object-fit: cover;
-		height: 140px;
+		height: 100px;
 		width: 100%;
 		border-radius:50%;
 	}
