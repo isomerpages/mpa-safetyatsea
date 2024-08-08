@@ -125,7 +125,13 @@ variant: markdown
   </div>
 
 	
-<style type="text/css"> 
+<style type="text/css">
+	@media only screen and (max-width:800px){
+		.image-adjust{
+		height: 200px!important;
+		width: 200px!important;
+		}
+	}
 
 	.image-adjust{
 		object-fit: cover;
