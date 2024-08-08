@@ -240,8 +240,8 @@ variant: markdown
 <style type="text/css"> 
 	@media only screen and (max-width:800px){
 		.image-adjust{
-		height: 250px!important;
-		width: 250px!important;
+		height: 200px!important;
+		width: 200px!important;
 		}
 	}
 	.image-adjust{
