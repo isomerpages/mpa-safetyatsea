@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-<img src="">
+<img src="/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png" alt="Mr Gwee Guo Duan" class="image-adjust">
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr           Gwee Guo Duan </h4>
@@ -21,6 +21,13 @@ variant: markdown
 		
 		
 <style type="text/css"> 
+	  .image-adjust{
+		object-fit: cover;
+		height: 220px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
     .is-left{
       text-align: left;
     }
