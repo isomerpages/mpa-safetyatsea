@@ -68,7 +68,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Mr_Murali_Pillai__MOS.png" alt="Mr Murali Pillai" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Mr_Murali_Pillai__MOS.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
@@ -157,7 +157,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
@@ -238,6 +238,9 @@ variant: markdown
 
 
 <style type="text/css"> 
+	.position-center{
+		object-position:top center;
+	}
 	@media only screen and (max-width:800px){
 		.image-adjust{
 		height: 200px!important;
