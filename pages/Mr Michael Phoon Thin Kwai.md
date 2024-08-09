@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr Michael Phoon Thin Kwai" class="image-adjust"></div>
+<div class="col is-3">
+	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png)"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Michael Phoon Thin Kwai</h4>
 <p>Executive Director<br>Singapore Shipping Association<br>(Deputy Chairman, National Maritime Safety at Sea Council)</p>
@@ -18,6 +19,15 @@ Michael Phoon is the Executive Director of the Singapore Shipping Association (S
 </div>
 </div>
 <style type="text/css">
+	.speaker-image-wrapper{
+    height: 220px;
+    width: 220px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
     .image-adjust{
 		object-fit: cover;
 		height: 220px;
