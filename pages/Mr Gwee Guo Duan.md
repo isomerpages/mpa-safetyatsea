@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png" alt="Mr Gwee Guo Duan" class="image-adjust">
+	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png)"></div>
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr           Gwee Guo Duan </h4>
@@ -21,6 +21,15 @@ variant: markdown
 		
 		
 <style type="text/css"> 
+	.speaker-image-wrapper{
+    height: 220px;
+    width: 220px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+  }
 	  .image-adjust{
 		object-fit: cover;
 		height: 220px;
