@@ -79,7 +79,7 @@ variant: markdown
       </div>
 			 <div class="col is-4">
         <a href="/mohamad-salleh-bin-ahmad-sarwan">
-          <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Capt._Mohamad_Salleh_bin_Ahmad_Sarwan.png)"></div>
+          <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Speaker_-_Capt._Mohamad_Salleh_bin_Ahmad_Sarwan.png)"></div>
           <h4 class="speaker-name text-ellipsis">Capt Mohamad Salleh bin Ahmad Sarwan</h4>
           <div class="speaker-position text-ellipsis">Senior Lecturer &amp; Specialist</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Academy, Singapore Polytechnic</div>
@@ -139,7 +139,7 @@ variant: markdown
     <div class="row">
       <div class="col is-4">
         <a href="/ishak-ismail">
-          <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Moderator_-_Mr.Ishak_Ismail-.png)"></div>
+          <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Moderator_-_Mr.Ishak_Ismail-.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail (Moderator) </h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
@@ -147,7 +147,7 @@ variant: markdown
       </div>
       <div class="col is-4">
         <a href="/terence-ho">
-          <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png)"></div>
+          <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
           <div class="speaker-position text-ellipsis"></div>
           <div class="speaker-company text-ellipsis"></div>
@@ -209,4 +209,7 @@ variant: markdown
     background-repeat: no-repeat;
     margin: 0 auto;
   }
+	.position-center{
+		background-position: top center!important;
+	}
 </style>
