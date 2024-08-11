@@ -72,7 +72,6 @@ variant: markdown
 <div class="row">
 
 <div class="col is-6 prog-speaker">
-
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png" alt="Mr Gwee Guo Duan" class="image-adjust"></div>
 <div class="col is-8">
@@ -81,10 +80,18 @@ variant: markdown
 <div class="text-ellipsis speaker-company">Singapore Maritime Officers' Union</div>
 </div>
 </div>
+</div>
 
 
-
-
+<div class="col is-6 prog-speaker">
+<div class="row">
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._Gwee_Guo_Duan.png" alt="Capt Chong JiaChyuan" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/gwee-guo-duan/" rel="noopener">Capt Chong JiaChyuan</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Deputy Director (Operations) / Port Master</div>
+<div class="text-ellipsis speaker-company">Maritime & Port Authority of Singapore</div>
+</div>
+</div>
 </div>
 
 </div>
