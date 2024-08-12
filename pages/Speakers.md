@@ -137,6 +137,14 @@ variant: markdown
       </div>
     </div>
     <div class="row">
+	    <div class="col is-4">
+        <a href="#">
+          <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/chongjiachyuan-.png)"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Chong JiaChyuan </h4>
+          <div class="speaker-position text-ellipsis">Senior Deputy Director (Operations) / Port Master</div>
+          <div class="speaker-company text-ellipsis">Maritime & Port Authority of Singapore</div>
+        </a>
+      </div>
       <div class="col is-4">
         <a href="/ishak-ismail">
           <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Moderator_-_Mr.Ishak_Ismail-.png)"></div>
