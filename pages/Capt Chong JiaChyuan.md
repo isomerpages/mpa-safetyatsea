@@ -9,7 +9,7 @@ variant: markdown
 	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/chongjiachyuan-.png)"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Chong JiaChyuan</h4>
-<p>Senior Deputy Director (Operations) / Port Master, Maritime & Port Authority of Singapore</p>
+<p>Senior Deputy Director (Operations) / Port Master,<br> Maritime & Port Authority of Singapore</p>
 <p> </p>
 </div>
 </div>
