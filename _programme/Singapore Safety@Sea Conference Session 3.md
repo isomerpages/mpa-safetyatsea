@@ -62,8 +62,8 @@ variant: markdown
 	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Prof_Kenneth_Low.png" alt="Prof Kenneth Low" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kenneth-low/" rel="noopener">Prof Kenneth Low</a></strong></div>
-<div class="text-ellipsis speaker-position">Chairman</div>
-<div class="text-ellipsis speaker-company">Workplace Safety and Health Council (Marine Industries Committee)</div>
+<div class="text-ellipsis speaker-position">Senior Vice President</div>
+<div class="text-ellipsis speaker-company">ST Engineering</div>
 </div>
 </div>
 
@@ -89,7 +89,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Chong JiaChyuan</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Operations) / Port Master</div>
-<div class="text-ellipsis speaker-company">Maritime & Port Authority of Singapore</div>
+<div class="text-ellipsis speaker-company">Maritime &amp; Port Authority&nbsp;of&nbsp;Singapore</div>
 </div>
 </div>
 </div>
