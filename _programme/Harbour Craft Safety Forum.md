@@ -23,7 +23,7 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>20 AUG | 09:05 - 09:15</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Presentation by Maritime and Port Authority of Singapore &amp; NOAH Agencies 'N' Marine Services</h4>
 	“Role of Personal Flotation Devices in Enhancing Maritime Safety”	
 	<p></p> <p>         
 </p></div>
@@ -47,7 +47,7 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>20 AUG | 09:15 - 09:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Presentation by PSA Marine (Pte) Ltd</h4>
 	“Refresher Sharing on Safety of Navigation”	
 	<p></p> <p>         
 </p></div>
@@ -67,29 +67,8 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>20 AUG | 09:25 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
-	“Enhancing Well-being for Seafarers”	
-	<p></p> <p>         
-</p></div>
-	
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-	
-<section>
-<div class="bp-container is-fluid">
-<div class="row">
-<div class="col is-full">
-<div class="row">
-<div class="col is-12">
-<div class="border bg-light h-100 position-relative">
-<div class="p-4">
 <div class="programme-time"><strong>20 AUG | 09:35 - 09:45</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Presentation by Sea Forrest Technologies</h4>
 	“Marine Battery Systems and Safety Considerations”	
 	<p></p> <p>         
 </p></div>
@@ -110,7 +89,7 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>20 AUG | 09:45 - 09:55</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation</h4>
+<h4 class="programme-title">Presentation by Yinson Holding &amp; Penguin International Limited</h4>
 	“Electric Vessel Operations Battery Systems and Safety Considerations”	
 	<p></p> <p>         
 </p></div>
@@ -181,4 +160,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style></section></section></section></section></section>
+</style></section></section></section></section>
