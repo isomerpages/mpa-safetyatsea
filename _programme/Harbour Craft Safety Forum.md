@@ -25,6 +25,8 @@ variant: markdown
 	“Role of Personal Flotation Devices in Enhancing Maritime Safety”	
 	<p></p> <p>         
 </p></div>
+	
+	
 
 
 </div>
@@ -33,8 +35,106 @@ variant: markdown
 </div>
 </div>
 </div>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 09:15 - 09:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+	“Refresher Sharing on Safety of Navigation”	
+	<p></p> <p>         
+</p></div>
+	
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 09:25 - 09:35</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+	“Enhancing Well-being for Seafarers”	
+	<p></p> <p>         
+</p></div>
+	
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 09:35 - 09:45</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+	“Marine Battery Systems and Safety Considerations”	
+	<p></p> <p>         
+</p></div>
+	
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 09:45 - 09:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Presentation</h4>
+	“Electric Vessel Operations Battery Systems and Safety Considerations”	
+	<p></p> <p>         
+</p></div>
+	
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 09:55 - 11:10</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+	“Electrification of Harbour Craft ”	
+	<p></p> <p>         
+</p></div>
 
-</section>
+</div></div></div></div></div></div></section>
 
 
  <div class="bp-container is-fluid">
@@ -79,4 +179,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style>
+</style></section></section></section></section></section>
