@@ -159,7 +159,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon Thin Kwai</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
 <div class="text-ellipsis speaker-company">(Deputy Chairman, National Maritime Safety at Sea Council) </div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
@@ -175,7 +175,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority Singapore</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
@@ -188,7 +188,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
-<div class="text-ellipsis speaker-company">PSA Singapore</div>
+<div class="text-ellipsis speaker-company">PSA Corporation Ltd</div>
 </div>
 </div>
 
@@ -203,7 +203,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
 <div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
-<div class="text-ellipsis speaker-company">X-Press Feeders</div>
+<div class="text-ellipsis speaker-company">X-Press Feeders Pte Ltd</div>
 </div>
 </div>
 
