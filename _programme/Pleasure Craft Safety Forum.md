@@ -67,7 +67,7 @@ variant: markdown
 <div class="col is-4"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Capt Sahwan Osman</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Lecturer<br> Singapore Maritime Academy, Singapore Polytechnic</div>
+<div class="text-ellipsis speaker-position">Senior Lecturer<br>Singapore Maritime Academy, Singapore Polytechnic</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Presenter</small></div>
 </div>
 </div>
@@ -99,7 +99,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="mohamad-salleh-bin-ahmad-sarwan" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mohamad-salleh-bin-ahmad-sarwan/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist<br> Singapore Maritime Academy, Singapore Polytechnic</div>
 </div>
 </div>
@@ -113,6 +113,133 @@ variant: markdown
 </div>
 </div>
 </div></div></div></section>
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 15:05 - 15:20</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Boating Education versus Enforcement</h4>         
+<p></p><hr class="my-3 border-primary">
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Mr James Sullivan</a></strong></div>
+<div class="text-ellipsis speaker-position">Deputy Director<br> US Coast Guard Auxiliary</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></section>
+	
+	
+<section>
+<div class="bp-container is-fluid">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+<div class="programme-time"><strong>20 AUG | 15:20 - 16:00</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Panel Discussion</h4>
+<p></p> <p> </p><div>
+<p></p><hr class="my-3 border-primary">
+<div class="speakers px-2">
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Mr Terence Ho</a></strong></div>
+<div class="text-ellipsis speaker-position"><br> </div>
+<small>Moderator</small></div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">&nbsp;</div>
+</div>
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+	<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Capt Charles Alexandar De Souza</a></strong></div>
+<div class="text-ellipsis speaker-position">Deputy Director (Marine Environment &amp; Safety)/Deputy Port Master</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+</div>
+</div>
+</div>
+
+
+<div class="col is-6 prog-speaker">
+
+<div class="row">
+	<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Capt Sahwan Osman</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Lecturer</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="row">
+
+<div class="col is-6 prog-speaker">
+
+<div class="row">
+	<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
+<div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
+</div>
+</div>
+
+
+</div>
+
+<div class="col is-6 prog-speaker">
+<div class="row">
+<div class="col is-4"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Mr James Sullivan</a></strong></div>
+<div class="text-ellipsis speaker-position">Deputy Director</div>
+<div class="text-ellipsis speaker-company">US Coast Guard Auxiliary</div>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></section></div>
 
 <style type="text/css"> 
 
@@ -138,4 +265,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style></div>
+</style>
