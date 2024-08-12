@@ -59,7 +59,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/glen-davenport/" rel="noopener">Mr Glen Davenport</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
-<div class="text-ellipsis speaker-company">Vopak Terminals Singapore Pte Ltd</div>
+<div class="text-ellipsis speaker-company">Vopak Terminals Singapore</div>
 </div>
 </div>
 
@@ -73,7 +73,7 @@ variant: markdown
 <div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._ANDREW_HOARE.png" alt="Mr Andrew Hoare" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andrew-hoare/" rel="noopener">Mr Andrew Hoare</a></strong></div>
-<div class="text-ellipsis speaker-position">Group Manager, Marine</div>
+<div class="text-ellipsis speaker-position">Head of Fortescue Marine Systems and Green Shipping</div>
 <div class="text-ellipsis speaker-company">Fortescue</div>
 </div>
 </div>
