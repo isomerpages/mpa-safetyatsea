@@ -89,8 +89,8 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>20 AUG | 09:45 - 09:55</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Presentation by Yinson Holding &amp; Penguin International Limited</h4>
-	“Electric Vessel Operations Battery Systems and Safety Considerations”	
+<h4 class="programme-title">Presentation by Yinson Holding / Penguin International Limited</h4>
+	“Electric Vessel Operations: Battery Systems and Safety Considerations”	
 	<p></p> <p>         
 </p></div>
 	
