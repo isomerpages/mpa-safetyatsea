@@ -153,15 +153,18 @@ variant: markdown
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council </div>
         </a>
       </div>
-      <div class="col is-4">
-        <a href="/terence-ho">
-          <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png)"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
-          <div class="speaker-position text-ellipsis"></div>
-          <div class="speaker-company text-ellipsis"></div>
-        </a>
-      </div>
     </div>
+	<div class="row">
+		<h4>Roundtable Discussions</h4>
+		 <div class="col is-4">
+			 <a href="/terence-ho">
+				 <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/Facilitator_-_Mr_Trence_Ho__1.png)"></div>
+				 <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
+				 <div class="speaker-position text-ellipsis"></div>
+				 <div class="speaker-company text-ellipsis"></div>
+			 </a>
+		 </div>
+	</div>
   </div>
 </section>
 
