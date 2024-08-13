@@ -44,7 +44,7 @@ variant: markdown
 
 <style type="text/css"> 
 	ul.second-level{
-		margin-top:0px!important:
+		margin-top:0px!important;
 	}
 	.container-space{
 	margin-bottom:15px;
