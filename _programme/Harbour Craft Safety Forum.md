@@ -4,7 +4,7 @@ permalink: /programme/harbour-craft-forum/
 description: ""
 variant: markdown
 ---
-<div>
+<div class="container-space">
   <b>20 Aug  | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
   <h3>Harbour Craft Safety Forum</h3>
 	<p>Venue: mTower, Level 18 Excellence Room, 460 Alexandra Road, Singapore 119963</p>
@@ -12,7 +12,7 @@ variant: markdown
 	<p>The group focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 </div>
 <section>
-<div class="bp-container is-fluid">
+<div class="bp-container is-fluid full-width">
 <div class="row">
 <div class="col is-full">
 <div class="row">
@@ -39,8 +39,13 @@ variant: markdown
 
 
 <style type="text/css"> 
-
-	
+.container-space{
+	margin-bottom:15px;
+}
+	.full-width{
+		margin-left:0px!important;
+		margin-right:0px!important;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}
