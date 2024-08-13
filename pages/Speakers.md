@@ -114,7 +114,7 @@ variant: markdown
       </a><div class="col is-4"><a href="/vibhas-garg">
         </a><a href="/kenneth-low/">
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Prof_Kenneth_Low.png)"></div>
-          <h4 class="speaker-name text-ellipsis">Prof Kenneth Low</h4>
+          <h4 class="speaker-name text-ellipsis">Dr Kenneth Low</h4>
           <div class="speaker-position text-ellipsis">Senior Vice President </div>
           <div class="speaker-company text-ellipsis">ST Engineering</div>
         </a>
