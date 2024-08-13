@@ -157,7 +157,7 @@ variant: markdown
   </div>
 </section>
 
-<h4>Roundtable Discussions</h4>
+<h4 class="text-margin">Roundtable Discussions</h4>
 <section class="bp-section font">
 	<div class="bp-container is-fluid has-text-centered">
 	<div class="row">
@@ -176,6 +176,10 @@ variant: markdown
 
 
 <style type="text/css">
+	.text-margin h4{
+		margin-top:1rem!important;
+	}
+	
   .is-left {
     text-align: left;
   }
