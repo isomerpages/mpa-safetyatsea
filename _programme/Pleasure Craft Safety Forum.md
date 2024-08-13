@@ -24,7 +24,7 @@ variant: markdown
 	<ul>
 		<li>Sharing of Pleasure Craft Incident Statistics – by Capt Ansar Mohamed, MPA</li>
 		<li>Case Studies on:
-		<ul>
+		<ul class="second-level">
 			<li>Safe Lookout</li>
 			<li>Fire Hazard</li>
 			<li>Diving (Alpha Flag)<br>– by Capt Sahwan Osman, SMA</li>
@@ -43,9 +43,12 @@ variant: markdown
 </section>
 
 <style type="text/css"> 
+	ul.second-level{
+		margin-top:0px!important:
+	}
 	.container-space{
 	margin-bottom:15px;
-}
+	}
 	.full-width{
 		margin-left:0px!important;
 		margin-right:0px!important;
