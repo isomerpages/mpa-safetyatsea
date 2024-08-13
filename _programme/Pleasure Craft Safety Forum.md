@@ -42,7 +42,10 @@ variant: markdown
 </div>	
 </section>
 
-<style type="text/css"> 
+<style type="text/css">
+	ul.second-level > li:last-child{
+		margin-bottom:0px!important;
+	}
 	ul.second-level{
 		margin-top:0px!important;
 	}
