@@ -1,5 +1,5 @@
 ---
-title: Prof Kenneth Low
+title: Dr Kenneth Low
 permalink: /kenneth-low/
 description: ""
 variant: markdown
@@ -7,8 +7,8 @@ variant: markdown
 <div class="row">
 <div class="col is-3">
 	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Prof_Kenneth_Low.png)"></div></div> 
-<div class="col is-9 speaker-details"> <h4>Prof Kenneth Low</h4> <p>Senior Lecturer &amp; Specialist<br> Singapore Maritime Academy, Singapore Polytechnic <br> </p> 
-<p>Professor Kenneth Low is the Senior Vice President and Head of Innovation & Sustainability at ST Engineering. He is an Adjunct Associate Professor and former Cluster Director (Dean) of Engineering at the Singapore Institute of Technology. 
+<div class="col is-9 speaker-details"> <h4>Dr Kenneth Low</h4> <p>Senior Lecturer &amp; Specialist<br> Singapore Maritime Academy, Singapore Polytechnic <br> </p> 
+<p>Dr Kenneth Low is the Senior Vice President and Head of Innovation & Sustainability at ST Engineering. He is an Adjunct Associate Professor and former Cluster Director (Dean) of Engineering at the Singapore Institute of Technology. 
 He has more than 25 years of experience in the industry, academic & government, and serves on the board of statutory bodies, private companies and trade association.</p>
 <p>He holds a Bachelor of Engineering (Hons) in Mechanical Engineering from University of Newcastle upon Tyne and a Doctor of Philosophy (Ph.D.) in Mechanical Engineering from the University of Nottingham.</p>
 <p>He is a Fellow of the Institute of Marine Engineering, Science and Technology (IMarEST), a Fellow of the Royal Institution of Naval Architects (RINA), and a Chartered Engineer.</p>
