@@ -176,7 +176,7 @@ variant: markdown
 
 
 <style type="text/css">
-	.text-margin .content h4{
+	h4.text-margin{
 		margin-top:1rem!important;
 	}
 	
