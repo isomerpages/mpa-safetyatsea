@@ -162,7 +162,7 @@ variant: markdown
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director</div>
 <div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
-<div class="speaker-role text-ellipsis text-muted"><small></small></div>
+<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
 </div>
