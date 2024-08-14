@@ -49,8 +49,7 @@ variant: markdown
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Michael Phoon Thin Kwai (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Executive Director</div>
-          <div class="speaker-company text-ellipsis">Singapore Shipping Association
-						(Deputy Chairman, National Maritime Safety at Sea Council) </div>
+          <div class="speaker-company text-ellipsis">Singapore Shipping Association</div>
 				</a>
 			</div>
 		</div>
@@ -65,15 +64,15 @@ variant: markdown
         </a><a href="/glen-davenport">
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr_Glen_Davenport.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
-          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical </div>
-          <div class="speaker-company text-ellipsis">Vopak Terminals Singapore</div>
+          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical,Vopak Terminals Singapore </div>
+          <div class="speaker-company text-ellipsis">Vopak</div>
         </a>
       </div>
       <div class="col is-4">
         <a href="/andrew-hoare">
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr._ANDREW_HOARE.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Andrew Hoare</h4>
-          <div class="speaker-position text-ellipsis">          Head of Fortescue Marine Systems and Green Shipping</div>
+          <div class="speaker-position text-ellipsis">Head of Fortescue Marine Systems and Green Shipping</div>
           <div class="speaker-company text-ellipsis">Fortescue</div>
         </a>
       </div>
@@ -100,7 +99,7 @@ variant: markdown
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Captain_Vibhas_Grag__Moderator.png)"></div>
           <h4 class="speaker-name text-ellipsis">Capt Vibhas Garg (Moderator)</h4>
           <div class="speaker-position text-ellipsis">Director</div>
-          <div class="speaker-company text-ellipsis">Octant Marine Pte Ltd (Member, National Maritime Safety at Sea Council)</div>
+          <div class="speaker-company text-ellipsis">Octant Marine Pte Ltd</div>
         </a>
       </div>
     </div>
