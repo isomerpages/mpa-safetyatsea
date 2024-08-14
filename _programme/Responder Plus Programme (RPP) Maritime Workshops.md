@@ -7,6 +7,7 @@ description: ""
 <p><strong>21 &amp; 23 Aug | 08:30 - 13:00 GMT+8</strong>
 </p>
 <h3>Responder Plus Programme (RPP) Maritime Workshops</h3>
+<p>Venue:</p>
 <ul>
   <li> ⁠21 Aug : One 15 Marina - Level 2 Constellation Ballroom</li>
   <li> ⁠⁠23 Aug : Republic of Singapore Yacht Club - Level 2 Nautica Ballroom</li>
