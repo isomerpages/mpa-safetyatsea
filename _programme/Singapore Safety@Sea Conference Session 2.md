@@ -45,7 +45,7 @@ variant: markdown
 <div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_New_Wei_Siang.png" alt="Mr New Wei Siang" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/new-wei-siang/" rel="noopener">Mr New Wei Siang</a></strong></div>
-<div class="text-ellipsis speaker-position">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div>
+<div class="text-ellipsis speaker-position">Director (Decarbonisation &amp; Net-Zero Pathways)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
