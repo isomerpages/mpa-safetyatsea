@@ -87,7 +87,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2024/chongjiachyuan-.png" alt="Capt Chong JiaChyuan" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="#" rel="noopener">Capt Chong JiaChyuan</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chong-jiachyuan/" rel="noopener">Capt Chong JiaChyuan</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Operations) / Port Master</div>
 <div class="text-ellipsis speaker-company">Maritime &amp; Port Authority&nbsp;of&nbsp;Singapore</div>
 </div>
