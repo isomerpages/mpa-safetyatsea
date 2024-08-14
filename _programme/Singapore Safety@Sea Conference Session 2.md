@@ -33,7 +33,7 @@ variant: markdown
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company">Octant Marine Pte Ltd</div>
-<div class="speaker-role text-ellipsis text-muted"><small></small></div>
+<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
 </div>
