@@ -31,9 +31,9 @@ variant: markdown
 	<div class="col is-4"><img src="/images/Speakers/2024/Captain_Vibhas_Grag__Moderator.png" alt="Capt Vibhas Garg" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
-<div class="text-ellipsis speaker-position">Director, Octant Marine Pte Ltd, Singapore</div>
-<div class="text-ellipsis speaker-company">(Member, National Maritime Safety at Sea Council)</div>
-<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
+<div class="text-ellipsis speaker-position">Director</div>
+<div class="text-ellipsis speaker-company">Octant Marine Pte Ltd</div>
+<div class="speaker-role text-ellipsis text-muted"><small></small></div>
 </div>
 </div>
 </div>
