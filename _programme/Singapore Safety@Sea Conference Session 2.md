@@ -28,11 +28,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Captain_Vibhas_Grag__Moderator.png" alt="Capt Vibhas Garg" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
-<div class="text-ellipsis speaker-position">Director, Octant Marine Pte Ltd, Singapore</div>
-<div class="text-ellipsis speaker-company">(Member, National Maritime Safety at Sea Council)</div>
+<div class="text-ellipsis speaker-position">Director</div>
+<div class="text-ellipsis speaker-company">Octant Marine Pte Ltd</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -42,10 +42,10 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_New_Wei_Siang.png" alt="Mr New Wei Siang" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/new-wei-siang/" rel="noopener">Mr New Wei Siang</a></strong></div>
-<div class="text-ellipsis speaker-position">Director (Maritime Decarbonisation &amp; Net-Zero Pathways)</div>
+<div class="text-ellipsis speaker-position">Director (Decarbonisation &amp; Net-Zero Pathways)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
@@ -55,11 +55,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Glen_Davenport.png" alt="Mr Glen Davenport" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="" rel="noopener">Mr Glen Davenport</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/glen-davenport/" rel="noopener">Mr Glen Davenport</a></strong></div>
 <div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
-<div class="text-ellipsis speaker-company">Vopak Terminals Singapore Pte Ltd</div>
+<div class="text-ellipsis speaker-company">Vopak Terminals Singapore</div>
 </div>
 </div>
 
@@ -70,10 +70,10 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr._ANDREW_HOARE.png" alt="Mr Andrew Hoare" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andrew-hoare/" rel="noopener">Mr Andrew Hoare</a></strong></div>
-<div class="text-ellipsis speaker-position">Group Manager, Marine</div>
+<div class="text-ellipsis speaker-position">Head of Fortescue Marine Systems and Green Shipping</div>
 <div class="text-ellipsis speaker-company">Fortescue</div>
 </div>
 </div>
@@ -83,7 +83,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt._Mohamad_Salleh_bin_Ahmad_Sarwan.png" alt="Capt Mohamad Salleh bin Ahmad Sarwan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mohamad-salleh-bin-ahmad-sarwan/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist </div>
@@ -110,8 +110,20 @@ variant: markdown
 	
 	
 <style type="text/css"> 
+	@media only screen and (max-width:800px){
+		.image-adjust{
+		height: 200px!important;
+		width: 200px!important;
+		}
+	}
 
-	
+	.image-adjust{
+		object-fit: cover;
+		height: 100px;
+		width: 100%;
+		border-radius:50%;
+		object-position: top center;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}

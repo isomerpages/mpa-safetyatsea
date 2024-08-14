@@ -4,19 +4,48 @@ permalink: /programme/harbour-craft-forum/
 description: ""
 variant: markdown
 ---
-<div>
-  <b>20 Aug  | 08:30 - 12:00</b>&nbsp;<b>GMT+8</b>
+<div class="container-space">
+  <b>20 Aug  | 09:00 - 12:00</b>&nbsp;<b>GMT+8</b>
   <h3>Harbour Craft Safety Forum</h3>
 	<p>Venue: mTower, Level 18 Excellence Room, 460 Alexandra Road, Singapore 119963</p>
 	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 </div>
+<section>
+<div class="bp-container is-fluid full-width">
+<div class="row">
+<div class="col is-full">
+<div class="row">
+<div class="col is-12">
+<div class="border bg-light h-100 position-relative">
+<div class="p-4">
+	<h4 class="programme-title">Programme Overview:</h4>
+	<ul>
+		<li>Enhancing Maritime Safety: The role or Personal Floatation Devices – by NOAH Agencies</li>
+		<li>Navigation Safety: A Refresher – by PSA Marine Trainer</li>
+		<li>Enhancing wellbeing for Seafarers – by Capt Hari Subramaniam, Hon. Chair, The Nautical Institute and Singapore Branch Regional Head – Business Relations and Medisea, The Shipowners’ Club</li>
+		<li>Safety Considerations for Marine Battery Systems – by Sea Forrest Technologies</li>
+		<li>Safety Considerations for Electric Vessel Operation’s Battery Systems – by Yinson Holding / Penguin International Limited</li>
+		<li>Panel Discussion on “Electrification of Harbour Craft”</li>
+	</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>	
+</section>
 
-Details on the programme and speakers to follow.
 
 <style type="text/css"> 
-
-	
+.container-space{
+	margin-bottom:15px;
+}
+	.full-width{
+		margin-left:0px!important;
+		margin-right:0px!important;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}

@@ -28,7 +28,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Mr Teo_Eng_Dih (CE).jpg" alt="Mr Teo Eng Dih" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
@@ -68,7 +68,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Mr_Murali_Pillai__MOS.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
@@ -157,11 +157,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon/" rel="noopener">Mr Michael Phoon</a></strong></div>
-<div class="text-ellipsis speaker-position">Executive Director<br> Singapore Shipping Association</div>
-<div class="text-ellipsis speaker-company">(Deputy Chairman, National Maritime Safety at Sea Council) </div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
+<div class="text-ellipsis speaker-position">Executive Director</div>
+<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -171,11 +171,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Chua_Yeng_Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority Singapore</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
@@ -184,11 +184,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
-<div class="text-ellipsis speaker-company">PSA Singapore</div>
+<div class="text-ellipsis speaker-company">PSA Corporation Ltd</div>
 </div>
 </div>
 
@@ -199,11 +199,11 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
 <div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
-<div class="text-ellipsis speaker-company">X-Press Feeders</div>
+<div class="text-ellipsis speaker-company">X-Press Feeders Pte Ltd</div>
 </div>
 </div>
 
@@ -212,7 +212,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Chatur_Wahyu.png" alt="Capt Chatur Wahyu" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chatur-wahyu/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
@@ -238,8 +238,21 @@ variant: markdown
 
 
 <style type="text/css"> 
-
-	
+	.position-center{
+		object-position:top center;
+	}
+	@media only screen and (max-width:800px){
+		.image-adjust{
+		height: 200px!important;
+		width: 200px!important;
+		}
+	}
+	.image-adjust{
+		object-fit: cover;
+		height: 100px;
+		width: 100%;
+		border-radius:50%;
+	}
 	hr.my-3{
 margin-top: 0.75rem;	
 	}
