@@ -64,7 +64,7 @@ variant: markdown
         </a><a href="/glen-davenport">
           <div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr_Glen_Davenport.png)"></div>
           <h4 class="speaker-name text-ellipsis">Mr Glen Davenport</h4>
-          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical,Vopak Terminals Singapore </div>
+          <div class="speaker-position text-ellipsis">Vice President, Operations and Technical, Vopak Terminals Singapore </div>
           <div class="speaker-company text-ellipsis">Vopak</div>
         </a>
       </div>
