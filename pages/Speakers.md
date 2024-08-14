@@ -137,7 +137,7 @@ variant: markdown
     </div>
     <div class="row">
 	    <div class="col is-4">
-        <a href="#">
+        <a href="/chong-jiachyuan">
           <div class="speaker-image-wrapper position-center" style="background-image: url(/images/Speakers/2024/chongjiachyuan-.png)"></div>
           <h4 class="speaker-name text-ellipsis">Capt Chong JiaChyuan </h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director (Operations) / Port Master</div>
