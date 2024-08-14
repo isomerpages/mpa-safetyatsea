@@ -9,7 +9,7 @@ variant: markdown
 	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png)"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Michael Phoon Thin Kwai</h4>
-<p>Executive Director<br>Singapore Shipping Association<br>(Deputy Chairman, National Maritime Safety at Sea Council)</p>
+<p>Executive Director<br>Singapore Shipping Association</p>
 <p>         
 
 Michael Phoon is the Executive Director of the Singapore Shipping Association (SSA), championing Singapore’s maritime interests by engaging key stakeholders through special interest working groups and sub-committees to harmonize relations and priorities between the Shipping community and Government regulators and agencies.&nbsp; Prior to the SSA, he worked in the IT/Tech industry for over 25years.</p>
