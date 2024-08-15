@@ -27,12 +27,12 @@ variant: markdown
 		<li>Marine Battery Systems and Safety Considerations - by Sea Forrest Technologies</li>
 		<li>⁠Panel Discussion on “Electrification of Harbour Craft”</li>
 	</ul>
-	<h5 style="font-weight:600">Panelist:</h5>
+	<h5 class="content-margin" style="font-weight:600">Panelist:</h5>
 	<ul>
 		<li>Crew/Engineers of Sea Forrest<br>Technologies, Penguin International<br>Limited and Yinson Holding</li>
 		<li>Capt Zheng Yi, Deputy Director<br>(Seafarers Skills Upgrading, C&A),<br>Maritime and Port Authority of Singapore </li>
 	</ul>
-	<h5 style="font-weight:600">Moderator:</h5>
+	<h5 class="content-margin" style="font-weight:600">Moderator:</h5>
 	<ul>
 		<li>Tian San Shipping (Pte) Ltd,<br>Operations Manage</li>
 	</ul>
@@ -47,6 +47,9 @@ variant: markdown
 
 
 <style type="text/css"> 
+	h5.content-margin{
+		margin-top:0px!important;
+	}
 .container-space{
 	margin-bottom:15px;
 }
