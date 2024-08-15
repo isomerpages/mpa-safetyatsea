@@ -47,6 +47,9 @@ variant: markdown
 
 
 <style type="text/css"> 
+	.content ul > li:last-child{
+		margin-bottom:0px!important;
+	}
 	h5.content-margin{
 		margin-top:0px!important;
 	}
