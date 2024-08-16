@@ -29,7 +29,7 @@ variant: markdown
 			<li>Fire Hazard</li>
 			<li>Diving (Alpha Flag)<br>– by Capt Sahwan Osman, Senior Lecturer, Singapore Maritime Academy</li>
 		</ul></li>
-		<li>Sharing on WSH Guidelines on Personal Floatation Devices (Life Jackets)<br> – by Capt Salleh, Marine Manager (Marine Environment & Safety), SMA</li>
+		<li>Sharing on WSH Guidelines on Personal Floatation Devices (Life Jackets)<br> – by Capt Salleh, Senior Lecturer, Singapore Maritime Academy </li>
 		<li>Boating Education versus Enforcement – by James Sullivan, Deputy Director, US Coast Guard Auxiliary</li>
 		<li>Panel Discussion</li>
 	</ul>
