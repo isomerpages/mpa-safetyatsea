@@ -31,7 +31,6 @@ of maritime regulations with our expert instructors, covering key topics
 such as COLREGs (Collision Regulations) and the IALA Maritime Buoyage System.
 Ask questions, share insights, and deepen your understanding of essential
 navigational principles with us.</p>
-<p><a href="https://forms.office.com/r/50ASt2dNiq" rel="noopener noreferrer nofollow" target="_blank">Sign up for our Ship Handling 101 session today!!</a>
-</p>
+<p style="font-size:600;">Registration has closed.</p>
 <p></p>
 <p></p>
