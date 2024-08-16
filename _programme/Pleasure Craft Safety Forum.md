@@ -27,7 +27,7 @@ variant: markdown
 		<ul class="second-level">
 			<li>Safe Lookout</li>
 			<li>Fire Hazard</li>
-			<li>Diving (Alpha Flag)<br>– by Capt Sawan Osman, Senior Lecturer, Singapore Maritime Academy</li>
+			<li>Diving (Alpha Flag)<br>– by Capt Sahwan Osman, Senior Lecturer, Singapore Maritime Academy</li>
 		</ul></li>
 		<li>Sharing on WSH Guidelines on Personal Floatation Devices (Life Jackets)<br> – by Capt Salleh, Marine Manager (Marine Environment & Safety), SMA</li>
 		<li>Boating Education versus Enforcement – by James Sullivan, Deputy Director, US Coast Guard Auxiliary</li>
