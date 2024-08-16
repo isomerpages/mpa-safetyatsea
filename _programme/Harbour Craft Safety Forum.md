@@ -51,6 +51,7 @@ variant: markdown
 		margin-bottom:0px!important;
 	}
 	p.content-margin{
+		margin-left: 10px;
 		margin-bottom:0px!important;
 		margin-top:0px!important;
 	}
