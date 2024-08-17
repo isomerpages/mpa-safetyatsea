@@ -22,14 +22,14 @@ variant: markdown
 <div class="p-4">
 	<h4 class="programme-title">Programme Overview:</h4>
 	<ul>
-		<li>Sharing of Pleasure Craft Incident Statistics – by Capt Ansar Mohamed, MPA</li>
+		<li>Sharing of Pleasure Craft Incident Statistics – by Capt Ansar Mohamed, Marine Manager (Marine Environment & Safety), Maritime and Port Authority of Singapore</li>
 		<li>Case Studies on:
 		<ul class="second-level">
 			<li>Safe Lookout</li>
 			<li>Fire Hazard</li>
-			<li>Diving (Alpha Flag)<br>– by Capt Sahwan Osman, SMA</li>
+			<li>Diving (Alpha Flag)<br>– by Capt Sahwan Osman, Senior Lecturer, Singapore Maritime Academy</li>
 		</ul></li>
-		<li>Sharing on WSH Guidelines on Personal Floatation Devices (Life Jackets) – by Capt Salleh, SMA</li>
+		<li>Sharing on WSH Guidelines on Personal Floatation Devices (Life Jackets)<br> – by Capt Salleh, Senior Lecturer, Singapore Maritime Academy </li>
 		<li>Boating Education versus Enforcement – by James Sullivan, Deputy Director, US Coast Guard Auxiliary</li>
 		<li>Panel Discussion</li>
 	</ul>

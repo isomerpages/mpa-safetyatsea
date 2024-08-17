@@ -21,12 +21,20 @@ variant: markdown
 <div class="p-4">
 	<h4 class="programme-title">Programme Overview:</h4>
 	<ul>
-		<li>Enhancing Maritime Safety: The role or Personal Floatation Devices – by NOAH Agencies</li>
-		<li>Navigation Safety: A Refresher – by PSA Marine Trainer</li>
-		<li>Enhancing wellbeing for Seafarers – by Capt Hari Subramaniam, Hon. Chair, The Nautical Institute and Singapore Branch Regional Head – Business Relations and Medisea, The Shipowners’ Club</li>
-		<li>Safety Considerations for Marine Battery Systems – by Sea Forrest Technologies</li>
-		<li>Safety Considerations for Electric Vessel Operation’s Battery Systems – by Yinson Holding / Penguin International Limited</li>
-		<li>Panel Discussion on “Electrification of Harbour Craft”</li>
+		<li>Safe use of Personal Floatation Devices - by NOAH Agencies ‘N’ Marine Services</li>
+		<li>Safety of Navigation in Singapore Waters - by PSA Marine (Pte) Ltd</li>
+		<li>Wellbeing of Seafarers on Harbour Crafts - by Capt Hari Subramaniam, Regional Head - Business Relations and Medisea, The Shipowners’ P&I Club</li>
+		<li>Marine Battery Systems and Safety Considerations - by Sea Forrest Technologies</li>
+		<li>⁠Panel Discussion on “Electrification of Harbour Craft”</li>
+	</ul>
+	<p class="content-margin" style="font-weight:600">Panelist:</p>
+	<ul>
+		<li>Crew/Engineers of Sea Forrest<br>Technologies, Penguin International<br>Limited and Yinson Holding</li>
+		<li>Capt Zheng Yi, Deputy Director<br>(Seafarers Skills Upgrading, C&A),<br>Maritime and Port Authority of Singapore </li>
+	</ul>
+	<p class="content-margin" style="font-weight:600">Moderator:</p>
+	<ul>
+		<li>Tian San Shipping (Pte) Ltd,<br>Operations Manage</li>
 	</ul>
 </div>
 </div>
@@ -39,6 +47,14 @@ variant: markdown
 
 
 <style type="text/css"> 
+	.content ul > li:last-child{
+		margin-bottom:0px!important;
+	}
+	p.content-margin{
+		margin-left: 10px;
+		margin-bottom:0px!important;
+		margin-top:0px!important;
+	}
 .container-space{
 	margin-bottom:15px;
 }
