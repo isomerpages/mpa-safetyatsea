@@ -4,16 +4,13 @@ title: Singapore Safety@Sea Week 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Registrations are now open. Click <a
-  href="http://go.gov.sg/safetyatseaweek2024">here</a> to register.
+notification: Registration has closed.
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
       variant: center
       title: Singapore Safety@Sea Week 2024
       subtitle: 19th August to 23rd August
-      button: Click Here to Register
-      url: http://go.gov.sg/safetyatseaweek2024
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
