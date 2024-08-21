@@ -4,7 +4,8 @@ title: Singapore Safety@Sea Week 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Registration has closed.
+notification: Register for Responder Plus Programme (RPP) Maritime Workshop on
+  23rd August <a href="https://go.gov.sg/safetyatseaweek2024">here</a>
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
