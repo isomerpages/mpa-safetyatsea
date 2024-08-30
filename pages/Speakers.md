@@ -225,6 +225,7 @@ variant: markdown
 		height: 200px;
 		width: 200px;
 		}
+}
   .speaker-image-wrapper{
     height: 100px;
     width: 100px;
