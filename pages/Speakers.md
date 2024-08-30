@@ -220,9 +220,14 @@ variant: markdown
   .content a {
     text-decoration: none;
   }
+@media only screen and (max-width:600px){
+	.speaker-image-wrapper{
+		height: 200px;
+		width: 200px;
+		}
   .speaker-image-wrapper{
-    height: 220px;
-    width: 220px;
+    height: 100px;
+    width: 100px;
     background-position: center center;
     background-size: cover;
     border-radius: 50%;
