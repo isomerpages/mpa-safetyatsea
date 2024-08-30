@@ -225,8 +225,8 @@ variant: markdown
   }
 @media only screen and (max-width:600px){
 	.speaker-image-wrapper{
-		height: 200px;
-		width: 200px;
+		height: 200px!important;
+		width: 200px!important;
 		}
 }
   .speaker-image-wrapper{
