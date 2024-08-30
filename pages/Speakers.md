@@ -175,6 +175,9 @@ variant: markdown
 
 
 <style type="text/css">
+	h4.speaker-name.text-ellipsis{
+		margin-top:1rem!important;
+	}
 	h4.text-margin{
 		margin-top:1rem!important;
 	}
