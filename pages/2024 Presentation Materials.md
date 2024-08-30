@@ -89,7 +89,7 @@ description: ""
 </div>
 <div class="mb-5 pb-5">
 <hr class="my-5">	
-<div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Mohamad Salleh A Sarwan’s Presentation Slides:</strong> 
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Mohd Salleh A Sarwan’s Presentation Slides:</strong> 
 	<a href="/files/Presentation 2024/Pleasure Craft/Capt Mohd Salleh A Sarwan_s Presentation Slide.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Senior Lecturer & Specialist</div>
 <div class="text-ellipsis speaker-company mb-3">Singapore Maritime Academy, Singapore Polytechnic</div>
