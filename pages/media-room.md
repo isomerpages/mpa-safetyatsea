@@ -7,6 +7,16 @@ variant: markdown
 <div class="col is-12 mx-auto text-center">
 
 
+<h4 class="mb-4 text-dark">PRESS RELEASE 2024</h4>
+<p class="mt-4">
+<span style="text-decoration: underline;">
+<span style="color: #5c1d5e;">
+<a style="color: #993366; text-decoration: underline;" target="_new" href="https://www.mpa.gov.sg/media-centre/details/volunteer-programme-to-enhance-safety-launches--at-singapore-safety-sea-week">Volunteer Programme to Enhance Safety Launches at Singapore Safety@Sea Week</a>
+</span>
+</span>
+</p>
+
+<hr class="my-5">
 
 <h4 class="mb-4 text-dark">PRESS RELEASE 2023</h4>
 <p class="mt-4">
