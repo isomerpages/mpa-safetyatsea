@@ -78,7 +78,7 @@ variant: markdown
       </div>
 			 <div class="col is-4">
         <a href="/mohamad-salleh-bin-ahmad-sarwan">
-          <div class="speaker-image-wrapper"><img src="images/Speakers/2024/New Images/Mohd Salleh A Sarwan.png"></div>
+          <div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Mohd Salleh A Sarwan.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Mohamad Salleh bin Ahmad Sarwan</h4>
           <div class="speaker-position text-ellipsis">Senior Lecturer &amp; Specialist</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Academy, Singapore Polytechnic</div>
