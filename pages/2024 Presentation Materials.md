@@ -74,7 +74,7 @@ description: ""
 <div class="mb-5 pb-5">
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Chong JiaChyuan’s Presentation Slides:</strong> 
-	<a href="/files/Presentation 2024/Harbour Craft/Capt Chong Jia Chyuan_s Presentation Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/Presentation 2024/Harbour Craft/Capt Chong Jia Chyuan's Presentation Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Operations) / Port Master</div>
 <div class="text-ellipsis speaker-company mb-3">Maritime & Port Authority of Singapore</div>
 
@@ -98,6 +98,11 @@ description: ""
 	<a href="/files/Presentation 2024/Pleasure Craft/Capt Sahwan Osman_s Presentation Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Senior Lecturer</div>
 <div class="text-ellipsis speaker-company mb-3">Singapore Maritime Academy, Singapore Polytechnic</div>
+
+ <div class="speaker-name text-ellipsis"><strong class="mr-5">James Sullivan’s Presentation Slides:</strong> 
+	<a href="/files/Presentation 2024/Pleasure Craft/Mr James Sullivan's Presntation Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Deputy Director</div>
+<div class="text-ellipsis speaker-company mb-3">US Coast Guard Auxiliary</div>
 </div>
 
 <style type="text/css"> 
