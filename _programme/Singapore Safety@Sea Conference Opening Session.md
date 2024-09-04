@@ -28,7 +28,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Mr Teo_Eng_Dih (CE).jpg" alt="Mr Teo Eng Dih" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Teo-Eng-Dih-img.png" alt="Mr Teo Eng Dih" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
@@ -68,7 +68,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Mr_Murali_Pillai__MOS.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Murali-Pillai-img.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
