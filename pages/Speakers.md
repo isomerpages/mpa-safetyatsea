@@ -162,7 +162,7 @@ variant: markdown
 	<div class="row">
 		<div class="col is-4">
 			<a href="/terence-ho">
-				<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Vibhas Garg.png"></div>
+				<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Facilitator_-_Mr_Trence_Ho-img.png"></div>
 				 <h4 class="speaker-name text-ellipsis">Mr Terence Ho (Facilitator)</h4>
 				 <div class="speaker-position text-ellipsis"></div>
 				 <div class="speaker-company text-ellipsis"></div>
