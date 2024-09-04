@@ -173,8 +173,13 @@ variant: markdown
 </section>
 
 
-
 <style type="text/css">
+	.speaker-image-wrapper{
+		border: solid 3px #c1c1c1;
+		border-radius: 99px;
+		height: 100px !important;
+		width: 100px !important;
+}
 	h4.speaker-name.text-ellipsis{
 		margin-top:1rem!important;
 	}
