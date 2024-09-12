@@ -100,7 +100,7 @@ description: ""
 <div class="text-ellipsis speaker-company mb-3">Singapore Maritime Academy, Singapore Polytechnic</div>
 
  <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr James Sullivan’s Presentation Slides:</strong> 
-	<a href="/files/Presentation 2024/Pleasure Craft/Mr James Sullivan's Presntation Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+		</div>
 <div class="text-ellipsis speaker-position">Deputy Director</div>
 <div class="text-ellipsis speaker-company mb-3">US Coast Guard Auxiliary</div>
 </div>
