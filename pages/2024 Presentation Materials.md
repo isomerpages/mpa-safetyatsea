@@ -99,10 +99,6 @@ description: ""
 <div class="text-ellipsis speaker-position">Senior Lecturer</div>
 <div class="text-ellipsis speaker-company mb-3">Singapore Maritime Academy, Singapore Polytechnic</div>
 
- <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr James Sullivan’s Presentation Slides:</strong> 
-		</div>
-<div class="text-ellipsis speaker-position">Deputy Director</div>
-<div class="text-ellipsis speaker-company mb-3">US Coast Guard Auxiliary</div>
 </div>
 
 <style type="text/css"> 
