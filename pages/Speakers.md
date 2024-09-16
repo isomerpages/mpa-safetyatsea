@@ -114,8 +114,8 @@ variant: markdown
         </a><a href="/kenneth-low/">
           <div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Kenneth Low.png"></div>
           <h4 class="speaker-name text-ellipsis">Dr Kenneth Low</h4>
-          <div class="speaker-position text-ellipsis">Senior Vice President </div>
-          <div class="speaker-company text-ellipsis">ST Engineering</div>
+          <div class="speaker-position text-ellipsis">Chairman of WSH Council (Marine Industries) Committee</div>
+          <div class="speaker-company text-ellipsis"></div>
         </a>
       </div>
       <div class="col is-4">
