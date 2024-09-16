@@ -62,8 +62,8 @@ variant: markdown
 	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Kenneth Low.png" alt="Prof Kenneth Low" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/kenneth-low/" rel="noopener">Dr Kenneth Low</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Vice President</div>
-<div class="text-ellipsis speaker-company">ST Engineering</div>
+<div class="text-ellipsis speaker-position">Chairman of WSH Council (Marine Industries) Committee</div>
+<div class="text-ellipsis speaker-company"></div>
 </div>
 </div>
 
