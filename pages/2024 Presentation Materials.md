@@ -64,8 +64,8 @@ description: ""
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Dr Kenneth Low’s Presentation Slides:</strong> 
 	<a href="/files/Presentation 2024/Session 3/Dr Kenneth Low_s Presentation Slide.pptx.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
-<div class="text-ellipsis speaker-position">Senior Vice President</div>
-<div class="text-ellipsis speaker-company mb-3">ST Engineering</div>
+<div class="text-ellipsis speaker-position">Chairman of WSH Council (Marine Industries) Committee</div>
+<div class="text-ellipsis speaker-company mb-3"></div>
 </div>
 
 <div>
