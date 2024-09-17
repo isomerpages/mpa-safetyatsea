@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Goh Hock Nguan.png"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Mayank Singh.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt           Mayank Singh</h4>
 <p>          Quality Assurance Manager<br>          X-Press Feeders Pte. Ltd.</p>
