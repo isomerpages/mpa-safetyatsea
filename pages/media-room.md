@@ -22,7 +22,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=4J9UYutoL6E" class="embed-responsive-item"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/4J9UYutoL6E?si=ukqFBW5iu2P154mb" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Opening Session: All Hands on Deck for Safe and Green Shipping</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
@@ -31,7 +31,7 @@ variant: markdown
 
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=nMSv_bILPXE" class="embed-responsive-item"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/nMSv_bILPXE?si=4VMKpebyCmYZoOuS" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Session 2: All Hands on Deck for Safe Methanol Bunkering</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
@@ -42,7 +42,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=qO1uhtSxCZQ" class="embed-responsive-item"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qO1uhtSxCZQ?si=HtZp1dMJDaWjk_F7" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Session 3: All Hands on Deck for Our People’s Safety and Wellbeing</h4>
 <p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
@@ -50,7 +50,7 @@ variant: markdown
 </div>
 <div class="col is-6 mb-4">
 <div class="bp-youtube">
-<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=ldK5HZNO4G8" class="embed-responsive-item"></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/ldK5HZNO4G8?si=hA8CzM7MAmAQcJlj" class="embed-responsive-item"></iframe>
 </div>
 <h4 class="text-info">Roundup of Singapore Safety@Sea Week 2024</h4>
 <p class="mb-0 mt-0" style="text-align:left;"></p>
