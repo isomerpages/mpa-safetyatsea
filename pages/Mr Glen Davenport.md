@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row"> 
 <div class="col is-3">
-	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr_Glen_Davenport.png)"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Glen Davenport.png"></div></div>
 <div class="col is-9 speaker-details"> <h4>Mr Glen Davenport</h4> <p>Vice President, Operations and Technical, Vopak Terminals Singapore <br> Vopak</p>          
 
 <p>Glen Davenport is the Vice President of Technical and Operations,for Vopak Terminals in Singapore. He heads the operations for Singapore across the 4 terminals – Banyan, Penjuru, Sakra and Sebarok. Glen sits on the Board for Banyan Caverns Storage Services. Glen has 20 years experience from front line to leading
@@ -36,14 +36,12 @@ Terminals.</p>
   </div>
 <style type="text/css"> 
 	.speaker-image-wrapper{
-    height: 220px;
-    width: 220px;
-    background-position: center center;
-    background-size: cover;
-    border-radius: 50%;
-    background-repeat: no-repeat;
-    margin: 0 auto;
-  }
+		height: 200px;
+		width: 200px;
+		border-radius: 50%;
+		margin: 0 auto;
+		border: solid 3px #c1c1c1;
+	}
   .image-adjust{
 		object-fit: cover;
 		height: 220px;
