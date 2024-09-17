@@ -7,7 +7,7 @@ variant: markdown
 <div class="row">
 <div class="col is-3">
 	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Prof_Kenneth_Low.png)"></div></div> 
-<div class="col is-9 speaker-details"> <h4>Dr Kenneth Low</h4> <p>Senior Vice President<br>ST Engineering<br> </p> 
+<div class="col is-9 speaker-details"> <h4>Dr Kenneth Low</h4> <p>Chairman of WSH Council <br>(Marine Industries) Committee</p> 
 <p>Dr Kenneth Low is the Senior Vice President and Head of Innovation & Sustainability at ST Engineering. He is an Adjunct Associate Professor and former Cluster Director (Dean) of Engineering at the Singapore Institute of Technology. 
 He has more than 25 years of experience in the industry, academic & government, and serves on the board of statutory bodies, private companies and trade association.</p>
 <p>He holds a Bachelor of Engineering (Hons) in Mechanical Engineering from University of Newcastle upon Tyne and a Doctor of Philosophy (Ph.D.) in Mechanical Engineering from the University of Nottingham.</p>
