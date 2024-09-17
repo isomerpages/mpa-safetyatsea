@@ -18,6 +18,52 @@ variant: markdown
 
 <hr class="my-5">
 
+<h4 class="mb-4 text-dark">2024 VIDEO GALLERY</h4>
+<div class="row">
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=4J9UYutoL6E" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Opening Session: All Hands on Deck for Safe and Green Shipping</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2024-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=nMSv_bILPXE" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 2: All Hands on Deck for Safe Methanol Bunkering</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2024-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+</div>
+
+<div class="row">
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=qO1uhtSxCZQ" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Session 3: All Hands on Deck for Our People’s Safety and Wellbeing</h4>
+<p class="mb-0 mt-0" style="text-align:left;">Full Recording</p>
+<a class="mb-0 mt-0" href="/2024-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div>
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/watch?v=ldK5HZNO4G8" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Roundup of Singapore Safety@Sea Week 2024</h4>
+<p class="mb-0 mt-0" style="text-align:left;"></p>
+<a class="mb-0 mt-0" href="" style="text-align:left;"></a>
+</div>
+
+</div>
+<hr class="my-5">
+
+</div>
+</div>
+
+
 <h4 class="mb-4 text-dark">PRESS RELEASE 2023</h4>
 <p class="mt-4">
 <span style="text-decoration: underline;">
