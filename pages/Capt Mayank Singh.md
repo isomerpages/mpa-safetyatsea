@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png)"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Goh Hock Nguan.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt           Mayank Singh</h4>
 <p>          Quality Assurance Manager<br>          X-Press Feeders Pte. Ltd.</p>
@@ -15,14 +15,12 @@ variant: markdown
 </div>
 
 <style type="text/css"> 
-	.speaker-image-wrapper{
-    height: 220px;
-    width: 220px;
-    background-position: center center;
-    background-size: cover;
+	 .speaker-image-wrapper{
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
-    background-repeat: no-repeat;
     margin: 0 auto;
+border: solid 3px #c1c1c1;
   }
   .image-adjust{
 		object-fit: cover;
