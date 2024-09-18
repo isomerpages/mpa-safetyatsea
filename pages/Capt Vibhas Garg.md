@@ -6,8 +6,8 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_23/Session2/vibhas garg.png">
-</div>
+<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Vibhas Garg.png">
+</div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Vibhas Garg</h4>
 <p> Director, Octain Marine Pte Ltd, Singapore (NMSSC Member and Co-Chair of MPA-SSA SAFENAV Work Group)<br>
@@ -28,6 +28,13 @@ After a sailing career spanning two decades, Capt Garg stepped ashore in 2000 to
 
 
 <style type="text/css"> 
+    	 .speaker-image-wrapper{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+border: solid 3px #c1c1c1;
+  }
     .is-left{
       text-align: left;
     }

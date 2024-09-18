@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row"> <div class="col is-3"> 
-	<div class="speaker-image-wrapper" style="background-image: url(/images/Speakers/2024/Speaker_-_Mr._Kelvin_Kang_XiaoDong-.png)"></div> </div> 
+	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Kelvin Kang Xiao Dong.png"></div> </div> 
 	<div class="col is-9 speaker-details"> <h4>Mr           Kelvin Kang Xiao Dong</h4> <p>          General Manager<br>           Stellar Shipmanagement Services Pte Ltd, Global Energy Group</p> <p>          
 
 Kelvin Kang is the GM for Stellar Shipmanagement Services Pte Ltd, a Global Energy International Group wholly-owned subsidiary company.</p> <p>          
@@ -20,14 +20,12 @@ Recently, Kelvin was appointed as WG member of ISO/TC8/SC25, focusing on technol
 
 
 <style type="text/css"> 
-	.speaker-image-wrapper{
-    height: 220px;
-    width: 220px;
-    background-position: center center;
-    background-size: cover;
+	 .speaker-image-wrapper{
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
-    background-repeat: no-repeat;
     margin: 0 auto;
+border: solid 3px #c1c1c1;
   }
       .image-adjust{
 		object-fit: cover;

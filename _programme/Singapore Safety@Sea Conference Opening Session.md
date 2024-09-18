@@ -28,7 +28,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Mr Teo_Eng_Dih (CE).jpg" alt="Mr Teo Eng Dih" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Teo-Eng-Dih-img.png" alt="Mr Teo Eng Dih" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
@@ -68,7 +68,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Mr_Murali_Pillai__MOS.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Murali-Pillai-img.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
@@ -157,7 +157,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Moderator_-_Michael_Phoon_Thin_Kwai.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Michael Phoon.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
 <div class="text-ellipsis speaker-position">Executive Director</div>
@@ -171,7 +171,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Chua_Yeng_Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Chua Yeng Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
@@ -184,7 +184,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Mr_Goh_Hock_Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Goh Hock Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
 <div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
@@ -199,7 +199,7 @@ variant: markdown
 <div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Mayank_Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Mayank Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
 <div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
@@ -212,7 +212,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/Speaker_-_Capt_Chatur_Wahyu.png" alt="Capt Chatur Wahyu" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Chatur Wahyu.png" alt="Capt Chatur Wahyu" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chatur-wahyu/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
 <div class="text-ellipsis speaker-position">Director</div>
@@ -248,7 +248,7 @@ variant: markdown
 		}
 	}
 	.image-adjust{
-		object-fit: cover;
+		border: 3px solid #c1c1c1;
 		height: 100px;
 		width: 100%;
 		border-radius:50%;
