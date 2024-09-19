@@ -4,7 +4,7 @@ title: Singapore Safety@Sea Week 2024
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Stay tuned for the Singapore Safety@Sea Conference recordings.
+notification: <a href="/media-room">Click here for Singapore Safety@Sea Conference recordings.</a>
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
