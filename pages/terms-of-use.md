@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 ### **Terms of Use**
 
@@ -21,7 +22,7 @@ permalink: /terms-of-use/
 
 7. You shall not create any hyperlinks to this Website, or frame this Website (or any part of it) or any of its Contents, or reproduce, republish, upload, post, transmit, distribute, or "mirror" any of its Contents, including any text, compilations, graphics, images, software programs, and all other kinds of works, without the prior written permission of MPA except with the prior written permission of MPA and subject to such conditions as MPA may impose.
 Any request for MPA’s permission should be addressed to:
-Ms Regina Lim, Senior Manager (Safety Analysis & Promotion), Regina_LIM@mpa.gov.sg
+Ms Shane Sheow, Senior Manager (Safety Governance & Promotion), Shane_SHEOW@mpa.gov.sg or Ms Deborah Wong, Senior Manager (Safety Governance & Promotion), Deborah_WONG@mpa.gov.sg
 
 8. MPA may grant, refuse, or revoke any permission, or modify the terms of any permission as it deems fit.
 
