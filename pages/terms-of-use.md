@@ -21,8 +21,7 @@ variant: markdown
 6. You shall not make any deletions, additions, adjustments, alterations, adaptations or modifications to this Website or any of the Contents. You acknowledge and agree that any deletion, addition, adjustment, alteration, adaption or modification of this Website or any of the Contents is a violation of MPA’s rights.
 
 7. You shall not create any hyperlinks to this Website, or frame this Website (or any part of it) or any of its Contents, or reproduce, republish, upload, post, transmit, distribute, or "mirror" any of its Contents, including any text, compilations, graphics, images, software programs, and all other kinds of works, without the prior written permission of MPA except with the prior written permission of MPA and subject to such conditions as MPA may impose.
-Any request for MPA’s permission should be addressed to:
-Ms Deborah Wong, Senior Manager (Safety Governance & Promotion), Deborah_WONG@mpa.gov.sg or Ms Shane Sheow, Senior Manager (Safety Governance & Promotion), Shane_SHEOW@mpa.gov.sg
+Any request for MPA’s permission should be addressed to: Ms Shane Sheow, Senior Manager (Safety Governance & Promotion), Shane_SHEOW@mpa.gov.sg or Ms Deborah Wong, Senior Manager (Safety Governance & Promotion), Deborah_WONG@mpa.gov.sg or
 
 8. MPA may grant, refuse, or revoke any permission, or modify the terms of any permission as it deems fit.
 
