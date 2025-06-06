@@ -1,5 +1,7 @@
 logo: /images/200x99__1_.png
 links:
+  - title: Register Now
+    url: /register
   - title: About Us
     url: /about-us
   - title: Programme
@@ -17,5 +19,3 @@ links:
         url: /2024-speakers-presentation-materials
   - title: Contact Us
     url: /contactus
-  - title: Register Now
-    url: /register
