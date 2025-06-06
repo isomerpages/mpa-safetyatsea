@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7100b323-f164-40a6-97d2-413ba6e8de2c)---
+---
 title: About Us
 permalink: /about-us/
 variant: markdown
@@ -6,7 +6,7 @@ variant: markdown
 <div class="row mx-0">
 <div class="col is-12 mx-auto">
 <div class="row">
-<div class="col is-3 mb-4"><img src="/images/logos/S_SWeek_Logo.jpg" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" src="/images/logos/S_SWeek_Logo.jpg"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">Safety@Sea Week</h5>
 <div>
@@ -32,7 +32,7 @@ This year, there are eight sessions to look forward to including the Internation
 
 <p>The <strong>Pleasure Craft Safety Forum</strong> organised by the MPA-Pleasure Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Countil (NMSSC) focuses on improving and raising safety among pleasure craft community in Singapore.</p>
 <p><strong>Chemical Spill Exercise (15 Jul 2025)<br></strong>
-<p> 
+</p><p> 
          MPA’s Chemical Spill Exercise is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025.
 </p>
 	<p>
@@ -44,7 +44,7 @@ This year, there are eight sessions to look forward to including the Internation
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="/images/MPA_logo.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" style="width:50%" src="/images/MPA_logo.png"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime and Port Authority of Singapore (MPA)</h5>
 <div><p>The mission of the Maritime and Port Authority of Singapore (MPA) is to develop Singapore as a premier global hub port and international maritime centre (IMC), and to advance and safeguard Singapore’s strategic maritime interests. MPA is the driving force behind Singapore’s port and maritime development, taking on the roles of Port Authority, Port Regulator, Port Planner, IMC Champion, and National Maritime Representative. MPA partners the industry and other agencies to enhance safety, security and environmental protection in our port waters, facilitate port operations and growth, expand the cluster of maritime ancillary services, and promote maritime R&amp;D and manpower development.</p></div>
@@ -52,7 +52,7 @@ This year, there are eight sessions to look forward to including the Internation
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="/images/logos/nmssc_logo_new.jpg" style="width:60%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" style="width:60%" src="/images/logos/nmssc_logo_new.jpg"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">National Maritime Safety at Sea Council (NMSSC)</h5>
 <div><p>National Maritime Safety at Sea Council (NMSSC) was established by the Maritime and Port Authority of Singapore (MPA) to spearhead the drive for maritime safety on a national level, and to ensure the sustainability of safety efforts. The first priority of the Council is to address issues related to navigational safety and raise levels of maritime safety standards. The Council will also endorse safety initiatives by MPA and the working groups to spearhead safety efforts and public campaigns that will raise awareness on navigational safety and practices.</p></div>
@@ -60,7 +60,7 @@ This year, there are eight sessions to look forward to including the Internation
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img src="/images/logos/ms_logo_ver_fc_pantone_box.png" style="width:50%" class="img-fluid"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" style="width:50%" src="/images/logos/ms_logo_ver_fc_pantone_box.png"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime Singapore</h5>
 <div><p>Maritime Singapore is a thriving ecosystem comprising our global hub port, shipping and maritime services, where the international community meets, and where ideas and opportunities abound. And behind the driving force of this maritime ecosystem is the Maritime and Port Authority of Singapore.</p></div>
