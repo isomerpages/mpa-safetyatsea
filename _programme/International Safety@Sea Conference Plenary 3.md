@@ -96,7 +96,7 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15 JUL | 15:25 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Plenary 3</h4>
+<h4 class="programme-title">Plenary Discussion</h4>
 	“The Human Element: Ensuring Safety in Maritime’s Transition”
 	<p></p><p>
 </p><div>Plenary 3 will turn our attention over to the Human Element and how each industry leaders are adapting themselves for the future. The session will features NMSSC, Columbia Group, Lloyd’s Register Maritime Decarbonisation Hub, Mearsk, OceanInfinity and Philippine Maritime Industry Authority.<p></p><p></p><div>
