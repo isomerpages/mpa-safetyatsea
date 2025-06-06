@@ -96,7 +96,7 @@ variant: markdown
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
 <div class="programme-time"><strong>15 JUL | 11:55 - 12:55</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Plenary 2</h4>
+<h4 class="programme-title">Plenary Discussion</h4>
 	“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”
 	<p></p><p>
 </p><div>Plenary 2 will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
