@@ -64,14 +64,12 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Derrick Leow" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Darrick Leow" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Mr Derrick Leow</b>
+                            <b>Mr Darrick Leow</b>
                           </div>
-                          <div class="text-ellipsis speaker-position">Chair, Working Group under IMO’s Sub-Committee on Human Element,
-Training and Watchkeeping (HTW)
-SDD (Shipping)
+                          <div class="text-ellipsis speaker-position">Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>Senior Deputy Director (Shipping)
 </div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
                         </div>
@@ -97,11 +95,11 @@ SDD (Shipping)
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>15 JUL | 11:55 - 12:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>15 JUL | 15:25 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Plenary 3</h4>
 	“The Human Element: Ensuring Safety in Maritime’s Transition”
 	<p></p><p>
-</p><div>The Second Plenary session will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
+</p><div>Plenary 3 will turn our attention over to the Human Element and how each industry leaders are adapting themselves for the future. The session will features NMSSC, Columbia Group, Lloyd’s Register Maritime Decarbonisation Hub, Mearsk, OceanInfinity and Philippine Maritime Industry Authority.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
@@ -109,12 +107,14 @@ SDD (Shipping)
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Ashima Taneja" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Hari Subramaniam" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Ms Ashima Taneja</strong></div>
-<div class="text-ellipsis speaker-position">Head of Maritime Commercial – Safety, Sustainability and Technical
+<div class="speaker-name text-ellipsis"><strong>Capt Hari Subramaniam</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Chairman, NMSSC<br> 
+Hononary Chair, The Nautical Institute Singapore<br>
+Regional Head – Business Relations and Medisea
 </div>
-<div class="text-ellipsis speaker-company">BHP (NMSSC Member)</div>
+<div class="text-ellipsis speaker-company">The Shipowners’ Mutual Protection and Indemnity Association (Luxembourg)</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
@@ -126,11 +126,11 @@ SDD (Shipping)
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Aun Aun Cheah" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Adrian Dunlop" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Aun Aun Cheah</strong></div>
-<div class="text-ellipsis speaker-position">Director (Marine)</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Adrian Dunlop</strong></div>
+<div class="text-ellipsis speaker-position">Head of Fleet Management</div>
+<div class="text-ellipsis speaker-company">OceanInfinity</div>
 </div>
 </div>
 </div>
@@ -138,11 +138,11 @@ SDD (Shipping)
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr James Forsdyke" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Carsten Brix Ostenfeldt</strong></div>
-<div class="text-ellipsis speaker-position">Chief Operating Officer (COO) of Asia</div>
-<div class="text-ellipsis speaker-company">Anglo-Eastern Ship Management</div>
+<div class="speaker-name text-ellipsis"><strong>Mr James Forsdyke</strong></div>
+<div class="text-ellipsis speaker-position">Managing Director</div>
+<div class="text-ellipsis speaker-company">Lloyd’s Register Maritime Decarbonisation Hub</div>
 </div>
 </div>
 </div>
@@ -153,11 +153,11 @@ SDD (Shipping)
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Sanjay B Patil" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Sanjay B Patil</strong></div>
-<div class="text-ellipsis speaker-position">Advisor Corporate HSSEQ</div>
-<div class="text-ellipsis speaker-company">MISC Marine</div>
+<div class="speaker-name text-ellipsis"><strong>Ms Sonia B. Malaluan</strong></div>
+<div class="text-ellipsis speaker-position">Administrator</div>
+<div class="text-ellipsis speaker-company">Philippine Maritime Industry Authority (MARINA)</div>
 </div>
 </div>
 </div>
@@ -165,11 +165,11 @@ SDD (Shipping)
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Yves Vandenborn" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Ashish Mediratta" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Yves Vandenborn</strong></div>
-<div class="text-ellipsis speaker-position">Head of Loss Prevention (Asia Pacific)</div>
-<div class="text-ellipsis speaker-company">NorthStandard</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Ashish Mediratta</strong></div>
+<div class="text-ellipsis speaker-position">Head of Crewing</div>
+<div class="text-ellipsis speaker-company">Maersk</div>
 </div>
 </div>
 </div>
@@ -179,12 +179,11 @@ SDD (Shipping)
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Xiao Shouhai" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Simona Toma" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Xiao Shouhai</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Director (Marine Safety Investigation)</div>
-<div class="text-ellipsis speaker-company">Ministry of Transport, Singapore<br>
-Transport Safety Investigation Bureau</div>
+<div class="speaker-name text-ellipsis"><strong>Ms Simona Toma</strong></div>
+<div class="text-ellipsis speaker-position">Chief of Maritime HR</div>
+<div class="text-ellipsis speaker-company">Columbia Group</div>
 </div>
 </div>
 </div>
