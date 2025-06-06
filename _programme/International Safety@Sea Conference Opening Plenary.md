@@ -192,7 +192,7 @@ variant: markdown
 	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), CDO</div>
+<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
