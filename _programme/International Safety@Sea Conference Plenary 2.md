@@ -99,7 +99,7 @@ variant: markdown
 <h4 class="programme-title">Plenary 2</h4>
 	“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”
 	<p></p><p>
-</p><div>The Second Plenary session will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
+</p><div>Plenary 2 will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
