@@ -5,12 +5,89 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>19 Aug | 13:30 - 15:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Singapore Safety@Sea Conference – Session 2</h3>
-	<h3>All Hands on Deck for Safe Ammonia Bunkering</h3>
+  <b>15 JUL | 11:00 - 13:00</b>&nbsp;<b>GMT+8</b>
+  <h3>International Safety@Sea Conference – Plenary 2</h3>
+	<h4>From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry</h4>
+		Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
 </div>
 
 <section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>15 JUL | 11:05 - 11:30</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Presentation 1</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Maja Markovčić Kostelac" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <b>Ms Maja Markovčić Kostelac</b>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Executive Director
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            European Maritime Safety Agency
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>15 JUL | 11:30 - 11:55</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Presentation 2</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Rep" class="image-adjust position-center"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <b>Representative</b>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Marine Accident Investigation Branch
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>	
+	
+	
+	
+	
 <div class="bp-container is-fluid">
 <div class="row">
 <div class="col is-full">
@@ -18,11 +95,11 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>19 AUG | 13:35 - 14:55</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion</h4>
-	“All Hands on Deck for Safe Ammonia Bunkering”
+<div class="programme-time"><strong>15 JUL | 11:55 - 12:55</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Plenary 2</h4>
+	“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”
 	<p></p><p>
-</p><div>The panel for Session 2 of this year’s conference will focus on safe ammonia bunkering. The panel will feature MPA and the various parties involved in the world’s first use of ammonia as a marine fuel in the Port of Singapore earlier this year.<p></p><p></p><div>
+</p><div>The Second Plenary session will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 <div class="row">
