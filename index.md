@@ -19,12 +19,12 @@ sections:
       description: "The Future of Maritime Safety: Are We Ready for the Challenge?"
       image: /images/Home/Opening_Session_Banner.jpg
       alt: Image alt text
-      title: International Safety@Sea Week – Opening Plenary
+      title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
       button: click here
       url: /programme/conference-opening-session/
   - infopic:
-      title: International Safety@Sea Week - Plenary 2
+      title: International Safety@Sea Conference - Plenary 2
       subtitle: 15 Jul | 11:00 - 13:00 (GMT+8)
       id: infopic
       description: "From Incident to Insight: Unpacking Lessons for a Safer Maritime
@@ -34,7 +34,7 @@ sections:
       image: /images/Home/Session_Two_Banner.jpg
       alt: Image alt text
   - infopic:
-      title: International Safety@Sea Week - Plenary 3
+      title: International Safety@Sea Conference - Plenary 3
       subtitle: 15 Jul | 14:30 - 16:30 (GMT+8)
       id: infopic
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
