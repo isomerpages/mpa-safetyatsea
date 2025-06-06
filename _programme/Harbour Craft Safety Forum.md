@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="container-space">
-  <b>18 JUL  | 09:30 - 13:30</b>&nbsp;<b>GMT+8</b>
+  <b>18 JUL | 09:30 - 13:30</b>&nbsp;<b>GMT+8</b>
   <h3>Harbour Craft Safety Forum</h3>
 	<p>Venue: The Southern Depot, Gillman Barracks</p>
 	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
