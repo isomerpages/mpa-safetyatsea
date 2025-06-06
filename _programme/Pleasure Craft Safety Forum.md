@@ -5,13 +5,13 @@ description: ""
 variant: markdown
 ---
 <div class="container-space">
-  <b>18 JUL  | 14:30 - 18:00</b>&nbsp;<b>GMT+8</b>
+  <b>18 JUL | 14:30 - 18:00</b>&nbsp;<b>GMT+8</b>
   <h3>Pleasure Craft Safety Forum</h3>
 	<p>Venue: The Southern Depot, Gillman Barracks</p>
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among pleasure craft operators in Singapore.</p>
 </div>
-<p><i> Details on the programme and speakers to follow.</i></p>
+<p><i>Details on the programme and speakers will be revealed shortly.</i></p>
 
 
 <style type="text/css">
