@@ -46,7 +46,7 @@ variant: markdown
       </div>
       <div class="col is-4">
         <a href="/david-foo">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+          <div><img src="/images/Speakers_23/Session1p1/david foo-1.png"></div>
           <h4 class="speaker-name text-ellipsis">Mr David Foo</h4>
           <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
