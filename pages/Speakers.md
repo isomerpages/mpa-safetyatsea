@@ -30,7 +30,7 @@ variant: markdown
     <div class="row">
       <div class="col is-4">
         <a href="/ishak-ismail">
-          <div><img src="/images/Speakers/2024/New Images/Ishak Ismail.png"></div>
+          <div><img src="/images/Speakers_23/Session1p1/ishak ismail.png"></div>
           <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail</h4>
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council<br> (Moderator)</div>
