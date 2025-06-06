@@ -30,7 +30,7 @@ This year, there are eight sessions to look forward to including the Internation
 <p><strong>          Pleasure Craft Safety Forum &amp; Harbour Craft Safety Forum (18 Jul 2025)<br></strong>          The International Safety@Sea Week 2025 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
 <p>The <strong>Harbour Craft Safety Forum</strong> ogranised by MPA-Harbour Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC) focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 
-<p>The <strong>Pleasure Craft Safety Forum</strong> organised by the MPA-Pleasure Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Countil (NMSSC) focuses on improving and raising safety among pleasure craft community in Singapore./p>
+<p>The <strong>Pleasure Craft Safety Forum</strong> organised by the MPA-Pleasure Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Countil (NMSSC) focuses on improving and raising safety among pleasure craft community in Singapore.</p>
 <p><strong>Chemical Spill Exercise (15 Jul 2025)<br></strong>
 <p> 
          MPA’s Chemical Spill Exercise is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025.
