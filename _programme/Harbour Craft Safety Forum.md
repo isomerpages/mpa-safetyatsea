@@ -11,7 +11,7 @@ variant: markdown
 	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 </div>
-<p><i> Details on the programme and speakers will be released soon.</i></p>
+<p><i>Details on the programme and speakers will be revealed shortly.</i></p>
 
 
 
