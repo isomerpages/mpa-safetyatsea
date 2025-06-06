@@ -2,6 +2,7 @@
 title: Mr David Foo
 permalink: /david-foo/
 description: ""
+variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
@@ -9,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr David Foo</h4>
-<p>Assistant Chief Executive (Operations Technology)<br> Maritime and Port Authority of Singapore
+<p>Deputy Chief Executive (Operations &amp; Technology)/CDO<br> Maritime and Port Authority of Singapore
 </p>
 <p>David Foo joined the Maritime and Port Authority of Singapore in July 2017 as Director (Port Systems) and was appointed as the Assistant Chief Executive for Operations Technology in January 2021. As ACE(Ops-Tech), he leads, manages, and directs the functions of the Operations Planning, Information Technology, and Port Systems Divisions as well as the Statistics and Data Systems Department and Systems Architecture Office.</p>
 	<p>Prior to joining MPA, he served in the Republic of Singapore Navy for more than 27 years and held various senior staff and command appointments.</p>
