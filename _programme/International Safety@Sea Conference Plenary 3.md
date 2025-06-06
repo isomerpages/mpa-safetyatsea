@@ -155,7 +155,7 @@ Regional Head – Business Relations and Medisea
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Ms Sonia B. Malaluan</strong></div>
+<div class="speaker-name text-ellipsis"><strong>Ms Sonia B Malaluan</strong></div>
 <div class="text-ellipsis speaker-position">Administrator</div>
 <div class="text-ellipsis speaker-company">Philippine Maritime Industry Authority (MARINA)</div>
 </div>
