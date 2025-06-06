@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <h3>Opening Session - All Hands on Deck for Safe and Green Shipping</h3>
+  <h3>Opening Plenary - All Hands on Deck for Safe and Green Shipping</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -56,7 +56,7 @@ variant: markdown
 	</div>
 	</section>
   	
-  <h3>Session 2- All Hands on Deck for Safe Ammonia Bunkering</h3>
+  <h3>Plenary 2- All Hands on Deck for Safe Ammonia Bunkering</h3>
 <section class="bp-section font"><a href="/michael-phoon">
   </a><div class="bp-container is-fluid has-text-centered"><a href="/michael-phoon">
     </a><div class="row"><a href="/michael-phoon">
@@ -106,7 +106,7 @@ variant: markdown
   </div>
 </section>
 	
-  <h3>Session 3 - All Hands on Deck for Our People's Safety and Wellbeing</h3>
+  <h3>Plenary 3 - All Hands on Deck for Our People's Safety and Wellbeing</h3>
 <section class="bp-section font"><a href="/vibhas-garg">
   </a><div class="bp-container is-fluid has-text-centered"><a href="/vibhas-garg">
     </a><div class="row"><a href="/vibhas-garg">
@@ -141,7 +141,7 @@ variant: markdown
           <div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Chong Jia Chyuan.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Chong JiaChyuan </h4>
           <div class="speaker-position text-ellipsis">Senior Deputy Director (Operations) / Port Master</div>
-          <div class="speaker-company text-ellipsis">Maritime & Port Authority of Singapore</div>
+          <div class="speaker-company text-ellipsis">Maritime &amp; Port Authority&nbsp;of&nbsp;Singapore</div>
         </a>
       </div>
       <div class="col is-4">
