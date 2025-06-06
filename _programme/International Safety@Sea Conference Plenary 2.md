@@ -102,27 +102,32 @@ variant: markdown
 </p><div>The Second Plenary session will further discuss on past incidents and how it leads onto safer maritime practices. The panels will feature MPA and various industry leaders for their insights.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
+	
+	
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Vibhas Garg.png" alt="Capt Vibhas Garg" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Ashima Taneja" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/vibhas-garg/" rel="noopener">Capt Vibhas Garg</a></strong></div>
-<div class="text-ellipsis speaker-position">Director</div>
-<div class="text-ellipsis speaker-company">Octant Marine Pte Ltd</div>
+<div class="speaker-name text-ellipsis"><strong>Ms Ashima Taneja</strong></div>
+<div class="text-ellipsis speaker-position">Head of Maritime Commercial – Safety, Sustainability and Technical
+</div>
+<div class="text-ellipsis speaker-company">BHP (NMSSC Member)</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
+	
+	
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/New Wei Siang.png" alt="Mr New Wei Siang" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Aun Aun Cheah" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/new-wei-siang/" rel="noopener">Mr New Wei Siang</a></strong></div>
-<div class="text-ellipsis speaker-position">Director (Decarbonisation &amp; Net-Zero Pathways)</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Aun Aun Cheah</strong></div>
+<div class="text-ellipsis speaker-position">Director (Marine)</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
@@ -130,59 +135,70 @@ variant: markdown
 
 
 <div class="col is-6 prog-speaker">
-
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Glen Davenport.png" alt="Mr Glen Davenport" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/glen-davenport/" rel="noopener">Mr Glen Davenport</a></strong></div>
-<div class="text-ellipsis speaker-position">Vice President, Operations and Technical</div>
-<div class="text-ellipsis speaker-company">Vopak Terminals Singapore</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Carsten Brix Ostenfeldt</strong></div>
+<div class="text-ellipsis speaker-position">Chief Operating Officer (COO) of Asia</div>
+<div class="text-ellipsis speaker-company">Anglo-Eastern Ship Management</div>
 </div>
+</div>
+</div>
+	
 </div>
 
-</div>
-</div>
+
 <div class="row">
-
 <div class="col is-6 prog-speaker">
-
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/Andrew Hoare.png" alt="Mr Andrew Hoare" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Sanjay B Patil" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/andrew-hoare/" rel="noopener">Mr Andrew Hoare</a></strong></div>
-<div class="text-ellipsis speaker-position">Head of Fortescue Marine Systems and Green Shipping</div>
-<div class="text-ellipsis speaker-company">Fortescue</div>
+<div class="speaker-name text-ellipsis"><strong>Capt Sanjay B Patil</strong></div>
+<div class="text-ellipsis speaker-position">Advisor Corporate HSSEQ</div>
+<div class="text-ellipsis speaker-company">MISC Marine</div>
+</div>
 </div>
 </div>
 
-
-</div>
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Mohd Salleh A Sarwan.png" alt="Capt Mohamad Salleh bin Ahmad Sarwan" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Yves Vandenborn" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mohamad-salleh-bin-ahmad-sarwan/" rel="noopener">Capt Mohamad Salleh bin Ahmad Sarwan</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Lecturer &amp; Specialist </div>
-<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
+<div class="speaker-name text-ellipsis"><strong>Capt Yves Vandenborn</strong></div>
+<div class="text-ellipsis speaker-position">Head of Loss Prevention (Asia Pacific)</div>
+<div class="text-ellipsis speaker-company">NorthStandard</div>
 </div>
 </div>
 </div>
+	
+</div>
+
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Xiao Shouhai" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Capt Xiao Shouhai</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Director (Marine Safety Investigation)</div>
+<div class="text-ellipsis speaker-company">Ministry of Transport, Singapore<br>
+Transport Safety Investigation Bureau</div>
+</div>
+</div>
+</div>
+<div class="col is-6 prog-speaker">&nbsp;</div>
+</div>
+
+
 
 </div>
 </div>
 </div>
-
-
 </div>
 </div>
 </div>
 </div>
-</div>
-</div>
-
-
-</div></div></section>
+</div></div></div>
 	
 	
 	
@@ -221,4 +237,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style>
+</style></section>
