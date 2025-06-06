@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>19 Aug | 10:00 - 12:30</b>&nbsp;<b>GMT+8</b>
-  <h3>Singapore Safety@Sea Conference – Opening Session</h3>
-	<h3>All Hands on Deck for Safe and Green Shipping</h3>
+  <b>15 JUL | 09:00 - 10:30</b>&nbsp;<b>GMT+8</b>
+  <h3>International Safety@Sea Conference – Opening Plenary</h3>
+	<h4>The Future of Maritime Safety: Are We Ready for the Challenge?</h4>
+	Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
 </div>
 
 
@@ -21,23 +22,23 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>19 AUG | 10:05 - 10:10</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:05 - 09:10</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Welcome Remarks</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/Teo-Eng-Dih-img.png" alt="Mr Teo Eng Dih" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Ang Wee Keong" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Teo Eng Dih</b></a>
+                            <b>Mr Ang Wee Keong</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Chief Executive
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Maritime and Port Authority Singapore
+                            Maritime and Port Authority of Singapore
                           </div>
                         </div>
                       </div>
@@ -51,8 +52,6 @@ variant: markdown
       </div>
     </div>
   </div>
-</section>
-
 
   <div class="bp-container is-fluid">
     <div class="row">
@@ -61,7 +60,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>19 AUG | 10:10 - 10:20</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:10 - 09:20</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Opening Address</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -71,10 +70,10 @@ variant: markdown
 <div class="col is-4"><img src="/images/Speakers/2024/New Images/Murali-Pillai-img.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a href="#" class="speaker-name text-ellipsis" rel="noopener"><b>Mr Murali Pillai</b></a>
+                            <b>Mr Murali Pillai</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Minister of State for Transport
+                            Senior Minister of State<br>Ministry of Law &amp; Ministry of Transport
                           </div>
                         </div>
                       </div>
@@ -97,8 +96,8 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>19 AUG | 10:20 - 10:35</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Presentation of MPA Safety@Sea Awards and Certificates of Appointment for Safer Seas Volunteer Programme</h4>
+                <div class="programme-time"><b>15 JUL | 09:20 - 09:35</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Presentation of MPA Safety@Sea Awards</h4>
                           </div>
                         </div>
                       </div>
@@ -107,22 +106,27 @@ variant: markdown
                 </div>
               </div>
             
-          
-        
-      
-    
-  
-
-
- <div class="bp-container is-fluid">
+  <div class="bp-container is-fluid">
     <div class="row">
       <div class="col is-full"> 
         <div class="row">
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>19 AUG | 10:35 - 11:05</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Tea Break</h4>
+                <div class="programme-time"><b>15 JUL | 09:30 - 09:45</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Keynote Address</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Arsenio Dominguez" class="image-adjust position-center"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <b>Mr Arsenio Dominguez</b>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Secretary General<br>International Maritime Organization
                           </div>
                         </div>
                       </div>
@@ -130,15 +134,13 @@ variant: markdown
                   </div>
                 </div>
               </div>
-            
-          
-        
-      
-    
-  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>          
 
-	
-<section>
 <div class="bp-container is-fluid">
 <div class="row">
 <div class="col is-full">
@@ -146,85 +148,100 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>19 AUG | 11:05 - 12:25</strong>&nbsp;<strong>GMT+8</strong></div>
-<h4 class="programme-title">Panel Discussion</h4>
-	“All Hands on Deck for Safe Methanol Bunkering”	
+<div class="programme-time"><strong>15 JUL | 09:45 - 10:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<h4 class="programme-title">Opening Plenary</h4>
+	“The Future of Maritime Safety: Are We Ready for the Challenge?”	
 	<p></p> <p>         
 
-</p><div>The panel will feature MPA and the various parties involved in the first successful simultaneous methanol bunkering and cargo operation at Tuas Port on 27 May 2024. <p></p> <p> </p><div>
+</p><div>The panel will feature a high level discussion on the Future of Maritime Safety and if we are ready for the challenge. <p></p> <p> </p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
+	
+	
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/Michael Phoon.png" alt="Mr. Michael Phoon" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2024/New Images/Ishak Ismail.png" alt="Mr. Ishak Ismail" class="image-adjust position-center"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/michael-phoon-thin-kwai/" rel="noopener">Mr Michael Phoon</a></strong></div>
-<div class="text-ellipsis speaker-position">Executive Director</div>
-<div class="text-ellipsis speaker-company">Singapore Shipping Association</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/2024 Speakers/ishak-ismail/" rel="noopener">Mr Ishak Ismail</a></strong></div>
+<div class="text-ellipsis speaker-position">Chairman</div>
+<div class="text-ellipsis speaker-company">National Maritime Safety at Sea Council</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
 </div>
 <div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
+	
+	
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Chua Yeng Hian.png" alt="Mr Chua Yeng Hian" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chua-yeng-hian/" rel="noopener">Mr Chua Yeng Hian</a></strong></div>
-<div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Secretary General</div>
+<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+</div>
+</div>
+</div>
+
+
+<div class="col is-6 prog-speaker">
+<div class="row">
+	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology)/CDO</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
+	
+</div>
+
+
+<div class="row">
+<div class="col is-6 prog-speaker">
+<div class="row">
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Muhammad Masyhud" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr Muhammad Masyhud</strong></div>
+<div class="text-ellipsis speaker-position">Director General</div>
+<div class="text-ellipsis speaker-company">Directorate General of Sea Transportation,<br> 
+Ministry of Transportation, Indonesia</div>
+</div>
+</div>
+</div>
 
 
 <div class="col is-6 prog-speaker">
-
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Goh Hock Nguan.png" alt="Mr Goh Hock Nguan" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Mary Liew" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/goh-hock-nguan/" rel="noopener">Mr Goh Hock Nguan</a></strong></div>
-<div class="text-ellipsis speaker-position">Assistant Vice President, Sustainability Planning &amp; Development</div>
-<div class="text-ellipsis speaker-company">PSA Corporation Ltd</div>
+<div class="speaker-name text-ellipsis"><strong>Ms Mary Liew</strong></div>
+<div class="text-ellipsis speaker-position">General Secretary</div>
+<div class="text-ellipsis speaker-company">Singapore Maritime Officers’ Union</div>
 </div>
 </div>
-
 </div>
+	
 </div>
-<div class="row">
-
-<div class="col is-6 prog-speaker">
 
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2024/New Images/Mayank Singh.png" alt="Capt Mayank Singh" class="image-adjust"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mayank-singh/" rel="noopener">Capt Mayank Singh</a></strong></div>
-<div class="text-ellipsis speaker-position">Quality Assurance Manager</div>
-<div class="text-ellipsis speaker-company">X-Press Feeders Pte Ltd</div>
-</div>
-</div>
-
-
-</div>
-
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/Chatur Wahyu.png" alt="Capt Chatur Wahyu" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/chatur-wahyu/" rel="noopener">Capt Chatur Wahyu</a></strong></div>
-<div class="text-ellipsis speaker-position">Director</div>
-<div class="text-ellipsis speaker-company">Singapore Maritime Academy, Singapore Polytechnic</div>
+<div class="speaker-name text-ellipsis"><strong>Representative</strong></div>
+<div class="text-ellipsis speaker-position"> </div>
+<div class="text-ellipsis speaker-company">Bureau Veritas Marine &amp; Offshore</div>
 </div>
 </div>
 </div>
-
-
-
-
+<div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
+
 
 
 </div>
@@ -234,8 +251,25 @@ variant: markdown
 </div>
 </div>
 </div>
-</div></div></div></section>
+</div></div></div>
 
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>15 JUL | 10:25 - 11:00</b>&nbsp;<b>GMT+8</b></div>
+                <h4 class="programme-title">Networking Tea Break</h4>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+</section>
 
 <style type="text/css"> 
 	.position-center{
