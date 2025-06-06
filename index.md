@@ -17,7 +17,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: "The Future of Maritime Safety: Are We Ready for the Challenge?"
-      image: /images/Home/Opening_Session_Banner.jpg
+      image: /images/Home 2025/KV2025_01.jpg
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
