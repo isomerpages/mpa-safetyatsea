@@ -43,6 +43,13 @@ sections:
       image: /images/Home/Session_Three_Banner.jpg
       alt: Image alt text
   - infopic:
+      title: Chemical Spill Exercise
+      subtitle: 15 Jul | 11:30 - 14:00 (GMT+8)
+      id: infopic
+      button: Button Text
+      url: /programme/chemical-spill-exercise/
+      alt: Image alt text
+  - infopic:
       title: Responder Plus Programme (RPP) Maritime Workshop
       subtitle: 17 Jul | 12:00 - 17:00 (GMT+8)
       id: infopic
