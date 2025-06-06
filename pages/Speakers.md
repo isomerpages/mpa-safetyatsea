@@ -48,7 +48,7 @@ variant: markdown
         <a href="/david-foo">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
           <h4 class="speaker-name text-ellipsis">Mr David Foo</h4>
-          <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), CDO</div>
+          <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
         </a>
       </div>
