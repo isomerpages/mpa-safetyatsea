@@ -22,7 +22,7 @@ sections:
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
       button: click here
-      url: /programme/conference-opening-session/
+      url: /programme/conference-opening-plenary/
   - infopic:
       title: International Safety@Sea Conference - Plenary 2
       subtitle: 15 Jul | 11:00 - 13:00 (GMT+8)
@@ -30,7 +30,7 @@ sections:
       description: "From Incident to Insight: Unpacking Lessons for a Safer Maritime
         Industry"
       button: Click Here
-      url: /programme/session-2/
+      url: /programme/plenary-2/
       image: /images/Home/Session_Two_Banner.jpg
       alt: Image alt text
   - infopic:
@@ -39,7 +39,7 @@ sections:
       id: infopic
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
-      url: /programme/session-3/
+      url: /programme/plenary-3/
       image: /images/Home/Session_Three_Banner.jpg
       alt: Image alt text
   - infopic:
