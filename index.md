@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
       variant: center
-      title: Singapore Safety@Sea Week 2024
+      title: Singapore Safety@Sea Week 2025
       subtitle: 19th August to 23rd August
   - infobar:
       title: Spotlight on Maritime Safety
