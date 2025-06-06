@@ -96,7 +96,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 09:20 - 09:35</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:20 - 09:30</b>&nbsp;<b>GMT+8</b></div>
                 <h4 class="programme-title">Presentation of MPA Safety@Sea Awards</h4>
                           </div>
                         </div>
@@ -192,7 +192,7 @@ variant: markdown
 	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology)/CDO</div>
+<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), CDO</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
