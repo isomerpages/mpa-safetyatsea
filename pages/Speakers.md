@@ -31,10 +31,9 @@ variant: markdown
       <div class="col is-4">
         <a href="/ishak-ismail">
           <div><img src="/images/Speakers_23/Session1p1/ishak ismail.png"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Ishak Ismail</h4>
+					<h4 class="speaker-name text-ellipsis">Mr Ishak Ismail</h4></a>
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council<br> (Moderator)</div>
-        </a>
       </div>
       <div class="col is-4">
         <a href="/simon-bennett">
@@ -47,10 +46,9 @@ variant: markdown
       <div class="col is-4">
         <a href="/david-foo">
           <div><img src="/images/Speakers_23/Session1p1/david foo-1.png"></div>
-          <h4 class="speaker-name text-ellipsis">Mr David Foo</h4>
+					<h4 class="speaker-name text-ellipsis">Mr David Foo</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
-        </a>
       </div>
     </div>
     <div class="row">
@@ -65,11 +63,10 @@ Ministry of Transportation, Indonesia</div>
       </div>
       <div class="col is-4">
         <a href="/mary-liew">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4>
+					<div><img src="/images/Speakers/2025/MaryLiew.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4></a>
           <div class="speaker-position text-ellipsis">General Secretary</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Officers’ Union</div>
-        </a>
 			</div>
       <div class="col is-4">
         <a href="/rep">
@@ -100,10 +97,9 @@ Ministry of Transportation, Indonesia</div>
         <div class="col is-4">
         <a href="/capt-ashok-srinivasan/">
           <div><img src="/images/Speakers/2025/AshokSrinivasan.png"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4>
+          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4></a>
           <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
           <div class="speaker-company text-ellipsis">BIMCO</div>
-        </a>
       </div>
     </div>
 	</div>
@@ -151,10 +147,9 @@ Ministry of Transportation, Indonesia</div>
       <div class="col is-4">
         <a href="/speakers/captain-yves-vandenborn/">
           <div><img src="/images/Speakers/2025/YvesVandenborn.png"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn</h4>
+          <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn</h4></a>
           <div class="speaker-position text-ellipsis">Head of Loss Prevention (Asia Pacific)</div>
           <div class="speaker-company text-ellipsis">NorthStandard</div>
-        </a>
 			</div>
       <div class="col is-4">
         <a href="/Xiao-Shouhai">
