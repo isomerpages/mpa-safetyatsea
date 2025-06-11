@@ -2,6 +2,6 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Capt Yves.md
+      - Capt Yves Vandenborn.md
       - Mr David Foo.md
       - Mr Ishak Ismail.md
