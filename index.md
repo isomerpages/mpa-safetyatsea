@@ -81,7 +81,6 @@ sections:
       alt: Image alt text
   - infobar:
       title: ScamShield
-      subtitle: Add informational text
       id: infobar
       description: Government officials will NEVER ask you to transfer money or
         disclose bank log-in details over a phone call. Call ScamShield Helpline
