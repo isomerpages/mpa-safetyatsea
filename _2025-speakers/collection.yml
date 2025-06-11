@@ -1,5 +1,5 @@
 collections:
-  2025speakers:
+  2025-speakers:
     output: true
     order:
       - Mr David Foo.md
