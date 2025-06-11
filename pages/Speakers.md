@@ -62,7 +62,7 @@ Ministry of Transportation, Indonesia</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/mary-liew">
+        <a href="/ms-mary-liew">
 					<div><img src="/images/Speakers/2025/MaryLiew.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4></a>
           <div class="speaker-position text-ellipsis">General Secretary</div>
