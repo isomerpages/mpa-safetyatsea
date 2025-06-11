@@ -29,7 +29,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Ang Wee Keong" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/AngWeeKeong.png" alt="Mr Ang Wee Keong" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b>Mr Ang Wee Keong</b>
