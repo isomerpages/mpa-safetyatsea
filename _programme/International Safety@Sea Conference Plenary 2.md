@@ -64,13 +64,14 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Rep" class="image-adjust position-center"></div>
-                        <div class="col is-8">
-                          <div class="speaker-name text-ellipsis">
-                            <b>Representative</b>
-                          </div>
+<div class="col is-4"><img src="/images/Speakers/2025/AshokSrinivasan.png" alt="Rep" class="image-adjust position-center"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/capt-ashok-srinivasan/" rel="noopener">Capt Ashok Srinivasan</a></strong></div>
                           <div class="text-ellipsis speaker-position">
-                            Marine Accident Investigation Branch
+                            Regional Manager and Technical Advisor
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            BIMCO
                           </div>
                         </div>
                       </div>
