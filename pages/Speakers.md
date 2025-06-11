@@ -98,11 +98,11 @@ Ministry of Transportation, Indonesia</div>
         </a>
       </div>
         <div class="col is-4">
-        <a href="/rep">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Representative</h4>
-          <div class="speaker-position text-ellipsis"> </div>
-          <div class="speaker-company text-ellipsis">Marine Accident Investigation Branch</div>
+        <a href="/speakers/capt-ashok-srinivasan/">
+          <div><img src="/images/Speakers/2025/AshokSrinivasan.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4>
+          <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
+          <div class="speaker-company text-ellipsis">BIMCO</div>
         </a>
       </div>
     </div>
