@@ -4,7 +4,12 @@ title: International Safety@Sea Week 2025
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="/1-register/">Registration</a>  for IS@S Week 2025 is now open!
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.   For more
+  information on how to protect yourself against scams, please visit <a
+  href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>. <br><br><a
+  href="/1-register/">Registration</a>  for IS@S Week 2025 is now open!
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
