@@ -98,7 +98,7 @@ Ministry of Transportation, Indonesia</div>
         </a>
       </div>
         <div class="col is-4">
-        <a href="/speakers/capt-ashok-srinivasan/">
+        <a href="/capt-ashok-srinivasan/">
           <div><img src="/images/Speakers/2025/AshokSrinivasan.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4>
           <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
