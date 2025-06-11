@@ -81,5 +81,5 @@ sections:
         at 1799 if you are unsure.
       button: For More Information
       url: https://www.scamshield.gov.sg/
-      subtitle: ScamShield
+      subtitle: <b>ScamShield</b>
 ---
