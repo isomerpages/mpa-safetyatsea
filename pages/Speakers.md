@@ -149,8 +149,8 @@ Ministry of Transportation, Indonesia</div>
         </a>
       </div>
       <div class="col is-4">
-        <a href="/Yves-Vandenborn">
-          <div><img src="/images/Speakers_23/Session1p2/yves vandenborn.png"></div>
+        <a href="/speakers/captain-yves-vandenborn/">
+          <div><img src="/images/Speakers/2025/YvesVandenborn.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn</h4>
           <div class="speaker-position text-ellipsis">Head of Loss Prevention (Asia Pacific)</div>
           <div class="speaker-company text-ellipsis">NorthStandard</div>
