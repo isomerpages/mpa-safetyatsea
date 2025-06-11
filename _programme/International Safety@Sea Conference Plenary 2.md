@@ -163,7 +163,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers_23/Session1p2/yves vandenborn.png" alt="Capt Yves Vandenborn" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/YvesVandenborn.png" alt="Capt Yves Vandenborn" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong>Capt Yves Vandenborn</strong></div>
 <div class="text-ellipsis speaker-position">Head of Loss Prevention (Asia Pacific)</div>
