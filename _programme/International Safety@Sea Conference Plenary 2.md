@@ -165,7 +165,7 @@ variant: markdown
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2025/YvesVandenborn.png" alt="Capt Yves Vandenborn" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Yves Vandenborn</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-yves-vandenborn/" rel="noopener">Capt Yves Vandenborn</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Loss Prevention (Asia Pacific)</div>
 <div class="text-ellipsis speaker-company">NorthStandard</div>
 </div>
