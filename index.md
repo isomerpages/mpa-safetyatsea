@@ -79,4 +79,13 @@ sections:
       url: /programme/pleasure-craft-forum/
       image: /images/Home 2025/1_08.png
       alt: Image alt text
+  - infobar:
+      title: ScamShield
+      subtitle: Add informational text
+      id: infobar
+      description: Government officials will NEVER ask you to transfer money or
+        disclose bank log-in details over a phone call. Call ScamShield Helpline
+        at 1799 if you are unsure.
+      button: For More Information
+      url: https://www.scamshield.gov.sg/
 ---
