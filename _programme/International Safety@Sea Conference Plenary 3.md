@@ -99,7 +99,7 @@ variant: markdown
 <h4 class="programme-title">Plenary Discussion</h4>
 	“The Human Element: Ensuring Safety in Maritime’s Transition”
 	<p></p><p>
-</p><div>Plenary 3 will turn our attention over to the Human Element and how each industry leaders are adapting themselves for the future. The session will features NMSSC, Columbia Group, Lloyd’s Register Maritime Decarbonisation Hub, Mearsk, OceanInfinity and Philippine Maritime Industry Authority.<p></p><p></p><div>
+</p><div>Plenary 3 examines the crucial human element in maritime safety and industry transformation. Distinguished speakers from NMSSC, Columbia Group, Lloyd's Register Maritime Decarbonisation Hub, Maersk, Ocean Infinity and the Philippine Maritime Industry Authority will share their strategies for developing future-ready maritime professionals while navigating technological advances and evolving industry demands. <p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
@@ -110,7 +110,7 @@ variant: markdown
 <div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Hari Subramaniam" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong>Capt Hari Subramaniam</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Chairman, NMSSC<br> 
+<div class="text-ellipsis speaker-position">Deputy Chairman, National Maritime Safety at Sea Council<br> 
 Hononary Chair, The Nautical Institute Singapore<br>
 Regional Head – Business Relations and Medisea
 </div>
