@@ -106,7 +106,7 @@ variant: markdown
           <div><img src="/images/Speakers/2025/AshimaTaneja.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4>
           <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
-          <div class="speaker-company text-ellipsis">BHP (NMSSC Member)<br> (Moderator)</div>
+          <div class="speaker-company text-ellipsis">BHP (National Maritime Safety at Sea Council Member)<br> (Moderator)</div>
         </a>
       </div>
       <div class="col is-4">
