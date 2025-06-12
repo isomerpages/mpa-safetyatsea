@@ -53,15 +53,6 @@ variant: markdown
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/muhammad-masyhud">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Muhammad Masyhud</h4>
-          <div class="speaker-position text-ellipsis">Director General</div>
-          <div class="speaker-company text-ellipsis">Directorate General of Sea Transportation,<br> 
-Ministry of Transportation, Indonesia</div>
-        </a>
-      </div>
-      <div class="col is-4">
         <a href="/ms-mary-liew">
 					<div><img src="/images/Speakers/2025/MaryLiew.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4></a>
@@ -89,8 +80,8 @@ Ministry of Transportation, Indonesia</div>
         <div class="col is-4">
         <a href="/Maja-Markovčić-Kostelac">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Maja Markovčić Kostelac</h4>
-          <div class="speaker-position text-ellipsis">Executive Director</div>
+          <h4 class="speaker-name text-ellipsis">Mr Santiago Encabo</h4>
+          <div class="speaker-position text-ellipsis">Head of Unit Safety and Security</div>
           <div class="speaker-company text-ellipsis">European Maritime Safety Agency</div>
         </a>
       </div>
@@ -112,7 +103,7 @@ Ministry of Transportation, Indonesia</div>
     <div class="row">
       <div class="col is-4">
         <a href="/ashima-taneja">
-          <div><img src="/images/Speakers/2025/AshimaTaneja.jpg"></div>
+          <div><img src="/images/Speakers/2025/AshimaTaneja.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4>
           <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
           <div class="speaker-company text-ellipsis">BHP (NMSSC Member)<br> (Moderator)</div>
