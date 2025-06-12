@@ -59,6 +59,15 @@ sections:
       image: /images/Home 2025/1_06.png
       alt: Image alt text
   - infopic:
+      title: The Nautical Institute (SG) Conference 2025
+      subtitle: 17 JUL |  (GMT+8)
+      id: infopic
+      description: Infopic description
+      button: Click Here
+      url: /TNI2025
+      image: /images/Home 2025/NAUTICAL_Banner.png
+      alt: Image alt text
+  - infopic:
       title: Harbour Craft Safety Forum
       subtitle: 18 Jul | 09:30 - 13:30 (GMT+8)
       id: infopic
