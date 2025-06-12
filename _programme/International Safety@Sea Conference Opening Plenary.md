@@ -204,19 +204,6 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Muhammad Masyhud" class="image-adjust"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Muhammad Masyhud</strong></div>
-<div class="text-ellipsis speaker-position">Director General</div>
-<div class="text-ellipsis speaker-company">Directorate General of Sea Transportation,<br> 
-Ministry of Transportation, Indonesia</div>
-</div>
-</div>
-</div>
-
-
-<div class="col is-6 prog-speaker">
-<div class="row">
 <div class="col is-4"><img src="/images/Speakers/2025/MaryLiew.png" alt="Ms Mary Liew" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-mary-liew/" rel="noopener">Ms Mary Liew</a></strong></div>
@@ -225,10 +212,7 @@ Ministry of Transportation, Indonesia</div>
 </div>
 </div>
 </div>
-	
-</div>
 
-<div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr" class="image-adjust"></div>
