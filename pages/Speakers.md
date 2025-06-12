@@ -103,10 +103,10 @@ variant: markdown
     <div class="row">
       <div class="col is-4">
         <a href="/ashima-taneja">
-          <div><img src="/images/Speakers/2025/AshimaTaneja.png"></div>
+          <div><img src="/images/Speakers/2025/ashimataneja04.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4>
           <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
-          <div class="speaker-company text-ellipsis">BHP (National Maritime Safety at Sea Council Member)<br> (Moderator)</div>
+          <div class="speaker-company text-ellipsis">BHP<br>National Maritime Safety at Sea Council Member<br> (Moderator)</div>
         </a>
       </div>
       <div class="col is-4">
