@@ -20,7 +20,7 @@ As part of MPA’s commitment to promoting safety at sea, registration for all e
 This year, there are eight sessions to look forward to including the International Safety@Sea (IS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and Responder Plus Programme (RPP) Maritime Workshop.</p>
 <p><strong>International Safety@Sea Conference (15 Jul 2025)<br></strong>This year’s International Safety@Sea Conference will be held at Conrad Singapore Marina Bay (2 Temasek Boulevard, Singapore 038982).<br><br>Plenary themes:</p>
 <ul>
-<li>          Opening Plenary: “The Future of Maritime Safety: Are We Ready for the Challenge?”</li>
+<li>          Opening Plenary: “The Future of Maritime Safety: Navigating the Next Frontier”</li>
 <li>          Plenary 2:&nbsp;“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”</li>
 	<li>          Plenary 3: “The Human Element: Ensuring Safety in Maritime’s Transition”</li> </ul>
 
