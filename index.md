@@ -16,7 +16,7 @@ sections:
       description: An annual event by the Maritime and Port Authority of Singapore to
         promote safety at sea.
   - infopic:
-      description: "The Future of Maritime Safety: Are We Ready for the Challenge?"
+      description: "The Future of Maritime Safety: Navigating the Next Frontier"
       image: /images/Home 2025/KV2025_01.jpg
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
