@@ -150,7 +150,7 @@ variant: markdown
 <div class="p-4">
 <div class="programme-time"><strong>15 JUL | 09:45 - 10:25</strong>&nbsp;<strong>GMT+8</strong></div>
 <h4 class="programme-title">Opening Plenary</h4>
-	“The Future of Maritime Safety: Are We Ready for the Challenge?”	
+	“The Future of Maritime Safety: Navigating the Next Frontier”	
 	<p></p> <p>         
 
 </p><div>The panel will feature a high level discussion on the Future of Maritime Safety and if we are ready for the challenge. <p></p> <p> </p><div>
