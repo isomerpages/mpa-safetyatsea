@@ -46,7 +46,7 @@ sections:
       title: Chemical Spill Exercise
       subtitle: 15 Jul | 11:30 - 14:00 (GMT+8)
       id: infopic
-      button: Button Text
+      button: Click Here
       url: /programme/chemical-spill-exercise/
       alt: Image alt text
       image: /images/Home 2025/1_04.png
