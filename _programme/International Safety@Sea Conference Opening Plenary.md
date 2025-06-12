@@ -7,7 +7,7 @@ variant: markdown
 <div>
   <b>15 JUL | 09:00 - 10:30</b>&nbsp;<b>GMT+8</b>
   <h3>International Safety@Sea Conference – Opening Plenary</h3>
-	<h4>The Future of Maritime Safety: Are We Ready for the Challenge?</h4>
+	<h4>The Future of Maritime Safety: Navigating the Next Frontier</h4>
 	Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
 </div>
 
