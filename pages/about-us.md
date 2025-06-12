@@ -37,7 +37,7 @@ Kindly note that this is a closed-door event.</p>
 The RPP (Responders Plus Programme) Maritime Workshop will be held on 17 July as part of International Safety@Sea Week. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), this workshop strengthens emergency preparedness within the community in Maritime Singapore. The half-day session equips participants with essential lifesaving skills including first aid, CPR, AED operation, and fire extinguisher handling. All participants will receive a certificate of attendance from SCDF. 
 </p>
 
-<p><strong>          Pleasure Craft Safety Forum &amp; Harbour Craft Safety Forum (18 Jul 2025)<br></strong>          The International Safety@Sea Week 2025 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
+<p><strong>Harbour Craft Safety Forum &amp; Pleasure Craft Safety Forum (18 Jul 2025)<br></strong>          The International Safety@Sea Week 2025 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
 <p>The <strong>Harbour Craft Safety Forum</strong> ogranised by MPA-Harbour Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC) focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 
 <p>The <strong>Pleasure Craft Safety Forum</strong> organised by the MPA-Pleasure Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Countil (NMSSC) focuses on improving and raising safety among pleasure craft community in Singapore.</p>
