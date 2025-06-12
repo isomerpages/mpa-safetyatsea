@@ -26,13 +26,13 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Maja Markovčić Kostelac" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Santiago Encabo" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Ms Maja Markovčić Kostelac</b>
+                            <b>Mr Santiago Encabo</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Executive Director
+                            Head of Unit Safety and Security
                           </div>
                           <div class="text-ellipsis speaker-company">
                             European Maritime Safety Agency
@@ -108,9 +108,9 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/AshimaTaneja.png" alt="Ms Ashima Taneja" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/AshimaTaneja.jpg" alt="Ms Ashima Taneja" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-ashima-taneja/" rel="noopener">Ms Ashima Taneja</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ashima-taneja/" rel="noopener">Ms Ashima Taneja</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Maritime Commercial – Safety, Sustainability and Technical
 </div>
 <div class="text-ellipsis speaker-company">BHP (NMSSC Member)</div>
