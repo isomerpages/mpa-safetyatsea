@@ -102,7 +102,7 @@ variant: markdown
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a href="/ashima-taneja">
+        <a href="/ms-ashima-taneja/">
           <div><img src="/images/Speakers/2025/ashimataneja04.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4>
           <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
