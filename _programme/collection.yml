@@ -2,12 +2,12 @@ collections:
   programme:
     output: true
     order:
-      - Safety@Sea Community Conversations.md
       - Overview.md
       - International Safety@Sea Conference Opening Plenary.md
       - International Safety@Sea Conference Plenary 2.md
       - International Safety@Sea Conference Plenary 3.md
       - Chemical Spill Exercise.md
+      - Safety@Sea Community Conversations.md
       - Responder Plus Programme (RPP) Maritime Workshops.md
       - Harbour Craft Safety Forum.md
       - Pleasure Craft Safety Forum.md
