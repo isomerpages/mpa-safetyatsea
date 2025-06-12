@@ -9,7 +9,7 @@ description: ""
 <div class="col is-9 speaker-details">
 <h4>Ms Ashima Taneja</h4>
 <p>Head of Maritime Commercial – Safety, Sustainability &amp; Technical<br>
-BHP</p>
+BHP<br>National Maritime Safety at Sea Council Member</p>
 <p>Ashima leads the Maritime Safety, Sustainability &amp; Technical team at BHP. She is responsible for a team of experts who hold accountability for BHP’s global Maritime safety standards, both in design and second line assurance and have the technical skillset required to work with 150 vessels on the water at any time. Her team is also accountable for BHP Maritime’s global decarbonisation agenda, in the form of a clear carbon abatement strategy, road map and delivery execution plan towards zero emissions shipping.
 </p><p>Prior to BHP, Ashima was responsible for the Asia Upstream research business at Wood Mackenzie, leading a team of energy sector experts globally for 6 years. Over the span of her career, her commodities experience extends to Shell, Lanco and Centrica, working in Asia and North America.
 </p><p>Ashima is a passionate advocate for diversity, inclusion &amp; belonging and served as the President of WIMAR SG (Women in Mining and Resources Singapore) till March 2023.
