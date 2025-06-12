@@ -113,7 +113,7 @@ variant: markdown
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-ashima-taneja/" rel="noopener">Ms Ashima Taneja</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Maritime Commercial – Safety, Sustainability and Technical
 </div>
-<div class="text-ellipsis speaker-company">BHP (National Maritime Safety at Sea Council Member)</div>
+<div class="text-ellipsis speaker-company">BHP<br>National Maritime Safety at Sea Council Member</div>
 <div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
 </div>
 </div>
