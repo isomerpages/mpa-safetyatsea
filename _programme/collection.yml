@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - TNI2025.md
       - Overview.md
       - International Safety@Sea Conference Opening Plenary.md
       - International Safety@Sea Conference Plenary 2.md
