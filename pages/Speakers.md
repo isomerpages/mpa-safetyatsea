@@ -120,6 +120,15 @@ variant: markdown
     </div>
     <div class="row">
       <div class="col is-4">
+        <a href="/Xiao-Shouhai">
+          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4>
+          <div class="speaker-position text-ellipsis">Deputy Director (Marine Safety Investigation)</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
+Transport Safety Investigation Bureau</div>
+        </a>
+			</div>			
+      <div class="col is-4">
         <a href="/Sanjay-B-Patil">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
           <h4 class="speaker-name text-ellipsis">Capt Sanjay B Patil</h4>
@@ -133,15 +142,6 @@ variant: markdown
           <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn</h4></a>
           <div class="speaker-position text-ellipsis">Head of Loss Prevention (Asia Pacific)</div>
           <div class="speaker-company text-ellipsis">NorthStandard</div>
-			</div>
-      <div class="col is-4">
-        <a href="/Xiao-Shouhai">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4>
-          <div class="speaker-position text-ellipsis">Deputy Director (Marine Safety Investigation)</div>
-          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
-Transport Safety Investigation Bureau</div>
-        </a>
 			</div>			
 		</div>
 	</div>
