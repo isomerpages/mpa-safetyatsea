@@ -177,11 +177,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Secretary General</div>
-<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+<div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
+<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
 </div>
 </div>
@@ -189,11 +189,11 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
-<div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
+<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Secretary General</div>
+<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
 </div>
 </div>
 </div>
@@ -213,17 +213,6 @@ variant: markdown
 </div>
 </div>
 
-<div class="col is-6 prog-speaker">
-<div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr" class="image-adjust"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Representative</strong></div>
-<div class="text-ellipsis speaker-position"> </div>
-<div class="text-ellipsis speaker-company">Bureau Veritas Marine &amp; Offshore</div>
-</div>
-</div>
-</div>
-<div class="col is-6 prog-speaker">&nbsp;</div>
 </div>
 
 
