@@ -188,14 +188,15 @@ Regional Head – Business Relations and Medisea</div>
           <div class="speaker-company text-ellipsis">The Shipowners’ Mutual Protection and Indemnity Association (Luxembourg)<br> (Moderator)</div>
         </a>
       </div>
-      <div class="col is-4">
-        <a href="/adrian-dunlop">
+			      <div class="col is-4">
+        <a href="/Simona-Toma">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4>
-          <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
-          <div class="speaker-company text-ellipsis">OceanInfinity</div>
+          <h4 class="speaker-name text-ellipsis">Ms Simona Toma</h4>
+          <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
+Columbia Group</div>
         </a>
-      </div>
+			</div>
       <div class="col is-4">
         <a href="/James-Forsdyke">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
@@ -207,14 +208,6 @@ Regional Head – Business Relations and Medisea</div>
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/Sonia-B-Malaluan">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4>
-          <div class="speaker-position text-ellipsis">Administrator</div>
-          <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
-        </a>
-      </div>
-      <div class="col is-4">
         <a href="/Ashish-Mediratta">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
           <h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4>
@@ -222,15 +215,22 @@ Regional Head – Business Relations and Medisea</div>
           <div class="speaker-company text-ellipsis">Maersk</div>
         </a>
 			</div>
-      <div class="col is-4">
-        <a href="/Simona-Toma">
+			<div class="col is-4">
+        <a href="/adrian-dunlop">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Simona Toma</h4>
-          <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
-          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
-Columbia Group</div>
+          <h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4>
+          <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
+          <div class="speaker-company text-ellipsis">OceanInfinity</div>
         </a>
-			</div>			
+      </div>
+			<div class="col is-4">
+        <a href="/Sonia-B-Malaluan">
+          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4>
+          <div class="speaker-position text-ellipsis">Administrator</div>
+          <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
+        </a>
+      </div>
 		</div>
 	</div>
 	</section>
