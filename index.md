@@ -17,7 +17,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: "The Future of Maritime Safety: Navigating the Next Frontier"
-      image: /images/Home 2025/KV2025_01.jpg
+      image: /images/Home 2025/HomePageIcon1.png
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
@@ -31,7 +31,7 @@ sections:
         Industry"
       button: Click Here
       url: /programme/plenary-2/
-      image: /images/Home 2025/1_02.png
+      image: /images/Home 2025/HomePageIcon2.png
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Conference - Plenary 3
@@ -40,7 +40,7 @@ sections:
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
       url: /programme/plenary-3/
-      image: /images/Home 2025/1_03.png
+      image: /images/Home 2025/HomePageIcon3.png
       alt: Image alt text
   - infopic:
       title: Chemical Spill Exercise
@@ -49,7 +49,7 @@ sections:
       button: Click Here
       url: /chemical-spill-exercise/
       alt: Image alt text
-      image: /images/Home 2025/1_04.png
+      image: /images/Home 2025/HomePageIcon4.png
   - infopic:
       title: The Nautical Institute (SG) Conference 2025
       subtitle: 17 Jul | 09:00 - 18:00 (GMT+8)
@@ -64,7 +64,7 @@ sections:
       id: infopic
       button: click here
       url: /responder-plus-programme-rpp-maritime-workshops/
-      image: /images/Home 2025/1_06.png
+      image: /images/Home 2025/HomePageIcon6.png
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
@@ -72,7 +72,7 @@ sections:
       id: infopic
       button: click here
       url: /programme/harbour-craft-forum/
-      image: /images/Home 2025/1_07.png
+      image: /images/Home 2025/HomePageIcon7.png
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
@@ -80,7 +80,7 @@ sections:
       id: infopic
       button: click here
       url: /programme/pleasure-craft-forum/
-      image: /images/Home 2025/1_08.png
+      image: /images/Home 2025/HomePageIcon8.png
       alt: Image alt text
   - infobar:
       id: infobar
