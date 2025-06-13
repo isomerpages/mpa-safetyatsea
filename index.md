@@ -51,6 +51,14 @@ sections:
       alt: Image alt text
       image: /images/Home 2025/HomePageIcon4.png
   - infopic:
+      title: Safety@Sea Community Conversations
+      subtitle: 16 Jul | 15:30 - 17:30 GMT+8
+      id: infopic
+      button: Click Here
+      url: /community-conversations/
+      image: /images/Home 2025/HomePageIcon5.png
+      alt: Image alt text
+  - infopic:
       title: The Nautical Institute (SG) Conference 2025
       subtitle: 17 Jul | 09:00 - 18:00 (GMT+8)
       id: infopic
