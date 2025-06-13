@@ -35,6 +35,13 @@ variant: markdown
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council<br> (Moderator)</div>
       </div>
+			      <div class="col is-4">
+        <a href="/david-foo">
+          <div><img src="/images/Speakers_23/Session1p1/david foo-1.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr David Foo</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+      </div>
       <div class="col is-4">
         <a href="/simon-bennett">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
@@ -42,13 +49,6 @@ variant: markdown
           <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
           <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
         </a>
-      </div>
-      <div class="col is-4">
-        <a href="/david-foo">
-          <div><img src="/images/Speakers_23/Session1p1/david foo-1.png"></div>
-					<h4 class="speaker-name text-ellipsis">Mr David Foo</h4></a>
-          <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
     </div>
     <div class="row">
@@ -59,14 +59,6 @@ variant: markdown
           <div class="speaker-position text-ellipsis">General Secretary</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Officers’ Union</div>
 			</div>
-      <div class="col is-4">
-        <a href="/rep">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Representative</h4>
-          <div class="speaker-position text-ellipsis"> </div>
-          <div class="speaker-company text-ellipsis">Bureau Veritas Marine &amp; Offshore</div>
-        </a>
-			</div>			
 		</div>
 	</div>
 	</section>
