@@ -7,8 +7,7 @@ description: ""
 <div class="container-space">
   <b>16 JUL | 15:30 - 17:30</b>&nbsp;<b>GMT+8</b>
   <h3>Safety@Sea Community Conversations</h3>
-	<p>Venue: ALICE@MEDIAPOLIS</p>
-	<p>The Safety@Sea Community Conversations is a new addition to the International Safety@Sea Week line-up this year. An intimate networking session where maritime safety professionals can connect, learn from peers, and engage in facilitated discussions about enhancing maritime safety. This platform brings together key stakeholders from across our maritime ecosystem, including shipping companies, regional ferry operators, harbour craft operators, terminal operators, and maritime service providers. Through open dialogue and shared experiences, we aim to foster a community of safety advocates who can drive future safety initiatives during Safety@Sea Week.</p>
+	<p>New to this year's International Safety@Sea Week, this intimate networking session creates a space for maritime safety professionals to connect and share experiences. Through facilitated discussions, participants from shipping companies, regional ferry operators, harbour craft operators, terminal operators, and maritime service providers will explore practical approaches to enhancing maritime safety. Through open dialogue and shared experiences, we aim to foster a community of safety advocates who can drive future safety initiatives during Safety@Sea Week.</p>
 <p>Kindly note that this is a closed-door event.</p>
 
 
