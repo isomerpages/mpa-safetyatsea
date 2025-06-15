@@ -11,7 +11,7 @@ variant: markdown
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among pleasure craft operators in Singapore.</p>
 </div>
-<p><i>Details on the programme and speakers will be revealed shortly.</i></p>
+<p><i>Programme and speaker lineup will be released shortly.</i></p>
 
 
 <style type="text/css">
