@@ -100,7 +100,7 @@ variant: markdown
 <h4 class="programme-title">Plenary Discussion</h4>
 	“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”
 	<p></p><p>
-</p><div>Plenary 2 examines significant maritime incidents and their transformative impact on safety practices. The panel will feature speakers from MPA and industry leaders who will share valuable insights on how these lessons have shaped today's enhanced safety protocols and standards. <p></p><p></p><div>
+</p><div>This panel explores how maritime incidents are investigated and transformed into vital insights for a safer maritime industry. Moving beyond accident reports, join representatives from the Maritime and Port Authority of Singapore, Ministry of Transport's Transport Safety Investigation Bureau, and industry leaders as they examine the critical process of turning investigation findings into meaningful safety improvements.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
