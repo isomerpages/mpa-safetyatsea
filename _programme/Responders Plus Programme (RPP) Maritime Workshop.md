@@ -6,7 +6,7 @@ description: ""
 ---
 <div class="container-space">
   <b>17 JUL | 12:00 - 17:00</b>&nbsp;<b>GMT+8</b>
-  <h3>Responder Plus Programme (RPP) Maritime Workshop</h3>
+  <h3>Responders Plus Programme (RPP) Maritime Workshop</h3>
 	<p>Venue: PSA Marine</p>
 	<p>The RPP (Responders Plus Programme) Maritime Workshop will be held on 17 July as part of International Safety@Sea Week. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), this workshop strengthens emergency preparedness within the community in Maritime Singapore. The half-day session equips participants with essential lifesaving skills including first aid, CPR, AED operation, and fire extinguisher handling. </p><p>All participants will receive a certificate of attendance from SCDF.</p>
 
