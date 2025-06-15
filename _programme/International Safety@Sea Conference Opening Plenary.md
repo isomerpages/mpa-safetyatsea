@@ -153,7 +153,7 @@ variant: markdown
 	“The Future of Maritime Safety: Navigating the Next Frontier”	
 	<p></p> <p>         
 
-</p><div>The panel will feature a high level discussion on the Future of Maritime Safety and if we are ready for the challenge. <p></p> <p> </p><div>
+</p><div>The maritime industry is facing unprecedented transformation through technological advances, regulatory changes, and sustainability demands. This panel discussion brings together leading voices from the Maritime and Port Authority of Singapore, Singapore Maritime Officers' Union, and International Chamber of Shipping to explore how these shifts impact maritime safety and chart the course ahead.<p></p> <p> </p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
@@ -226,22 +226,7 @@ variant: markdown
 </div>
 </div></div></div>
 
-<div class="bp-container is-fluid">
-    <div class="row">
-      <div class="col is-full"> 
-        <div class="row">
-          <div class="col is-12">
-            <div class="border bg-light h-100 position-relative">
-              <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 10:25 - 11:00</b>&nbsp;<b>GMT+8</b></div>
-                <h4 class="programme-title">Networking Tea Break</h4>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
 </section>
 
 <style type="text/css"> 
