@@ -183,9 +183,9 @@ Transport Safety Investigation Bureau</div>
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
           <h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4>
           <div class="speaker-position text-ellipsis">Deputy Chairman, National Maritime Safety at Sea Council<br> 
-Hononary Chair, The Nautical Institute Singapore<br>
-Regional Head – Business Relations and Medisea</div>
-          <div class="speaker-company text-ellipsis">The Shipowners’ Mutual Protection and Indemnity Association (Luxembourg)<br> (Moderator)</div>
+Hon. Chair, The Nautical Institute (Singapore)<br>
+Regional Head – Business Relations,</div>
+          <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
         </a>
       </div>
 			      <div class="col is-4">
