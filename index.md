@@ -17,7 +17,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: "The Future of Maritime Safety: Navigating the Next Frontier"
-      image: /images/Home 2025/HomePageKV1.jpg
+      image: /images/Home 2025/HomePageIcon_1.png
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
@@ -31,7 +31,7 @@ sections:
         Industry"
       button: Click Here
       url: /programme/plenary-2/
-      image: /images/Home 2025/HomePageKV2.jpg
+      image: /images/Home 2025/HomePageIcon_2.png
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Conference - Plenary 3
@@ -40,7 +40,7 @@ sections:
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
       url: /programme/plenary-3/
-      image: /images/Home 2025/HomePageKV3.jpg
+      image: /images/Home 2025/HomePageIcon_3.png
       alt: Image alt text
   - infopic:
       title: Chemical Spill Exercise
