@@ -17,32 +17,7 @@ variant: markdown
 As part of MPA’s commitment to promoting safety at sea, registration for all events is free.</p>
 <p>         
 
-This year, there are eight sessions to look forward to including the International Safety@Sea (IS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and Responder Plus Programme (RPP) Maritime Workshop.</p>
-<p><strong>International Safety@Sea Conference (15 Jul 2025)<br></strong>This year’s International Safety@Sea Conference will be held at Conrad Singapore Marina Bay (2 Temasek Boulevard, Singapore 038982).<br><br>Plenary themes:</p>
-<ul>
-<li>          Opening Plenary: “The Future of Maritime Safety: Navigating the Next Frontier”</li>
-<li>          Plenary 2:&nbsp;“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”</li>
-	<li>          Plenary 3: “The Human Element: Ensuring Safety in Maritime’s Transition”</li> </ul>
-
-<p><strong>Chemical Spill Exercise (15 Jul 2025)<br></strong>
-         MPA’s Chemical Spill Exercise is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025.
-</p>
-	<p>
-	         Kindly note that this is a closed-door event. </p>
-	<p><strong>Safety@Sea Community Conversations (16 Jul 2025)<br></strong>          
-The Safety@Sea Community Conversations is a new addition to the International Safety@Sea Week line-up this year. An intimate networking session where maritime safety professionals can connect, learn from peers, and engage in facilitated discussions about enhancing maritime safety. This platform brings together key stakeholders from across our maritime ecosystem, including shipping companies, regional ferry operators, harbour craft operators, terminal operators, and maritime service providers. Through open dialogue and shared experiences, we aim to foster a community of safety advocates who can drive future safety initiatives during Safety@Sea Week.<br><br>
-Kindly note that this is a closed-door event.</p>
-	
-<p><strong>Responder Plus Programme (RPP) Maritime Workshop (17 Jul 2025)<br></strong>          
-The RPP (Responders Plus Programme) Maritime Workshop will be held on 17 July as part of International Safety@Sea Week. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), this workshop strengthens emergency preparedness within the community in Maritime Singapore. The half-day session equips participants with essential lifesaving skills including first aid, CPR, AED operation, and fire extinguisher handling. All participants will receive a certificate of attendance from SCDF. 
-</p>
-
-<p><strong>Harbour Craft Safety Forum &amp; Pleasure Craft Safety Forum (18 Jul 2025)<br></strong>          The International Safety@Sea Week 2025 will feature two safety forums with presentations and panel discussions involving industry leaders and government agencies.</p>
-<p>The <strong>Harbour Craft Safety Forum</strong> ogranised by MPA-Harbour Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC) focuses on improving and raising safety among harbour craft operators in Singapore.</p>
-
-<p>The <strong>Pleasure Craft Safety Forum</strong> organised by the MPA-Pleasure Craft Safety Work – One of four MPA-industry safety work groups under the National Maritime Safety at Sea Countil (NMSSC) focuses on improving and raising safety among pleasure craft community in Singapore.</p>
-<p>
-	</p>
+This year, there are six sessions to look forward to including the International Safety@Sea (IS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and Responders Plus Programme (RPP) Maritime Workshop.</p>
 	</div>	
 	
 </div>
