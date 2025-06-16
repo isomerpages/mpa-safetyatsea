@@ -180,7 +180,7 @@ Transport Safety Investigation Bureau</div>
           <div><img src="/images/Speakers/2025/HariSubramaniam2025.png"></div>
 					<h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Chairman, National Maritime Safety at Sea Council<br> 
-Hon. Chair, The Nautical Institute (Singapore)<br>
+Chairperson, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
       </div>
