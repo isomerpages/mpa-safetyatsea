@@ -2,6 +2,7 @@ collections:
   2025-speakers:
     output: true
     order:
+      - Mr Aun Aun Cheah.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
       - Ms Mary Liew.md
