@@ -2,7 +2,6 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Mrs Simona Toma.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
       - Ms Mary Liew.md
@@ -14,5 +13,6 @@ collections:
       - Capt Yves Vandenborn.md
       - Capt John Lloyd.md
       - Capt Hari Subramaniam.md
+      - Mrs Simona Toma.md
       - Mr James Forsdyke.md
       - Ms Sonia B Malaluan.md
