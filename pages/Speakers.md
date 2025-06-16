@@ -221,12 +221,11 @@ Columbia Group</div>
         </a>
       </div>
 			<div class="col is-4">
-        <a href="/Sonia-B-Malaluan">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4>
+        <a href="/ms-sonia-b-malaluan">
+          <div><img src="/images/Speakers/2025/SoniaMalaluan2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4></a>
           <div class="speaker-position text-ellipsis">Administrator</div>
           <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
-        </a>
       </div>
 		</div>
 	</div>
