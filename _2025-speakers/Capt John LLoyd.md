@@ -7,7 +7,7 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/2025/JohnLLoyd2025.png"></div>
 <div class="col is-9 speaker-details">
-<h4>Capt John LLoyd</h4>
+<h4>Capt John Lloyd</h4>
 <p>Chief Executive<br>
 The Nautical Institute</p>
 <p>Captain John Lloyd has been Chief Executive of The Nautical Institute since May 2017 having originally joined the Institute in 2015 as Chief Operating Officer. </p><p>
