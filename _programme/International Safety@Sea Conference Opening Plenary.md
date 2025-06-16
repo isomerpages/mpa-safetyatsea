@@ -177,9 +177,9 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers_23/Session1p1/david foo-1.png" alt="Mr David Foo" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/DavidFoo2025.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr David Foo</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/david-foo/" rel="noopener">Mr David Foo</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
