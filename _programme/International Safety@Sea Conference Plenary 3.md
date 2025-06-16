@@ -26,16 +26,15 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt John Lloyd" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/JohnLLoyd2025.png" alt="Capt John Lloyd" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Capt John Lloyd</b>
-                          </div>
+                            <b><a class="speaker-name text-ellipsis" href="/capt-john-lloyd/" rel="noopener">Capt John Lloyd</a></b></div>
                           <div class="text-ellipsis speaker-position">
                             Chief Executive Officer
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Nautical Institute
+                            The Nautical Institute
                           </div>
                         </div>
                       </div>
