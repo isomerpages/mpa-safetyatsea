@@ -197,12 +197,11 @@ Columbia Group</div>
         </a>
 			</div>
       <div class="col is-4">
-        <a href="/James-Forsdyke">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr James Forsdyke</h4>
+        <a href="/mr-james-forsdyke">
+          <div><img src="/images/Speakers/2025/JamesForsdyke2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr James Forsdyke</h4></a>
           <div class="speaker-position text-ellipsis">Managing Director</div>
           <div class="speaker-company text-ellipsis">Lloyd’s Register Maritime Decarbonisation Hub</div>
-        </a>
       </div>
     </div>
     <div class="row">
