@@ -153,12 +153,11 @@ Transport Safety Investigation Bureau</div>
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
         <div class="col is-4">
-        <a href="/John-Lloyd">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Capt John Lloyd</h4>
+        <a href="/capt-john-lloyd">
+          <div><img src="/images/Speakers/2025/JohnLLoyd2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt John Lloyd</h4></a>
           <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
-          <div class="speaker-company text-ellipsis">Nautical Institute</div>
-        </a>
+          <div class="speaker-company text-ellipsis">The Nautical Institute</div>
       </div>
         <div class="col is-4">
         <a href="/darrick-leow">
