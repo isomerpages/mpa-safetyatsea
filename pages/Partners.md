@@ -12,6 +12,7 @@ variant: markdown
 <p>
 	<a href="https://www.bhp.com/"><img src="/images/Logos2025/BHP2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 <a href="https://www.bimco.org/"><img src="/images/Logos2025/BIMCO2025.png" style="width:150px" class="img-fluid"> </a>	&nbsp;
+		<a href="https://www.miscgroup.com/"><img src="/images/Logos2025/MISC2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
 <a href="https://north-standard.com/"><img src="/images/Logos2025/NorthStandard2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
 	<a href="https://www.smou.org.sg/"><img src="/images/Logos2025/SMOU2025.png" style="width:150px" class="img-fluid"></a>
 	</p>
