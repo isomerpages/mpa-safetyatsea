@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/cdd2e10e-19bb-489c-8846-74faae1fd6c9)---
 title: Mr David Foo
 permalink: /david-foo/
 description: ""
