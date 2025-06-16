@@ -185,7 +185,7 @@ Regional Head – Business Relations,</div>
       </div>
 			      <div class="col is-4">
         <a href="/mrs-simona-toma">
-          <div><img src="/images/Speakers/2025/SimonaToma2025.png"></div>
+          <div><img src="/images/Speakers/2025/simonatoma2025.png"></div>
           <h4 class="speaker-name text-ellipsis">Mrs Simona Toma</h4></a>
           <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
