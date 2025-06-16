@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers_23/Session1p1/david foo-1.png">
+<img src="/images/Speakers/2025/DavidFoo2025.png">
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr David Foo</h4>
