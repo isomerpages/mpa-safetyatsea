@@ -184,13 +184,12 @@ Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
       </div>
 			      <div class="col is-4">
-        <a href="/Simona-Toma">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Simona Toma</h4>
+        <a href="/mrs-simona-toma">
+          <div><img src="/images/Speakers/2025/SimonaToma2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mrs Simona Toma</h4></a>
           <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
 Columbia Group</div>
-        </a>
 			</div>
       <div class="col is-4">
         <a href="/mr-james-forsdyke">
