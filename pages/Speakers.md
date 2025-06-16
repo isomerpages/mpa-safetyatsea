@@ -37,7 +37,7 @@ variant: markdown
       </div>
 			      <div class="col is-4">
         <a href="/david-foo">
-          <div><img src="/images/Speakers_23/Session1p1/david foo-1.png"></div>
+          <div><img src="/images/Speakers/2025/DavidFoo2025.png"></div>
 					<h4 class="speaker-name text-ellipsis">Mr David Foo</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
@@ -120,13 +120,12 @@ variant: markdown
     </div>
     <div class="row">
       <div class="col is-4">
-        <a href="/Xiao-Shouhai">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+        <a href="/capt-xiao-shouhai">
+          <div><img src="/images/Speakers/2025/XiaoShouhai2025.png"></div></a>
           <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4>
           <div class="speaker-position text-ellipsis">Deputy Director (Marine Safety Investigation)</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
 Transport Safety Investigation Bureau</div>
-        </a>
 			</div>			
       <div class="col is-4">
         <a href="/capt-sanjay-b-patil">
@@ -177,14 +176,13 @@ Transport Safety Investigation Bureau</div>
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
       <div class="col is-4">
-        <a href="/Hari-Subramaniam">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4>
+        <a href="/capt-hari-subramaniam">
+          <div><img src="/images/Speakers/2025/HariSubramaniam2025.png"></div>
+					<h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Chairman, National Maritime Safety at Sea Council<br> 
 Hon. Chair, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
-        </a>
       </div>
 			      <div class="col is-4">
         <a href="/Simona-Toma">
