@@ -153,9 +153,9 @@ variant: markdown
 	
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Xiao Shouhai" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/XiaoShouhai2025.png" alt="Capt Xiao Shouhai" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Xiao Shouhai</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-xiao-shouhai/" rel="noopener">Capt Xiao Shouhai</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Marine Safety Investigation)</div>
 <div class="text-ellipsis speaker-company">Ministry of Transport, Singapore<br>
 Transport Safety Investigation Bureau</div>
