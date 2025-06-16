@@ -9,7 +9,7 @@ description: ""
 <div class="col is-9 speaker-details">
 <h4>Capt Hari Subramaniam</h4>
 <p>Deputy Chairman, National Maritime Safety at Sea Council<br>
-Hon. Chair, The Nautical Institute (Singapore)<br>
+Chairperson, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,<br>
 The Shipowners’ P&amp;I Club</p>
 <p>After 17 years of sailing Hari came ashore and headed the Commercial and Operations department of a reputable shipping company. Hari then moved on to help start-up the operations of a leading offshore company which owned and operated several state-of-the-art AHTSVs and PSVs. </p><p>
