@@ -105,7 +105,7 @@ variant: markdown
         <a href="/mr-aun-aun-cheah">
           <div><img src="/images/Speakers/2025/AunAunCheah2025.png"></div>
 					<h4 class="speaker-name text-ellipsis">Mr Aun Aun Cheah</h4></a>
-          <div class="speaker-position text-ellipsis">Director (Marine)</div>
+          <div class="speaker-position text-ellipsis">Director (Shipping) / Director of Marine</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
       <div class="col is-4">
