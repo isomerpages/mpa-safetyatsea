@@ -2,8 +2,8 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Mr David Foo.md
       - Mr Ishak Ismail.md
+      - Mr David Foo.md
       - Ms Mary Liew.md
       - Capt Ashok Srinivasan.md
       - Ms Ashima Taneja.md
