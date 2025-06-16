@@ -106,11 +106,11 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Capt Hari Subramaniam" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/HariSubramaniam2025.png" alt="Capt Hari Subramaniam" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Capt Hari Subramaniam</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-hari-subramaniam/" rel="noopener">Capt Hari Subramaniam</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chairman, National Maritime Safety at Sea Council<br> 
-Hon. Chair, The Nautical Institute (Singapore)<br>
+Chairperson, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,
 </div>
 <div class="text-ellipsis speaker-company">The Shipowners’ P&amp;I Club</div>
