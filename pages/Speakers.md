@@ -129,12 +129,11 @@ Transport Safety Investigation Bureau</div>
         </a>
 			</div>			
       <div class="col is-4">
-        <a href="/Sanjay-B-Patil">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Sanjay B Patil</h4>
-          <div class="speaker-position text-ellipsis">Advisor Corporate HSSEQ</div>
+        <a href="/capt-sanjay-b-patil">
+          <div><img src="/images/Speakers/2025/SanjayPatil2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Sanjay B Patil</h4> </a>
+          <div class="speaker-position text-ellipsis">Advisor HSSEQA</div>
           <div class="speaker-company text-ellipsis">MISC Marine</div>
-        </a>
       </div>
       <div class="col is-4">
         <a href="/speakers/captain-yves-vandenborn/">
