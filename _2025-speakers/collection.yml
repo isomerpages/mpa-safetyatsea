@@ -2,7 +2,6 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Mr James Forsdyke.md
       - Mr David Foo.md
       - Mr Ishak Ismail.md
       - Ms Mary Liew.md
@@ -10,3 +9,4 @@ collections:
       - Ms Ashima Taneja.md
       - Capt Sanjay B Patil.md
       - Capt Yves Vandenborn.md
+      - Mr James Forsdyke.md
