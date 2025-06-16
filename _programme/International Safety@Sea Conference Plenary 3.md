@@ -125,9 +125,9 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Ms Simona Toma" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/simonatoma2025.png" alt="Mrs Simona Toma" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Ms Simona Toma</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mrs-simona-toma/" rel="noopener">Mrs Simona Toma</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief of Maritime HR</div>
 <div class="text-ellipsis speaker-company">Columbia Group</div>
 </div>
