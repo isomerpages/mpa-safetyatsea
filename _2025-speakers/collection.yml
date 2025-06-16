@@ -2,15 +2,15 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Capt Hari Subramaniam.md
-      - Capt Xiao Shouhai.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
       - Ms Mary Liew.md
       - Capt Ashok Srinivasan.md
       - Ms Ashima Taneja.md
+      - Capt Xiao Shouhai.md
       - Capt Sanjay B Patil.md
       - Capt Yves Vandenborn.md
       - Capt John Lloyd.md
+      - Capt Hari Subramaniam.md
       - Mr James Forsdyke.md
       - Ms Sonia B Malaluan.md
