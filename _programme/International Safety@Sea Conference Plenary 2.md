@@ -167,7 +167,7 @@ Transport Safety Investigation Bureau</div>
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2025/SanjayPatil2025.png" alt="Capt Sanjay B Patil" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/capt-sanjay-b-patil/" rel="noopener">Capt Sanjay B Patil</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-sanjay-b-patil/" rel="noopener">Capt Sanjay B Patil</a></strong></div>
 <div class="text-ellipsis speaker-position">Advisor HSSEQA</div>
 <div class="text-ellipsis speaker-company">MISC Marine</div>
 </div>
