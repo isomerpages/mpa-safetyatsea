@@ -8,12 +8,9 @@ description: ""
 <div class="col is-3"><img src="/images/Speakers/2025/JamesForsdyke2025.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr James Forsdyke</h4>
-<p>Head of Maritime Commercial – Safety, Sustainability &amp; Technical<br>
-BHP<br>National Maritime Safety at Sea Council Member</p>
-<p>Ashima leads the Maritime Safety, Sustainability &amp; Technical team at BHP. She is responsible for a team of experts who hold accountability for BHP’s global Maritime safety standards, both in design and second line assurance and have the technical skillset required to work with 150 vessels on the water at any time. Her team is also accountable for BHP Maritime’s global decarbonisation agenda, in the form of a clear carbon abatement strategy, road map and delivery execution plan towards zero emissions shipping.
-</p><p>Prior to BHP, Ashima was responsible for the Asia Upstream research business at Wood Mackenzie, leading a team of energy sector experts globally for 6 years. Over the span of her career, her commodities experience extends to Shell, Lanco and Centrica, working in Asia and North America.
-</p><p>Ashima is a passionate advocate for diversity, inclusion &amp; belonging and served as the President of WIMAR SG (Women in Mining and Resources Singapore) till March 2023.
-</p><p>Ashima holds a Master of Business Administration degree from INSEAD (Singapore/France) and a Bachelor of Arts from Mount Holyoke College (USA).
+<p>Managing Director<br>Lloyd's Register Maritime Decarbonisation Hub</p>
+<p>James Forsdyke is the Managing Director of the Lloyd’s Register Maritime Decarbonisation Hub. He joined Lloyd’s Register (LR) in 2006 while earning a Master of Engineering degree in Naval Architecture from the University of Southampton. Over his career at LR, James has held various technical, commercial, and leadership roles globally. His experience spans marine surveyor positions in Italy, Dubai, and China, to commercial and general management roles in the UK, Hong Kong and Singapore. </p>  
+<p>Now based in Singapore, James leverages his extensive international experience to lead decarbonisation initiatives within the maritime sector. His leadership from LR’s headquarters in the UK to his current role underscores his dedication to advancing sustainable maritime practices worldwide. James's expertise and commitment to innovation position him as a key figure in driving the industry towards a greener future. 
 </p>
 </div>
 </div>
