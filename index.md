@@ -17,7 +17,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: "The Future of Maritime Safety: Navigating the Next Frontier"
-      image: /images/Home 2025/HomePageIcon_1.png
+      image: /images/Home 2025/Opening_Plenary1806.png
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
