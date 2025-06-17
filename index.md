@@ -59,14 +59,6 @@ sections:
       image: /images/Home 2025/HomePageIcon5.png
       alt: Image alt text
   - infopic:
-      title: The Nautical Institute (SG) Conference 2025
-      subtitle: 17 Jul | 09:00 - 18:00 (GMT+8)
-      id: infopic
-      button: Click Here
-      url: /tni2025
-      image: /images/Home 2025/NAUTICAL_Banner.png
-      alt: Image alt text
-  - infopic:
       title: Responders Plus Programme (RPP) Maritime Workshop
       subtitle: 17 Jul | 12:00 - 17:00 (GMT+8)
       id: infopic
@@ -89,6 +81,14 @@ sections:
       button: click here
       url: /programme/pleasure-craft-forum/
       image: /images/Home 2025/HomePageIcon8.png
+      alt: Image alt text
+  - infopic:
+      title: The Nautical Institute (Singapore) Conference 2025
+      subtitle: 17 Jul | 09:00 - 18:00 (GMT+8)
+      id: infopic
+      button: Click Here
+      url: /tni2025
+      image: /images/Home 2025/NAUTICAL_Banner.png
       alt: Image alt text
   - infobar:
       id: infobar
