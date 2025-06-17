@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/YvesVandenborn.png"></div>
+<div class="col is-3"><img src="/images/Speakers/2025/YvesVandenborn2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Yves Vandenborn, FNI</h4>
 <p>Head of Loss Prevention (Asia Pacific)<br>NorthStandard</p>
