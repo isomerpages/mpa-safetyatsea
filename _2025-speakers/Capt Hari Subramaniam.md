@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/HariSubramaniam2025.png"></div>
+<div class="col is-3"><img src="/images/Speakers/2025/HariSubramaniam2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Hari Subramaniam</h4>
 <p>Deputy Chairman, National Maritime Safety at Sea Council<br>
