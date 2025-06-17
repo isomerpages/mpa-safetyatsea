@@ -4,7 +4,7 @@ permalink: /ishak-ismail/
 description: ""
 variant: markdown
 ---
-<div class="row"> <div class="col is-3"> <div class="speaker-image-wrapper"><img src="/images/Speakers/2025/IshakIsmail2.png"> </div></div> <div class="col is-9 speaker-details"> <h4>Mr Ishak Ismail </h4> <p>Chairman<br>National Maritime Safety at Sea Council <br> </p> <p>Mr Ishak Ismail currently serves as Chairman of the National Maritime Safety at Sea Council and the Families for Life Council. He is Singapore's High Commissioner (Non-resident) to Islamic Republic of Pakistan and also a Member of the Board of Directors for the National University Health System (NUHS).</p>
+<div class="row"> <div class="col is-3"> <div class="speaker-image-wrapper"><img src="/images/Speakers/2025/ishakismail2025w.png"> </div></div> <div class="col is-9 speaker-details"> <h4>Mr Ishak Ismail </h4> <p>Chairman<br>National Maritime Safety at Sea Council <br> </p> <p>Mr Ishak Ismail currently serves as Chairman of the National Maritime Safety at Sea Council and the Families for Life Council. He is Singapore's High Commissioner (Non-resident) to Islamic Republic of Pakistan and also a Member of the Board of Directors for the National University Health System (NUHS).</p>
 
 <p>He has extensive experience in leading public and private organisations. He is currently Principal Consultant for i-Grow Partners Pte Ltd. </p>
 
