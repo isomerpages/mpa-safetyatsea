@@ -8,9 +8,14 @@ description: ""
 <div class="col is-3"><img src="/images/Speakers/2025/DarrickLeow2025.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Darrick Leow</h4>
-<p>General Secretary<br>
-Singapore Maritime Officers' Union</p>
-<p>Ms Mary Liew is the General Secretary of the Singapore Maritime Officers’ Union (SMOU). She was elected as the first female General Secretary in 2013. She is also the director of Wavelink Co-operative Ltd, a social enterprise supporting SMOU members. Ms Liew served as President of the Singapore National Trades Union Congress (SNTUC) from 2015 to 2023 and sits on key national boards, including the Maritime and Port Authority, Industrial Arbitration Court, and several tripartite committees. She was a Nominated Member of Parliament from 2012 to 2014 and served on the CPF Board, National Jobs Council, Future Economy Council, and National Wages Council. Internationally, she was the first Southeast Asian woman elected to the International Transport Workers’ Federation Executive Board in 2010 and now serves as its Vice-President. She also holds leadership roles in the International Labour Organization and International Trade Union Confederation (ITUC and ITUC-Asia Pacific).
+<p>Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>
+Senior Deputy Director (Shipping)<br>
+Maritime and Port Authority of Singapore</p>
+<p>Mr Darrick Leow is responsible for the development and implementation of shipping-related policies and oversees various key functions including the Singapore ship registry; seafarers policy, development and welfare; seafarers skills upgrading, certification and accreditation; and ship regulations, designs and standards.</p><p>
+
+Darrick was previously Singapore’s liaison officer to the International Maritime Organization (IMO) in London from 2021 to 2024. In his current role, he continues to participate in IMO meetings such as the Maritime Safety Committee, and also serves as the Chair of two Working Groups on the Strategic Plan as well as Development of Training Provisions for Seafarers using Alternative Fuels and New Technologies, under the purview of the IMO Council and Human Element, Training and Watchkeeping Sub-Committee, respectively.</p><p>
+
+Darrick had served in various roles within MPA and Singapore’s Ministry of Transport – including industry development, sea transport policy, and Tuas Port planning. He graduated with a BSc in Economics from University College London and MA in Quantitative Methods in the Social Sciences from Columbia University in the City of New York.
  </p>
 </div>
 </div>
