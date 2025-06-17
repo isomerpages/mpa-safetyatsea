@@ -14,6 +14,7 @@ variant: markdown
 <a href="https://www.bimco.org/"><img src="/images/Logos2025/BIMCO2025.png" style="width:150px" class="img-fluid"> </a>	&nbsp;
 			<a href="https://columbiagroup.org/"><img src="/images/Logos2025/ColumbiaGroup2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;	
 	<a href="https://www.thedecarbhub.org/"><img src="/images/Logos2025/DecarbHub2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;	
+		<a href="https://www.emsa.europa.eu/"><img src="/images/Logos2025/EMSA2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;	
 		<a href="https://marina.gov.ph/"><img src="/images/Logos2025/MARINA2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;	
 		<a href="https://www.miscgroup.com/"><img src="/images/Logos2025/MISC2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
 	<a href="https://www.nautinst.org/"><img src="/images/Logos2025/NauticalInstitute2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
