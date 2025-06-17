@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/JamesForsdyke2025.png"></div>
+<div class="col is-3"><img src="/images/Speakers/2025/JamesForsdyke2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr James Forsdyke</h4>
 <p>Managing Director<br>Lloyd's Register Maritime Decarbonisation Hub</p>
