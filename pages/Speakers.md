@@ -11,12 +11,11 @@ variant: markdown
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
         <div class="col is-4">
-        <a href="/Arsenio-Dominguez">
+        <a href="/mr-arsenio-dominguez">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Arsenio Dominguez</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Arsenio Dominguez</h4> </a>
           <div class="speaker-position text-ellipsis">Secretary General</div>
           <div class="speaker-company text-ellipsis">International Maritime Organization</div>
-        </a>
       </div>
     </div>
 	</div>
@@ -43,12 +42,11 @@ variant: markdown
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
       <div class="col is-4">
-        <a href="/simon-bennett">
+        <a href="/mr-simon-bennett">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
           <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
-        </a>
       </div>
     </div>
     <div class="row">
@@ -70,12 +68,11 @@ variant: markdown
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
         <div class="col is-4">
-        <a href="/Maja-Markovčić-Kostelac">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Santiago Encabo</h4>
+        <a href="/mr-santiago-encabo">
+          <div><img src="/images/Speakers/2025/SantiagoEncabo2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Santiago Encabo</h4></a>
           <div class="speaker-position text-ellipsis">Head of Unit Safety and Security</div>
           <div class="speaker-company text-ellipsis">European Maritime Safety Agency</div>
-        </a>
       </div>
         <div class="col is-4">
         <a href="/capt-ashok-srinivasan/">
@@ -96,10 +93,9 @@ variant: markdown
       <div class="col is-4">
         <a href="/ms-ashima-taneja/">
           <div><img src="/images/Speakers/2025/ashimataneja04.png"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4>
+          <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4></a>
           <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
           <div class="speaker-company text-ellipsis">BHP<br>National Maritime Safety at Sea Council Member<br> (Moderator)</div>
-        </a>
       </div>
       <div class="col is-4">
         <a href="/mr-aun-aun-cheah">
@@ -109,19 +105,18 @@ variant: markdown
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
       <div class="col is-4">
-        <a href="/Carsten-Brix-Ostenfeldt">
+        <a href="/mr-carsten-brix-ostenfeldt">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Carsten Brix Ostenfeldt</h4>
+          <h4 class="speaker-name text-ellipsis">Mr Carsten Brix Ostenfeldt</h4></a>
           <div class="speaker-position text-ellipsis">Chief Operating Officer (COO) of Asia</div>
           <div class="speaker-company text-ellipsis">Anglo-Eastern Ship Management</div>
-        </a>
       </div>
     </div>
     <div class="row">
       <div class="col is-4">
         <a href="/capt-xiao-shouhai">
-          <div><img src="/images/Speakers/2025/XiaoShouhai2025.png"></div></a>
-          <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4>
+          <div><img src="/images/Speakers/2025/XiaoShouhai2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Director (Marine Safety Investigation)</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
 Transport Safety Investigation Bureau</div>
@@ -158,8 +153,8 @@ Transport Safety Investigation Bureau</div>
           <div class="speaker-company text-ellipsis">The Nautical Institute</div>
       </div>
         <div class="col is-4">
-        <a href="/darrick-leow">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+        <a href="/mr-darrick-leow">
+          <div><img src="/images/Speakers/2025/DarrickLeow2025.png"></div>
           <h4 class="speaker-name text-ellipsis">Mr Darrick Leow</h4>
           <div class="speaker-position text-ellipsis">Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>Senior Deputy Director (Shipping)</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
@@ -203,18 +198,16 @@ Columbia Group</div>
       <div class="col is-4">
         <a href="/Ashish-Mediratta">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4>
+					<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4></a>
           <div class="speaker-position text-ellipsis">Head of Crewing</div>
           <div class="speaker-company text-ellipsis">Maersk</div>
-        </a>
 			</div>
 			<div class="col is-4">
         <a href="/adrian-dunlop">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4>
+					<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
           <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
           <div class="speaker-company text-ellipsis">OceanInfinity</div>
-        </a>
       </div>
 			<div class="col is-4">
         <a href="/ms-sonia-b-malaluan">
