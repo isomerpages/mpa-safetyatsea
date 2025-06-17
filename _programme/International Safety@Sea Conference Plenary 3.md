@@ -63,10 +63,10 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Darrick Leow" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/DarrickLeow2025.png" alt="Mr Darrick Leow" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Mr Darrick Leow</b>
+                            <b><a class="speaker-name text-ellipsis" href="/mr-darrick-leow/" rel="noopener">Mr Darrick Leow</a></b>
                           </div>
                           <div class="text-ellipsis speaker-position">Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>Senior Deputy Director (Shipping)
 </div>
