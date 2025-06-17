@@ -26,7 +26,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/JohnLLoyd2025.png" alt="Capt John Lloyd" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/JohnLLoyd2025W.png" alt="Capt John Lloyd" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b><a class="speaker-name text-ellipsis" href="/capt-john-lloyd/" rel="noopener">Capt John Lloyd</a></b></div>
@@ -63,7 +63,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/DarrickLeow2025.png" alt="Mr Darrick Leow" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/DarrickLeow2025W.png" alt="Mr Darrick Leow" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b><a class="speaker-name text-ellipsis" href="/mr-darrick-leow/" rel="noopener">Mr Darrick Leow</a></b>
@@ -106,7 +106,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/HariSubramaniam2025.png" alt="Capt Hari Subramaniam" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/HariSubramaniam2025W.png" alt="Capt Hari Subramaniam" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-hari-subramaniam/" rel="noopener">Capt Hari Subramaniam</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chairman, National Maritime Safety at Sea Council<br> 
@@ -125,7 +125,7 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/simonatoma2025.png" alt="Mrs Simona Toma" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/simonatoma2025W.png" alt="Mrs Simona Toma" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mrs-simona-toma/" rel="noopener">Mrs Simona Toma</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief of Maritime HR</div>
@@ -136,7 +136,7 @@ Regional Head – Business Relations,
 	
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/JamesForsdyke2025.png" alt="Mr James Forsdyke" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/JamesForsdyke2025W.png" alt="Mr James Forsdyke" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-james-forsdyke/" rel="noopener">Mr James Forsdyke</a></strong></div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
@@ -177,7 +177,7 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-sonia-b-malaluan/" rel="noopener">Ms Sonia B Malaluan</a></strong></div>
 <div class="text-ellipsis speaker-position">Administrator</div>
