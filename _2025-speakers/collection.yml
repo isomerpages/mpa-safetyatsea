@@ -2,11 +2,10 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Mr Santiago Encabo.md
-      - Mr Darrick Leow.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
       - Ms Mary Liew.md
+      - Mr Santiago Encabo.md
       - Capt Ashok Srinivasan.md
       - Ms Ashima Taneja.md
       - Mr Aun Aun Cheah.md
@@ -14,6 +13,7 @@ collections:
       - Capt Sanjay B Patil.md
       - Capt Yves Vandenborn.md
       - Capt John Lloyd.md
+      - Mr Darrick Leow.md
       - Capt Hari Subramaniam.md
       - Mrs Simona Toma.md
       - Mr James Forsdyke.md
