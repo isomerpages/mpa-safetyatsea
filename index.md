@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Chemical Spill Exercise
-      subtitle: 15 Jul | 11:30 - 14:30 (GMT+8)
+      subtitle: 15 Jul | 11:00 - 14:30 (GMT+8)
       id: infopic
       button: Click Here
       url: /chemical-spill-exercise/
