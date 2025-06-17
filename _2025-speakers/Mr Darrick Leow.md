@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/DarrickLeow2025.png"></div>
+<div class="col is-3"><img src="/images/Speakers/2025/DarrickLeow2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Darrick Leow</h4>
 <p>Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>
