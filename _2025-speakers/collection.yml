@@ -2,6 +2,7 @@ collections:
   2025-speakers:
     output: true
     order:
+      - Mr Santiago Encabo.md
       - Mr Darrick Leow.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
