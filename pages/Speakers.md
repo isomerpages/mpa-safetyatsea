@@ -106,9 +106,9 @@ variant: markdown
       </div>
       <div class="col is-4">
         <a href="/mr-carsten-brix-ostenfeldt">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+          <div><img src="/images/Speakers/2025/CarstenBrixOstenfeldt2025W.png"></div>
           <h4 class="speaker-name text-ellipsis">Mr Carsten Brix Ostenfeldt</h4></a>
-          <div class="speaker-position text-ellipsis">Chief Operating Officer (COO) of Asia</div>
+          <div class="speaker-position text-ellipsis">Chief Operating Officer</div>
           <div class="speaker-company text-ellipsis">Anglo-Eastern Ship Management</div>
       </div>
     </div>
