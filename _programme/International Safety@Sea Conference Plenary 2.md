@@ -8,7 +8,7 @@ variant: markdown
   <b>15 JUL | 11:00 - 13:00</b>&nbsp;<b></b>
   <h3>International Safety@Sea Conference – Plenary 2</h3>
 	<h4>From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry</h4>
-		Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
+	Venue: Conrad Singapore Marina Bay, Ballroom, Level 2 (2 Temasek Blvd, Singapore 038982)<br><br>
 </div>
 
 <section>
