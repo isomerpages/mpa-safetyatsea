@@ -2,7 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - ARFO Safety Forum.md
       - Overview.md
       - International Safety@Sea Conference Opening Plenary.md
       - International Safety@Sea Conference Plenary 2.md
@@ -12,4 +11,5 @@ collections:
       - Responders Plus Programme (RPP) Maritime Workshop.md
       - Harbour Craft Safety Forum.md
       - Pleasure Craft Safety Forum.md
+      - ARFO Safety Forum.md
       - The Nautical Institute (Singapore) Conference 2025.md
