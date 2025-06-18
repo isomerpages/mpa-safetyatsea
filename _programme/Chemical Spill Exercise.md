@@ -7,7 +7,7 @@ description: ""
 <div class="container-space">
   <b>15 JUL | 11:00 - 14:30</b>&nbsp;
   <h3>Chemical Spill Exercise</h3>
-	<p>MPA’s Chemical Spill Exercise is an annual multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025. </p>
+	<p>MPA’s Chemical Spill Exercise is an biennial multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025. </p>
 	<p>Kindly note that this is a closed-door event.</p>
 
 
