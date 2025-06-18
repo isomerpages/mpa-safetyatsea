@@ -126,7 +126,7 @@ variant: markdown
                             <b>Mr Arsenio Dominguez</b>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Secretary General<br>International Maritime Organization
+                            Secretary-General<br>International Maritime Organization
                           </div>
                         </div>
                       </div>
