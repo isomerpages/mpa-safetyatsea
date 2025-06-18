@@ -125,6 +125,16 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-sonia-b-malaluan/" rel="noopener">Ms Sonia B Malaluan</a></strong></div>
+<div class="text-ellipsis speaker-position">Administrator</div>
+<div class="text-ellipsis speaker-company">Philippine Maritime Industry Authority (MARINA)</div>
+</div>
+</div>
+</div>	
+<div class="col is-6 prog-speaker">
+<div class="row">	
 	<div class="col is-4"><img src="/images/Speakers/2025/simonatoma2025W.png" alt="Mrs Simona Toma" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mrs-simona-toma/" rel="noopener">Mrs Simona Toma</a></strong></div>
@@ -134,6 +144,8 @@ Regional Head – Business Relations,
 </div>
 </div>
 	
+</div>	
+<div class="row">	
 <div class="col is-6 prog-speaker">
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2025/JamesForsdyke2025W.png" alt="Mr James Forsdyke" class="image-adjust"></div>
@@ -144,11 +156,6 @@ Regional Head – Business Relations,
 </div>
 </div>
 </div>
-	
-</div>
-
-
-<div class="row">
 
 <div class="col is-6 prog-speaker">
 <div class="row">
@@ -161,6 +168,10 @@ Regional Head – Business Relations,
 </div>
 </div>
 
+</div>
+
+<div class="row">
+	
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Adrian Dunlop" class="image-adjust"></div>
@@ -168,20 +179,6 @@ Regional Head – Business Relations,
 <div class="speaker-name text-ellipsis"><strong>Mr Adrian Dunlop</strong></div>
 <div class="text-ellipsis speaker-position">Head of Fleet Management</div>
 <div class="text-ellipsis speaker-company">OceanInfinity</div>
-</div>
-</div>
-</div>
-	
-</div>
-
-<div class="row">
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-sonia-b-malaluan/" rel="noopener">Ms Sonia B Malaluan</a></strong></div>
-<div class="text-ellipsis speaker-position">Administrator</div>
-<div class="text-ellipsis speaker-company">Philippine Maritime Industry Authority (MARINA)</div>
 </div>
 </div>
 </div>
