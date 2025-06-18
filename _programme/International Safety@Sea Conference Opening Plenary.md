@@ -177,6 +177,17 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
+	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
+<div class="col is-8">
+<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
+<div class="text-ellipsis speaker-position">Deputy Secretary General</div>
+<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+</div>
+</div>
+</div>
+
+<div class="col is-6 prog-speaker">
+<div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2025/DavidFoo2025W.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/david-foo/" rel="noopener">Mr David Foo</a></strong></div>
@@ -186,22 +197,21 @@ variant: markdown
 </div>
 </div>
 
+</div>
 
+
+<div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/KohYongPing2025W.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
-<div class="text-ellipsis speaker-position">Deputy Secretary General</div>
-<div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-koh-yong-ping/" rel="noopener">Mr Koh Yong Ping</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief Executive</div>
+<div class="text-ellipsis speaker-company">Bureau Veritas Marine (Singapore)</div>
 </div>
 </div>
-</div>
-	
 </div>
 
-
-<div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
 <div class="col is-4"><img src="/images/Speakers/2025/MaryLiew.png" alt="Ms Mary Liew" class="image-adjust"></div>
@@ -213,17 +223,6 @@ variant: markdown
 </div>
 </div>
 
-<div class="col is-6 prog-speaker">
-<div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/KohYongPing2025W.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
-<div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-koh-yong-ping/" rel="noopener">Mr Koh Yong Ping</a></strong></div>
-<div class="text-ellipsis speaker-position">Chief Executive</div>
-<div class="text-ellipsis speaker-company">Bureau Veritas Marine (Singapore)</div>
-</div>
-</div>
-</div>
-	
 </div>
 
 
