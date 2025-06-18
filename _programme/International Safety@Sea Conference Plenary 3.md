@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>15 JUL | 14:30 - 16:30</b>&nbsp;<b>GMT+8</b>
+  <b>15 JUL | 14:30 - 16:30</b>&nbsp;<b></b>
   <h3>International Safety@Sea Conference – Plenary 3</h3>
 	<h4>The Human Element: Ensuring Safety in Maritime’s Transition</h4>
 		Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
@@ -19,7 +19,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 14:35 - 15:00</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 14:35 - 15:00</b>&nbsp;</div>
                 <h4 class="programme-title">Presentation 1</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -56,7 +56,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 15:00 - 15:25</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 15:00 - 15:25</b>&nbsp;</div>
                 <h4 class="programme-title">Presentation 2</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -94,7 +94,7 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>15 JUL | 15:25 - 16:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>15 JUL | 15:25 - 16:25</strong>&nbsp;</div>
 <h4 class="programme-title">Plenary Discussion</h4>
 	“The Human Element: Ensuring Safety in Maritime’s Transition”
 	<p></p><p>
