@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="container-space">
-  <b>17 JUL | 09:00 - 18:00</b>&nbsp;<b>GMT+8</b>
+  <b>17 JUL | 09:00 - 18:00</b>&nbsp;
   <h3>The Nautical Institute (Singapore) Conference 2025</h3>
 	<p>Venue: Furama City Centre, Singapore<br>
 Register Here: <a href="https://reg.eventnook.com/event/nautinstsg2025">https://reg.eventnook.com/event/nautinstsg2025</a></p>
