@@ -83,6 +83,14 @@ sections:
       image: /images/Home 2025/HomePageIcon8.png
       alt: Image alt text
   - infopic:
+      title: ARFO Safety Forum
+      subtitle: 17 Jul | 13:30 - 16:00
+      id: infopic
+      button: Click Here
+      url: /arfo-safety-forum/
+      image: /images/Home 2025/HomePage_ARFO.jpg
+      alt: Image alt text
+  - infopic:
       title: The Nautical Institute (Singapore) Conference 2025
       subtitle: 17 Jul | 09:00 - 18:00
       id: infopic
