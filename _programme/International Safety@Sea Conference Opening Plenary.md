@@ -177,9 +177,9 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Simon Bennett" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/SimonBennett2025W.png" alt="Mr Simon Bennett" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Simon Bennett</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-simon-bennett/" rel="noopener">Mr Simon Bennett</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Secretary General</div>
 <div class="text-ellipsis speaker-company">International Chamber of Shipping</div>
 </div>
@@ -203,7 +203,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/KohYongPing2025W.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/KohYongPing2025Wa.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-koh-yong-ping/" rel="noopener">Mr Koh Yong Ping</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Executive</div>
