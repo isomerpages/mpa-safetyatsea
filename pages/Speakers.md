@@ -178,6 +178,13 @@ Chairperson, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
       </div>
+<div class="col is-4">
+        <a href="/ms-sonia-b-malaluan">
+          <div><img src="/images/Speakers/2025/SoniaMalaluan2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4></a>
+          <div class="speaker-position text-ellipsis">Administrator</div>
+          <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
+      </div>
 			      <div class="col is-4">
         <a href="/mrs-simona-toma">
           <div><img src="/images/Speakers/2025/simonatoma2025W.png"></div>
@@ -185,6 +192,8 @@ Regional Head – Business Relations,</div>
           <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
           <div class="speaker-company text-ellipsis">Columbia Group</div>
 			</div>
+    </div>
+    <div class="row">
       <div class="col is-4">
         <a href="/mr-james-forsdyke">
           <div><img src="/images/Speakers/2025/JamesForsdyke2025W.png"></div>
@@ -192,8 +201,6 @@ Regional Head – Business Relations,</div>
           <div class="speaker-position text-ellipsis">Managing Director</div>
           <div class="speaker-company text-ellipsis">Lloyd’s Register Maritime Decarbonisation Hub</div>
       </div>
-    </div>
-    <div class="row">
       <div class="col is-4">
         <a href="/Ashish-Mediratta">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
@@ -207,13 +214,6 @@ Regional Head – Business Relations,</div>
 					<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
           <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
           <div class="speaker-company text-ellipsis">OceanInfinity</div>
-      </div>
-			<div class="col is-4">
-        <a href="/ms-sonia-b-malaluan">
-          <div><img src="/images/Speakers/2025/SoniaMalaluan2025W.png"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4></a>
-          <div class="speaker-position text-ellipsis">Administrator</div>
-          <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
       </div>
 		</div>
 	</div>
