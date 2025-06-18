@@ -120,10 +120,10 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Arsenio Dominguez" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/arseniodominguez2025.png" alt="Mr Arsenio Dominguez" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Mr Arsenio Dominguez</b>
+														<b><a class="speaker-name text-ellipsis" href="/mr-arsenio-dominguez/" rel="noopener">Mr Arsenio Dominguez</a></b>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Secretary-General<br>International Maritime Organization
