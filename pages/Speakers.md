@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <h3>Opening Plenary - Keynote Address</h3>
+  <h3>Opening Plenary - Keynote Speaker</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
