@@ -57,8 +57,14 @@ variant: markdown
           <div class="speaker-position text-ellipsis">General Secretary</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Officers’ Union</div>
 			</div>
-		</div>
-	</div>
+			      <div class="col is-4">
+        <a href="/mr-koh-yong-ping">
+          <div><img src="/images/Speakers/2025/KohYongPing2025W.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr Koh Yong Ping</h4></a>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
+          <div class="speaker-company text-ellipsis">Bureau Veritas Marine (Singapore)</div>
+      </div>		
+	</div></div>
 	</section>
 	
 <div>
