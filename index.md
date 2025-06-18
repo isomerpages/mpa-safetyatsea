@@ -88,7 +88,7 @@ sections:
       id: infopic
       button: Click Here
       url: /arfo-safety-forum/
-      image: /images/Home 2025/HomePage_ARFO.jpg
+      image: /images/Home 2025/HomePage_ARFO2.jpg
       alt: Image alt text
   - infopic:
       title: The Nautical Institute (Singapore) Conference 2025
