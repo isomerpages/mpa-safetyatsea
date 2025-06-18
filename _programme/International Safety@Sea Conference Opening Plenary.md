@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div>
-  <b>15 JUL | 09:00 - 10:30</b>&nbsp;<b>GMT+8</b>
+  <b>15 JUL | 09:00 - 10:30</b>&nbsp;<b></b>
   <h3>International Safety@Sea Conference – Opening Plenary</h3>
 	<h4>The Future of Maritime Safety: Navigating the Next Frontier</h4>
 	Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
@@ -22,7 +22,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 09:05 - 09:10</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:05 - 09:10</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Welcome Remarks</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -60,7 +60,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 09:10 - 09:20</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:10 - 09:20</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Opening Address</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -96,7 +96,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 09:20 - 09:30</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:20 - 09:30</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Presentation of MPA Safety@Sea Awards</h4>
                           </div>
                         </div>
@@ -113,7 +113,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>15 JUL | 09:30 - 09:45</b>&nbsp;<b>GMT+8</b></div>
+                <div class="programme-time"><b>15 JUL | 09:30 - 09:45</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Keynote Address</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
@@ -148,7 +148,7 @@ variant: markdown
 <div class="col is-12">
 <div class="border bg-light h-100 position-relative">
 <div class="p-4">
-<div class="programme-time"><strong>15 JUL | 09:45 - 10:25</strong>&nbsp;<strong>GMT+8</strong></div>
+<div class="programme-time"><strong>15 JUL | 09:45 - 10:25</strong>&nbsp;</div>
 <h4 class="programme-title">Opening Plenary</h4>
 	“The Future of Maritime Safety: Navigating the Next Frontier”	
 	<p></p> <p>         
