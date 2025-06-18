@@ -20,12 +20,12 @@ sections:
       image: /images/Home 2025/Opening_Plenary1806.png
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
-      subtitle: 15 Jul | 09:00 - 10:30 (GMT+8)
+      subtitle: 15 Jul | 09:00 - 10:30
       button: click here
       url: /programme/conference-opening-plenary/
   - infopic:
       title: International Safety@Sea Conference - Plenary 2
-      subtitle: 15 Jul | 11:00 - 13:00 (GMT+8)
+      subtitle: 15 Jul | 11:00 - 13:00
       id: infopic
       description: "From Incident to Insight: Unpacking Lessons for a Safer Maritime
         Industry"
@@ -35,7 +35,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Conference - Plenary 3
-      subtitle: 15 Jul | 14:30 - 16:30 (GMT+8)
+      subtitle: 15 Jul | 14:30 - 16:30
       id: infopic
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
@@ -44,7 +44,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Chemical Spill Exercise
-      subtitle: 15 Jul | 11:00 - 14:30 (GMT+8)
+      subtitle: 15 Jul | 11:00 - 14:30
       id: infopic
       button: Click Here
       url: /chemical-spill-exercise/
@@ -52,7 +52,7 @@ sections:
       image: /images/Home 2025/HomePageIcon4.png
   - infopic:
       title: Safety@Sea Community Conversations
-      subtitle: 16 Jul | 15:30 - 17:30 GMT+8
+      subtitle: 16 Jul | 15:30 - 17:30
       id: infopic
       button: Click Here
       url: /community-conversations/
@@ -60,7 +60,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Responders Plus Programme (RPP) Maritime Workshop
-      subtitle: 17 Jul | 12:00 - 17:00 (GMT+8)
+      subtitle: 17 Jul | 12:00 - 17:00
       id: infopic
       button: click here
       url: /responder-plus-programme-rpp-maritime-workshops/
@@ -68,7 +68,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
-      subtitle: 18 Jul | 09:30 - 13:30 (GMT+8)
+      subtitle: 18 Jul | 09:30 - 13:30
       id: infopic
       button: click here
       url: /programme/harbour-craft-forum/
@@ -76,7 +76,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
-      subtitle: 18 Jul | 14:30 - 18:00 (GMT+8)
+      subtitle: 18 Jul | 14:30 - 18:00
       id: infopic
       button: click here
       url: /programme/pleasure-craft-forum/
@@ -84,7 +84,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: The Nautical Institute (Singapore) Conference 2025
-      subtitle: 17 Jul | 09:00 - 18:00 (GMT+8)
+      subtitle: 17 Jul | 09:00 - 18:00
       id: infopic
       button: Click Here
       url: /tni2025
