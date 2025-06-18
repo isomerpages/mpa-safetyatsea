@@ -2,6 +2,7 @@ collections:
   2025-speakers:
     output: true
     order:
+      - Mr Simon Bennett.md
       - Mr Arsenio Dominguez.md
       - Mr Ishak Ismail.md
       - Mr David Foo.md
