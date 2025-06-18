@@ -110,7 +110,7 @@ variant: markdown
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-hari-subramaniam/" rel="noopener">Capt Hari Subramaniam</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chairman, National Maritime Safety at Sea Council<br> 
-Chairperson, The Nautical Institute (Singapore)<br>
+Hon. Chair, The Nautical Institute (Singapore)<br>
 Regional Head – Business Relations,
 </div>
 <div class="text-ellipsis speaker-company">The Shipowners’ P&amp;I Club</div>
