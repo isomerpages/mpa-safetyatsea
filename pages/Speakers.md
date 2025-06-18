@@ -183,8 +183,7 @@ Regional Head – Business Relations,</div>
           <div><img src="/images/Speakers/2025/simonatoma2025W.png"></div>
           <h4 class="speaker-name text-ellipsis">Mrs Simona Toma</h4></a>
           <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
-          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
-Columbia Group</div>
+          <div class="speaker-company text-ellipsis">Columbia Group</div>
 			</div>
       <div class="col is-4">
         <a href="/mr-james-forsdyke">
