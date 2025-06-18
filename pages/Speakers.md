@@ -12,9 +12,9 @@ variant: markdown
     <div class="row">
         <div class="col is-4">
         <a href="/mr-arsenio-dominguez">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
+          <div><img src="/images/Speakers/2025/arseniodominguez2025.png"></div>
           <h4 class="speaker-name text-ellipsis">Mr Arsenio Dominguez</h4> </a>
-          <div class="speaker-position text-ellipsis">Secretary General</div>
+          <div class="speaker-position text-ellipsis">Secretary-General</div>
           <div class="speaker-company text-ellipsis">International Maritime Organization</div>
       </div>
     </div>
