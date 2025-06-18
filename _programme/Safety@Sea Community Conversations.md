@@ -7,7 +7,7 @@ description: ""
 <div class="container-space">
   <b>16 JUL | 15:30 - 17:30</b>&nbsp;
   <h3>Safety@Sea Community Conversations</h3>
-	<p>New to this year's International Safety@Sea Week, this intimate networking session creates a space for maritime safety professionals to connect and share experiences. Through facilitated discussions, participants from shipping companies, regional ferry operators, harbour craft operators and terminal operators will explore practical approaches to enhancing maritime safety. Through open dialogue and shared experiences, we aim to foster a community of safety advocates who can drive future safety initiatives during Safety@Sea Week.</p>
+	<p>The Safety@Sea Conversations event is a new addition to Safety@Sea Week that brings together maritime personnel responsible for safety in their respective organisations. Through open dialogue and shared experiences, the aim is to foster a community of safety advocates who share the vision of promoting and building a progressive safety at sea culture. </p>
 <p>Kindly note that this is a closed-door event.</p>
 
 
