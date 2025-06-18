@@ -1,17 +1,17 @@
 ---
-title: Pleasure Craft Safety Forum
-permalink: /programme/pleasure-craft-forum/
-description: ""
+title: ARFO Safety Forum
+permalink: /arfo-safety-forum/
 variant: markdown
+description: ""
 ---
 <div class="container-space">
-  <b>18 JUL | 14:30 - 18:00</b>&nbsp;
-  <h3>Pleasure Craft Safety Forum</h3>
-	<p>Venue: The Southern Depot, Gillman Barracks (43 &amp; 47 Malan Road, Singapore 109443)</p>
-	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
-	<p>The group focuses on improving and raising safety among pleasure craft operators in Singapore.</p>
-</div>
-<p><i>Programme and speaker lineup will be released shortly.</i></p>
+  <b>17 JUL | 13:00 - 16:00</b>&nbsp;
+  <h3>ARFO Safety Forum</h3>
+	<p>This forum for the regional ferry operators  community is brought to you by the MPA-Association of Regional Ferry Operators Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
+<p>The group focuses on improving and raising safety among regional ferry operators in Singapore.
+</p>
+	<p>Kindly note that this is a closed-door event.</p>
+
 
 
 <style type="text/css">
@@ -49,4 +49,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style>
+</style></div>

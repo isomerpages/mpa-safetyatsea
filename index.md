@@ -1,103 +1,109 @@
 ---
 layout: homepage
-title: Singapore Safety@Sea Week 2024
+title: International Safety@Sea Week 2025
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click <a href="/media-room">here</a> for Singapore Safety@Sea Conference recordings.
+notification: <a href="/1-register/">Registration</a>  for IS@S Week 2025 is now open!
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg
       variant: center
-      title: Singapore Safety@Sea Week 2024
-      subtitle: 19th August to 23rd August
+      title: International Safety@Sea Week 2025
+      subtitle: 15th - 18th July 2025
   - infobar:
       title: Spotlight on Maritime Safety
       description: An annual event by the Maritime and Port Authority of Singapore to
         promote safety at sea.
   - infopic:
-      description: All Hands on Deck for Safe and Green Shipping
-      image: /images/Home/Opening_Session_Banner.jpg
+      description: "The Future of Maritime Safety: Navigating the Next Frontier"
+      image: /images/Home 2025/Opening_Plenary1806.png
       alt: Image alt text
-      title: Singapore Safety@Sea Conference – Opening Session
-      subtitle: 19 Aug | 10:00 - 12:30 (GMT+8)
+      title: International Safety@Sea Conference – Opening Plenary
+      subtitle: 15 Jul | 09:00 - 10:30
       button: click here
-      url: /programme/conference-opening-session/
+      url: /programme/conference-opening-plenary/
   - infopic:
-      title: Singapore Safety@Sea Conference - Session 2
-      subtitle: 19 Aug | 13:30 - 15:00 (GMT+8)
+      title: International Safety@Sea Conference - Plenary 2
+      subtitle: 15 Jul | 11:00 - 13:00
       id: infopic
-      description: All Hands on Deck for Safe Ammonia Bunkering
+      description: "From Incident to Insight: Unpacking Lessons for a Safer Maritime
+        Industry"
       button: Click Here
-      url: /programme/session-2/
-      image: /images/Home/Session_Two_Banner.jpg
+      url: /programme/plenary-2/
+      image: /images/Home 2025/HomePageIcon_2.png
       alt: Image alt text
   - infopic:
-      title: Singapore Safety@Sea Conference - Session 3
-      subtitle: 19 Aug | 15:30 - 17:30 (GMT+8)
+      title: International Safety@Sea Conference - Plenary 3
+      subtitle: 15 Jul | 14:30 - 16:30
       id: infopic
-      description: All Hands on Deck for Our People's Safety and Wellbeing
+      description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
-      url: /programme/session-3/
-      image: /images/Home/Session_Three_Banner.jpg
+      url: /programme/plenary-3/
+      image: /images/Home 2025/HomePageIcon_3.png
       alt: Image alt text
   - infopic:
-      title: Harbour Craft Safety Forum
-      subtitle: 20 AUG | 08:30 - 12:00 (GMT+8)
+      title: Chemical Spill Exercise
+      subtitle: 15 Jul | 11:00 - 14:30
       id: infopic
-      button: click here
-      url: /programme/harbour-craft-forum/
-      image: /images/Home/Harbour_Craft_Banner.jpg
+      button: Click Here
+      url: /chemical-spill-exercise/
       alt: Image alt text
+      image: /images/Home 2025/HomePageIcon4.png
   - infopic:
-      title: Pleasure Craft Safety Forum
-      subtitle: 20 AUG | 13:00 - 16:00 (GMT+8)
+      title: Safety@Sea Community Conversations
+      subtitle: 16 Jul | 15:30 - 17:30
       id: infopic
-      button: click here
-      url: /programme/pleasure-craft-forum/
-      image: /images/Home/Pleasure_Craft_Banner.jpg
+      button: Click Here
+      url: /community-conversations/
+      image: /images/Home 2025/HomePage_Safety.jpg
       alt: Image alt text
   - infopic:
-      title: Responder Plus Programme (RPP) Maritime Workshops
-      subtitle: 21&23 aug | 08:30 - 13:00
+      title: Responders Plus Programme (RPP) Maritime Workshop
+      subtitle: 17 Jul | 12:00 - 17:00
       id: infopic
       button: click here
       url: /responder-plus-programme-rpp-maritime-workshops/
-      image: /images/Home/RPP_Banner.jpg
+      image: /images/Home 2025/HomePageIcon6.png
       alt: Image alt text
   - infopic:
-      title: Ferry Rescue Exercise (FEREX)
-      subtitle: 22 aug | 09:00 - 12:00 (GMT+8)
+      title: Harbour Craft Safety Forum
+      subtitle: 18 Jul | 09:30 - 13:30
       id: infopic
-      button: CLICK HERE
-      url: /programme/ferex/
-      image: /images/Home/FEREX.jpg
-      alt: Image alt text
-  - infopic:
-      title: Refresher Sharing on Shiphandling
-      subtitle: 20 aug | 13:00 - 14:30 (GMT+8)
-      id: infopic
-      description: By PSA Marine
       button: click here
-      url: /refresher-sharing-on-shiphandling-by-psa-marine/
-      image: /images/Home/Singapore_Safety___Sea_Week_2024_PSAM.png
+      url: /programme/harbour-craft-forum/
+      image: /images/Home 2025/HomePageIcon7.png
       alt: Image alt text
   - infopic:
-      title: The Nautical Institute Singapore Conference 2024
-      subtitle: 21 AUG | 08:00 - 18:00 (GMT+8)
+      title: Pleasure Craft Safety Forum
+      subtitle: 18 Jul | 14:30 - 18:00
       id: infopic
-      description: By Nautical Institute (Singapore Branch)
-      button: CLICK HERE
-      url: /the-nautical-institute-singapore-conference-2024/
-      image: /images/Home/Linkedin_Twitter_Banner.jpg
+      button: click here
+      url: /programme/pleasure-craft-forum/
+      image: /images/Home 2025/HomePageIcon8.png
       alt: Image alt text
   - infopic:
-      title: Navigating a Safe Shipping Transition Seminar
-      subtitle: 22 aug | 12:00 - 17:00 (GMT+8)
+      title: ARFO Safety Forum
+      subtitle: 17 Jul | 13:00 - 16:00
       id: infopic
-      description: By Singapore Shipping Association (SSA)
-      button: CLICK HERE
-      url: /navigating-a-safe-shipping-transition-seminar-by-ssa/
-      image: /images/Home/Navigating_a_Safe_Shipping_Transition_Seminar_MPA_size_v_2.png
+      button: Click Here
+      url: /arfo-safety-forum/
+      image: /images/Home 2025/HomePage_ARFO.jpg
       alt: Image alt text
+  - infopic:
+      title: The Nautical Institute (Singapore) Conference 2025
+      subtitle: 17 Jul | 09:00 - 18:00
+      id: infopic
+      button: Click Here
+      url: /tni2025
+      image: /images/Home 2025/NAUTICAL_Banner.png
+      alt: Image alt text
+  - infobar:
+      id: infobar
+      description: Government officials will NEVER ask you to transfer money or
+        disclose bank log-in details over a phone call. Call ScamShield Helpline
+        at 1799 if you are unsure.
+      button: For More Information
+      url: https://www.scamshield.gov.sg/
+      subtitle: <h3><b>Scam Advisory</b></h3>
 ---

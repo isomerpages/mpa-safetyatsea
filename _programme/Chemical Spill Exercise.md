@@ -1,17 +1,15 @@
 ---
-title: Pleasure Craft Safety Forum
-permalink: /programme/pleasure-craft-forum/
-description: ""
+title: Chemical Spill Exercise
+permalink: /chemical-spill-exercise/
 variant: markdown
+description: ""
 ---
 <div class="container-space">
-  <b>18 JUL | 14:30 - 18:00</b>&nbsp;
-  <h3>Pleasure Craft Safety Forum</h3>
-	<p>Venue: The Southern Depot, Gillman Barracks (43 &amp; 47 Malan Road, Singapore 109443)</p>
-	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
-	<p>The group focuses on improving and raising safety among pleasure craft operators in Singapore.</p>
-</div>
-<p><i>Programme and speaker lineup will be released shortly.</i></p>
+  <b>15 JUL | 11:00 - 14:30</b>&nbsp;
+  <h3>Chemical Spill Exercise</h3>
+	<p>MPA’s Chemical Spill Exercise is an biennial multi-agency exercise led by MPA to test Whole-of-Government (WoG) operational readiness and responsiveness in the event of a Chemical Spill at Sea. It also provides a platform to demonstrate or validate new initiatives and/or emerging technologies for risk mitigation and capacity/capabilities building. The Exercise will be held in conjunction with IS@S Week 2025. </p>
+	<p>Kindly note that this is a closed-door event.</p>
+
 
 
 <style type="text/css">
@@ -49,4 +47,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style>
+</style></div>

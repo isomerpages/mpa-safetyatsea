@@ -1,0 +1,23 @@
+collections:
+  2025-speakers:
+    output: true
+    order:
+      - Mr Arsenio Dominguez.md
+      - Mr Ishak Ismail.md
+      - Mr David Foo.md
+      - Ms Mary Liew.md
+      - Mr Koh Yong Ping.md
+      - Mr Santiago Encabo.md
+      - Capt Ashok Srinivasan.md
+      - Ms Ashima Taneja.md
+      - Mr Aun Aun Cheah.md
+      - Mr Carsten Brix Ostenfeldt.md
+      - Capt Xiao Shouhai.md
+      - Capt Sanjay B Patil.md
+      - Capt Yves Vandenborn.md
+      - Capt John Lloyd.md
+      - Mr Darrick Leow.md
+      - Capt Hari Subramaniam.md
+      - Ms Sonia B Malaluan.md
+      - Mrs Simona Toma.md
+      - Mr James Forsdyke.md

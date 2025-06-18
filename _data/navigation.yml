@@ -1,11 +1,15 @@
 logo: /images/200x99__1_.png
 links:
+  - title: Register Now
+    url: /1-register/
   - title: About Us
     url: /about-us
   - title: Programme
     url: /programmeoverview/
   - title: Speakers
-    url: /speakers
+    url: /speakers/
+  - title: Partners
+    url: /partners/
   - title: Media Room
     url: /media-room
   - title: Resources
