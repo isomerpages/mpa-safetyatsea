@@ -42,9 +42,8 @@ variant: markdown
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
       <div class="col is-4">
-        <a href="/mr-simon-bennett">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4></a>
+          <h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4>
           <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
           <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
       </div>
@@ -208,16 +207,14 @@ Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">Lloyd’s Register Maritime Decarbonisation Hub</div>
       </div>
       <div class="col is-4">
-        <a href="/Ashish-Mediratta">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-					<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4></a>
+					<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4>
           <div class="speaker-position text-ellipsis">Head of Crewing</div>
           <div class="speaker-company text-ellipsis">Maersk</div>
 			</div>
 			<div class="col is-4">
-        <a href="/adrian-dunlop">
           <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-					<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
+					<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4>
           <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
           <div class="speaker-company text-ellipsis">OceanInfinity</div>
       </div>
