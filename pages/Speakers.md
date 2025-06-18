@@ -34,6 +34,12 @@ variant: markdown
           <div class="speaker-position text-ellipsis">Chairman</div>
           <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council<br> (Moderator)</div>
       </div>
+      <div class="col is-4"><a href="/mr-simon-bennett/">
+          <div><img src="/images/Speakers/2025/SimonBennett2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
+          <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
+      </div>
 			      <div class="col is-4">
         <a href="/david-foo">
           <div><img src="/images/Speakers/2025/DavidFoo2025W.png"></div>
@@ -41,28 +47,22 @@ variant: markdown
           <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
           <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
-      <div class="col is-4">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-          <h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4>
-          <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
-          <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
-      </div>
     </div>
     <div class="row">
+			      <div class="col is-4">
+        <a href="/mr-koh-yong-ping">
+          <div><img src="/images/Speakers/2025/KohYongPing2025Wa.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr Koh Yong Ping</h4></a>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
+          <div class="speaker-company text-ellipsis">Bureau Veritas Marine (Singapore)</div>
+      </div>
       <div class="col is-4">
         <a href="/ms-mary-liew">
 					<div><img src="/images/Speakers/2025/MaryLiew.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4></a>
           <div class="speaker-position text-ellipsis">General Secretary</div>
           <div class="speaker-company text-ellipsis">Singapore Maritime Officers’ Union</div>
-			</div>
-			      <div class="col is-4">
-        <a href="/mr-koh-yong-ping">
-          <div><img src="/images/Speakers/2025/KohYongPing2025W.png"></div>
-					<h4 class="speaker-name text-ellipsis">Mr Koh Yong Ping</h4></a>
-          <div class="speaker-position text-ellipsis">Chief Executive</div>
-          <div class="speaker-company text-ellipsis">Bureau Veritas Marine (Singapore)</div>
-      </div>		
+			</div>		
 	</div></div>
 	</section>
 	
