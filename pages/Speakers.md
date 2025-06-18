@@ -180,7 +180,7 @@ Regional Head – Business Relations,</div>
       </div>
 <div class="col is-4">
         <a href="/ms-sonia-b-malaluan">
-          <div><img src="/images/Speakers/2025/SoniaMalaluan2025W.png"></div>
+          <div><img src="/images/Speakers/2025/SoniaMalaluan2025Wa.png"></div>
           <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4></a>
           <div class="speaker-position text-ellipsis">Administrator</div>
           <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
