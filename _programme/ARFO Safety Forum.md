@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="container-space">
-  <b>17 JUL | 13:30 - 16:00</b>&nbsp;
+  <b>17 JUL | 13:00 - 16:00</b>&nbsp;
   <h3>ARFO Safety Forum</h3>
 	<p>This forum for the regional ferry operators  community is brought to you by the MPA-Association of Regional Ferry Operators Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 <p>The group focuses on improving and raising safety among regional ferry operators in Singapore.
