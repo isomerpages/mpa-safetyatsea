@@ -114,7 +114,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>15 JUL | 09:30 - 09:45</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Keynote Address</h4>
+                <h4 class="programme-title">Keynote Speaker</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
