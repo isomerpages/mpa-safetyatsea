@@ -22,7 +22,7 @@ variant: markdown
 	</section>
 
 <div>
-  <h3>Opening Plenary - The Future of Maritime Safety: Are We Ready for the Challenge?</h3>
+  <h3>Opening Plenary - Panel Discussion on "The Future of Maritime Safety: Navigating the Next Frontier"</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
