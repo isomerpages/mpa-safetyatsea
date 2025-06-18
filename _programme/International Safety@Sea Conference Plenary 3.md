@@ -8,7 +8,7 @@ variant: markdown
   <b>15 JUL | 14:30 - 16:30</b>&nbsp;<b></b>
   <h3>International Safety@Sea Conference – Plenary 3</h3>
 	<h4>The Human Element: Ensuring Safety in Maritime’s Transition</h4>
-		Venue: Conrad Singapore Marina Bay (2 Temasek Blvd, Singapore 038982)<br><br>
+	Venue: Conrad Singapore Marina Bay, Ballroom, Level 2 (2 Temasek Blvd, Singapore 038982)<br><br>
 </div>
 
 <section>
