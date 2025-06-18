@@ -84,7 +84,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: ARFO Safety Forum
-      subtitle: 17 Jul | 13:30 - 16:00
+      subtitle: 17 Jul | 13:00 - 16:00
       id: infopic
       button: Click Here
       url: /arfo-safety-forum/
