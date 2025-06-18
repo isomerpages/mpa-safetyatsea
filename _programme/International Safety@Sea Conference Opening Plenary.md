@@ -153,7 +153,7 @@ variant: markdown
 	“The Future of Maritime Safety: Navigating the Next Frontier”	
 	<p></p> <p>         
 
-</p><div>The maritime industry is facing unprecedented transformation through technological advances, regulatory changes, and sustainability demands. This panel discussion brings together leading voices from the Maritime and Port Authority of Singapore, Singapore Maritime Officers' Union, and International Chamber of Shipping to explore how these shifts impact maritime safety and chart the course ahead.<p></p> <p> </p><div>
+</p><div>As the maritime industry stands on the cusp of transformative change driven by unprecedented advancements and new challenges, ensuring safety remains paramount. This panel brings together leading voices from the industry, union and regulator perspectives to discuss the complexities and opportunities, as well as the vital role of seafarers in the journey towards a safer and more resilient maritime future.<p></p> <p> </p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
