@@ -56,7 +56,7 @@ sections:
       id: infopic
       button: Click Here
       url: /community-conversations/
-      image: /images/Home 2025/HomePageIcon5.png
+      image: /images/Home 2025/HomePage_Safety.jpg
       alt: Image alt text
   - infopic:
       title: Responders Plus Programme (RPP) Maritime Workshop
