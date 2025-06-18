@@ -20,7 +20,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>15 JUL | 11:05 - 11:30</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Presentation 1</h4>
+                <h4 class="programme-title">Presentation by EMSA</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -58,7 +58,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>15 JUL | 11:30 - 11:55</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Presentation 2</h4>
+                <h4 class="programme-title">Presentation by BIMCO</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -100,7 +100,7 @@ variant: markdown
 <h4 class="programme-title">Plenary Discussion</h4>
 	“From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry”
 	<p></p><p>
-</p><div>This panel explores how maritime incidents are investigated and transformed into vital insights for a safer maritime industry. Moving beyond accident reports, join representatives from the Maritime and Port Authority of Singapore, Ministry of Transport's Transport Safety Investigation Bureau, and industry leaders as they examine the critical process of turning investigation findings into meaningful safety improvements.<p></p><p></p><div>
+</p><div>Incidents, while regrettable, offer vital learning opportunities. This panel will explore how the maritime industry can transform such events into actionable insights to enhance safety and how lessons learnt can be shared to avoid future occurrences.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
