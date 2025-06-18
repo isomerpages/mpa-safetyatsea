@@ -20,7 +20,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>15 JUL | 14:35 - 15:00</b>&nbsp;</div>
-                <h4 class="programme-title">Presentation 1</h4>
+                <h4 class="programme-title">Presentation by The Nautical Institute</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -57,7 +57,7 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>15 JUL | 15:00 - 15:25</b>&nbsp;</div>
-                <h4 class="programme-title">Presentation 2</h4>
+                <h4 class="programme-title">Presentation by MPA</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
@@ -98,7 +98,7 @@ variant: markdown
 <h4 class="programme-title">Plenary Discussion</h4>
 	“The Human Element: Ensuring Safety in Maritime’s Transition”
 	<p></p><p>
-</p><div>As the maritime industry embraces digitalisation and decarbonisation, supporting our workforce through these transitions is crucial. This panel brings together industry experts and representative from the Philippine Maritime Industry Authority to discuss strategies for navigating these changes while ensuring seafarer welfare and wellbeing remain at the forefront of maritime safety.<p></p><p></p><div>
+</p><div>As the maritime industry undergoes significant transformation with various driving forces, it is crucial to support our workforce through these transitions. This panel will discuss the critical role of seafarers and shore-based personnel in navigating these changes, including the new skills and training required for green fuels, the impact of remote and autonomous technologies, and the need to focus on seafarer mental health and wellbeing.<p></p><p></p><div>
 <p></p><hr class="my-3 border-primary">
 <div class="speakers px-2">
 	
@@ -177,7 +177,7 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-sonia-b-malaluan/" rel="noopener">Ms Sonia B Malaluan</a></strong></div>
 <div class="text-ellipsis speaker-position">Administrator</div>
