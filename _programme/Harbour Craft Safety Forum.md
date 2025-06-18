@@ -7,8 +7,8 @@ variant: markdown
 <div class="container-space">
   <b>18 JUL | 09:30 - 13:30</b>&nbsp;
   <h3>Harbour Craft Safety Forum</h3>
-	<p>Venue: The Southern Depot, Gillman Barracks</p>
-	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
+	<p>Venue: The Southern Depot, Gillman Barracks (43 &amp; 47 Malan Road, Singapore 109443)</p>
+	<p>This forum for members of the harbour craft community is brought to you by the MPA-Harbour Craft Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among harbour craft operators in Singapore.</p>
 </div>
 <p><i>Programme and speaker lineup will be released shortly.</i></p>
