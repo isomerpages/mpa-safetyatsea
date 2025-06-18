@@ -62,7 +62,7 @@ variant: markdown
 	</section>
 	
 <div>
-  <h3>Plenary 2 - Presentations</h3>
+  <h3>Plenary 2 - Speakers</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -86,7 +86,7 @@ variant: markdown
 	</section>	
 
 <div>
-  <h3>Plenary 2 - From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry</h3></div>
+  <h3>Plenary 2 - Panel Discussion on "From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry"</h3></div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
@@ -140,7 +140,7 @@ Transport Safety Investigation Bureau</div>
 	</section>
 	
 <div>
-  <h3>Plenary 3 - Presentations</h3>
+  <h3>Plenary 3 - Speakers</h3>
 </div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
@@ -165,7 +165,7 @@ Transport Safety Investigation Bureau</div>
 	</section>	
 
 <div>
-  <h3>Plenary 3 - The Human Element: Ensuring Safety in Maritime’s Transition</h3></div>
+  <h3>Plenary 3 - Panel Discussion on "The Human Element: Ensuring Safety in Maritime’s Transition"</h3></div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
