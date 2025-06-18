@@ -14,10 +14,10 @@ variant: markdown
 <p>          Into its 12th year, this year’s S@S Week 2025 is the International edition, which alternates with the Singapore edition. It will be held from 15 to 18 Jul 2025.</p>
 <p>         
 
-As part of MPA’s commitment to promoting safety at sea, registration for all events is free.</p>
+As part of MPA’s commitment to promoting safety at sea, registration is free for all MPA events.</p>
 <p>         
 
-This year, there are six sessions to look forward to including the International Safety@Sea (IS@S) Conference, safety forums for the pleasure craft and harbour craft sectors, and Responders Plus Programme (RPP) Maritime Workshop.</p>
+This year, there are six sessions to sign up for including the International Safety@Sea Conference plenaries, safety forums for the pleasure craft and harbour craft sectors, and Responders Plus Programme (RPP) Maritime Workshop.</p>
 	</div>	
 	
 </div>
