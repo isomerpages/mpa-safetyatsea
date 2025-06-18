@@ -10,7 +10,7 @@ variant: markdown
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr David Foo</h4>
-<p>Deputy Chief Executive (Operations &amp; Technology)/CDO<br> Maritime and Port Authority of Singapore
+<p>Deputy Chief Executive (Operations &amp; Technology)<br>Chief Data Officer<br> Maritime and Port Authority of Singapore
 </p>
 <p>David Foo joined the Maritime and Port Authority of Singapore in July 2017 and served in various senior management roles, and assumed the appointment of Deputy Chief Executive for Operations and Technology in April 2025.</p>
 
