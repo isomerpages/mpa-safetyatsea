@@ -10,6 +10,7 @@ variant: markdown
 <div class="col-10 mx-auto mt-4">
 <div class="col-12 mb-4">
 <p>
+	<a href="https://www.angloeastern.com/"><img src="/images/Logos2025/AE2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 	<a href="https://www.bhp.com/"><img src="/images/Logos2025/BHP2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 <a href="https://www.bimco.org/"><img src="/images/Logos2025/BIMCO2025.png" style="width:150px" class="img-fluid"> </a>	&nbsp;
 			<a href="https://columbiagroup.org/"><img src="/images/Logos2025/ColumbiaGroup2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;	
