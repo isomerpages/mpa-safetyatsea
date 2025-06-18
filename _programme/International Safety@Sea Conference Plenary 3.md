@@ -125,7 +125,7 @@ Regional Head – Business Relations,
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025W.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/SoniaMalaluan2025Wa.png" alt="Ms Sonia B. Malaluan" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-sonia-b-malaluan/" rel="noopener">Ms Sonia B Malaluan</a></strong></div>
 <div class="text-ellipsis speaker-position">Administrator</div>
