@@ -137,10 +137,10 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/CarstenBrixOstenfeldt2025W.png" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Carsten Brix Ostenfeldt</strong></div>
-<div class="text-ellipsis speaker-position">Chief Operating Officer (COO) of Asia</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-carsten-brix-ostenfeldt/" rel="noopener">Mr Carsten Brix Ostenfeldt</a></strong></div>
+<div class="text-ellipsis speaker-position">Chief Operating Officer</div>
 <div class="text-ellipsis speaker-company">Anglo-Eastern Ship Management</div>
 </div>
 </div>
