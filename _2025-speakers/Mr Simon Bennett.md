@@ -16,7 +16,8 @@ International Chamber of Shipping</p>
 </div>
 </div>
 					
-					
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>					
 					
 					
 <style type="text/css"> 
