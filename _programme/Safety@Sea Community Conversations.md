@@ -10,6 +10,8 @@ description: ""
 	<p>The Safety@Sea Conversations event is a new addition to Safety@Sea Week that brings together maritime personnel responsible for safety in their respective organisations. Through open dialogue and shared experiences, the aim is to foster a community of safety advocates who share the vision of promoting and building a progressive safety at sea culture. </p>
 <p>Kindly note that this is a closed-door event.</p>
 
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css">
