@@ -1,6 +1,7 @@
 ---
 title: Resources
 permalink: /resources/
+variant: markdown
 ---
 <div>
 <h3>Download and access resources pertaining to workplace safety and health here</h3>
@@ -68,7 +69,8 @@ permalink: /resources/
 </div>
 </div>
 </section>
-
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style type="text/css"> 
 .is-left{
 text-align: left;
