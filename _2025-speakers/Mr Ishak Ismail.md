@@ -15,6 +15,10 @@ variant: markdown
 <p>Ishak received the Public Service Medal in 2023 and also the Public Administration Medal (Military) in 2008.  </p>
 </div>
 </div>
+
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+
 <style type="text/css"> 
     .is-left{
       text-align: left;
