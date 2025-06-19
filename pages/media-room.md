@@ -122,8 +122,8 @@ variant: markdown
 </div>
 <hr class="my-5">
 
-</div>
-</div>
+
+
 
 
 <div class="row mx-0">
@@ -606,6 +606,9 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 </div>
 </div>
 </div>
+
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style>
 .media-height {
 height: 25vh;
