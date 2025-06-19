@@ -19,6 +19,9 @@ Darrick had served in various roles within MPA and Singapore’s Ministry of Tra
  </p>
 </div>
 </div>
+
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style type="text/css"> 
     .is-left{
       text-align: left;
