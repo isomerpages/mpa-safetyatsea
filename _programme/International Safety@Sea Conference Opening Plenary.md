@@ -240,7 +240,7 @@ variant: markdown
 </section>
 
 <div>
-<br><a class="speaker-name text-ellipsis" href="/" rel="noopener"><img src="/images/Home 2025/HomeButton.png" style="width:200px" class="img-fluid"></a><a class="speaker-name text-ellipsis" href="/programmeoverview/" rel="noopener"><img src="/images/Home 2025/OverviewButton.png" style="width:200px" class="img-fluid"></a></div>
+<br><a href="/" rel="noopener"><img src="/images/Home 2025/HomeButton3.png" style="width:200px" class="img-fluid"></a><a href="/programmeoverview/" rel="noopener"><img src="/images/Home 2025/OverviewButton2.png" style="width:200px" class="img-fluid"></a></div>
 
 
 <style type="text/css"> 
