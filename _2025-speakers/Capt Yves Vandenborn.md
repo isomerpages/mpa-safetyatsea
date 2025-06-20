@@ -22,6 +22,9 @@ variant: markdown
 <p>Yves is a Fellow of the Nautical Institute and following his tenure as the Hon President of the Nautical Institute Singapore branch between 2020 and 2024, he was appointed to the Nautical Institute’s Executive Board. In this capacity, Yves works closely with the local maritime industry for the improvement of seafarer standards, safety and wellbeing. </p>
 </div>
 </div>
+
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style type="text/css"> 
     .is-left{
       text-align: left;

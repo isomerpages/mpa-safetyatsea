@@ -27,6 +27,8 @@ Gain insights into the human side of shipping. Discussions will revolve around g
 Take advantage of early bird rates and group purchase savings. Bring your team and be part of the conversations that are shaping the maritime industry’s future.
 </p>
 
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css">
