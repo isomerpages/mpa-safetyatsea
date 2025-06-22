@@ -127,7 +127,7 @@ variant: markdown
 <div class="row">
 <div class="col is-4"><img src="/images/Speakers/2025/AunAunCheah2025W.png" alt="Mr Aun Aun Cheah" class="image-adjust"></div>
 <div class="col is-8">
-	<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-aun-aun-cheah/" rel="noopener">Mr Aun Aun Cheah</a></strong></div>
+	<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-aun-aun-cheah/" rel="noopener">Mr Cheah Aun Aun</a></strong></div>
 <div class="text-ellipsis speaker-position">Director (Shipping) / Director of Marine</div>
 <div class="text-ellipsis speaker-company">Maritime and Port Authority of Singapore</div>
 </div>
