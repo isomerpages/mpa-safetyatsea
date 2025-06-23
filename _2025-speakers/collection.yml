@@ -2,6 +2,7 @@ collections:
   2025-speakers:
     output: true
     order:
+      - Mr Ashish Mediratta.md
       - Mr Adrian Dunlop.md
       - Mr Arsenio Dominguez.md
       - Mr Ishak Ismail.md
