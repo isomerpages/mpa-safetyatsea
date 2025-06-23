@@ -122,7 +122,7 @@ variant: markdown
         <a href="/capt-xiao-shouhai">
           <div><img src="/images/Speakers/2025/XiaoShouhai2025W.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4></a>
-          <div class="speaker-position text-ellipsis">Deputy Director (Marine Safety Investigation)</div>
+          <div class="speaker-position text-ellipsis">Deputy Director <br>(Marine Safety Investigation)</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
 Transport Safety Investigation Bureau</div>
 			</div>			
@@ -207,15 +207,17 @@ Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">Lloyd’s Register Maritime Decarbonisation Hub</div>
       </div>
       <div class="col is-4">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-					<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4>
+        <a href="/mr-ashish-mediratta/">				
+          <div><img src="/images/Speakers/2025/AshishMediratta2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4></a>
           <div class="speaker-position text-ellipsis">Head of Crewing</div>
           <div class="speaker-company text-ellipsis">Maersk</div>
 			</div>
 			<div class="col is-4">
-          <div><img src="/images/Speakers/Speaker_Silhouette2.jpg"></div>
-					<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4>
-          <div class="speaker-position text-ellipsis">Head of Fleet Management</div>
+				 <a href="/mr-adrian-dunlop">
+          <div><img src="/images/Speakers/2025/AdrianDunlop2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
+          <div class="speaker-position text-ellipsis">Vessel Operations Lead<br>(Director of Owning Companies)</div>
           <div class="speaker-company text-ellipsis">OceanInfinity</div>
       </div>
 		</div>
