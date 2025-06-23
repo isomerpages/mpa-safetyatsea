@@ -7,7 +7,7 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/2025/AunAunCheah2025W.png"></div>
 <div class="col is-9 speaker-details">
-<h4>Mr Aun Aun Cheah</h4>
+<h4>Mr Cheah Aun Aun</h4>
 <p>Director (Shipping) / Director of Marine<br>
 Maritime and Port Authority of Singapore</p>
 <p>Mr Cheah brings 30 years of experience in classification society, fleet technical management, marine operations, Flag/Port State surveyor and seafaring. Prior to joining MPA, he spent 13 years with Lloyd’s Register (LR) Singapore, assuming various roles from marine surveyor to marine and offshore operations manager who oversees all service delivery activities in Singapore.</p><p>
