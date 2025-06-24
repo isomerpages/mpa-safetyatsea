@@ -9,7 +9,7 @@ variant: markdown
 <div class="row mpartners">
 <div class="col-10 mx-auto mt-4">
 <div class="col-12 mb-4">
-<p>
+<p align="center">
 	<a href="https://www.angloeastern.com/"><img src="/images/Logos2025/AE2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 	<a href="https://asianshipowners.org/"><img src="/images/Logos2025/ASA2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 	<a href="https://www.bhp.com/"><img src="/images/Logos2025/BHP2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
@@ -35,5 +35,5 @@ variant: markdown
 	.content a {display:inline-block;}
 </style>
 
-<div>
+<div style="text-align: center; margin: auto; width: 100%;">
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
