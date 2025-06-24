@@ -159,9 +159,9 @@ Regional Head – Business Relations,
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Ashish Mediratta" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/AshishMediratta2025W.png" alt="Mr Ashish Mediratta" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Ashish Mediratta</strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-ashish-mediratta/" rel="noopener">Mr Ashish Mediratta</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Crewing</div>
 <div class="text-ellipsis speaker-company">Maersk</div>
 </div>
@@ -174,10 +174,10 @@ Regional Head – Business Relations,
 	
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/Speaker_Silhouette2.jpg" alt="Mr Adrian Dunlop" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/AdrianDunlop2025W.png" alt="Mr Adrian Dunlop" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong>Mr Adrian Dunlop</strong></div>
-<div class="text-ellipsis speaker-position">Head of Fleet Management</div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-adrian-dunlop/" rel="noopener">Mr Adrian Dunlop</a></strong></div>
+<div class="text-ellipsis speaker-position">Vessel Operations Lead (Director of Owning Companies)</div>
 <div class="text-ellipsis speaker-company">OceanInfinity</div>
 </div>
 </div>
