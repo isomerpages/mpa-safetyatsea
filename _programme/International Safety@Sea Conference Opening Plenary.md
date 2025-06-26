@@ -177,7 +177,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/SimonBennett2025W.png" alt="Mr Simon Bennett" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/Speakers/2025/simonbennett2025wb.png" alt="Mr Simon Bennett" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-simon-bennett/" rel="noopener">Mr Simon Bennett</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Secretary General</div>
