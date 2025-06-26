@@ -10,7 +10,7 @@ description: ""
 <h4>Capt Xiao Shouhai</h4>
 <p>Deputy Director (Marine Safety Investigation)<br>
 Ministry of Transport, Singapore<br>
-Transport Safety Investigation Bureau</p>
+Transport Safety Investigation Bureau of Singapore</p>
 <p>As the Deputy Director (Marine Safety Investigation), Transport Safety Investigation Bureau of Singapore (TSIB), Capt Xiao overseas the conduct of marine safety investigations (no blame investigations), into marine casualties that involve Singapore-registered ships, and foreign-flagged ships that are involved in a marine casualty within Singapore’s waters. TSIB is the air, marine and rail accidents and incidents investigation authority in Singapore.</p><p> 
 
 Capt Xiao spent 14 years at sea, sailed from a Deck Cadet to the Master. He also served as a Senior Marine Officer with the Maritime and Port Authority of Singapore prior to joining the TSIB in 2017. Capt Xiao attended a specialised training, Applied Marine Accident Investigation from Cranfield University, UK. Capt Xiao also attained his Masters in Maritime Studies and holds a Graduate Diploma in Maritime Law and Arbitration.</p><p> 
