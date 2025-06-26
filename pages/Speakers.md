@@ -124,12 +124,12 @@ variant: markdown
           <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4></a>
           <div class="speaker-position text-ellipsis">Deputy Director <br>(Marine Safety Investigation)</div>
           <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
-Transport Safety Investigation Bureau</div>
+Transport Safety Investigation Bureau of Singapore</div>
 			</div>			
       <div class="col is-4">
         <a href="/capt-sanjay-b-patil">
           <div><img src="/images/Speakers/2025/SanjayPatil2025W.png"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Sanjay B Patil</h4> </a>
+          <h4 class="speaker-name text-ellipsis">Capt Sanjay B. Patil</h4> </a>
           <div class="speaker-position text-ellipsis">Advisor HSSEQA</div>
           <div class="speaker-company text-ellipsis">MISC Marine</div>
       </div>
@@ -154,7 +154,7 @@ Transport Safety Investigation Bureau</div>
         <a href="/capt-john-lloyd">
           <div><img src="/images/Speakers/2025/JohnLLoyd2025W.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt John Lloyd</h4></a>
-          <div class="speaker-position text-ellipsis">Chief Executive Officer</div>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
           <div class="speaker-company text-ellipsis">The Nautical Institute</div>
       </div>
         <div class="col is-4">
@@ -186,7 +186,7 @@ Regional Head – Business Relations,</div>
 <div class="col is-4">
         <a href="/ms-sonia-b-malaluan">
           <div><img src="/images/Speakers/2025/SoniaMalaluan2025Wa.png"></div>
-          <h4 class="speaker-name text-ellipsis">Ms Sonia B Malaluan</h4></a>
+          <h4 class="speaker-name text-ellipsis">Ms Sonia B. Malaluan</h4></a>
           <div class="speaker-position text-ellipsis">Administrator</div>
           <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
       </div>
@@ -218,7 +218,7 @@ Regional Head – Business Relations,</div>
           <div><img src="/images/Speakers/2025/AdrianDunlop2025W.png"></div>
 				<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
           <div class="speaker-position text-ellipsis">Vessel Operations Lead<br>(Director of Owning Companies)</div>
-          <div class="speaker-company text-ellipsis">OceanInfinity</div>
+          <div class="speaker-company text-ellipsis">Ocean Infinity</div>
       </div>
 		</div>
 	</div>
