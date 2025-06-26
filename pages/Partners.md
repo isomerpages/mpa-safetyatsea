@@ -22,11 +22,11 @@ variant: markdown
 		<a href="https://www.miscgroup.com/"><img src="/images/Logos2025/MISC2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
 <a href="https://north-standard.com/"><img src="/images/Logos2025/NorthStandard2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
 	<a href="https://oceaninfinity.com/"><img src="/images/Logos2025/OceanInfinity2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
-	<a href="https://www.smou.org.sg/"><img src="/images/Logos2025/SMOU2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
+	<a href="https://www.smou.org.sg/"><img src="/images/Logos2025/SMOU2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
 	<a href="https://www.ssa.org.sg/"><img src="/images/Logos2025/SSA2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
-		<a href="https://www.nautinst.org/"><img src="/images/Logos2025/NauticalInstitute2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
-		<a href="https://www.nautinst.org/branch/singapore.html"><img src="/images/Logos2025/NauticalInstituteSG2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
-	<a href="https://www.mot.gov.sg/what-we-do/transport-investigations"><img src="/images/Logos2025/TSIBLogo2025.png" style="width:150px" class="img-fluid"></a>
+		<a href="https://www.nautinst.org/"><img src="/images/Logos2025/NauticalInstitute2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
+		<a href="https://www.nautinst.org/branch/singapore.html"><img src="/images/Logos2025/NauticalInstituteSG2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
+	<a href="https://www.mot.gov.sg/what-we-do/transport-investigations"><img src="/images/Logos2025/TSIBLogo2025a.png" style="width:150px" class="img-fluid"></a>
 	</p>
 </div>
 </div>
