@@ -158,7 +158,7 @@ variant: markdown
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-xiao-shouhai/" rel="noopener">Capt Xiao Shouhai</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Marine Safety Investigation)</div>
 <div class="text-ellipsis speaker-company">Ministry of Transport, Singapore<br>
-Transport Safety Investigation Bureau</div>
+Transport Safety Investigation Bureau of Singapore</div>
 </div>
 </div>
 </div>
@@ -167,7 +167,7 @@ Transport Safety Investigation Bureau</div>
 <div class="row">
 	<div class="col is-4"><img src="/images/Speakers/2025/SanjayPatil2025W.png" alt="Capt Sanjay B Patil" class="image-adjust"></div>
 <div class="col is-8">
-<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-sanjay-b-patil/" rel="noopener">Capt Sanjay B Patil</a></strong></div>
+<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-sanjay-b-patil/" rel="noopener">Capt Sanjay B. Patil</a></strong></div>
 <div class="text-ellipsis speaker-position">Advisor HSSEQA</div>
 <div class="text-ellipsis speaker-company">MISC Marine</div>
 </div>
