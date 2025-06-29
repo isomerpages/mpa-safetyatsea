@@ -10,8 +10,47 @@ variant: markdown
 	<p>Venue: The Southern Depot, Gillman Barracks (43 &amp; 47 Malan Road, Singapore 109443)</p>
 	<p>This forum for members of the pleasure craft community is brought to you by the MPA-Pleasure Craft Safety Work Group - one of four MPA-industry safety work groups under the National Maritime Safety at Sea Council (NMSSC).</p>
 	<p>The group focuses on improving and raising safety among pleasure craft operators in Singapore.</p>
-</div>
-<p><i>Programme and speaker lineup will be released shortly.</i></p>
+<p><table><tbody><tr><th style="text-align: center" colspan="2">Pleasure Craft Safety Forum<br>"Navigating the Seas Safely"</th></tr><tr><td width="30%">Time</td><td width="70%">Programme</td></tr><tr><td width="30%">14:30 - 15:00</td><td width="70%">Registration</td></tr><tr><td width="30%">15:05 - 15:25</td><td width="70%">Safe Passage Planning – Risk Assessment by Mr James Ng</td></tr><tr><td width="30%">15:25 - 15:45</td><td width="70%">Safe Navigation around common Grounding areas by Capt Sahwan, Senior Lecturer, Singapore Maritime Academy, Singapore Polytechnic</td></tr><tr><td width="30%">15:45 - 16:05</td><td width="70%">Vessel Safety: Fire &amp; Emergency Response by CPT Dan Lee, Community &amp; Corporate Officer, SCDF Marine Division, Singapore Civil Defence Force</td></tr><tr><td width="30%">16:05 - 16:20</td><td width="70%">Rescue Preparations &amp; Operations for Boaters in Distress by Mr Roy Soeigiarto</td></tr><tr><td width="30%">16:20 - 17:00</td><td width="70%">Panel Discussion with Speakers, moderated by Mr Terence Ho</td></tr><tr><td width="30%">17:00 - 18:00</td><td width="70%">Refreshments</td></tr><tr><td width="30%">18:00</td><td width="70%">End</td></tr>  
+</tbody></table>  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+	&nbsp;&nbsp;  
+&nbsp; &nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;</p>
 
 <div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
@@ -51,4 +90,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style>
+</style></div>
