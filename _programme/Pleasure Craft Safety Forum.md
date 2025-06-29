@@ -50,8 +50,7 @@ variant: markdown
 	&nbsp;&nbsp;  
 &nbsp; &nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;</p>
-
+&nbsp;&nbsp;</p></div>
 <div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
@@ -90,4 +89,4 @@ margin-top: 0.75rem;
     }
   .content a {text-decoration:none;}
 	.content h3 { margin-top: 1rem;}
-</style></div>
+</style>
