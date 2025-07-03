@@ -63,7 +63,7 @@ sections:
       subtitle: 17 Jul | 12:00 - 17:00
       id: infopic
       button: click here
-      url: /responder-plus-programme-rpp-maritime-workshops/
+      url: /responders-plus-programme-rpp-maritime-workshops/
       image: /images/Home 2025/HomePageIcon6.png
       alt: Image alt text
   - infopic:
