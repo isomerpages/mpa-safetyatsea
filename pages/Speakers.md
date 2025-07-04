@@ -265,8 +265,8 @@ Regional Head – Business Relations,</div>
 				 <a href="/capt-lee-jing-ru-dan/">
           <div><img src="/images/Speakers/2025/DanLee2025W.png"></div>
 				<h4 class="speaker-name text-ellipsis">Capt Lee Jing Ru, Dan</h4></a>
-          <div class="speaker-position text-ellipsis">Vessel Operations Lead<br>(Director of Owning Companies)</div>
-          <div class="speaker-company text-ellipsis">Ocean Infinity</div>
+          <div class="speaker-position text-ellipsis">Community &amp; Corporate Officer</div>
+          <div class="speaker-company text-ellipsis">SCDF Marine Division</div>
       </div>
 		</div>
 	</div>
