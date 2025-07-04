@@ -24,6 +24,7 @@ variant: markdown
 <a href="https://north-standard.com/"><img src="/images/Logos2025/NorthStandard2025.png" style="width:150px" class="img-fluid"></a>&nbsp;
 	<a href="https://oceaninfinity.com/"><img src="/images/Logos2025/OceanInfinity2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 	<a href="https://www.smou.org.sg/"><img src="/images/Logos2025/SMOU2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
+		<a href="https://www.sp.edu.sg/industry/centres/centre-of-excellence-in-maritime-safety"><img src="/images/Logos2025/SPCEMS2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 	<a href="https://www.ssa.org.sg/"><img src="/images/Logos2025/SSA2025.png" style="width:150px" class="img-fluid"> </a>&nbsp;
 		<a href="https://www.nautinst.org/"><img src="/images/Logos2025/NauticalInstitute2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
 		<a href="https://www.nautinst.org/branch/singapore.html"><img src="/images/Logos2025/NauticalInstituteSG2025a.png" style="width:150px" class="img-fluid"></a>&nbsp;
