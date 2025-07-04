@@ -248,11 +248,11 @@ Regional Head – Business Relations,</div>
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
         <div class="col is-4">
-        <a href="/dr-chen-jianning">
-          <div><img src="/images/Speakers/2025/ChenJianning2025W.png"></div>
-          <h4 class="speaker-name text-ellipsis">Dr Chen Jianning</h4></a>
-          <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
-          <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
+        <a href="/mr-james-ng">
+          <div><img src="/images/Speakers/2025/JamesNg2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr James Ng</h4></a>
+          <div class="speaker-position text-ellipsis">Loss Prevention Officer</div>
+          <div class="speaker-company text-ellipsis">Tindall Riley (Britannia) Singapore</div>
       </div>
         <div class="col is-4">
         <a href="/capt-ashok-srinivasan/">
