@@ -51,6 +51,210 @@ variant: markdown
 	</tr>  
 </tbody></table>  
 </p></div>
+
+<section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 14:30 - 15:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Registration</h4>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 15:05 - 15:25</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Safe Passage Planning – Risk Assessment</h4>
+<hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/JamesNg2025W.png" alt="Mr James Ng" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/mr-james-ng/" rel="noopener"><b>Mr James Ng</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Loss Prevention Officer
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Tindall Riley (Britannia) Singapore
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 15:25 - 15:45</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Safe Navigation around Common Grounding Areas</h4>
+<hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/SahwanOsman2025W.png" alt="Capt Sahwan Osman" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/capt-sahwan-osman/" rel="noopener"><b>Capt Sahwan Osman</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Senior Manager / Senior Lecturer (Singapore Maritime Academy)
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Singapore Polytechnic
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 10:45 - 11:05</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Marine Offshore Engineering, ITE</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/ChenJianning2025W.png" alt="Dr Chen Jianning" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/dr-chen-jianning/" rel="noopener"><b>Dr Chen Jianning</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Manager (Marine Offshore Engineering), <br>ITE College Central
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Institute of Technical Education (ITE)
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+	
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 11:05 - 11:25</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Yinson GreenTech</h4>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+	
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 11:25 - 12:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Panel Discussion with Speakers</h4>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+	
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 12:00 - 13:30</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Lunch Reception</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>
+
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 13:30</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">End</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>	
+	
+</section>
+
+
 <div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
