@@ -143,7 +143,57 @@ variant: markdown
       </div>
     </div>
   </div>
-		
+
+	  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 11:05 - 11:25</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Yinson GreenTech</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>
+	
+	  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 11:25 - 12:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Panel Discussion with Speakers</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>
+	
+	  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 10:25 - 10:45</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Singapore Police Coast Guard</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>
 </section>
 
 <div>
