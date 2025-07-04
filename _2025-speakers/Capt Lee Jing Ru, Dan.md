@@ -5,12 +5,13 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/MaryLiew.png"></div>
+<div class="col is-3"><img src="/images/Speakers/2025/DanLee2025W.png"></div>
 <div class="col is-9 speaker-details">
-<h4>Ms Mary Liew</h4>
-<p>General Secretary<br>
-Singapore Maritime Officers' Union</p>
-<p>Ms Mary Liew is the General Secretary of the Singapore Maritime Officers’ Union (SMOU). She was elected as the first female General Secretary in 2013. She is also the director of Wavelink Co-operative Ltd, a social enterprise supporting SMOU members. Ms Liew served as President of the Singapore National Trades Union Congress (SNTUC) from 2015 to 2023 and sits on key national boards, including the Maritime and Port Authority, Industrial Arbitration Court, and several tripartite committees. She was a Nominated Member of Parliament from 2012 to 2014 and served on the CPF Board, National Jobs Council, Future Economy Council, and National Wages Council. Internationally, she was the first Southeast Asian woman elected to the International Transport Workers’ Federation Executive Board in 2010 and now serves as its Vice-President. She also holds leadership roles in the International Labour Organization and International Trade Union Confederation (ITUC and ITUC-Asia Pacific).
+<h4>Capt Lee Jing Ru, Dan</h4>
+<p>Community &amp; Corporate Officer<br>
+	SCDF Marine Division</p>
+<p>Capt Dan Lee serves as the Community &amp; Corporate Officer of Marine Division, Singapore Civil Defence Force, bringing over a decade of distinguished service in both operational and administrative capacities. In his current role, he steers engagement activities with key maritime stakeholders, including the Maritime &amp; Port Authority of Singapore (MPA), Republic of Singapore Navy (RSN), Immigration &amp; Checkpoints Authority (ICA), and various maritime community partners such as marinas, boatel operators and fish farmers.</p><p>
+As the lead for SCDF's Responders Plus Programme (RPP) in the maritime sector, Capt Dan specialises in imparting knowledge and sharing in basic first aid, fire safety, and CPR-AED. His dedicated efforts in fostering partnerships and knowledge transfer have significantly enhanced the emergency preparedness and response capabilities of Singapore's maritime community.
  </p>
 </div>
 </div>
