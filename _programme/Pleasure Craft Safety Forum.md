@@ -153,23 +153,23 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>18 JUL | 10:45 - 11:05</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Presentation by Marine Offshore Engineering, ITE</h4>
+                <div class="programme-time"><b>18 JUL | 15:45 - 16:05</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Vessel Safety: Fire &amp; Emergency Response</h4>
                 <hr class="my-3 border-primary">
                 <div class="speakers px-2">
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/ChenJianning2025W.png" alt="Dr Chen Jianning" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/DanLee2025W.png" alt="Capt Dan Lee" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <a class="speaker-name text-ellipsis" href="/dr-chen-jianning/" rel="noopener"><b>Dr Chen Jianning</b></a>
+                            <a class="speaker-name text-ellipsis" href="/capt-lee-jing-ru-dan/" rel="noopener"><b>Capt Lee Jing Ru, Dan</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
-                            Manager (Marine Offshore Engineering), <br>ITE College Central
+                            Community &amp; Corporate Officer
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Institute of Technical Education (ITE)
+                            SCDF Marine Division
                           </div>
                         </div>
                       </div>
