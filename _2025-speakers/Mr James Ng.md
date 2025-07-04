@@ -9,7 +9,7 @@ description: ""
 <div class="col is-9 speaker-details">
 <h4>Mr James Ng</h4>
 <p>Loss Prevention Officer<br>
-Tindall Riley (Britannia) Singapore Pte Ltd</p>
+Tindall Riley (Britannia) Singapore</p>
 <p>Mr James Ng started his career as a Naval Officer in the Republic of Singapore Navy. After leaving the Navy, he developed broad experience in areas such as marine surveying and worked as an ISM/ISPS consultant. He later served as a Harbour Pilot with PSA Marine Pte Ltd, before spending eight years with the Maritime and Port Authority of Singapore, where he managed marine operations, emergency preparedness and security for the Port of Singapore.</p><p>
 
 Before joining Britannia P&amp;I, James was a Business &amp; Marine Manager at a maritime law firm, handling marine casualty investigations.
