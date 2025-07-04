@@ -54,6 +54,97 @@ variant: markdown
 <p><i>Speaker lineup will be released shortly.</i></p>
 </div>
 
+<section>
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 09:30 - 10:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Registration</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+	</div>
+
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 10:05 - 10:25</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Transport Safety Investigation Bureau, Ministry of Transport</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+	</div>
+
+  <div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 10:25 - 10:45</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Singapore Police Coast Guard</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		</div>
+
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 10:45 - 11:05</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Presentation by Marine Offshore Engineering, ITE</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/ChenJianning2025W.png" alt="Dr Chen Jianning" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <b>Dr Chen Jianning</b>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Manager (Marine Offshore Engineering), <br>ITE College Central
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Institute of Technical Education (ITE)
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+		
+</section>
 
 <div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
