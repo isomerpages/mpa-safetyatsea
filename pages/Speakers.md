@@ -255,11 +255,11 @@ Regional Head – Business Relations,</div>
           <div class="speaker-company text-ellipsis">Tindall Riley (Britannia) Singapore</div>
       </div>
         <div class="col is-4">
-        <a href="/capt-ashok-srinivasan/">
-          <div><img src="/images/Speakers/2025/AshokSrinivasan2025W.png"></div>
-          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4></a>
-          <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
-          <div class="speaker-company text-ellipsis">BIMCO</div>
+        <a href="/capt-sahwan-osman/">
+          <div><img src="/images/Speakers/2025/SahwanOsman2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Sahwan Osman</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Manager / Senior Lecturer<br>(Singapore Maritime Academy)</div>
+          <div class="speaker-company text-ellipsis">Singapore Polytechnic</div>
       </div>
     </div>
 	</div>
