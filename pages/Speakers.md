@@ -225,6 +225,54 @@ Regional Head – Business Relations,</div>
 	</section>
 
 <div>
+  <h3>Harbour Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/dr-chen-jianning">
+          <div><img src="/images/Speakers/2025/ChenJianning2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Dr Chen Jianning</h4></a>
+          <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
+          <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
+      </div>
+    </div>
+	</div>
+	</section>	
+	
+<div>
+  <h3>Pleasure Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/mr-james-ng">
+          <div><img src="/images/Speakers/2025/JamesNg2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr James Ng</h4></a>
+          <div class="speaker-position text-ellipsis">Loss Prevention Officer</div>
+          <div class="speaker-company text-ellipsis">Tindall Riley (Britannia) Singapore</div>
+      </div>
+        <div class="col is-4">
+        <a href="/capt-sahwan-osman/">
+          <div><img src="/images/Speakers/2025/SahwanOsman2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Sahwan Osman</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Manager / Senior Lecturer<br>(Singapore Maritime Academy)</div>
+          <div class="speaker-company text-ellipsis">Singapore Polytechnic</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/capt-lee-jing-ru-dan/">
+          <div><img src="/images/Speakers/2025/DanLee2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Lee Jing Ru, Dan</h4></a>
+          <div class="speaker-position text-ellipsis">Community &amp; Corporate Officer</div>
+          <div class="speaker-company text-ellipsis">SCDF Marine Division</div>
+      </div>
+		</div>
+	</div>
+	</section>
+
+<div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 <style type="text/css">
