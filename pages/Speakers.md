@@ -225,6 +225,47 @@ Regional Head – Business Relations,</div>
 	</section>
 
 <div>
+  <h3>Harbour Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/dr-chen-jianning">
+          <div><img src="/images/Speakers/2025/ChenJianning2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Dr Chen Jianning</h4></a>
+          <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
+          <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
+      </div>
+    </div>
+	</div>
+	</section>	
+	
+<div>
+  <h3>Pleasure Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/dr-chen-jianning">
+          <div><img src="/images/Speakers/2025/ChenJianning2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Dr Chen Jianning</h4></a>
+          <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
+          <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
+      </div>
+        <div class="col is-4">
+        <a href="/capt-ashok-srinivasan/">
+          <div><img src="/images/Speakers/2025/AshokSrinivasan2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4></a>
+          <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
+          <div class="speaker-company text-ellipsis">BIMCO</div>
+      </div>
+    </div>
+	</div>
+	</section>		
+
+<div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 <style type="text/css">
