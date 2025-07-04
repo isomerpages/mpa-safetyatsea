@@ -260,10 +260,17 @@ Regional Head – Business Relations,</div>
           <h4 class="speaker-name text-ellipsis">Capt Sahwan Osman</h4></a>
           <div class="speaker-position text-ellipsis">Senior Manager / Senior Lecturer<br>(Singapore Maritime Academy)</div>
           <div class="speaker-company text-ellipsis">Singapore Polytechnic</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/capt-lee-jing-ru-dan/">
+          <div><img src="/images/Speakers/2025/DanLee2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Lee Jing Ru, Dan</h4></a>
+          <div class="speaker-position text-ellipsis">Vessel Operations Lead<br>(Director of Owning Companies)</div>
+          <div class="speaker-company text-ellipsis">Ocean Infinity</div>
       </div>
-    </div>
+		</div>
 	</div>
-	</section>		
+	</section>
 
 <div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
