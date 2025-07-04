@@ -2,6 +2,7 @@ collections:
   2025-speakers:
     output: true
     order:
+      - Capt Sahwan Osman.md
       - Mr James Ng.md
       - Dr Chen Jianning.md
       - Mr Arsenio Dominguez.md
