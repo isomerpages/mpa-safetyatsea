@@ -123,7 +123,7 @@ variant: markdown
 <div class="col is-4"><img src="/images/Speakers/2025/ChenJianning2025W.png" alt="Dr Chen Jianning" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                            <b>Dr Chen Jianning</b>
+                            <a class="speaker-name text-ellipsis" href="/dr-chen-jianning/" rel="noopener"><b>Dr Chen Jianning</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Manager (Marine Offshore Engineering), <br>ITE College Central
