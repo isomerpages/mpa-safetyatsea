@@ -191,8 +191,8 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>18 JUL | 11:05 - 11:25</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Presentation by Yinson GreenTech</h4>
+                <div class="programme-time"><b>18 JUL | 16:05 - 16:20</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Rescue Preparations &amp; Operations for Boaters in Distress by Mr Roy Soeigiarto</h4>
                           </div>
                         </div>
                       </div>
@@ -208,8 +208,8 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>18 JUL | 11:25 - 12:00</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Panel Discussion with Speakers</h4>
+                <div class="programme-time"><b>18 JUL | 16:20 - 17:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Panel Discussion with Speakers, moderated by Mr Terence Ho</h4>
                           </div>
                         </div>
                       </div>
@@ -225,8 +225,8 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>18 JUL | 12:00 - 13:30</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Lunch Reception</h4>
+                <div class="programme-time"><b>18 JUL | 17:00 - 18:00</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Refreshments</h4>
             </div>
           </div>
         </div>
@@ -242,7 +242,7 @@ variant: markdown
           <div class="col is-12">
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
-                <div class="programme-time"><b>18 JUL | 13:30</b>&nbsp;<b></b></div>
+                <div class="programme-time"><b>18 JUL | 18:00</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">End</h4>
             </div>
           </div>
