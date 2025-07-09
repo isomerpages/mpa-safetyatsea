@@ -235,7 +235,7 @@ Regional Head – Business Relations,</div>
           <div><img src="/images/Speakers/2025/JamaludinJaffar2025W.png"></div>
 				<h4 class="speaker-name text-ellipsis">Capt Jamaludin Jaffar</h4></a>
           <div class="speaker-position text-ellipsis">Senior Investigator</div>
-          <div class="speaker-company text-ellipsis">Transport Safety Investigation Bureau of Singapore</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore</div>
 			</div>
         <div class="col is-4">
         <a href="/dr-chen-jianning">
@@ -297,7 +297,7 @@ Regional Head – Business Relations,</div>
           <div><img src="/images/Speakers/2025/DorothySim2025W.png"></div>
           <h4 class="speaker-name text-ellipsis">Capt Dorothy Sim</h4></a>
           <div class="speaker-position text-ellipsis">Investigator (Marine Safety Investigation)</div>
-          <div class="speaker-company text-ellipsis">Transport Safety Investigation Bureau of Singapore</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore</div>
 			</div>
 			<div class="col is-4">
 				 <a href="/capt-muhammad-kamal-bin-ahmad/">
