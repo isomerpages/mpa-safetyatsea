@@ -130,7 +130,7 @@ description: ""
                             Investigator (Marine Safety Investigation)
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            Transport Safety Investigation Bureau of Singapore
+                            Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore
                           </div>
                         </div>
                       </div>
