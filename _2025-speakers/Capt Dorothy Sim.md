@@ -9,7 +9,7 @@ description: ""
 <div class="col is-9 speaker-details">
 <h4>Capt Dorothy Sim</h4>
 <p>Investigator (Marine Safety Investigation)<br>
-Transport Safety Investigation Bureau of Singapore</p>
+Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore</p>
 <p>Capt Dorothy Sim is a Master Mariner with over 15 years of experience across vessel operations, maritime administration, education and safety investigations. She sailed on oil and chemical tankers before starting her shore career with the Maritime and Port Authority of Singapore, as a Watch Manager in Vessel Traffic Management, then contributing to the LNG bunkering standards and later works on the Safety@Sea Singapore campaign. Dorothy also lectured at the Singapore Maritime Academy, delivering core modules in port and tanker operations, bunkering and alternative fuels safety to both tertiary students and industry professionals. Currently at TSIB, Dorothy conducts marine safety investigations, applying data analysis to enhance learning from incidents. 
  </p>
 </div>
