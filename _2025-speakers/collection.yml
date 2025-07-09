@@ -2,10 +2,6 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Capt Muhammad Kamal Bin Ahmad.md
-      - Mr Daniel Ong.md
-      - Capt Dorothy Sim.md
-      - Capt Jamaludin Jaffar.md
       - Mr Arsenio Dominguez.md
       - Mr Ishak Ismail.md
       - Mr Simon Bennett.md
@@ -28,7 +24,11 @@ collections:
       - Mr James Forsdyke.md
       - Mr Ashish Mediratta.md
       - Mr Adrian Dunlop.md
+      - Capt Jamaludin Jaffar.md
       - Dr Chen Jianning.md
+      - Mr Daniel Ong.md
       - Mr James Ng.md
       - Capt Sahwan Osman.md
       - Capt Lee Jing Ru, Dan.md
+      - Capt Dorothy Sim.md
+      - Capt Muhammad Kamal Bin Ahmad.md
