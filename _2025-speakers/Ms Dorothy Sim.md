@@ -7,10 +7,10 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/2025/DorothySim2025W.png"></div>
 <div class="col is-9 speaker-details">
-<h4>Ms Mary Liew</h4>
-<p>General Secretary<br>
-Singapore Maritime Officers' Union</p>
-<p>Ms Mary Liew is the General Secretary of the Singapore Maritime Officers’ Union (SMOU). She was elected as the first female General Secretary in 2013. She is also the director of Wavelink Co-operative Ltd, a social enterprise supporting SMOU members. Ms Liew served as President of the Singapore National Trades Union Congress (SNTUC) from 2015 to 2023 and sits on key national boards, including the Maritime and Port Authority, Industrial Arbitration Court, and several tripartite committees. She was a Nominated Member of Parliament from 2012 to 2014 and served on the CPF Board, National Jobs Council, Future Economy Council, and National Wages Council. Internationally, she was the first Southeast Asian woman elected to the International Transport Workers’ Federation Executive Board in 2010 and now serves as its Vice-President. She also holds leadership roles in the International Labour Organization and International Trade Union Confederation (ITUC and ITUC-Asia Pacific).
+<h4>Capt Dorothy Sim</h4>
+<p>Investigator (Marine Safety Investigation)<br>
+Transport Safety Investigation Bureau of Singapore (TSIB)</p>
+<p>Capt Dorothy Sim is a Master Mariner with over 15 years of experience across vessel operations, maritime administration, education and safety investigations. She sailed on oil and chemical tankers before starting her shore career with the Maritime and Port Authority of Singapore, as a Watch Manager in Vessel Traffic Management, then contributing to the LNG bunkering standards and later works on the Safety@Sea Singapore campaign. Dorothy also lectured at the Singapore Maritime Academy, delivering core modules in port and tanker operations, bunkering and alternative fuels safety to both tertiary students and industry professionals. Currently at TSIB, Dorothy conducts marine safety investigations, applying data analysis to enhance learning from incidents. 
  </p>
 </div>
 </div>
