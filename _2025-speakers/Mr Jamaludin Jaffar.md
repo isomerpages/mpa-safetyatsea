@@ -7,10 +7,10 @@ description: ""
 <div class="row">
 <div class="col is-3"><img src="/images/Speakers/2025/JamaludinJaffar2025W.png"></div>
 <div class="col is-9 speaker-details">
-<h4>Ms Mary Liew</h4>
-<p>General Secretary<br>
-Singapore Maritime Officers' Union</p>
-<p>Ms Mary Liew is the General Secretary of the Singapore Maritime Officers’ Union (SMOU). She was elected as the first female General Secretary in 2013. She is also the director of Wavelink Co-operative Ltd, a social enterprise supporting SMOU members. Ms Liew served as President of the Singapore National Trades Union Congress (SNTUC) from 2015 to 2023 and sits on key national boards, including the Maritime and Port Authority, Industrial Arbitration Court, and several tripartite committees. She was a Nominated Member of Parliament from 2012 to 2014 and served on the CPF Board, National Jobs Council, Future Economy Council, and National Wages Council. Internationally, she was the first Southeast Asian woman elected to the International Transport Workers’ Federation Executive Board in 2010 and now serves as its Vice-President. She also holds leadership roles in the International Labour Organization and International Trade Union Confederation (ITUC and ITUC-Asia Pacific).
+<h4>Capt Jamaludin Jaffar</h4>
+<p>Senior Investigator<br>
+Transport Safety Investigation Bureau of Singapore</p>
+<p>Capt Jamaludin Jaffar is a Senior Marine Safety Investigator with the Transport Safety Investigation Bureau (TSIB) of Singapore. He brings over 30 years of maritime experience, including deep-sea command and port operations. Before joining TSIB, he served as a Senior Marine Surveyor with the Maritime and Port Authority of Singapore (MPA), overseeing the seaworthiness of Singapore-registered ships worldwide. At TSIB, he leads investigations into serious marine occurrences such as collisions, fires, and groundings. He is accredited under the IMO Model Course 3.11 and actively contributes to the development of investigation procedures and training. Capt Jamaludin is recognised for his operational expertise and his commitment to maritime safety through independent, no-blame investigations.
  </p>
 </div>
 </div>
