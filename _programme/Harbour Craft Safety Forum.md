@@ -40,6 +40,21 @@ variant: markdown
               <div class="p-4">
                 <div class="programme-time"><b>18 JUL | 10:05 - 10:25</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Presentation by Transport Safety Investigation Bureau, Ministry of Transport</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/JamaludinJaffar2025W.png" alt="Capt Jamaludin Jaffar" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/capt-jamaludin-jaffar/" rel="noopener"><b>Capt Jamaludin Jaffar</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            Senior Investigator
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Transport Safety Investigation Bureau of Singapore
                           </div>
                         </div>
                       </div>
@@ -47,6 +62,12 @@ variant: markdown
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="bp-container is-fluid">
     <div class="row">
@@ -112,6 +133,21 @@ variant: markdown
               <div class="p-4">
                 <div class="programme-time"><b>18 JUL | 11:05 - 11:25</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Presentation by Yinson GreenTech</h4>
+                <hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/DanielOng2025W.png" alt="Mr Daniel Ong" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/mr-daniel-ong/" rel="noopener"><b>Mr Daniel Ong</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                            HSEQ Manager, marinEV
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Yinson GreenTech
                           </div>
                         </div>
                       </div>
@@ -119,6 +155,12 @@ variant: markdown
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	
 <div class="bp-container is-fluid">
     <div class="row">
