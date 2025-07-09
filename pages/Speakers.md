@@ -287,6 +287,30 @@ Regional Head – Business Relations,</div>
 	</section>
 
 <div>
+  <h3>ARFO Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/capt-dorothy-sim/">
+          <div><img src="/images/Speakers/2025/DorothySim2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Dorothy Sim</h4></a>
+          <div class="speaker-position text-ellipsis">Investigator (Marine Safety Investigation)</div>
+          <div class="speaker-company text-ellipsis">Transport Safety Investigation Bureau of Singapore</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/capt-muhammad-kamal-bin-ahmad/">
+          <div><img src="/images/Speakers/2025/Kamal2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Muhammad Kamal Bin Ahmad</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Marine Manager (VTM)</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singaporen</div>
+      </div>
+		</div>
+	</div>
+	</section>
+
+<div>
 <br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 <style type="text/css">
