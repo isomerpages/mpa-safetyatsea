@@ -8,9 +8,9 @@ description: ""
 <div class="col is-3"><img src="/images/Speakers/2025/Kamal2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Muhammad Kamal Bin Ahmad</h4>
-<p>Senior Investigator<br>
-Transport Safety Investigation Bureau of Singapore</p>
-<p>Capt Jamaludin Jaffar is a Senior Marine Safety Investigator with the Transport Safety Investigation Bureau (TSIB) of Singapore. He brings over 30 years of maritime experience, including deep-sea command and port operations. Before joining TSIB, he served as a Senior Marine Surveyor with the Maritime and Port Authority of Singapore (MPA), overseeing the seaworthiness of Singapore-registered ships worldwide. At TSIB, he leads investigations into serious marine occurrences such as collisions, fires, and groundings. He is accredited under the IMO Model Course 3.11 and actively contributes to the development of investigation procedures and training. Capt Jamaludin is recognised for his operational expertise and his commitment to maritime safety through independent, no-blame investigations.
+<p>Senior Marine Manager (VTM)<br>
+Maritime and Port Authority of Singapore</p>
+<p>Capt Kamal is a Singaporean maritime professional with over 20 years of industry experience spanning shipboard operations, offshore services in the oil and gas sector, and maritime safety management. He currently serves at the Maritime and Port Authority of Singapore (MPA), where he supports applied research and innovation efforts for Vessel Traffic Information Systems (VTIS), oversees governance and compliance through ISO management and SOP reviews, and drives operational assurance, data stewardship, and business continuity planning. As a key liaison between VTIS operations and technical stakeholders, he ensures that operational requirements are effectively integrated into complex maritime systems. Prior to MPA, Kamal held senior roles at CMA CGM and Bourbon Offshore Asia, specialising in marine safety, dynamic positioning, and quality management systems. 
  </p>
 </div>
 </div>
