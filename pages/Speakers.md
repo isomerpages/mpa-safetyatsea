@@ -230,6 +230,13 @@ Regional Head – Business Relations,</div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
+			      <div class="col is-4">
+        <a href="/capt-jamaludin-jaffar/">				
+          <div><img src="/images/Speakers/2025/JamaludinJaffar2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Jamaludin Jaffar</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Investigator</div>
+          <div class="speaker-company text-ellipsis">Transport Safety Investigation Bureau of Singapore</div>
+			</div>
         <div class="col is-4">
         <a href="/dr-chen-jianning">
           <div><img src="/images/Speakers/2025/ChenJianning2025W.png"></div>
@@ -237,6 +244,13 @@ Regional Head – Business Relations,</div>
           <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
           <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
       </div>
+			      <div class="col is-4">
+        <a href="/mr-daniel-ong/">				
+          <div><img src="/images/Speakers/2025/DanielOng2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Daniel Ong</h4></a>
+          <div class="speaker-position text-ellipsis">HSEQ Manager, marinEV</div>
+          <div class="speaker-company text-ellipsis">Yinson GreenTech</div>
+			</div>
     </div>
 	</div>
 	</section>	
