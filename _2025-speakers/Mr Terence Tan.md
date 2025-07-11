@@ -10,7 +10,7 @@ description: ""
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr Terence Tan</h4>
-<p>Senior Manager, Safety &amp; Security<br>
+<p>Senior Manager (Safety &amp; Security)<br>
 Singapore Cruise Centre
 </p>
 <p>Currently serving as the Safety and Security Manager at SCCPL, Terence Tan is responsible for leading a small team in forward planning, conducting regular drills and table-top exercises, coordinating crisis response efforts, and ensuring compliance to local security and safety regulations, such as the ISPS standards and WSH Act.</p>
