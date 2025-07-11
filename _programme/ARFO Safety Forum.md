@@ -83,16 +83,16 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/silhouette-img.png" alt="Mr Terence Tan" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/Speakers/2025/TerenceTan2025W.png" alt="Mr Terence Tan" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
-                           <b>Mr Terence Tan</b>
+                           <a class="speaker-name text-ellipsis" href="/mr-terence-tan/" rel="noopener"><b>Mr Terence Tan</b></a>
                           </div>
                           <div class="text-ellipsis speaker-position">
                             Senior Manager (Safety and Security)
                           </div>
                           <div class="text-ellipsis speaker-company">
-                            SCCPL
+                            Singapore Cruise Centre
                           </div>
                         </div>
                       </div>
