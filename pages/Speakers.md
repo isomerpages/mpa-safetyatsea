@@ -281,6 +281,15 @@ Regional Head – Business Relations,</div>
 				<h4 class="speaker-name text-ellipsis">Capt Lee Jing Ru, Dan</h4></a>
           <div class="speaker-position text-ellipsis">Community &amp; Corporate Officer</div>
           <div class="speaker-company text-ellipsis">SCDF Marine Division</div>
+			</div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-terence-ho">
+          <div><img src="/images/Speakers/2025/TerenceHo2025W.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Terence Ho</h4></a>
+          <div class="speaker-position text-ellipsis">Contract Manager</div>
+          <div class="speaker-company text-ellipsis">Tian San Shipping</div>
       </div>
 		</div>
 	</div>
