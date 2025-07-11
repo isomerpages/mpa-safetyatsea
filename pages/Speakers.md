@@ -292,6 +292,13 @@ Regional Head – Business Relations,</div>
 <section class="bp-section font">
   <div class="bp-container is-fluid has-text-centered">
     <div class="row">
+						<div class="col is-4">
+				 <a href="/mr-terence-tan/">
+          <div><img src="/images/Speakers/2025/TerenceTan2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Terence Tan</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Manager (Safety &amp; Security)</div>
+          <div class="speaker-company text-ellipsis">Singapore Cruise Centre</div>
+      </div>
         <div class="col is-4">
         <a href="/capt-dorothy-sim/">
           <div><img src="/images/Speakers/2025/DorothySim2025W.png"></div>
@@ -304,7 +311,7 @@ Regional Head – Business Relations,</div>
           <div><img src="/images/Speakers/2025/Kamal2025W.png"></div>
 				<h4 class="speaker-name text-ellipsis">Capt Muhammad Kamal Bin Ahmad</h4></a>
           <div class="speaker-position text-ellipsis">Senior Marine Manager (VTM)</div>
-          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singaporen</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
       </div>
 		</div>
 	</div>
