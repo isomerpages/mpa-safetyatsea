@@ -187,13 +187,35 @@ variant: markdown
               <div class="p-4">
                 <div class="programme-time"><b>18 JUL | 16:20 - 17:00</b>&nbsp;<b></b></div>
                 <h4 class="programme-title">Panel Discussion with Speakers, moderated by Mr Terence Ho</h4>
+<hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/TerenceHo2025W.png" alt="Mr TerenceHo" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/mr-terence-ho/" rel="noopener"><b>Mr Terence Ho</b></a>
                           </div>
+                          <div class="text-ellipsis speaker-position">
+                            Contract Manager
+                          </div>
+                          <div class="text-ellipsis speaker-company">
+                            Tian San Shipping
+                          </div>
+<div class="speaker-role text-ellipsis text-muted"><small>Moderator</small></div>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	
 <div class="bp-container is-fluid">
     <div class="row">
