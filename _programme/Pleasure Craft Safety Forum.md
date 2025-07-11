@@ -30,6 +30,23 @@ variant: markdown
                 </div>
               </div>
 
+<div class="bp-container is-fluid">
+    <div class="row">
+      <div class="col is-full"> 
+        <div class="row">
+          <div class="col is-12">
+            <div class="border bg-light h-100 position-relative">
+              <div class="p-4">
+                <div class="programme-time"><b>18 JUL | 15:00 - 15:05</b>&nbsp;<b></b></div>
+                <h4 class="programme-title">Welcome Remarks by Pleasure Craft Safety Work Group Co-Chair</h4>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+	
   <div class="bp-container is-fluid">
     <div class="row">
       <div class="col is-full"> 
