@@ -284,6 +284,13 @@ Regional Head – Business Relations,</div>
 			</div>
     </div>
     <div class="row">
+						<div class="col is-4">
+				 <a href="/mr-roy-soeigiarto/">
+          <div><img src="/images/Speakers/2025/RoySoeigiarto2025W.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Roy Soeigiarto</h4></a>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Kairos Strategic</div>
+			</div>
       <div class="col is-4">
         <a href="/mr-terence-ho">
           <div><img src="/images/Speakers/2025/TerenceHo2025W.png"></div>

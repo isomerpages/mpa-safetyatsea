@@ -169,7 +169,21 @@ variant: markdown
             <div class="border bg-light h-100 position-relative">
               <div class="p-4">
                 <div class="programme-time"><b>18 JUL | 16:05 - 16:20</b>&nbsp;<b></b></div>
-                <h4 class="programme-title">Rescue Preparations &amp; Operations for Boaters in Distress by Mr Roy Soeigiarto</h4>
+                <h4 class="programme-title">Rescue Preparations &amp; Operations for Boaters in Distress</h4>
+<hr class="my-3 border-primary">
+                <div class="speakers px-2">
+                  <div class="row">
+                    <div class="col is-6 prog-speaker">
+                      <div class="row">
+<div class="col is-4"><img src="/images/Speakers/2025/RoySoeigiarto2025W.png" alt="Mr Roy Soeigiarto" class="image-adjust"></div>
+                        <div class="col is-8">
+                          <div class="speaker-name text-ellipsis">
+                            <a class="speaker-name text-ellipsis" href="/mr-roy-soeigiarto/" rel="noopener"><b>Mr Roy Soeigiarto</b></a>
+                          </div>
+                          <div class="text-ellipsis speaker-position">
+                          Managing Director
+                          </div>
+                          <div class="text-ellipsis speaker-company">Kairos Strategic
                           </div>
                         </div>
                       </div>
@@ -177,6 +191,12 @@ variant: markdown
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 	
 <div class="bp-container is-fluid">
     <div class="row">
