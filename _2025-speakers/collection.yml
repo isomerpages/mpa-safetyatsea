@@ -2,7 +2,6 @@ collections:
   2025-speakers:
     output: true
     order:
-      - Mr Roy Soeigiarto.md
       - Mr Arsenio Dominguez.md
       - Mr Ishak Ismail.md
       - Mr Simon Bennett.md
@@ -32,6 +31,7 @@ collections:
       - Capt Sahwan Osman.md
       - Capt Lee Jing Ru, Dan.md
       - Mr Terence Ho.md
+      - Mr Roy Soeigiarto.md
       - Mr Terence Tan.md
       - Capt Dorothy Sim.md
       - Capt Muhammad Kamal Bin Ahmad.md
