@@ -8,7 +8,7 @@ description: ""
 <div class="col is-3"><img src="/images/Speakers/2025/RoySoeigiarto2025W.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Roy Soeigiarto</h4> 
-<p>Business Owner</p>
+<p>Managing Director<br> Kairos Strategic</p>
 <p>Mr Roy Soeigiarto is a business owner specializing in the distribution of polyethylene rotomold boats, small inflatable boats and rigid hull inflatable boats (RHIBs) in Asia.</p><p>
 
 These crafts play critical roles in tourism, safety, security and emergency applications.</p><p>
