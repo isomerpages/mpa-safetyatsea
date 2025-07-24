@@ -79,6 +79,12 @@ Senior Deputy Director (Shipping)</div>
 <div class="text-ellipsis speaker-position">Loss Prevention Officer</div>
 <div class="text-ellipsis speaker-company mb-3">Tindall Riley (Britannia) Singapore</div><br>
 
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Sahwan Osman's Presentation Slides:</strong> 
+	<a href="/files/Presentation 2025/PCSF_Capt_Sahwan_Osman_Singapore_Polytechnic.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Senior Manager / Senior Lecturer (Singapore Maritime Academy)</div>
+<div class="text-ellipsis speaker-company mb-3">Singapore Polytechnic</div><br>	
+	
+	
  <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Roy Soeigiarto’s Presentation Slides:</strong> 
 	<a href="/files/Presentation 2025/PCSF_Mr_Roy_Soeigiarto_Kairos_Strategic.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
