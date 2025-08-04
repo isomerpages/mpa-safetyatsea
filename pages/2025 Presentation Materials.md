@@ -37,7 +37,11 @@ description: ""
 <div class="text-ellipsis speaker-company mb-3">The Nautical Institute</div>
 <br>
 
-
+<div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Darrick Leow’s Presentation Slides:</strong> 
+	<a href="/files/Presentation 2025/MrDarrickLeow_PresentationSlides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+<div class="text-ellipsis speaker-position">Chair, Working Group under IMO’s Sub-Committee on Human Element, <br>Training and Watchkeeping (HTW),<br>  
+Senior Deputy Director (Shipping)</div>
+<div class="text-ellipsis speaker-company mb-3">Maritime and Port Authority of Singapore</div><br>
 </div>
 
 <div>
