@@ -4,7 +4,8 @@ title: International Safety@Sea Week 2025
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Registration  for IS@S Week 2025 is now closed.
+notification: Click <a href="/2025-speakers-presentation-materials/">here</a> to
+  download speakers’ slides.
 sections:
   - hero:
       background: /images/HOME-BANNER4.jpg

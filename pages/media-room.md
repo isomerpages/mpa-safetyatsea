@@ -6,6 +6,15 @@ variant: markdown
 <div class="row mx-0">
 <div class="col is-12 mx-auto text-center">
 
+<h4 class="mb-4 text-dark">PRESS RELEASE 2025</h4>
+<p class="mt-4">
+<span style="text-decoration: underline;">
+<span style="color: #5c1d5e;">
+<a style="color: #993366; text-decoration: underline;" target="_new" href="https://www.mpa.gov.sg/media-centre/details/singapore-strengthens-maritime-safety-with-multi-agency-chemical-spill-exercise-and-safety-forums-at-international-safety-sea-week-2025">Singapore Strengthens Maritime Safety with Multi-Agency Chemical Spill Exercise and Safety Forums at International Safety@Sea Week 2025
+</a>
+</span>
+</span>
+</p>
 
 <h4 class="mb-4 text-dark">PRESS RELEASE 2024</h4>
 <p class="mt-4">
