@@ -16,6 +16,18 @@ variant: markdown
 </span>
 </p>
 
+<h4 class="mb-4 text-dark">2025 VIDEO GALLERY</h4>
+<div class="row">
+<div class="col is-6 mb-4">
+<div class="bp-youtube">
+<iframe allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/053r6i-TMe8?si=2Gp9b_0o8NKNVqYH" class="embed-responsive-item"></iframe>
+</div>
+<h4 class="text-info">Roundup of International Safety@Sea Week 2025</h4>
+<a class="mb-0 mt-0" href="/2025-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
+</div></div>	
+
+<hr class="my-5">		
+	
 <h4 class="mb-4 text-dark">PRESS RELEASE 2024</h4>
 <p class="mt-4">
 <span style="text-decoration: underline;">
@@ -24,8 +36,6 @@ variant: markdown
 </span>
 </span>
 </p>
-
-<hr class="my-5">
 
 <h4 class="mb-4 text-dark">2024 VIDEO GALLERY</h4>
 <div class="row">
