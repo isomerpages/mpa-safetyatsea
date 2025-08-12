@@ -16,17 +16,6 @@ variant: markdown
 </span>
 </p>
 
-<h4 class="mb-4 text-dark">PRESS RELEASE 2024</h4>
-<p class="mt-4">
-<span style="text-decoration: underline;">
-<span style="color: #5c1d5e;">
-<a style="color: #993366; text-decoration: underline;" target="_new" href="https://www.mpa.gov.sg/media-centre/details/volunteer-programme-to-enhance-safety-launches--at-singapore-safety-sea-week">Volunteer Programme to Enhance Safety Launches at Singapore Safety@Sea Week</a>
-</span>
-</span>
-</p>
-	
-<hr class="my-5">	
-	
 <h4 class="mb-4 text-dark">2025 VIDEO GALLERY</h4>
 <div class="row">
 <div class="col is-6 mb-4">
@@ -37,7 +26,16 @@ variant: markdown
 <a class="mb-0 mt-0" href="/2025-speakers-presentation-materials" style="text-align:left;">Click here to view speakers’ presentation materials.</a>
 </div></div>	
 
-<hr class="my-5">
+<hr class="my-5">		
+	
+<h4 class="mb-4 text-dark">PRESS RELEASE 2024</h4>
+<p class="mt-4">
+<span style="text-decoration: underline;">
+<span style="color: #5c1d5e;">
+<a style="color: #993366; text-decoration: underline;" target="_new" href="https://www.mpa.gov.sg/media-centre/details/volunteer-programme-to-enhance-safety-launches--at-singapore-safety-sea-week">Volunteer Programme to Enhance Safety Launches at Singapore Safety@Sea Week</a>
+</span>
+</span>
+</p>
 
 <h4 class="mb-4 text-dark">2024 VIDEO GALLERY</h4>
 <div class="row">
