@@ -1,6 +1,6 @@
 ---
 title: Capt Richard Howe
-permalink: /speakers/captain-richard-howe
+permalink: /speakers/captain-richard-howe/
 description: ""
 ---
 

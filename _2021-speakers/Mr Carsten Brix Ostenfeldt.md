@@ -1,6 +1,6 @@
 ---
 title: Mr Carsten Brix Ostenfeldt
-permalink: /2021-mr-carsten-ostenfeldt
+permalink: /2021-mr-carsten-ostenfeldt/
 description: ""
 ---
 

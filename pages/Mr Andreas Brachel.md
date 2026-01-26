@@ -1,6 +1,6 @@
 ---
 title: Mr Andreas Brachel
-permalink: /speakers/mr-andreas-brachel
+permalink: /speakers/mr-andreas-brachel/
 description: ""
 ---
 <div class="row">

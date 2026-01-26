@@ -1,6 +1,6 @@
 ---
 title: Ms Quah Ley Hoon
-permalink: /speakers/ms-quah-ley-hoon
+permalink: /speakers/ms-quah-ley-hoon/
 description: ""
 ---
 <div class="row">

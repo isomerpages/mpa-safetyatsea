@@ -1,6 +1,6 @@
 ---
 title: Capt Hari Subramania
-permalink: /speakers/captain-hari-subramania
+permalink: /speakers/captain-hari-subramania/
 description: ""
 ---
 

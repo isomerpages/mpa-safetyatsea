@@ -1,6 +1,6 @@
 ---
 title: Mr Jamie Ramsamy
-permalink: /speakers/mr-jamie-ramsamy
+permalink: /speakers/mr-jamie-ramsamy/
 description: ""
 ---
 <div class="row">

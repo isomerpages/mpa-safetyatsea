@@ -1,6 +1,6 @@
 ---
 title: Mr Michael Phoon
-permalink: /2021-mr-michael-phoon
+permalink: /2021-mr-michael-phoon/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rear Admiral Jacques Rivière
-permalink: /speakers/rear-admiral-jacques-riviere
+permalink: /speakers/rear-admiral-jacques-riviere/
 description: ""
 ---
 <div class="row">

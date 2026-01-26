@@ -1,6 +1,6 @@
 ---
 title: Mr Ahmad Nazri
-permalink: /2021-mr-ahmad-nazri
+permalink: /2021-mr-ahmad-nazri/
 description: ""
 ---
 

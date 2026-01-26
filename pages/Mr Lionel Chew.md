@@ -1,6 +1,6 @@
 ---
 title: Mr Lionel Chew
-permalink: /speakers/mr-lionel-chew
+permalink: /speakers/mr-lionel-chew/
 description: ""
 ---
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Mr Terence Yeo
-permalink: /speakers/mr-terence-yeo
+permalink: /speakers/mr-terence-yeo/
 description: ""
 ---
 <div class="row">

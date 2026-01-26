@@ -1,6 +1,6 @@
 ---
 title: Mr Nick Chubb
-permalink: /2021-mr-nick-chubb
+permalink: /2021-mr-nick-chubb/
 description: ""
 ---
 

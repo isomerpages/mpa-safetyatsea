@@ -1,6 +1,6 @@
 ---
 title: Capt Vibhas Garg
-permalink: /2021-capt-vibhas-garg
+permalink: /2021-capt-vibhas-garg/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mr Chan Yew Kwong
-permalink: /speakers/mr-chan-yew-kwong
+permalink: /speakers/mr-chan-yew-kwong/
 description: ""
 ---
 <div class="row">

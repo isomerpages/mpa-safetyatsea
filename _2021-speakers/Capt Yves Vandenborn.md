@@ -1,6 +1,6 @@
 ---
 title: Capt Yves Vandenborn
-permalink: /2021-capt-yves-vandenborn
+permalink: /2021-capt-yves-vandenborn/
 description: ""
 ---
 

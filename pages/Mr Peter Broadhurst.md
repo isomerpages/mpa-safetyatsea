@@ -1,6 +1,6 @@
 ---
 title: Mr Peter Broadhurst
-permalink: /speakers/mr-peter-broadhurst
+permalink: /speakers/mr-peter-broadhurst/
 description: ""
 ---
 <div class="row">

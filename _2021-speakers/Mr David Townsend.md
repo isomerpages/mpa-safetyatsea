@@ -1,6 +1,6 @@
 ---
 title: Mr David Townsend
-permalink: /2021-mr-david-townsend
+permalink: /2021-mr-david-townsend/
 description: ""
 ---
 

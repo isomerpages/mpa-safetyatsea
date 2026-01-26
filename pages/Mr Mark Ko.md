@@ -1,6 +1,6 @@
 ---
 title: Mr Mark Ko
-permalink: /speakers/mr-mark-ko
+permalink: /speakers/mr-mark-ko/
 description: ""
 ---
 <div class="row">

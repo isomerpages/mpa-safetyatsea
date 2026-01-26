@@ -1,6 +1,6 @@
 ---
 title: Capt Sahwan Osman
-permalink: /speakers/captain-sahwan-osman
+permalink: /speakers/captain-sahwan-osman/
 description: ""
 ---
 <div class="row">

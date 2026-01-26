@@ -1,6 +1,6 @@
 ---
 title: Mr Charles Watkins
-permalink: /speakers/mr-charles-watkins
+permalink: /speakers/mr-charles-watkins/
 description: ""
 ---
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Mr Hemant Phul
-permalink: /2021-mr-hemant-phul
+permalink: /2021-mr-hemant-phul/
 description: ""
 ---
 

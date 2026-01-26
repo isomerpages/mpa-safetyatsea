@@ -1,6 +1,6 @@
 ---
 title: Mr Dughall Aitken
-permalink: /2021-mr-dughall-aitken
+permalink: /2021-mr-dughall-aitken/
 description: ""
 ---
 

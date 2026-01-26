@@ -1,6 +1,6 @@
 ---
 title: Capt William Francis
-permalink: /speakers/captain-william-francis
+permalink: /speakers/captain-william-francis/
 description: ""
 ---
 <div class="row">

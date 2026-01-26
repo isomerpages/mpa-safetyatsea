@@ -1,6 +1,6 @@
 ---
 title: Mr Steen Lund
-permalink: /2021-mr-steen-lund
+permalink: /2021-mr-steen-lund/
 description: ""
 ---
 

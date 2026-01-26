@@ -1,6 +1,6 @@
 ---
 title: Mr Cheah Aun Aun
-permalink: /2021-mr-cheah-aun-aun
+permalink: /2021-mr-cheah-aun-aun/
 description: ""
 ---
 

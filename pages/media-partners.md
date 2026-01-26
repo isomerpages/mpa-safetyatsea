@@ -1,6 +1,6 @@
 ---
 title: Media Partners
-permalink: /media-partners
+permalink: /media-partners/
 ---
 <div class="row mpartners">
 <div class="col-10 mx-auto mt-4">

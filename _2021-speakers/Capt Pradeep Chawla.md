@@ -1,6 +1,6 @@
 ---
 title: Capt Pradeep Chawla
-permalink: /2021-capt-pradeep-chawla
+permalink: /2021-capt-pradeep-chawla/
 description: ""
 ---
 

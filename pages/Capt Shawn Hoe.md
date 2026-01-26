@@ -1,6 +1,6 @@
 ---
 title: Capt Shawn Hoe
-permalink: /speakers/captain-shawn-hoe
+permalink: /speakers/captain-shawn-hoe/
 description: ""
 ---
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Prof Raphael Baumler
-permalink: /speakers/prof-raphael-baumler
+permalink: /speakers/prof-raphael-baumler/
 description: ""
 ---
 <div class="row">

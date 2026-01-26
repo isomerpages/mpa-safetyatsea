@@ -1,6 +1,6 @@
 ---
 title: Prof Sudipta Chattopadhyay
-permalink: /speakers/prof-sudipta-chattopadhyay
+permalink: /speakers/prof-sudipta-chattopadhyay/
 description: ""
 ---
 <div class="row">

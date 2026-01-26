@@ -1,6 +1,6 @@
 ---
 title: Dr Øyvind Hellan
-permalink: /2021-dr-oyvind-hellan
+permalink: /2021-dr-oyvind-hellan/
 description: ""
 ---
 

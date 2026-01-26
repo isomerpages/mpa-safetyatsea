@@ -1,6 +1,6 @@
 ---
 title: Speakers
-permalink: /2021-speakers
+permalink: /2021-speakers/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Capt Kevin Wong
-permalink: /2021-capt-kevin-wong
+permalink: /2021-capt-kevin-wong/
 description: ""
 ---
 

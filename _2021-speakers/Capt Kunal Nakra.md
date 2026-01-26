@@ -1,6 +1,6 @@
 ---
 title: Capt Kunal Nakra
-permalink: /2021-capt-kunal-nakra
+permalink: /2021-capt-kunal-nakra/
 description: ""
 ---
 

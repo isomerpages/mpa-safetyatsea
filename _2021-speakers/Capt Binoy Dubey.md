@@ -1,6 +1,6 @@
 ---
 title: Capt Binoy Dubey
-permalink: /2021-capt-binoy-dubey
+permalink: /2021-capt-binoy-dubey/
 description: ""
 ---
 

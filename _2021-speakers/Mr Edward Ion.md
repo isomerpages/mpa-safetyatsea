@@ -1,6 +1,6 @@
 ---
 title: Mr Edward Ion
-permalink: /2021-mr-edward-ion
+permalink: /2021-mr-edward-ion/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mr Daniel Zhang
-permalink: /2021-mr-daniel-zhang
+permalink: /2021-mr-daniel-zhang/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mr Darren Waterman
-permalink: /2021-mr-darren-waterman
+permalink: /2021-mr-darren-waterman/
 description: ""
 ---
 

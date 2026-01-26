@@ -1,6 +1,6 @@
 ---
 title: Dr Grahaeme Henderson OBE
-permalink: /2021-dr-grahaeme-henderson
+permalink: /2021-dr-grahaeme-henderson/
 description: ""
 ---
 

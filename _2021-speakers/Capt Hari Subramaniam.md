@@ -1,6 +1,6 @@
 ---
 title: Capt Hari Subramaniam
-permalink: /2021-capt-hari-subramaniam
+permalink: /2021-capt-hari-subramaniam/
 description: ""
 ---
 

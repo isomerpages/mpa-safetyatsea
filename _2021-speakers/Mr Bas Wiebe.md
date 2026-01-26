@@ -1,6 +1,6 @@
 ---
 title: Mr Bas Wiebe
-permalink: /2021-mr-bas-wiebe
+permalink: /2021-mr-bas-wiebe/
 description: ""
 ---
 

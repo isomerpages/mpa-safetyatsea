@@ -1,6 +1,6 @@
 ---
 title: Mr Arif Toha
-permalink: /speakers/mr-arif-toha
+permalink: /speakers/mr-arif-toha/
 description: ""
 ---
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 title: Capt Lee Chee Seong
-permalink: /2021-capt-lee-chee-seong
+permalink: /2021-capt-lee-chee-seong/
 description: ""
 ---
 

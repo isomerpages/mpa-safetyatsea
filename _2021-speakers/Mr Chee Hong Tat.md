@@ -1,6 +1,6 @@
 ---
 title: Mr Chee Hong Tat
-permalink: /2021-mr-chee-hong-tat
+permalink: /2021-mr-chee-hong-tat/
 description: ""
 ---
 

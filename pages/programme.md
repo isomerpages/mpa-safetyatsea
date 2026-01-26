@@ -1,6 +1,6 @@
 ---
 title: Programme
-permalink: /programme
+permalink: /programme/
 ---
 <section class="bp-section ">
   <div class="bp-container is-fluid">

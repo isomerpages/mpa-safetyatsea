@@ -1,6 +1,6 @@
 ---
 title: Capt Ritesh Chawla
-permalink: /speakers/captain-ritesh-chawla
+permalink: /speakers/captain-ritesh-chawla/
 description: ""
 ---
 <div class="row">

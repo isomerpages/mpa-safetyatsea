@@ -1,6 +1,6 @@
 ---
 title: Capt Raymond Peter
-permalink: /2021-capt-raymond-peter
+permalink: /2021-capt-raymond-peter/
 description: ""
 ---
 

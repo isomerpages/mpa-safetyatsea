@@ -1,6 +1,6 @@
 ---
 title: Ms Sikha Singh
-permalink: /speakers/ms-sikha-singh
+permalink: /speakers/ms-sikha-singh/
 description: ""
 ---
 

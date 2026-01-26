@@ -1,6 +1,6 @@
 ---
 title: Mr Knut Ørbeck Nilssen
-permalink: /speakers/mr-knut-orbeck-nilssen
+permalink: /speakers/mr-knut-orbeck-nilssen/
 description: ""
 ---
 <div class="row">
