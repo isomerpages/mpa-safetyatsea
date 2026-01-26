@@ -4,7 +4,7 @@ permalink: /speakers/mr-lionel-chew/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/lionelchew.png" /></div>
+<div class="col is-3"><img src="/images/speakers/lionelchew.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Lionel Chew</h4>
 <p>Senior IT Manager<br />Maritime and Port Authority of Singapore</p>

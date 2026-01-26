@@ -4,7 +4,7 @@ permalink: /speakers/ms-caroline-yang/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Caroline Yang.png"></div>
+<div class="col is-3"><img src="/images/speakers/caroline yang.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Ms Caroline Yang</h4>
 <p>Vice-chair<br>International Chamber of Shipping</p>

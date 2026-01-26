@@ -4,7 +4,7 @@ permalink: /speakers/mr-charles-watkins/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Charles Watkins.png" /></div>
+<div class="col is-3"><img src="/images/speakers/charles watkins.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Charles Watkins</h4>
 <p>Clinical Psychologist and Founder<br />Mental Health Support Solutions (*MHSS)<br /></p>

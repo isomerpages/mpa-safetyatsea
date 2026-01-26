@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row"> 
 	<div class="col is-3">
-		<div class="speaker-image-wrapper position-center"><img src="/images/Speakers/2024/New Images/Mohd Salleh A Sarwan.png"></div></div> 
+		<div class="speaker-image-wrapper position-center"><img src="/images/speakers/2024/new images/mohd salleh a sarwan.png"></div></div> 
 	<div class="col is-9 speaker-details"> 
  <h4>Capt Mohamad Salleh bin Ahmad Sarwan</h4> <p>          Senior Lecturer &amp; Specialist<br>           Singapore Maritime Academy, Singapore Polytechnic <br> 
 	

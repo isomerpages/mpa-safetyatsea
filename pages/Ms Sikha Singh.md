@@ -7,7 +7,7 @@ description: ""
 
 
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/MdmSikha.png" /></div>
+<div class="col is-3"><img src="/images/speakers/mdmsikha.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Ms Sikha Singh</h4>
 <p>Deputy Chief Executive Officer<br>Executive Group of Companies</p>

@@ -4,7 +4,7 @@ permalink: /speakers/mr-jamie-ramsamy/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/ramsamy.png" /></div>
+<div class="col is-3"><img src="/images/speakers/ramsamy.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Jamie Ramsamy</h4>
 <p>Head of HSSEQ<br />Thome Group</p>

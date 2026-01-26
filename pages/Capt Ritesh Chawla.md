@@ -4,7 +4,7 @@ permalink: /speakers/captain-ritesh-chawla/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Ritesh_Chawla.png" /></div>
+<div class="col is-3"><img src="/images/speakers/ritesh_chawla.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Ritesh Chawla</h4>
 <p>Senior Manager Marine Safety and Vetting<br>Rio Tinto

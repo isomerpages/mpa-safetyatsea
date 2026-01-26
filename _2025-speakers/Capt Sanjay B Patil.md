@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/SanjayPatil2025W.png"></div>
+<div class="col is-3"><img src="/images/speakers/2025/sanjaypatil2025w.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Sanjay B. Patil</h4>
 <p>Advisor HSSEQA<br>MISC Marine</p>
@@ -16,7 +16,7 @@ description: ""
 </div>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style type="text/css"> 
     .is-left{
       text-align: left;

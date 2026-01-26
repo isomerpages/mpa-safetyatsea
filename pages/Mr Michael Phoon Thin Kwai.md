@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Michael Phoon.png"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/speakers/2024/new images/michael phoon.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Michael Phoon Thin Kwai</h4>
 <p>Executive Director<br>Singapore Shipping Association</p>

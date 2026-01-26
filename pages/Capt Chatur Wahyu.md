@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Chatur Wahyu.png"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/speakers/2024/new images/chatur wahyu.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt           Chatur Wahyu</h4>
 <p>Director<br>Singapore Maritime Academy, Singapore Polytechnic</p>

@@ -4,7 +4,7 @@ permalink: /speakers/captain-andre-l-legoubin/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Capt Andre.png"></div>
+<div class="col is-3"><img src="/images/speakers/capt andre.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt André L. LeGoubin</h4>
 <p>President<br>The Nautical Institute</p>

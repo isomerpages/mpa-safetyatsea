@@ -28,7 +28,7 @@ Take advantage of early bird rates and group purchase savings. Bring your team a
 </p>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css">

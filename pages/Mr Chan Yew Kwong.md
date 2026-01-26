@@ -4,7 +4,7 @@ permalink: /speakers/mr-chan-yew-kwong/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Chan Yew Kwong.png" /></div>
+<div class="col is-3"><img src="/images/speakers/chan yew kwong.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Chan Yew Kwong</h4>
 <p>Senior Consultant<br />WSH Council Singapore</p>

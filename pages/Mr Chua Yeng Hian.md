@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Chua Yeng Hian.png"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/speakers/2024/new images/chua yeng hian.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Mr           Chua Yeng Hian</h4>
 <p>          Senior Deputy Director (Marine Services)<br>          Maritime and Port Authority of Singapore<br><br></p>

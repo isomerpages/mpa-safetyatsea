@@ -4,7 +4,7 @@ permalink: /speakers/mr-andreas-brachel/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Andrea Brachel.png" /></div>
+<div class="col is-3"><img src="/images/speakers/andrea brachel.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Andreas Brachel</h4>
 <p>Vice President – Head of Environmental Claims<br>Gard AS</p>

@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <div class="row">
             <div class="col is-3">
-              <img src="/images/Speakers/Mr%20Chee%20Hong%20Tat.png">
+              <img src="/images/speakers/mr%20chee%20hong%20tat.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr Chee Hong Tat</h4>

@@ -8,7 +8,7 @@ description: ""
 
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Grahaeme-Henderson.png">
+              <img src="/images/speakers/grahaeme-henderson.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Dr. Grahaeme Henderson OBE</h4>

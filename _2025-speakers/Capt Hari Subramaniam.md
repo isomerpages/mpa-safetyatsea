@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/HariSubramaniam2025W.png"></div>
+<div class="col is-3"><img src="/images/speakers/2025/harisubramaniam2025w.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Hari Subramaniam</h4>
 <p>Deputy Chairman, National Maritime Safety at Sea Council<br>
@@ -19,7 +19,7 @@ Hari has an MBA degree international management. He has a PG Diploma in Marine I
 </div>
 </div>
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style type="text/css"> 
     .is-left{
       text-align: left;

@@ -61,7 +61,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/JamesNg2025W.png" alt="Mr James Ng" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/jamesng2025w.png" alt="Mr James Ng" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/mr-james-ng/" rel="noopener"><b>Mr James Ng</b></a>
@@ -99,7 +99,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/SahwanOsman2025W.png" alt="Capt Sahwan Osman" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/sahwanosman2025w.png" alt="Capt Sahwan Osman" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/capt-sahwan-osman/" rel="noopener"><b>Capt Sahwan Osman</b></a>
@@ -137,7 +137,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/DanLee2025W.png" alt="Capt Dan Lee" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/danlee2025w.png" alt="Capt Dan Lee" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/capt-lee-jing-ru-dan/" rel="noopener"><b>Capt Lee Jing Ru, Dan</b></a>
@@ -175,7 +175,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/RoySoeigiarto2025W.png" alt="Mr Roy Soeigiarto" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/roysoeigiarto2025w.png" alt="Mr Roy Soeigiarto" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/mr-roy-soeigiarto/" rel="noopener"><b>Mr Roy Soeigiarto</b></a>
@@ -212,7 +212,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/TerenceHo2025W.png" alt="Mr TerenceHo" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/terenceho2025w.png" alt="Mr TerenceHo" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/mr-terence-ho/" rel="noopener"><b>Mr Terence Ho</b></a>
@@ -275,7 +275,7 @@ variant: markdown
 
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 <style type="text/css">
 	ul.second-level > li:last-child{

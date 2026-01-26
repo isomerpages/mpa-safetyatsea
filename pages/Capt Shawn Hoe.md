@@ -4,7 +4,7 @@ permalink: /speakers/captain-shawn-hoe/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/ShawnHoe.png" /></div>
+<div class="col is-3"><img src="/images/speakers/shawnhoe.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Shawn Hoe</h4>
 <p>Assistant Director (Marine Environment and Safety) / Deputy Port Master<br />Maritime and Port Authority of Singapore</p>

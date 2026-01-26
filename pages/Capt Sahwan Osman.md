@@ -4,7 +4,7 @@ permalink: /speakers/captain-sahwan-osman/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/sahwahosman.png" /></div>
+<div class="col is-3"><img src="/images/speakers/sahwahosman.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Sahwan Osman</h4>
 <p>Senior Lecturer<br />Singapore Maritime Academy</p>

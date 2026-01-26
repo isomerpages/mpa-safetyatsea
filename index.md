@@ -8,7 +8,7 @@ notification: Click <a href="/2025-speakers-presentation-materials/">here</a> to
   download speakers’ slides.
 sections:
   - hero:
-      background: /images/HOME-BANNER4.jpg
+      background: /images/home-banner4.jpg
       variant: center
       title: International Safety@Sea Week 2025
       subtitle: 15th - 18th July 2025
@@ -18,7 +18,7 @@ sections:
         promote safety at sea.
   - infopic:
       description: "The Future of Maritime Safety: Navigating the Next Frontier"
-      image: /images/Home 2025/Opening_Plenary1806.png
+      image: /images/home 2025/opening_plenary1806.png
       alt: Image alt text
       title: International Safety@Sea Conference – Opening Plenary
       subtitle: 15 Jul | 09:00 - 10:30
@@ -32,7 +32,7 @@ sections:
         Industry"
       button: Click Here
       url: /programme/plenary-2/
-      image: /images/Home 2025/HomePageIcon_2.png
+      image: /images/home 2025/homepageicon_2.png
       alt: Image alt text
   - infopic:
       title: International Safety@Sea Conference - Plenary 3
@@ -41,7 +41,7 @@ sections:
       description: "The Human Element: Ensuring Safety in Maritime’s Transition"
       button: Click Here
       url: /programme/plenary-3/
-      image: /images/Home 2025/HomePageIcon_3.png
+      image: /images/home 2025/homepageicon_3.png
       alt: Image alt text
   - infopic:
       title: Chemical Spill Exercise
@@ -50,14 +50,14 @@ sections:
       button: Click Here
       url: /chemical-spill-exercise/
       alt: Image alt text
-      image: /images/Home 2025/HomePageIcon4.png
+      image: /images/home 2025/homepageicon4.png
   - infopic:
       title: Safety@Sea Community Conversations
       subtitle: 16 Jul | 15:30 - 17:30
       id: infopic
       button: Click Here
       url: /community-conversations/
-      image: /images/Home 2025/HomePage_Safety.jpg
+      image: /images/home 2025/homepage_safety.jpg
       alt: Image alt text
   - infopic:
       title: Responders Plus Programme (RPP) Maritime Workshop
@@ -65,7 +65,7 @@ sections:
       id: infopic
       button: click here
       url: /responders-plus-programme-rpp-maritime-workshops/
-      image: /images/Home 2025/HomePageIcon6.png
+      image: /images/home 2025/homepageicon6.png
       alt: Image alt text
   - infopic:
       title: Harbour Craft Safety Forum
@@ -73,7 +73,7 @@ sections:
       id: infopic
       button: click here
       url: /programme/harbour-craft-forum/
-      image: /images/Home 2025/HomePageIcon7.png
+      image: /images/home 2025/homepageicon7.png
       alt: Image alt text
   - infopic:
       title: Pleasure Craft Safety Forum
@@ -81,7 +81,7 @@ sections:
       id: infopic
       button: click here
       url: /programme/pleasure-craft-forum/
-      image: /images/Home 2025/HomePageIcon8.png
+      image: /images/home 2025/homepageicon8.png
       alt: Image alt text
   - infopic:
       title: ARFO Safety Forum
@@ -89,7 +89,7 @@ sections:
       id: infopic
       button: Click Here
       url: /arfo-safety-forum/
-      image: /images/Home 2025/HomePage_ARFO2.jpg
+      image: /images/home 2025/homepage_arfo2.jpg
       alt: Image alt text
   - infopic:
       title: The Nautical Institute (Singapore) Conference 2025
@@ -97,7 +97,7 @@ sections:
       id: infopic
       button: Click Here
       url: /tni2025
-      image: /images/Home 2025/NAUTICAL_Banner.png
+      image: /images/home 2025/nautical_banner.png
       alt: Image alt text
   - infobar:
       id: infobar

@@ -4,7 +4,7 @@ permalink: /speakers/supt-desmond-ong/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Desmond Ong.png" /></div>
+<div class="col is-3"><img src="/images/speakers/desmond ong.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Supt Desmond Ong</h4>
 <p>Commanding Officer, Brani Region<br />Police Coast Guard, Singapore Police Force</p>

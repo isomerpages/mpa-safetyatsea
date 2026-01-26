@@ -258,7 +258,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 <p class="mt-4">
 <span style="text-decoration: underline;">
 <span style="color: #5c1d5e;">
-<a style="color: #993366; text-decoration: underline;" href="/images/Press Release_Day_1.pdf">Technology to Enhance Maritime Safety and Marine Environment Protection <br>International Safety@Sea Week 2021 features two flagship conferences</a>
+<a style="color: #993366; text-decoration: underline;" href="/images/press release_day_1.pdf">Technology to Enhance Maritime Safety and Marine Environment Protection <br>International Safety@Sea Week 2021 features two flagship conferences</a>
 </span>
 </span>
 </p>
@@ -371,10 +371,10 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 </p>
 <div class="row px-3">
 <div class="col is-6 mb-4">
-<img src="/images/media/Photo01.jpg">
+<img src="/images/media/photo01.jpg">
 </div>
 <div class="col is-6 mb-4">
-<img src="/images/media/Photo02.jpg">
+<img src="/images/media/photo02.jpg">
 </div>
 </div>
 <div class="row gallery-row gallery3 mx-0">
@@ -627,7 +627,7 @@ International Safety@Sea Week 2022 features 8 sessions focused on safety at sea<
 </div>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 <style>
 .media-height {
 height: 25vh;

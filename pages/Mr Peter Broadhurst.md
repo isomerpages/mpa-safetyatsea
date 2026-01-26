@@ -4,7 +4,7 @@ permalink: /speakers/mr-peter-broadhurst/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Peter Broadhurst.png" /></div>
+<div class="col is-3"><img src="/images/speakers/peter broadhurst.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Peter Broadhurst</h4>
 <p>Senior Vice President Safety and Regulatory<br />Inmarsat Maritime</p>

@@ -11,7 +11,7 @@ description: ""
 	<p>The Responders Plus Programme (RPP) Maritime Workshop will be held on 17 July as part of International Safety@Sea Week. Jointly organised by MPA and the Singapore Civil Defence Force (SCDF), this workshop strengthens emergency preparedness within the community in Maritime Singapore. The half-day session equips participants with essential lifesaving skills including first aid, CPR, AED operation, and fire extinguisher handling. </p><p>All participants will receive a certificate of attendance from SCDF.   </p><p>Seats are limited so do sign up soon. Registration is free.</p>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css"> 

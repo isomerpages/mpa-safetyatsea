@@ -26,7 +26,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/SantiagoEncabo2025W.png" alt="Mr Santiago Encabo" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/santiagoencabo2025w.png" alt="Mr Santiago Encabo" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b><a class="speaker-name text-ellipsis" href="/mr-santiago-encabo/" rel="noopener">Mr Santiago Encabo</a></b>
@@ -64,7 +64,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/AshokSrinivasan2025W.png" alt="Rep" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/speakers/2025/ashoksrinivasan2025w.png" alt="Rep" class="image-adjust position-center"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-ashok-srinivasan/" rel="noopener">Capt Ashok Srinivasan</a></strong></div>
                           <div class="text-ellipsis speaker-position">
@@ -108,7 +108,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/ashimataneja04.png" alt="Ms Ashima Taneja" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/ashimataneja04.png" alt="Ms Ashima Taneja" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-ashima-taneja/" rel="noopener">Ms Ashima Taneja</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Maritime Commercial – Safety, Sustainability and Technical
@@ -125,7 +125,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/AunAunCheah2025W.png" alt="Mr Aun Aun Cheah" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/aunauncheah2025w.png" alt="Mr Aun Aun Cheah" class="image-adjust"></div>
 <div class="col is-8">
 	<div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-aun-aun-cheah/" rel="noopener">Mr Cheah Aun Aun</a></strong></div>
 <div class="text-ellipsis speaker-position">Director (Shipping) / Director of Marine</div>
@@ -137,7 +137,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/CarstenBrixOstenfeldt2025W.png" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/carstenbrixostenfeldt2025w.png" alt="Mr Carsten Brix Ostenfeldt" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-carsten-brix-ostenfeldt/" rel="noopener">Mr Carsten Brix Ostenfeldt</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Operating Officer</div>
@@ -153,7 +153,7 @@ variant: markdown
 	
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/XiaoShouhai2025W.png" alt="Capt Xiao Shouhai" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/xiaoshouhai2025w.png" alt="Capt Xiao Shouhai" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-xiao-shouhai/" rel="noopener">Capt Xiao Shouhai</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Director (Marine Safety Investigation)</div>
@@ -165,7 +165,7 @@ Transport Safety Investigation Bureau of Singapore</div>
 	
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/SanjayPatil2025W.png" alt="Capt Sanjay B Patil" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/sanjaypatil2025w.png" alt="Capt Sanjay B Patil" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/capt-sanjay-b-patil/" rel="noopener">Capt Sanjay B. Patil</a></strong></div>
 <div class="text-ellipsis speaker-position">Advisor HSSEQA</div>
@@ -180,7 +180,7 @@ Transport Safety Investigation Bureau of Singapore</div>
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/YvesVandenborn2025W.png" alt="Capt Yves Vandenborn" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/yvesvandenborn2025w.png" alt="Capt Yves Vandenborn" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/speakers/captain-yves-vandenborn/" rel="noopener">Capt Yves Vandenborn</a></strong></div>
 <div class="text-ellipsis speaker-position">Head of Loss Prevention (Asia Pacific)</div>
@@ -204,7 +204,7 @@ Transport Safety Investigation Bureau of Singapore</div>
 </div></div></div>
 	
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 	
 <style type="text/css"> 
 	@media only screen and (max-width:800px){

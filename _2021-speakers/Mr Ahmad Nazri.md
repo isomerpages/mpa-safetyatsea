@@ -7,7 +7,7 @@ description: ""
 
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Ahmad-Nazri.png">
+              <img src="/images/speakers/ahmad-nazri.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr. Ahmad Nazri</h4>

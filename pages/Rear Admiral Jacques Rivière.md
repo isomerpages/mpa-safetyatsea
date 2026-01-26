@@ -4,7 +4,7 @@ permalink: /speakers/rear-admiral-jacques-riviere/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Jacques Rivieere.png" /></div>
+<div class="col is-3"><img src="/images/speakers/jacques rivieere.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Rear Admiral Jacques Rivi&egrave;re</h4>
 <p>Head QSSE Asia Pacific<br />CMA CGM</p>

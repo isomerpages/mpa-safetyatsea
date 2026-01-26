@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/2025/AunAunCheah2025W.png"></div>
+<div class="col is-3"><img src="/images/speakers/2025/aunauncheah2025w.png"></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Cheah Aun Aun</h4>
 <p>Director (Shipping) / Director of Marine<br>
@@ -19,7 +19,7 @@ Mr Cheah holds a Certificate of Competency Class 1 (Marine Chief Engineer Office
 </div>
 </div>
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 <style type="text/css"> 
     .is-left{

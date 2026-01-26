@@ -4,7 +4,7 @@ permalink: /speakers/mr-mark-ko/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/markko.png" /></div>
+<div class="col is-3"><img src="/images/speakers/markko.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Mr Mark Ko</h4>
 <p>Executive Director<br />Tian San Shipping (Pte) Ltd.</p>

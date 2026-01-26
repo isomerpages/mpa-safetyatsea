@@ -8,7 +8,7 @@ description: ""
 
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Kevin-Wong.png">
+              <img src="/images/speakers/kevin-wong.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Capt. Kevin Wong</h4>

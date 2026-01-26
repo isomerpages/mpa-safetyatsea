@@ -6,7 +6,7 @@ description: ""
 ---
 <div class="row">
 <div class="col is-3">
-<img src="/images/Speakers/2025/arseniodominguez2025.png">
+<img src="/images/speakers/2025/arseniodominguez2025.png">
 </div>
 <div class="col is-9 speaker-details">
 <h4>Mr Arsenio Dominguez</h4>
@@ -22,7 +22,7 @@ His initial term as IMO Secretary-General, approved at the 33rd Assembly in Dece
 					
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>					
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>					
 					
 					
 <style type="text/css"> 

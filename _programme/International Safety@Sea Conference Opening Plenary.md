@@ -29,7 +29,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/AngWeeKeong.png" alt="Mr Ang Wee Keong" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/angweekeong.png" alt="Mr Ang Wee Keong" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b>Mr Ang Wee Keong</b>
@@ -67,7 +67,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2024/New Images/Murali-Pillai-img.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/speakers/2024/new images/murali-pillai-img.png" alt="Mr Murali Pillai" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b>Mr Murali Pillai</b>
@@ -120,7 +120,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/arseniodominguez2025.png" alt="Mr Arsenio Dominguez" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/speakers/2025/arseniodominguez2025.png" alt="Mr Arsenio Dominguez" class="image-adjust position-center"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
 														<b><a class="speaker-name text-ellipsis" href="/mr-arsenio-dominguez/" rel="noopener">Mr Arsenio Dominguez</a></b>
@@ -161,7 +161,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/ishakismail2025w.png" alt="Mr. Ishak Ismail" class="image-adjust position-center"></div>
+<div class="col is-4"><img src="/images/speakers/2025/ishakismail2025w.png" alt="Mr. Ishak Ismail" class="image-adjust position-center"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ishak-ismail/" rel="noopener">Mr Ishak Ismail</a></strong></div>
 <div class="text-ellipsis speaker-position">Chairman</div>
@@ -177,7 +177,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/simonbennett2025wb.png" alt="Mr Simon Bennett" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/simonbennett2025wb.png" alt="Mr Simon Bennett" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-simon-bennett/" rel="noopener">Mr Simon Bennett</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Secretary General</div>
@@ -188,7 +188,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-	<div class="col is-4"><img src="/images/Speakers/2025/DavidFoo2025W.png" alt="Mr David Foo" class="image-adjust"></div>
+	<div class="col is-4"><img src="/images/speakers/2025/davidfoo2025w.png" alt="Mr David Foo" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/david-foo/" rel="noopener">Mr David Foo</a></strong></div>
 <div class="text-ellipsis speaker-position">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
@@ -203,7 +203,7 @@ variant: markdown
 <div class="row">
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/KohYongPing2025Wa.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/kohyongping2025wa.png" alt="Mr Koh Yong Ping" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/mr-koh-yong-ping/" rel="noopener">Mr Koh Yong Ping</a></strong></div>
 <div class="text-ellipsis speaker-position">Chief Executive</div>
@@ -214,7 +214,7 @@ variant: markdown
 
 <div class="col is-6 prog-speaker">
 <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/MaryLiew.png" alt="Ms Mary Liew" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/maryliew.png" alt="Ms Mary Liew" class="image-adjust"></div>
 <div class="col is-8">
 <div class="speaker-name text-ellipsis"><strong><a class="speaker-name text-ellipsis" href="/ms-mary-liew/" rel="noopener">Ms Mary Liew</a></strong></div>
 <div class="text-ellipsis speaker-position">General Secretary</div>
@@ -240,7 +240,7 @@ variant: markdown
 </section>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css"> 

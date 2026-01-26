@@ -62,7 +62,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/JamaludinJaffar2025W.png" alt="Capt Jamaludin Jaffar" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/jamaludinjaffar2025w.png" alt="Capt Jamaludin Jaffar" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/capt-jamaludin-jaffar/" rel="noopener"><b>Capt Jamaludin Jaffar</b></a>
@@ -117,7 +117,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/ChenJianning2025W.png" alt="Dr Chen Jianning" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/chenjianning2025w.png" alt="Dr Chen Jianning" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/dr-chen-jianning/" rel="noopener"><b>Dr Chen Jianning</b></a>
@@ -155,7 +155,7 @@ variant: markdown
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/DanielOng2025W.png" alt="Mr Daniel Ong" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/danielong2025w.png" alt="Mr Daniel Ong" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/mr-daniel-ong/" rel="noopener"><b>Mr Daniel Ong</b></a>
@@ -233,7 +233,7 @@ variant: markdown
 </section>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css"> 

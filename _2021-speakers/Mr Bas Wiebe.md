@@ -7,7 +7,7 @@ description: ""
 
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Bas-Wiebe.png">
+              <img src="/images/speakers/bas-wiebe.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr. Bas Wiebe</h4>

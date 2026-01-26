@@ -13,7 +13,7 @@ description: ""
 	“Advancing Maritime Safety in a Green Age”	
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">CDR Peter Bizzaro's Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_1/CDR_Peter_Bizzaro_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_1_panel_1/cdr_peter_bizzaro_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Commanding Officer<br> U.S. Coast Guard Marine Inspection Unit Singapore</div>
 <div class="text-ellipsis speaker-company mb-3">United States Coast Guard</div>
 
@@ -24,21 +24,21 @@ description: ""
 	“Advancing Maritime Safety in a Digital Age”
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Nick Potter’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Nick_Potter_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_1_panel_2/mr_nick_potter_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chairman</div>
 <div class="text-ellipsis speaker-company  mb-3">Oil Companies International Marine Forum</div>
 
 	
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Steen Lund’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_2/Mr_Steen_Lund_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_1_panel_2/mr_steen_lund_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">CEO</div>
 <div class="text-ellipsis speaker-company  mb-3">RightShip</div>
 	
 	
 		
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Capt André L. LeGoubin’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_1_PANEL_2/Capt_Andr__L__LeGoubin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_1_panel_2/capt_andr__l__legoubin_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">President</div>
 <div class="text-ellipsis speaker-company  mb-3">Nautical Institute</div>
 </div>
@@ -50,32 +50,32 @@ description: ""
 <div class="mb-5 pb-5">
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Samuel Soo’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_2/Mr_Samuel_Soo_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_2/mr_samuel_soo_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Senior Deputy Director (Marine Services)</div>
 <div class="text-ellipsis speaker-company mb-3">Maritime and Port Authority of Singapore</div>
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Vibin Chandrabose’s Presentation Slides<span class="text-red">*</span>:</strong> 
-	<a href="/files/Presentation/SESSION_2/Mr_Vibin_Chandrabose_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_2/mr_vibin_chandrabose_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Principal Engineer</div>
 <div class="text-ellipsis speaker-company mb-3">Sustainability, Global Sustainability Center - Singapore, American Bureau of Shipping
 </div>
 *This presentation is intended for informational purposes only and does not replace independent professional advice. This presentation comprises intellectual property of the American Bureau of Shipping (ABS) and should not be distributed without its consent. ABS shall have no liability for any reliance on the contents of this presentation by any party whomsoever.
 	
 <div class="speaker-name text-ellipsis mt-3"><strong class="mr-5">Mr Dinesh Kumar Balraj’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_2/Mr_Dinesh_Kumar_Balraj_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_2/mr_dinesh_kumar_balraj_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Senior Director, Head of Fleet Operations East</div>
 <div class="text-ellipsis speaker-company mb-3">A.P.Moller-Maersk</div>
 
 	
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Md Kamal Hossain’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_2/Capt_Md_Kamal_Hossain_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_2/capt_md_kamal_hossain_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Team Lead</div>
 <div class="text-ellipsis speaker-company mb-3">Marine Operations, Hong Lam Marine</div>
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Capt Jagadeesan Natarajan’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_2/Capt_Jagadeesan_Natarajan_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_2/capt_jagadeesan_natarajan_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">General Manager</div>
 <div class="text-ellipsis speaker-company mb-3">Orient Marine CO. Ltd (100% Subsidiary of Mitsui &amp; co. Japan)</div>
 	
@@ -89,24 +89,24 @@ description: ""
 <div class="mb-5 pb-5">
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Ong Chin Beng’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_3/Mr_Ong_Chin_Beng_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_3/mr_ong_chin_beng_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chief Information Security Officer</div>
 <div class="text-ellipsis speaker-company mb-3">Maritime and Port Authority of Singapore</div>
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Daniel Ng’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_3/Mr_Daniel_Ng_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_3/mr_daniel_ng_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">CEO</div>
 <div class="text-ellipsis speaker-company mb-3">CyberOwl</div>
 
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Ron Fong’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_3/Mr_Ron_Fong_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_3/mr_ron_fong_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Head of Fleet IT</div>
 <div class="text-ellipsis speaker-company mb-3">Pacific Carriers Limited</div>
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Li Xin’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_3/Mr_Li_Xin_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_3/mr_li_xin_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Head of IT Security</div>
 <div class="text-ellipsis speaker-company mb-3">PSA Corporation Limited</div>
 	
@@ -120,24 +120,24 @@ description: ""
 <div class="mb-5">
 <hr class="my-5">	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Dennis Khoo’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_4/Mr_Dennis_Khoo_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_4/mr_dennis_khoo_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Director (Maritime Systems and Technology)</div>
 <div class="text-ellipsis speaker-company mb-3">Maritime &amp; Port Authority of Singapore</div>
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Christian Riis’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_4/Mr_Christian_Riis_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_4/mr_christian_riis_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Director</div>
 <div class="text-ellipsis speaker-company mb-3">Marine Safety &amp; Vetting, Rio Tinto</div>
 
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Chakib Abi Saab’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_4/Mr_Chakib_Abi_Saab_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_4/mr_chakib_abi_saab_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Chief Technology and Innovation Officer (LR) / Chairman (Safetytech Accelerator)</div>
 <div class="text-ellipsis speaker-company mb-3">Lloyd’s Register / Safetytech Accelerator</div>
 
 	
 <div class="speaker-name text-ellipsis"><strong class="mr-5">Mr Pieter de Coningh’s Presentation Slides:</strong> 
-	<a href="/files/Presentation/SESSION_4/Mr_Pieter_de_Coningh_s_Presentation_Slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
+	<a href="/files/presentation/session_4/mr_pieter_de_coningh_s_presentation_slides.pdf" target="_new" class="ml-5">CLICK HERE <i class="sgds-icon sgds-icon-arrow-right is-size-4 ml-3"></i></a>	</div>
 <div class="text-ellipsis speaker-position">Managing Director</div>
 <div class="text-ellipsis speaker-company mb-3">Tidalis APAC Limited</div>
 	

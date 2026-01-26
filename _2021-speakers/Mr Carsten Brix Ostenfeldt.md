@@ -7,7 +7,7 @@ description: ""
 
 <div class="row">
             <div class="col is-3">
-              <img src="images/speakers/Carsten-Ostenfeldt1.png">
+              <img src="/images/speakers/carsten-ostenfeldt1.png">
             </div>
             <div class="col is-9 speaker-details">
               <h4>Mr. Carsten Brix Ostenfeldt</h4>

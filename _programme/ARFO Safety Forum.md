@@ -45,7 +45,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/silhouette-img.png" alt="Capt Chong Jia Chyuan" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/silhouette-img.png" alt="Capt Chong Jia Chyuan" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <b>Capt Chong Jia Chyuan</b>
@@ -83,7 +83,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/TerenceTan2025W.png" alt="Mr Terence Tan" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/terencetan2025w.png" alt="Mr Terence Tan" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                            <a class="speaker-name text-ellipsis" href="/mr-terence-tan/" rel="noopener"><b>Mr Terence Tan</b></a>
@@ -121,7 +121,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/DorothySim2025W.png" alt="Capt Dorothy Sim" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/dorothysim2025w.png" alt="Capt Dorothy Sim" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/capt-dorothy-sim/" rel="noopener"><b>Capt Dorothy Sim</b></a>
@@ -160,7 +160,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/2025/Kamal2025W.png" alt="Capt Muhammad Kamal Bin Ahmad" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/2025/kamal2025w.png" alt="Capt Muhammad Kamal Bin Ahmad" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                             <a class="speaker-name text-ellipsis" href="/capt-muhammad-kamal-bin-ahmad/" rel="noopener"><b>Capt Muhammad Kamal Bin Ahmad</b></a>
@@ -215,7 +215,7 @@ description: ""
                   <div class="row">
                     <div class="col is-6 prog-speaker">
                       <div class="row">
-<div class="col is-4"><img src="/images/Speakers/silhouette-img.png" alt="Mr Ahmad Salim" class="image-adjust"></div>
+<div class="col is-4"><img src="/images/speakers/silhouette-img.png" alt="Mr Ahmad Salim" class="image-adjust"></div>
                         <div class="col is-8">
                           <div class="speaker-name text-ellipsis">
                            <b>Mr Ahmad Salim</b>
@@ -293,7 +293,7 @@ description: ""
 </section>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
 
 
 <style type="text/css">

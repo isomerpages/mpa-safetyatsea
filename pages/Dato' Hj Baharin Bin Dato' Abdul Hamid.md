@@ -5,7 +5,7 @@ description: ""
 ---
 
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/datobaharin.png" /></div>
+<div class="col is-3"><img src="/images/speakers/datobaharin.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Dato' Hj Baharin Bin Dato' Abdul Hamid</h4>
 <p>Director General<br />Marine Department Malaysia</p>

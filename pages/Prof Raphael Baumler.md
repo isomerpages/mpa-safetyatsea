@@ -4,7 +4,7 @@ permalink: /speakers/prof-raphael-baumler/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Raphael Baumler.png" /></div>
+<div class="col is-3"><img src="/images/speakers/raphael baumler.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Prof Raphael Baumler</h4>
 <p>Head of Maritime Safety and Environmental Administration<br />World Maritime University</p>

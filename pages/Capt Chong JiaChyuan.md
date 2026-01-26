@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 <div class="col is-3">
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Chong Jia Chyuan.png"></div></div>
+	<div class="speaker-image-wrapper"><img src="/images/speakers/2024/new images/chong jia chyuan.png"></div></div>
 <div class="col is-9 speaker-details">
 <h4>Capt Chong JiaChyuan</h4>
 <p>Senior Deputy Director (Operations) / Port Master<br> Maritime & Port Authority of Singapore</p>

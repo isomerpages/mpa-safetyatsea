@@ -6,7 +6,7 @@ variant: markdown
 <div class="row mx-0">
 <div class="col is-12 mx-auto">
 <div class="row">
-<div class="col is-3 mb-4"><img class="img-fluid" src="/images/logos/S_SWeek_Logo.jpg"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" src="/images/logos/s_sweek_logo.jpg"></div>
 <div class="col is-9 text-justify">
 <h5 class="abt-title">Safety@Sea Week</h5>
 <div>
@@ -24,7 +24,7 @@ This year, there are six sessions to sign up for including the International Saf
 </div>
 <hr class="my-5">
 <div class="row">
-<div class="col is-3 mb-4"><img class="img-fluid" style="width:50%" src="/images/MPA_logo.png"></div>
+<div class="col is-3 mb-4"><img class="img-fluid" style="width:50%" src="/images/mpa_logo.png"></div>
 <div class="col is-9 mb-4 text-justify">
 <h5 class="abt-title">Maritime and Port Authority of Singapore (MPA)</h5>
 <div><p>The mission of the Maritime and Port Authority of Singapore (MPA) is to develop Singapore as a premier global hub port and international maritime centre (IMC), and to advance and safeguard Singapore’s strategic maritime interests. MPA is the driving force behind Singapore’s port and maritime development, taking on the roles of Port Authority, Port Regulator, Port Planner, IMC Champion, and National Maritime Representative. MPA partners the industry and other agencies to enhance safety, security and environmental protection in our port waters, facilitate port operations and growth, expand the cluster of maritime ancillary services, and promote maritime R&amp;D and manpower development.</p></div>
@@ -54,4 +54,4 @@ This year, there are six sessions to sign up for including the International Saf
 </style>
 
 <div>
-<br><br><br><a href="/" rel="noopener"><img src="/images/Home 2025/Homepage1.png" style="width:400px" class="img-fluid"></a></div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>

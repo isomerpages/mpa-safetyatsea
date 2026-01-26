@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <div class="row"> <div class="col is-3"> 
-	<div class="speaker-image-wrapper"><img src="/images/Speakers/2024/New Images/Kelvin Kang Xiao Dong.png"></div> </div> 
+	<div class="speaker-image-wrapper"><img src="/images/speakers/2024/new images/kelvin kang xiao dong.png"></div> </div> 
 	<div class="col is-9 speaker-details"> <h4>Mr           Kelvin Kang Xiao Dong</h4> <p>          General Manager<br>           Stellar Shipmanagement Services Pte Ltd, Global Energy Group</p> <p>          
 
 Kelvin Kang is the GM for Stellar Shipmanagement Services Pte Ltd, a Global Energy International Group wholly-owned subsidiary company.</p> <p>          

@@ -4,7 +4,7 @@ permalink: /speakers/prof-sudipta-chattopadhyay/
 description: ""
 ---
 <div class="row">
-<div class="col is-3"><img src="/images/Speakers/Sudipta Chattopadhyay.png" /></div>
+<div class="col is-3"><img src="/images/speakers/sudipta chattopadhyay.png" /></div>
 <div class="col is-9 speaker-details">
 <h4>Prof Sudipta Chattopadhyay</h4>
 <p>Assistant Professor<br>Singapore University of Technology and Design</p>
