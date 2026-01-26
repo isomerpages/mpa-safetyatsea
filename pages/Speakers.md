@@ -1,0 +1,407 @@
+---
+title: Speakers
+permalink: /speakers/
+description: ""
+variant: markdown
+---
+<div>
+  <h3>Opening Plenary - Keynote Speaker</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/mr-arsenio-dominguez">
+          <div><img src="/images/speakers/2025/arseniodominguez2025.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Arsenio Dominguez</h4> </a>
+          <div class="speaker-position text-ellipsis">Secretary-General</div>
+          <div class="speaker-company text-ellipsis">International Maritime Organization</div>
+      </div>
+    </div>
+	</div>
+	</section>
+
+<div>
+  <h3>Opening Plenary - Panel Discussion on "The Future of Maritime Safety: Navigating the Next Frontier"</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4">
+        <a href="/ishak-ismail">
+          <div><img src="/images/speakers/2025/ishakismail2025w.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr Ishak Ismail</h4></a>
+          <div class="speaker-position text-ellipsis">Chairman</div>
+          <div class="speaker-company text-ellipsis">National Maritime Safety at Sea Council<br> (Moderator)</div>
+      </div>
+      <div class="col is-4"><a href="/mr-simon-bennett/">
+          <div><img src="/images/speakers/2025/simonbennett2025wb.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Simon Bennett</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Secretary General</div>
+          <div class="speaker-company text-ellipsis">International Chamber of Shipping</div>
+      </div>
+			      <div class="col is-4">
+        <a href="/david-foo">
+          <div><img src="/images/speakers/2025/davidfoo2025w.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr David Foo</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Chief Executive (Operations &amp; Technology), Chief Data Officer</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+      </div>
+    </div>
+    <div class="row">
+			      <div class="col is-4">
+        <a href="/mr-koh-yong-ping">
+          <div><img src="/images/speakers/2025/kohyongping2025wa.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr Koh Yong Ping</h4></a>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
+          <div class="speaker-company text-ellipsis">Bureau Veritas Marine (Singapore)</div>
+      </div>
+      <div class="col is-4">
+        <a href="/ms-mary-liew">
+					<div><img src="/images/speakers/2025/maryliew.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Mary Liew</h4></a>
+          <div class="speaker-position text-ellipsis">General Secretary</div>
+          <div class="speaker-company text-ellipsis">Singapore Maritime Officers’ Union</div>
+			</div>		
+	</div></div>
+	</section>
+	
+<div>
+  <h3>Plenary 2 - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/mr-santiago-encabo">
+          <div><img src="/images/speakers/2025/santiagoencabo2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Santiago Encabo</h4></a>
+          <div class="speaker-position text-ellipsis">Head of Unit Safety and Security</div>
+          <div class="speaker-company text-ellipsis">European Maritime Safety Agency</div>
+      </div>
+        <div class="col is-4">
+        <a href="/capt-ashok-srinivasan/">
+          <div><img src="/images/speakers/2025/ashoksrinivasan2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Ashok Srinivasan</h4></a>
+          <div class="speaker-position text-ellipsis">Regional Manager and Technical Advisor</div>
+          <div class="speaker-company text-ellipsis">BIMCO</div>
+      </div>
+    </div>
+	</div>
+	</section>	
+
+<div>
+  <h3>Plenary 2 - Panel Discussion on "From Incident to Insight: Unpacking Lessons for a Safer Maritime Industry"</h3></div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4">
+        <a href="/ms-ashima-taneja/">
+          <div><img src="/images/speakers/2025/ashimataneja04.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Ashima Taneja</h4></a>
+          <div class="speaker-position text-ellipsis">Head of Maritime Commercial – Safety, Sustainability and Technical</div>
+          <div class="speaker-company text-ellipsis">BHP<br>National Maritime Safety at Sea Council Member<br> (Moderator)</div>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-aun-aun-cheah">
+          <div><img src="/images/speakers/2025/aunauncheah2025w.png"></div>
+					<h4 class="speaker-name text-ellipsis">Mr Cheah Aun Aun</h4></a>
+          <div class="speaker-position text-ellipsis">Director (Shipping) / Director of Marine</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-carsten-brix-ostenfeldt">
+          <div><img src="/images/speakers/2025/carstenbrixostenfeldt2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Carsten Brix Ostenfeldt</h4></a>
+          <div class="speaker-position text-ellipsis">Chief Operating Officer</div>
+          <div class="speaker-company text-ellipsis">Anglo-Eastern Ship Management</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/capt-xiao-shouhai">
+          <div><img src="/images/speakers/2025/xiaoshouhai2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Xiao Shouhai</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Director <br>(Marine Safety Investigation)</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>
+Transport Safety Investigation Bureau of Singapore</div>
+			</div>			
+      <div class="col is-4">
+        <a href="/capt-sanjay-b-patil">
+          <div><img src="/images/speakers/2025/sanjaypatil2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Sanjay B. Patil</h4> </a>
+          <div class="speaker-position text-ellipsis">Advisor HSSEQA</div>
+          <div class="speaker-company text-ellipsis">MISC Marine</div>
+      </div>
+      <div class="col is-4">
+        <a href="/speakers/captain-yves-vandenborn/">
+          <div><img src="/images/speakers/2025/yvesvandenborn2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Yves Vandenborn</h4></a>
+          <div class="speaker-position text-ellipsis">Head of Loss Prevention (Asia Pacific)</div>
+          <div class="speaker-company text-ellipsis">NorthStandard</div>
+			</div>			
+		</div>
+	</div>
+	</section>
+	
+<div>
+  <h3>Plenary 3 - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/capt-john-lloyd">
+          <div><img src="/images/speakers/2025/johnlloyd2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt John Lloyd</h4></a>
+          <div class="speaker-position text-ellipsis">Chief Executive</div>
+          <div class="speaker-company text-ellipsis">The Nautical Institute</div>
+      </div>
+        <div class="col is-4">
+        <a href="/mr-darrick-leow">
+          <div><img src="/images/speakers/2025/darrickleow2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Darrick Leow</h4>
+          <div class="speaker-position text-ellipsis">Chair, Working Group under IMO’s Sub-Committee on Human Element, Training and Watchkeeping (HTW),<br>Senior Deputy Director (Shipping)</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+        </a>
+      </div>
+    </div>
+	</div>
+	</section>	
+
+<div>
+  <h3>Plenary 3 - Panel Discussion on "The Human Element: Ensuring Safety in Maritime’s Transition"</h3></div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+      <div class="col is-4">
+        <a href="/capt-hari-subramaniam">
+          <div><img src="/images/speakers/2025/harisubramaniam2025w.png"></div>
+					<h4 class="speaker-name text-ellipsis">Capt Hari Subramaniam</h4></a>
+          <div class="speaker-position text-ellipsis">Deputy Chairman, National Maritime Safety at Sea Council<br> 
+Hon. Chair, The Nautical Institute (Singapore)<br>
+Regional Head – Business Relations,</div>
+          <div class="speaker-company text-ellipsis">The Shipowners’ P&amp;I Club<br> (Moderator)</div>
+      </div>
+<div class="col is-4">
+        <a href="/ms-sonia-b-malaluan">
+          <div><img src="/images/speakers/2025/soniamalaluan2025wa.png"></div>
+          <h4 class="speaker-name text-ellipsis">Ms Sonia B. Malaluan</h4></a>
+          <div class="speaker-position text-ellipsis">Administrator</div>
+          <div class="speaker-company text-ellipsis">Philippine Maritime Industry Authority (MARINA)</div>
+      </div>
+			      <div class="col is-4">
+        <a href="/mrs-simona-toma">
+          <div><img src="/images/speakers/2025/simonatoma2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mrs Simona Toma</h4></a>
+          <div class="speaker-position text-ellipsis">Chief of Maritime HR</div>
+          <div class="speaker-company text-ellipsis">Columbia Group</div>
+			</div>
+    </div>
+    <div class="row">
+      <div class="col is-4">
+        <a href="/mr-james-forsdyke">
+          <div><img src="/images/speakers/2025/jamesforsdyke2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr James Forsdyke</h4></a>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Lloyd’s Register Maritime Decarbonisation Hub</div>
+      </div>
+      <div class="col is-4">
+        <a href="/mr-ashish-mediratta/">				
+          <div><img src="/images/speakers/2025/ashishmediratta2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Ashish Mediratta</h4></a>
+          <div class="speaker-position text-ellipsis">Head of Crewing</div>
+          <div class="speaker-company text-ellipsis">Maersk</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/mr-adrian-dunlop">
+          <div><img src="/images/speakers/2025/adriandunlop2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Adrian Dunlop</h4></a>
+          <div class="speaker-position text-ellipsis">Vessel Operations Lead<br>(Director of Owning Companies)</div>
+          <div class="speaker-company text-ellipsis">Ocean Infinity</div>
+      </div>
+		</div>
+	</div>
+	</section>
+
+<div>
+  <h3>Harbour Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+			      <div class="col is-4">
+        <a href="/capt-jamaludin-jaffar/">				
+          <div><img src="/images/speakers/2025/jamaludinjaffar2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Jamaludin Jaffar</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Investigator</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore</div>
+			</div>
+        <div class="col is-4">
+        <a href="/dr-chen-jianning">
+          <div><img src="/images/speakers/2025/chenjianning2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Dr Chen Jianning</h4></a>
+          <div class="speaker-position text-ellipsis">Manager (Marine Offshore Engineering), <br>ITE College Central</div>
+          <div class="speaker-company text-ellipsis">Institute of Technical Education (ITE)</div>
+      </div>
+			      <div class="col is-4">
+        <a href="/mr-daniel-ong/">				
+          <div><img src="/images/speakers/2025/danielong2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Daniel Ong</h4></a>
+          <div class="speaker-position text-ellipsis">HSEQ Manager, marinEV</div>
+          <div class="speaker-company text-ellipsis">Yinson GreenTech</div>
+			</div>
+    </div>
+	</div>
+	</section>	
+	
+<div>
+  <h3>Pleasure Craft Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+        <div class="col is-4">
+        <a href="/mr-james-ng">
+          <div><img src="/images/speakers/2025/jamesng2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr James Ng</h4></a>
+          <div class="speaker-position text-ellipsis">Loss Prevention Officer</div>
+          <div class="speaker-company text-ellipsis">Tindall Riley (Britannia) Singapore</div>
+      </div>
+        <div class="col is-4">
+        <a href="/capt-sahwan-osman/">
+          <div><img src="/images/speakers/2025/sahwanosman2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Sahwan Osman</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Manager / Senior Lecturer<br>(Singapore Maritime Academy)</div>
+          <div class="speaker-company text-ellipsis">Singapore Polytechnic</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/capt-lee-jing-ru-dan/">
+          <div><img src="/images/speakers/2025/danlee2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Lee Jing Ru, Dan</h4></a>
+          <div class="speaker-position text-ellipsis">Community &amp; Corporate Officer</div>
+          <div class="speaker-company text-ellipsis">SCDF Marine Division</div>
+			</div>
+    </div>
+    <div class="row">
+						<div class="col is-4">
+				 <a href="/mr-roy-soeigiarto/">
+          <div><img src="/images/speakers/2025/roysoeigiarto2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Roy Soeigiarto</h4></a>
+          <div class="speaker-position text-ellipsis">Managing Director</div>
+          <div class="speaker-company text-ellipsis">Kairos Strategic</div>
+			</div>
+      <div class="col is-4">
+        <a href="/mr-terence-ho">
+          <div><img src="/images/speakers/2025/terenceho2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Mr Terence Ho</h4></a>
+          <div class="speaker-position text-ellipsis">Contract Manager</div>
+          <div class="speaker-company text-ellipsis">Tian San Shipping</div>
+      </div>
+		</div>
+	</div>
+	</section>
+
+<div>
+  <h3>ARFO Safety Forum - Speakers</h3>
+</div>
+<section class="bp-section font">
+  <div class="bp-container is-fluid has-text-centered">
+    <div class="row">
+						<div class="col is-4">
+				 <a href="/mr-terence-tan/">
+          <div><img src="/images/speakers/2025/terencetan2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Mr Terence Tan</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Manager (Safety &amp; Security)</div>
+          <div class="speaker-company text-ellipsis">Singapore Cruise Centre</div>
+      </div>
+        <div class="col is-4">
+        <a href="/capt-dorothy-sim/">
+          <div><img src="/images/speakers/2025/dorothysim2025w.png"></div>
+          <h4 class="speaker-name text-ellipsis">Capt Dorothy Sim</h4></a>
+          <div class="speaker-position text-ellipsis">Investigator (Marine Safety Investigation)</div>
+          <div class="speaker-company text-ellipsis">Ministry of Transport, Singapore<br>Transport Safety Investigation Bureau of Singapore</div>
+			</div>
+			<div class="col is-4">
+				 <a href="/capt-muhammad-kamal-bin-ahmad/">
+          <div><img src="/images/speakers/2025/kamal2025w.png"></div>
+				<h4 class="speaker-name text-ellipsis">Capt Muhammad Kamal Bin Ahmad</h4></a>
+          <div class="speaker-position text-ellipsis">Senior Marine Manager (VTM)</div>
+          <div class="speaker-company text-ellipsis">Maritime and Port Authority of Singapore</div>
+      </div>
+		</div>
+	</div>
+	</section>
+
+<div>
+<br><br><br><a href="/" rel="noopener"><img src="/images/home 2025/homepage1.png" style="width:400px" class="img-fluid"></a></div>
+
+<style type="text/css">
+	.speaker-image-wrapper{
+		border: solid 3px #c1c1c1;
+		border-radius: 99px;
+		height: 100px !important;
+		width: 100px !important;
+}
+	h4.speaker-name.text-ellipsis{
+		margin-top:1rem!important;
+	}
+	h4.text-margin{
+		margin-top:1rem!important;
+	}
+	
+  .is-left {
+    text-align: left;
+  }
+	
+  .bg-light {
+    background-color: #fff !important;
+    box-shadow: 5px 0 6px -4px rgb(195 195 195 / 80%), -5px 0 6px -4px rgb(195 195 195 / 80%);
+  }
+
+  .p-4 {
+    padding: 1.5rem !important;
+  }
+
+  .speaker-role small {
+    font-size: 11px;
+    text-transform: capitalize;
+  }
+
+  .speaker-name {
+    font-size: 1.25rem;
+  }
+
+  .text-ellipsis {
+    /* white-space: nowrap; */
+    color: #000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .font {
+    font-size: 14px;
+  }
+
+  h4 {
+    font-weight: 500;
+    color: #337B9A !important;
+  }
+
+  .content a {
+    text-decoration: none;
+  }
+@media only screen and (max-width:600px){
+	.speaker-image-wrapper{
+		height: 200px!important;
+		width: 200px!important;
+		}
+}
+  .speaker-image-wrapper{
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+	.position-center{
+		background-position: top center!important;
+	}
+</style>

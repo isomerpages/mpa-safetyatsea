@@ -1,0 +1,23 @@
+logo: /images/200x99__1_.png
+links:
+  - title: About Us
+    url: /about-us
+  - title: Programme
+    url: /programmeoverview/
+  - title: Speakers
+    url: /speakers/
+  - title: Partners
+    url: /partners/
+  - title: Media Room
+    url: /media-room
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: 2025 Presentation Materials
+        url: /2025-speakers-presentation-materials
+      - title: 2024 Presentation Materials
+        url: /2024-speakers-presentation-materials
+      - title: 2023 Presentation Materials
+        url: /2023-speakers-presentation-materials
+  - title: Contact Us
+    url: /contactus
