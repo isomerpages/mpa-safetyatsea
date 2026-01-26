@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mpa-safetyatsea-staging.netlify.app
-prod: https://mpa-safetyatsea-prod.netlify.app
+staging: https://staging.d2v91kjqqq1aut.amplifyapp.com/
+prod: https://master.d2v91kjqqq1aut.amplifyapp.com/
 google_analytics: UA-181063598-1
 shareicon: /images/isomer-logo.svg
 is_government: false
